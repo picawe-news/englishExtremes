@@ -46,7 +46,7 @@ def getAge(dateString):
     dateString = str(dateString) 
     dateString = dateString[0:19]+'+00:00'
     #dateString
-    today = datetime.now(timezone.utc)
+    today = datetime.datetime.now(datetime.UTC)
     timeDate = -1
     pubDate = None
     try:
