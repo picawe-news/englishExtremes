@@ -173,12 +173,12 @@ def translateData(data):
    anyText = str(data['title']) + '. ' + str(data['description'])
    if('de'==data['language']):
        data['de'] = anyText
-       data['en'] = lt.getTranslatorByLanguage('de','en').translate(data['de'])
-       data['la'] = lt.getTranslatorByLanguage('de','la').translate(data['de'])
+       data['en'] = lt.getTranslatorByLanguage('de','en').translate(anyText)
+       data['la'] = lt.getTranslatorByLanguage('de','la').translate(anyText)
    if('en'==data['language']):
        data['en'] = anyText
-       data['de'] = lt.getTranslatorByLanguage('en','de').translate(data['de'])
-       data['la'] = lt.getTranslatorByLanguage('en','la').translate(data['en'])
+       data['de'] = lt.getTranslatorByLanguage('en','de').translate(anyText)
+       data['la'] = lt.getTranslatorByLanguage('en','la').translate(anyText)
    if('' == data['language']):
        data['language'] = 'xx'
        data['de'] = ''
