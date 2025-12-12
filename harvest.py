@@ -463,8 +463,9 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              found = True
              max(valid,0.7)
       # add seldom keywords twice if
-      keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
-      for index2, column2 in keywordsSeldomLangDF.iterrows(): 
+      if(not seldomDF.empty):
+       keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
+       for index2, column2 in keywordsSeldomLangDF.iterrows(): 
          keyword = column2['term']
          allFound = checkKeywordInQuote(keyword, searchQuote, case=True) 
          if(allFound):
