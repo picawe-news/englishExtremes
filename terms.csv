@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2025-11-27T03:34:00+00:00,Australia,0.7888849890054219,0,2,en,SAU,Oceania
-'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern Territory,2025-11-27T03:34:00+00:00,Australia,0.7887108544513735,0,2,en,CAU,Oceania
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,heatwave Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.7879068893165407,0,2,en,NAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,wet spell Australia,2025-11-27T03:34:00+00:00,Australia,0.787566251164897,0,2,en,CAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,flash flood Queensland,2025-11-26T03:37:00+00:00,Australia,0.7874752387097274,0,2,en,CAU,Oceania
@@ -17,3 +15,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27e5411070',extremes,Precipitation,#d60d2b,wmo,Downpour Solomon Islands,2025-12-11T03:46:00+00:00,Solomon Islands,0.7574959558875384,0,2,en,EPO,Oceania
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2025-11-27T03:34:00+00:00,Canada,0.7545518039978245,0,2,en,NEN,North-America
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,heavy rain Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.6804189318813569,1,2,en,CAU,Oceania
+'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern Territory,2025-11-27T03:34:00+00:00,Australia,0.6713043162836675,1,2,en,CAU,Oceania
