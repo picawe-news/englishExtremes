@@ -9,3 +9,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf0028758b',extremes,Flood,#030ba1,acwe,flash flood Queensland,2025-11-26T03:37:00+00:00,Australia,0.7874752387097274,0,2,en,CAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2025-11-27T03:34:00+00:00,Australia,0.7869459984534708,0,2,en,EAU,Oceania
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,2,en,SAU,Oceania
+'8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,heatwave Australia,2025-11-26T03:37:00+00:00,Australia,0.7836279256994001,0,2,en,CAU,Oceania
+'44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2025-11-24T03:46:00+00:00,Australia,0.780784722991743,0,2,en,CAU,Oceania
+'59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,wildfire Queensland,2025-11-27T03:34:00+00:00,Australia,0.7736285261771018,0,2,en,CAU,Oceania
+'20a8865cfc',extremes,Storm,#b3b2b1,aidr,Storm Brisbane 2014,2025-11-23T03:47:00+00:00,Australia,0.7682005301828674,0,2,en,EAU,Oceania
+'5a20612e67',extremes,Drought,#edc291,edo,Lack of Rain Trinidad and Tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.7669484267850674,0,2,en,NSA,North-America
+'0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2025-12-07T03:47:00+00:00,India,0.7657793949003725,0,2,en,SAS,Asia
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.764182308597963,0,2,en,SAU,Oceania
+'99251f8aa7',extremes,Drought,#edc291,edo,Lack of Rain Liberia,2025-12-08T03:45:00+00:00,Liberia,0.7639415435556725,0,2,en,WAF,Africa
+'27e5411070',extremes,Precipitation,#d60d2b,wmo,Downpour Solomon Islands,2025-12-11T03:46:00+00:00,Solomon Islands,0.7574959558875384,0,2,en,EPO,Oceania
+'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2025-11-27T03:34:00+00:00,Canada,0.7545518039978245,0,2,en,NEN,North-America
