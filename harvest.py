@@ -498,12 +498,6 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
         foundArticles.append(data)
       else:
         data['keyword'] = keyWord
-        data['term'] = anyColumn['term']
-        data['country'] = anyColumn['country']
-        data['ipcc'] = anyColumn['ipcc']
-        data['continent'] = anyColumn['continent']
-        data['feed'] = anyColumn['feed']
-        data['topic'] = anyColumn['topic']
         #foundArticles.append(data)
 
     return foundArticles
