@@ -3,8 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,fire ban South Australia,2025-11-27T03:34:00+00:00,Australia,0.7889620874265915,0,2,en,CAU,Oceania
 '9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2025-11-27T03:34:00+00:00,Australia,0.7888849890054219,0,2,en,SAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,flash flood Queensland,2025-11-26T03:37:00+00:00,Australia,0.7874752387097274,0,2,en,CAU,Oceania
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,1,en,SAU,Oceania
-'8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,heatwave Australia,2025-11-26T03:37:00+00:00,Australia,0.7836279256994001,0,1,en,CAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2025-11-24T03:46:00+00:00,Australia,0.780784722991743,0,1,en,CAU,Oceania
 '59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,wildfire Queensland,2025-11-27T03:34:00+00:00,Australia,0.7736285261771018,0,1,en,CAU,Oceania
 '20a8865cfc',extremes,Storm,#b3b2b1,aidr,Storm Brisbane 2014,2025-11-23T03:47:00+00:00,Australia,0.7682005301828674,0,1,en,EAU,Oceania
@@ -26,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2c72301a8',extremes,Drought,#edc291,edo,Drought Cameroon,2025-12-08T03:45:00+00:00,Cameroon,0.753027129016015,0,2,en,CAF,Africa
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2025-11-25T03:37:00+00:00,Australia,0.752797677591433,0,2,en,CAU,Oceania
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,heatwave Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.7456209459190596,1,2,en,NAU,Oceania
+'8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,heatwave Australia,2025-11-26T03:37:00+00:00,Australia,0.68963423184449,1,2,en,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,heavy rain Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.6804189318813569,1,2,en,CAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern Territory,2025-11-27T03:34:00+00:00,Australia,0.6713043162836675,1,2,en,CAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,wet spell Australia,2025-11-27T03:34:00+00:00,Australia,0.6698813584901624,1,2,en,CAU,Oceania
