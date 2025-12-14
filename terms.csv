@@ -6,8 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2025-11-27T03:34:00+00:00,Australia,0.7869459984534708,0,2,en,EAU,Oceania
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,2,en,SAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2025-11-24T03:46:00+00:00,Australia,0.780784722991743,0,2,en,CAU,Oceania
-'5a20612e67',extremes,Drought,#edc291,edo,Lack of Rain Trinidad and Tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.7669484267850674,0,1,en,NSA,North-America
-'0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2025-12-07T03:47:00+00:00,India,0.7657793949003725,0,1,en,SAS,Asia
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.764182308597963,0,1,en,SAU,Oceania
 '99251f8aa7',extremes,Drought,#edc291,edo,Lack of Rain Liberia,2025-12-08T03:45:00+00:00,Liberia,0.7639415435556725,0,1,en,WAF,Africa
 '27e5411070',extremes,Precipitation,#d60d2b,wmo,Downpour Solomon Islands,2025-12-11T03:46:00+00:00,Solomon Islands,0.7574959558875384,0,1,en,EPO,Oceania
@@ -35,3 +33,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,heavy rain Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.6804189318813569,1,2,en,CAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern Territory,2025-11-27T03:34:00+00:00,Australia,0.6713043162836675,1,2,en,CAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,wet spell Australia,2025-11-27T03:34:00+00:00,Australia,0.6698813584901624,1,2,en,CAU,Oceania
+'0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2025-12-07T03:47:00+00:00,India,0.6554139556653166,1,2,en,SAS,Asia
