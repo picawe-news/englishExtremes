@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,flooding Queensland,2025-11-27T03:34:00+00:00,Australia,0.7890228415977497,0,2,en,CAU,Oceania
-'9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2025-11-27T03:34:00+00:00,Australia,0.7888849890054219,0,1,en,SAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,flash flood Queensland,2025-11-26T03:37:00+00:00,Australia,0.7874752387097274,0,1,en,CAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2025-11-27T03:34:00+00:00,Australia,0.7869459984534708,0,1,en,EAU,Oceania
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,1,en,SAU,Oceania
