@@ -1,5 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,flooding Queensland,2025-11-27T03:34:00+00:00,Australia,0.7890228415977497,0,2,en,CAU,Oceania
+'641ad67faf',extremes,Wildfire,#d60d2b,acwe,fire ban South Australia,2025-11-27T03:34:00+00:00,Australia,0.7889620874265915,0,2,en,CAU,Oceania
+'9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2025-11-27T03:34:00+00:00,Australia,0.7888849890054219,0,2,en,SAU,Oceania
+'cf0028758b',extremes,Flood,#030ba1,acwe,flash flood Queensland,2025-11-26T03:37:00+00:00,Australia,0.7874752387097274,0,2,en,CAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2025-11-27T03:34:00+00:00,Australia,0.7869459984534708,0,1,en,EAU,Oceania
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,1,en,SAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2025-11-24T03:46:00+00:00,Australia,0.780784722991743,0,1,en,CAU,Oceania
@@ -45,6 +48,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1d53a07a1',extremes,Storm,#b3b2b1,wmo,Storm Surge Fiordland,2025-11-26T03:37:00+00:00,New Zealand,0.7485238414100938,0,2,en,NZ,Oceania
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2025-12-02T03:41:00+00:00,New Zealand,0.7483625291494433,0,2,en,NZ,Oceania
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2025-12-10T03:45:00+00:00,Solomon Islands,0.7481108527228177,0,2,en,EPO,Oceania
+'3c9166481f',extremes,Wildfire,#d60d2b,wmo,Wildfire Victoria Mallee,2025-12-05T03:41:00+00:00,Australia,0.7471803122346604,0,2,en,CAU,Oceania
+'5ec8a07269',extremes,Heat Wave,#c40202,wmo,Heat Wave Queensland Gulf Country District.,2025-12-05T03:41:00+00:00,Australia,0.747162004263338,0,2,en,CAU,Oceania
+'1a2d89fcc9',extremes,Precipitation,#d60d2b,wmo,Downpour The Kaikoura Coast,2025-12-03T03:40:00+00:00,New Zealand,0.7466360743462551,0,2,en,NZ,Oceania
+'3640cbbb22',extremes,Flood,#030ba1,wmo,Flood South West England,2025-12-09T03:41:00+00:00,United Kingdom,0.7465592365422417,0,2,en,NEU,Europe
+'3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2025-12-08T03:44:00+00:00,United States,0.7465196440363958,0,2,en,CNA,North-America
+'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2025-12-08T03:45:00+00:00,Australia,0.7463483172272453,0,2,en,NAU,Oceania
+'fd7b801911',extremes,Flood,#030ba1,wmo,Flood Keweenaw,2025-11-26T03:37:00+00:00,United States,0.746031841980555,0,2,en,CNA,North-America
 'd5576244aa',extremes,Heat Wave,#c40202,acwe,heatwave Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.7456209459190596,1,2,en,NAU,Oceania
 '8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,heatwave Australia,2025-11-26T03:37:00+00:00,Australia,0.68963423184449,1,2,en,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,heavy rain Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.6804189318813569,1,2,en,CAU,Oceania
