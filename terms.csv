@@ -14,7 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,storm Australia,2025-12-07T03:47:00+00:00,Australia,0.7541443025556401,0,2,en,SAU,Oceania
 '9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2025-11-30T03:46:00+00:00,Saint Helena,0.7532627306002077,0,2,en,EAO,Atlantic Ocean
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2025-11-30T03:46:00+00:00,India,0.753244150246421,0,2,en,SAS,Asia
-'a2c72301a8',extremes,Drought,#edc291,edo,Drought Cameroon,2025-12-08T03:45:00+00:00,Cameroon,0.753027129016015,0,1,en,CAF,Africa
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2025-11-25T03:37:00+00:00,Australia,0.752797677591433,0,1,en,CAU,Oceania
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Canada,2025-12-10T03:45:00+00:00,Canada,0.7527762816288477,0,1,en,NEN,North-America
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,Hail New Zealand,2025-12-02T03:41:00+00:00,New Zealand,0.7524976304386674,0,1,en,NZ,Oceania
