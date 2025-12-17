@@ -16,13 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2025-11-30T03:46:00+00:00,India,0.753244150246421,0,2,en,SAS,Asia
 'a2c72301a8',extremes,Drought,#edc291,edo,Drought Cameroon,2025-12-08T03:45:00+00:00,Cameroon,0.753027129016015,0,2,en,CAF,Africa
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,Hail New Zealand,2025-12-02T03:41:00+00:00,New Zealand,0.7524976304386674,0,2,en,NZ,Oceania
-'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.7520824601001876,0,1,en,NEU,Europe
-'3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2025-12-08T03:44:00+00:00,Saint Helena,0.7520509069363995,0,1,en,EAO,Atlantic Ocean
-'3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2025-12-03T03:40:00+00:00,Canada,0.7519105461496318,0,1,en,NEN,North-America
-'8982a15e86',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern Territory Barkly North,2025-12-01T04:02:00+00:00,Australia,0.7518322930926343,0,1,en,CAU,Oceania
-'f30fb16f75',extremes,Precipitation,#d60d2b,wmo,Rain Tasman west of Takaka,2025-11-26T03:37:00+00:00,New Zealand,0.7518207879398564,0,1,en,NZ,Oceania
-'ea08c977c6',extremes,Flood,#030ba1,wmo,Flooding Tamirabarani River,2025-11-25T03:37:00+00:00,India,0.751723955300946,0,1,en,SAS,Asia
-'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2025-11-29T03:34:00+00:00,India,0.751310741053593,0,1,en,SAS,Asia
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,Storm Surge Eswatini,2025-12-06T03:32:00+00:00,Eswatini,0.7513102440348839,0,1,en,ESAF,Africa
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2025-12-09T03:41:00+00:00,Australia,0.7511069364937533,0,1,en,CAU,Oceania
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2025-12-02T03:41:00+00:00,New Zealand,0.7510069161374114,0,1,en,NZ,Oceania
@@ -86,3 +79,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Grant Katherine floods train derailment chemical spill,2025-12-01T04:03:00+00:00,Australia,0.6413474886833218,1,1,en,NAU,Oceania
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2025-11-30T03:46:00+00:00,New Zealand,0.6411640474156629,1,1,en,NZ,Oceania
 '9d50c81991',extremes,Precipitation,#d60d2b,wmo,Precipitation Eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.6409706685096106,1,1,en,ESAF,Africa
+'3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2025-12-08T03:44:00+00:00,Saint Helena,0.6392432708959396,1,1,en,EAO,Atlantic Ocean
+'3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2025-12-03T03:40:00+00:00,Canada,0.639123964227187,1,1,en,NEN,North-America
+'8982a15e86',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern Territory Barkly North,2025-12-01T04:02:00+00:00,Australia,0.6390574491287392,1,1,en,CAU,Oceania
+'f30fb16f75',extremes,Precipitation,#d60d2b,wmo,Rain Tasman west of Takaka,2025-11-26T03:37:00+00:00,New Zealand,0.639047669748878,1,1,en,NZ,Oceania
+'ea08c977c6',extremes,Flood,#030ba1,wmo,Flooding Tamirabarani River,2025-11-25T03:37:00+00:00,India,0.6389653620058041,1,1,en,SAS,Asia
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2025-11-29T03:34:00+00:00,India,0.638764144895554,1,1,en,SAS,Asia
