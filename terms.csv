@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,Hail New Zealand,2025-12-02T03:41:00+00:00,New Zealand,0.7524976304386674,0,2,en,NZ,Oceania
 '14ecb8c2a0',extremes,Drought,#edc291,edo,Drought Nigeria,2025-12-08T03:45:00+00:00,Nigeria,0.752155681946789,0,2,en,WAF,Africa
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.7520824601001876,0,2,en,NEU,Europe
-'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2025-12-02T03:41:00+00:00,New Zealand,0.7510069161374114,0,1,en,NZ,Oceania
 '7f4bbe1e4f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Zimbabwe,2025-12-05T03:41:00+00:00,Zimbabwe,0.7508954842874581,0,1,en,ESAF,Africa
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2025-12-01T04:02:00+00:00,United Kingdom,0.7506141614259989,0,1,en,NEU,Europe
 '4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,Rain Solomon Islands,2025-12-09T03:41:00+00:00,Solomon Islands,0.750438255764678,0,1,en,EPO,Oceania
@@ -88,6 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Grant Katherine floods train derailment chemical spill,2025-12-01T04:03:00+00:00,Australia,0.6413474886833218,1,1,en,NAU,Oceania
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2025-11-30T03:46:00+00:00,New Zealand,0.6411640474156629,1,1,en,NZ,Oceania
 '9d50c81991',extremes,Precipitation,#d60d2b,wmo,Precipitation Eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.6409706685096106,1,1,en,ESAF,Africa
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2025-12-02T03:41:00+00:00,New Zealand,0.6395559987167997,1,1,en,NZ,Oceania
 '3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2025-12-08T03:44:00+00:00,Saint Helena,0.6392432708959396,1,1,en,EAO,Atlantic Ocean
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2025-12-03T03:40:00+00:00,Canada,0.639123964227187,1,1,en,NEN,North-America
 '8982a15e86',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern Territory Barkly North,2025-12-01T04:02:00+00:00,Australia,0.6390574491287392,1,1,en,CAU,Oceania
