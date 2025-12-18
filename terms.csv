@@ -19,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '14ecb8c2a0',extremes,Drought,#edc291,edo,Drought Nigeria,2025-12-08T03:45:00+00:00,Nigeria,0.752155681946789,0,2,en,WAF,Africa
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.7520824601001876,0,2,en,NEU,Europe
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,Storm Surge Eswatini,2025-12-06T03:32:00+00:00,Eswatini,0.7513102440348839,0,2,en,ESAF,Africa
-'4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,Rain Solomon Islands,2025-12-09T03:41:00+00:00,Solomon Islands,0.750438255764678,0,1,en,EPO,Oceania
 '783a0c1912',extremes,Flood,#030ba1,wmo,Flooding Houghton,2025-11-26T03:37:00+00:00,United States,0.750409634671906,0,1,en,CNA,North-America
 '3f4538cc15',extremes,Flood,#030ba1,wmo,Flood Hunt TX Rockwall TX,2025-11-26T03:37:00+00:00,United States,0.75004263940657,0,1,en,CNA,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2025-11-25T03:37:00+00:00,Canada,0.7498713456965096,0,1,en,NEN,North-America
