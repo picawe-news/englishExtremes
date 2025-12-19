@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,Storm Surge Eswatini,2025-12-06T03:32:00+00:00,Eswatini,0.7513102440348839,0,2,en,ESAF,Africa
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2025-12-01T04:02:00+00:00,United Kingdom,0.7506141614259989,0,2,en,NEU,Europe
 '4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,Rain Solomon Islands,2025-12-09T03:41:00+00:00,Solomon Islands,0.750438255764678,0,2,en,EPO,Oceania
-'560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2025-11-25T03:37:00+00:00,Canada,0.7491072517316693,0,1,en,NEN,North-America
 '17b34b3e5b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Bay of Plenty including Rotorua,2025-12-02T03:41:00+00:00,New Zealand,0.7490743189942181,0,1,en,NZ,Oceania
 'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kancheepuram district of Tamil Nadu,2025-11-30T03:46:00+00:00,India,0.7490105014502165,0,1,en,SAS,Asia
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,Wildfire Australia,2025-12-05T03:41:00+00:00,Australia,0.7488352182678236,0,2,en,CAU,Oceania
