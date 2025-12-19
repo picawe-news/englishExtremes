@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d8981ac5b',extremes,Flood,#030ba1,acwe,flooding Queensland,2025-11-27T03:34:00+00:00,Australia,0.7890228415977497,0,2,en,CAU,Oceania
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,fire ban South Australia,2025-11-27T03:34:00+00:00,Australia,0.7889620874265915,0,2,en,CAU,Oceania
 '9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2025-11-27T03:34:00+00:00,Australia,0.7888849890054219,0,2,en,SAU,Oceania
 'cf0028758b',extremes,Flood,#030ba1,acwe,flash flood Queensland,2025-11-26T03:37:00+00:00,Australia,0.7874752387097274,0,2,en,CAU,Oceania
@@ -21,8 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,Storm Surge Eswatini,2025-12-06T03:32:00+00:00,Eswatini,0.7513102440348839,0,2,en,ESAF,Africa
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2025-12-01T04:02:00+00:00,United Kingdom,0.7506141614259989,0,2,en,NEU,Europe
 '4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,Rain Solomon Islands,2025-12-09T03:41:00+00:00,Solomon Islands,0.750438255764678,0,2,en,EPO,Oceania
-'17b34b3e5b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Bay of Plenty including Rotorua,2025-12-02T03:41:00+00:00,New Zealand,0.7490743189942181,0,1,en,NZ,Oceania
-'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kancheepuram district of Tamil Nadu,2025-11-30T03:46:00+00:00,India,0.7490105014502165,0,1,en,SAS,Asia
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,Wildfire Australia,2025-12-05T03:41:00+00:00,Australia,0.7488352182678236,0,2,en,CAU,Oceania
 '431f2b88a1',extremes,Precipitation,#d60d2b,wmo,Precipitation Fiordland south of Dusky Sound,2025-11-29T03:34:00+00:00,New Zealand,0.7486673234733024,0,2,en,NZ,Oceania
 'f1d53a07a1',extremes,Storm,#b3b2b1,wmo,Storm Surge Fiordland,2025-11-26T03:37:00+00:00,New Zealand,0.7485238414100938,0,2,en,NZ,Oceania
@@ -83,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '36c712529e',extremes,Flood,#030ba1,wmo,Flooding Clackamas OR Multnomah OR,2025-12-10T03:45:00+00:00,United States,0.7418717336061325,0,2,en,CNA,North-America
 '1602fa7979',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Multnomah OR,2025-12-09T03:41:00+00:00,United States,0.741835591671383,0,2,en,CNA,North-America
 '8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,heatwave Australia,2025-11-26T03:37:00+00:00,Australia,0.68963423184449,1,2,en,CAU,Oceania
+'8d8981ac5b',extremes,Flood,#030ba1,acwe,flooding Queensland,2025-11-27T03:34:00+00:00,Australia,0.6809626025009443,1,2,en,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,heavy rain Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.6804189318813569,1,2,en,CAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern Territory,2025-11-27T03:34:00+00:00,Australia,0.6713043162836675,1,2,en,CAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.6707052323082685,1,1,en,SAU,Oceania
@@ -109,3 +107,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f4bbe1e4f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Zimbabwe,2025-12-05T03:41:00+00:00,Zimbabwe,0.6388612516443394,1,1,en,ESAF,Africa
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2025-11-29T03:34:00+00:00,India,0.638764144895554,1,1,en,SAS,Asia
 '3f4538cc15',extremes,Flood,#030ba1,wmo,Flood Hunt TX Rockwall TX,2025-11-26T03:37:00+00:00,United States,0.6375362434955845,1,1,en,CNA,North-America
+'17b34b3e5b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Bay of Plenty including Rotorua,2025-12-02T03:41:00+00:00,New Zealand,0.6367131711450853,1,1,en,NZ,Oceania
+'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kancheepuram district of Tamil Nadu,2025-11-30T03:46:00+00:00,India,0.636658926232684,1,1,en,SAS,Asia
