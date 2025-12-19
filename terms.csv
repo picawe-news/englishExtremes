@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'cf0028758b',extremes,Flood,#030ba1,acwe,flash flood Queensland,2025-11-26T03:37:00+00:00,Australia,0.7874752387097274,0,2,en,CAU,Oceania
-'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2025-11-27T03:34:00+00:00,Australia,0.7869459984534708,0,2,en,EAU,Oceania
 'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,2,en,SAU,Oceania
 '59dbdf78a1',extremes,Wildfire,#d60d2b,acwe,wildfire Queensland,2025-11-27T03:34:00+00:00,Australia,0.7736285261771018,0,2,en,CAU,Oceania
 '5ea67ea4a7',extremes,Drought,#edc291,edo,Drought Trinidad and Tobago,2025-12-10T03:45:00+00:00,Trinidad and Tobago,0.7706512355293895,0,2,en,NSA,North-America
@@ -94,6 +92,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern Territory,2025-11-27T03:34:00+00:00,Australia,0.6713043162836675,1,2,en,CAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.6707052323082685,1,1,en,SAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,wet spell Australia,2025-11-27T03:34:00+00:00,Australia,0.6698813584901624,1,2,en,CAU,Oceania
+'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2025-11-27T03:34:00+00:00,Australia,0.6695041886854503,1,2,en,EAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2025-11-24T03:46:00+00:00,Australia,0.6684686645429815,1,2,en,CAU,Oceania
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2025-12-07T03:47:00+00:00,India,0.6554139556653166,1,2,en,SAS,Asia
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Canada,2025-12-10T03:45:00+00:00,Canada,0.6541884587393593,1,2,en,NEN,North-America
