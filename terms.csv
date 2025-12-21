@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,Rain Solomon Islands,2025-12-09T03:41:00+00:00,Solomon Islands,0.750438255764678,0,2,en,EPO,Oceania
 '93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,typhoon Australia,2025-12-07T03:47:00+00:00,Australia,0.7492201561219815,0,2,en,NAU,Oceania
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,Wildfire Australia,2025-12-05T03:41:00+00:00,Australia,0.7488352182678236,0,2,en,CAU,Oceania
 '431f2b88a1',extremes,Precipitation,#d60d2b,wmo,Precipitation Fiordland south of Dusky Sound,2025-11-29T03:34:00+00:00,New Zealand,0.7486673234733024,0,2,en,NZ,Oceania
