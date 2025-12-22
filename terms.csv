@@ -18,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,0,2,en,CNA,North-America
 '8f31a6cf58',extremes,Precipitation,#d60d2b,wmo,Rain Taranaki Maunga,2025-11-27T03:34:00+00:00,New Zealand,0.7442734769271212,0,2,en,NZ,Oceania
 '8c2b565540',extremes,Drought,#edc291,edo,Dry Spell Uganda,2025-11-27T03:34:00+00:00,Uganda,0.7440366305472195,0,2,en,SEAF,Africa
-'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2025-12-04T03:42:00+00:00,India,0.744019847042715,0,2,en,SAS,Asia
 'b6dd0cd9ce',extremes,Earthquake,#870007,usgs,Earthquake Susitna,2025-11-29T03:34:00+00:00,United States,0.7439888842570052,0,2,en,NWN,North-America
 '26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,Freezing Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.7439014028071311,0,2,en,NEN,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2025-12-14T03:49:00+00:00,New Zealand,0.743684517942611,0,2,en,NZ,Oceania
