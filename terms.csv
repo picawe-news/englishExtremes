@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,0,2,en,CNA,North-America
 '8f31a6cf58',extremes,Precipitation,#d60d2b,wmo,Rain Taranaki Maunga,2025-11-27T03:34:00+00:00,New Zealand,0.7442734769271212,0,2,en,NZ,Oceania
 '8c2b565540',extremes,Drought,#edc291,edo,Dry Spell Uganda,2025-11-27T03:34:00+00:00,Uganda,0.7440366305472195,0,2,en,SEAF,Africa
-'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2025-12-04T03:42:00+00:00,India,0.744019847042715,0,2,en,SAS,Asia
 'b6dd0cd9ce',extremes,Earthquake,#870007,usgs,Earthquake Susitna,2025-11-29T03:34:00+00:00,United States,0.7439888842570052,0,2,en,NWN,North-America
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2025-12-14T03:49:00+00:00,New Zealand,0.7435449229426767,0,2,en,NZ,Oceania
 'f1ffcdc5d3',extremes,Flood,#030ba1,wmo,Flood King WA,2025-12-10T03:45:00+00:00,United States,0.7435312652454237,0,2,en,CNA,North-America
@@ -19,7 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,Fog India,2025-12-15T03:54:00+00:00,India,0.7432362888970374,0,2,en,SAS,Asia
 '0c663115df',extremes,Snow&Ice,#d60d2b,wmo,Avalanche New Zealand,2025-12-18T03:44:00+00:00,New Zealand,0.7431340353261663,0,2,en,NZ,Oceania
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ireland,2025-12-03T03:40:00+00:00,Ireland,0.7430558681189648,0,2,en,NEU,Europe
-'2c8681b398',extremes,Flood,#030ba1,wmo,Flood Benton OR Polk OR,2025-12-11T03:46:00+00:00,United States,0.7430122228469751,1,1,en,CNA,North-America
 'a7e8b5d526',extremes,Flood,#030ba1,wmo,Flooding Yakima WA,2025-12-12T03:45:00+00:00,United States,0.7429395549972918,0,2,en,CNA,North-America
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2025-12-01T04:02:00+00:00,Canada,0.7427618046051444,0,2,en,NEN,North-America
 '2087442b23',extremes,Snow&Ice,#d60d2b,wmo,Snow Old Crow,2025-12-02T03:41:00+00:00,Canada,0.7427385444956602,0,2,en,NEN,North-America
@@ -153,6 +151,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1d53a07a1',extremes,Storm,#b3b2b1,wmo,Storm Surge Fiordland,2025-11-26T03:37:00+00:00,New Zealand,0.6362452651985797,1,1,en,NZ,Oceania
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2025-12-10T03:45:00+00:00,Solomon Islands,0.6361942548143951,1,2,en,EPO,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2025-12-07T03:46:00+00:00,United States,0.6361743129898572,1,2,en,ENA,North-America
+'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2025-12-04T03:42:00+00:00,India,0.6360172749863078,1,2,en,SAS,Asia
 '3c9166481f',extremes,Wildfire,#d60d2b,wmo,Wildfire Victoria Mallee,2025-12-05T03:41:00+00:00,Australia,0.6351032653994614,1,1,en,CAU,Oceania
 '5ec8a07269',extremes,Heat Wave,#c40202,wmo,Heat Wave Queensland Gulf Country District.,2025-12-05T03:41:00+00:00,Australia,0.6350877036238373,1,1,en,CAU,Oceania
 '1a2d89fcc9',extremes,Precipitation,#d60d2b,wmo,Downpour The Kaikoura Coast,2025-12-03T03:40:00+00:00,New Zealand,0.6346406631943169,1,1,en,NZ,Oceania
