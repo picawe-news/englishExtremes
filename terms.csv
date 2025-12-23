@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,2,en,SAU,Oceania
+'5998b1a528',extremes,Thunderstorm,#53785a,wmo,Hail Seychelles,2025-12-16T03:47:00+00:00,Seychelles,0.7466133990049085,0,2,en,EIO,Africa
+'3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2025-12-08T03:44:00+00:00,United States,0.7465196440363958,0,2,en,CNA,North-America
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2025-12-08T03:45:00+00:00,Australia,0.7463483172272453,0,2,en,NAU,Oceania
 'f172d6090a',extremes,Precipitation,#d60d2b,wmo,Rain Taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.745851407553578,0,2,en,NZ,Oceania
 '20a8865cfc',extremes,Storm,#b3b2b1,aidr,Storm Brisbane 2014,2025-12-13T03:38:00+00:00,Australia,0.745669526259321,0,2,en,EAU,Oceania
@@ -93,6 +96,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d4ee0943e',extremes,Precipitation,#d60d2b,wmo,Downpour Thiruvallur district of Tamil Nadu,2025-11-30T03:46:00+00:00,India,0.7371796688041202,0,2,en,SAS,Asia
 'c4a1f42668',extremes,Wildfire,#d60d2b,wmo,Wildfire Tasmania Furneaux Islands,2025-12-14T03:49:00+00:00,Australia,0.7371153140467721,0,2,en,CAU,Oceania
 'c47b93a96c',extremes,Drought,#edc291,edo,Dryness Falkland Islands,2025-12-08T03:45:00+00:00,Falkland Islands,0.7369277586812933,0,2,en,SSA,South-America
+'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2025-12-10T03:45:00+00:00,India,0.7367785972438468,0,2,en,SAS,Asia
+'0bcfb9c197',extremes,Flood,#030ba1,wmo,Flashflood Washington OR,2025-12-19T03:46:00+00:00,United States,0.7367012195532576,0,2,en,CNA,North-America
+'4d738c4938',extremes,Flood,#030ba1,wmo,Flood Pacific WA Wahkiakum WA,2025-12-09T03:41:00+00:00,United States,0.7366184735168032,0,2,en,CNA,North-America
+'5b657d1aec',extremes,Flood,#030ba1,wmo,Flood Grays Harbor County Coast,2025-12-06T03:32:00+00:00,United States,0.7365497206640287,0,2,en,CNA,North-America
+'53dadb7e4e',extremes,Flood,#030ba1,wmo,Flooding Pierce WA,2025-12-09T03:41:00+00:00,United States,0.7364365700051533,0,2,en,CNA,North-America
+'acb64f8584',extremes,Flood,#030ba1,wmo,Flooding Wahkiakum WA,2025-12-08T03:44:00+00:00,United States,0.7361047847541521,0,2,en,CNA,North-America
+'276eca33cd',extremes,Flood,#030ba1,wmo,Flashflood King WA Pierce WA,2025-12-15T03:54:00+00:00,United States,0.7360466857921248,0,2,en,CNA,North-America
 '8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,heatwave Australia,2025-11-26T03:37:00+00:00,Australia,0.68963423184449,1,2,en,CAU,Oceania
 '8d8981ac5b',extremes,Flood,#030ba1,acwe,flooding Queensland,2025-11-27T03:34:00+00:00,Australia,0.6809626025009443,1,2,en,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,heavy rain Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.6804189318813569,1,2,en,CAU,Oceania
