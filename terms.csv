@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2025-12-08T03:44:00+00:00,United States,0.7465196440363958,0,2,en,CNA,North-America
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2025-12-08T03:45:00+00:00,Australia,0.7463483172272453,0,2,en,NAU,Oceania
 'f172d6090a',extremes,Precipitation,#d60d2b,wmo,Rain Taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.745851407553578,0,2,en,NZ,Oceania
 '20a8865cfc',extremes,Storm,#b3b2b1,aidr,Storm Brisbane 2014,2025-12-13T03:38:00+00:00,Australia,0.745669526259321,0,2,en,EAU,Oceania
@@ -13,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c2b565540',extremes,Drought,#edc291,edo,Dry Spell Uganda,2025-11-27T03:34:00+00:00,Uganda,0.7440366305472195,0,2,en,SEAF,Africa
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2025-12-04T03:42:00+00:00,India,0.744019847042715,0,2,en,SAS,Asia
 'b6dd0cd9ce',extremes,Earthquake,#870007,usgs,Earthquake Susitna,2025-11-29T03:34:00+00:00,United States,0.7439888842570052,0,2,en,NWN,North-America
-'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2025-12-14T03:49:00+00:00,New Zealand,0.743684517942611,0,2,en,NZ,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2025-12-14T03:49:00+00:00,New Zealand,0.7435449229426767,0,2,en,NZ,Oceania
 'f1ffcdc5d3',extremes,Flood,#030ba1,wmo,Flood King WA,2025-12-10T03:45:00+00:00,United States,0.7435312652454237,0,2,en,CNA,North-America
 '793f00879f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Kings County P.E.I.,2025-12-03T03:40:00+00:00,Canada,0.7435252186855688,0,2,en,NEN,North-America
@@ -144,6 +142,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,Rain Solomon Islands,2025-12-09T03:41:00+00:00,Solomon Islands,0.6383225623999763,1,2,en,EPO,Oceania
 '3640cbbb22',extremes,Flood,#030ba1,wmo,Flood South West England,2025-12-09T03:41:00+00:00,United Kingdom,0.6375759210609053,1,2,en,NEU,Europe
 '3f4538cc15',extremes,Flood,#030ba1,wmo,Flood Hunt TX Rockwall TX,2025-11-26T03:37:00+00:00,United States,0.6375362434955845,1,1,en,CNA,North-America
+'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2025-12-14T03:49:00+00:00,New Zealand,0.6369329952512194,1,3,en,NZ,Oceania
 '93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,typhoon Australia,2025-12-07T03:47:00+00:00,Australia,0.6368375227036842,1,1,en,NAU,Oceania
 '17b34b3e5b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Bay of Plenty including Rotorua,2025-12-02T03:41:00+00:00,New Zealand,0.6367131711450853,1,1,en,NZ,Oceania
 'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kancheepuram district of Tamil Nadu,2025-11-30T03:46:00+00:00,India,0.636658926232684,1,1,en,SAS,Asia
