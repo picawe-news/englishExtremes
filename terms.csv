@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,2,en,SAU,Oceania
-'037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2025-12-07T03:47:00+00:00,United States,0.7449734469020648,0,2,en,CNA,North-America
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,0,2,en,CNA,North-America
 '8f31a6cf58',extremes,Precipitation,#d60d2b,wmo,Rain Taranaki Maunga,2025-11-27T03:34:00+00:00,New Zealand,0.7442734769271212,0,2,en,NZ,Oceania
 '55c34e2831',extremes,Flood,#030ba1,wmo,Flood Grays Harbor WA,2025-12-10T03:45:00+00:00,United States,0.7442643634432833,0,2,en,CNA,North-America
@@ -156,6 +154,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,Storm Surge Eswatini,2025-12-06T03:32:00+00:00,Eswatini,0.6386137074296513,1,1,en,ESAF,Africa
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2025-12-08T03:44:00+00:00,United States,0.6384614396437471,1,2,en,CNA,North-America
 '4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,Rain Solomon Islands,2025-12-09T03:41:00+00:00,Solomon Islands,0.6383225623999763,1,2,en,EPO,Oceania
+'037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2025-12-07T03:47:00+00:00,United States,0.6380331148667551,1,3,en,CNA,North-America
 '3640cbbb22',extremes,Flood,#030ba1,wmo,Flood South West England,2025-12-09T03:41:00+00:00,United Kingdom,0.6375759210609053,1,2,en,NEU,Europe
 '3f4538cc15',extremes,Flood,#030ba1,wmo,Flood Hunt TX Rockwall TX,2025-11-26T03:37:00+00:00,United States,0.6375362434955845,1,1,en,CNA,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2025-12-14T03:49:00+00:00,New Zealand,0.6369329952512194,1,3,en,NZ,Oceania
