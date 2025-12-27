@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,2,en,SAU,Oceania
-'3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,0,2,en,CNA,North-America
-'44c67905ab',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Marion OR,2025-12-13T03:38:00+00:00,United States,0.7434851040372978,3,1,en,CNA,North-America
+'3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,1,1,en,CNA,North-America
+'44c67905ab',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Marion OR,2025-12-13T03:38:00+00:00,United States,0.7434851040372978,4,1,en,CNA,North-America
 '2c8681b398',extremes,Flood,#030ba1,wmo,Flood Benton OR Polk OR,2025-12-11T03:46:00+00:00,United States,0.7430122228469751,4,1,en,CNA,North-America
 '2087442b23',extremes,Snow&Ice,#d60d2b,wmo,Snow Old Crow,2025-12-02T03:41:00+00:00,Canada,0.7427385444956602,0,2,en,NEN,North-America
 '40f47c67f6',extremes,Flood,#030ba1,wmo,Flashflood Pierce WA,2025-12-10T03:45:00+00:00,United States,0.7420325371237556,0,2,en,CNA,North-America
@@ -20,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b3a04bec13',extremes,Flood,#030ba1,wmo,Flooding Snohomish WA,2025-12-10T03:45:00+00:00,United States,0.7413765770203927,0,2,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466097,0,2,en,CNA,North-America
 '132a964bac',extremes,Drought,#edc291,edo,Dryness Guyana,2025-12-08T03:45:00+00:00,Guyana,0.7412033012539809,0,2,en,NSA,South-America
-'829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2025-12-14T03:49:00+00:00,Jamaica,0.7411802428418146,0,2,en,CAR,North-America
 '8df29b72f3',extremes,Storm,#b3b2b1,wmo,Storm Cartwright to Black Tickle,2025-12-02T03:41:00+00:00,Canada,0.7411637039325928,0,2,en,NEN,North-America
 '060066f2cf',extremes,Flood,#030ba1,wmo,Flood Lewis WA,2025-12-09T03:41:00+00:00,United States,0.7409148370967884,0,2,en,CNA,North-America
 'c86a1247d6',extremes,Precipitation,#d60d2b,wmo,Rain Chengalpattu district of Tamil Nadu,2025-11-30T03:46:00+00:00,India,0.7407990396581642,0,2,en,SAS,Asia
@@ -185,6 +183,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c9166481f',extremes,Wildfire,#d60d2b,wmo,Wildfire Victoria Mallee,2025-12-05T03:41:00+00:00,Australia,0.6351032653994614,1,1,en,CAU,Oceania
 '5ec8a07269',extremes,Heat Wave,#c40202,wmo,Heat Wave Queensland Gulf Country District.,2025-12-05T03:41:00+00:00,Australia,0.6350877036238373,1,1,en,CAU,Oceania
 'f172d6090a',extremes,Precipitation,#d60d2b,wmo,Rain Taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.6347237714205414,1,2,en,NZ,Oceania
+'829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2025-12-14T03:49:00+00:00,Jamaica,0.6346544964155424,1,3,en,CAR,North-America
 '1a2d89fcc9',extremes,Precipitation,#d60d2b,wmo,Downpour The Kaikoura Coast,2025-12-03T03:40:00+00:00,New Zealand,0.6346406631943169,1,1,en,NZ,Oceania
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,Hail Seychelles,2025-12-16T03:47:00+00:00,Seychelles,0.6346213891541722,1,1,en,EIO,Africa
 '3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2025-12-08T03:44:00+00:00,United States,0.6345416974309365,1,1,en,CNA,North-America
