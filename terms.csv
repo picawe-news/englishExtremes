@@ -86,7 +86,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95d50a2dd4',extremes,Flood,#030ba1,wmo,Flood Yakima Valley,2025-12-16T03:47:00+00:00,United States,0.7308801292113735,0,2,en,CNA,North-America
 '769280e5b3',extremes,Fog,#d60d2b,wmo,Fog Grapevine,2025-12-07T03:47:00+00:00,United States,0.730465159382034,0,2,en,CNA,North-America
 'b15deef221',extremes,Flood,#030ba1,wmo,Flashflood Kootenai Cabinet Region,2025-12-15T03:54:00+00:00,United States,0.7302985728321142,0,2,en,CNA,North-America
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2025-12-14T03:49:00+00:00,United States,0.730291398995997,0,2,en,CNA,North-America
 'fa1579cf47',extremes,Flood,#030ba1,wmo,Flashflood Clearwater ID,2025-12-11T03:46:00+00:00,United States,0.7302125881681607,0,2,en,CNA,North-America
 '668e74fb1c',extremes,Earthquake,#870007,usgs,Earthquake Micronesia,2025-12-02T03:41:00+00:00,Micronesia,0.7300257756222353,0,2,en,NPO,Pacific Ocean
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2025-12-06T03:32:00+00:00,Australia,0.7299635898132977,0,2,en,EAU,Oceania
@@ -226,10 +225,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '341a99163c',extremes,Storm,#b3b2b1,wmo,Storm Natashquan Chevery Anticosti,2025-12-05T03:41:00+00:00,Canada,0.6286802322497295,1,1,en,NEN,North-America
 'b6e71763d0',extremes,Flood,#030ba1,wmo,Flashflood Wahkiakum WA,2025-12-19T03:46:00+00:00,United States,0.6285252725178301,1,1,en,CNA,North-America
 '276eca33cd',extremes,Flood,#030ba1,wmo,Flashflood King WA Pierce WA,2025-12-15T03:54:00+00:00,United States,0.6256396829233061,1,1,en,CNA,North-America
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2025-12-14T03:49:00+00:00,United States,0.6254000291465975,1,2,en,CNA,North-America
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2025-12-07T03:47:00+00:00,New Zealand,0.6241153984000516,1,1,en,NZ,Oceania
 'a890e4040f',extremes,Storm,#b3b2b1,wmo,Storm Fiordland,2025-12-14T03:49:00+00:00,New Zealand,0.6190957104324097,1,1,en,NZ,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2025-11-24T03:46:00+00:00,Australia,0.5726999698615343,2,2,en,CAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.5724997174620282,2,1,en,SAU,Oceania
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2025-12-08T03:45:00+00:00,Australia,0.5510121031966846,2,1,en,NAU,Oceania
 '88720c241c',extremes,Flood,#030ba1,wmo,Flood Wahkiakum WA,2025-12-12T03:45:00+00:00,United States,0.5361413525767564,2,1,en,CNA,North-America
-'ea08c977c6',extremes,Flood,#030ba1,wmo,Flooding Tamirabarani River,2025-11-25T03:37:00+00:00,India,0.4616524740491934,3,1,en,SAS,Asia
