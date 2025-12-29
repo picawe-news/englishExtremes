@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '36c712529e',extremes,Flood,#030ba1,wmo,Flooding Clackamas OR Multnomah OR,2025-12-10T03:45:00+00:00,United States,0.7418717336061325,1,1,en,CNA,North-America
 '1602fa7979',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Multnomah OR,2025-12-09T03:41:00+00:00,United States,0.741835591671383,1,1,en,CNA,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,1,1,en,CNA,North-America
-'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2025-12-06T03:32:00+00:00,Canada,0.7413873189870311,0,2,en,NEN,North-America
 'b3a04bec13',extremes,Flood,#030ba1,wmo,Flooding Snohomish WA,2025-12-10T03:45:00+00:00,United States,0.7413765770203927,0,2,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466097,0,2,en,CNA,North-America
 '132a964bac',extremes,Drought,#edc291,edo,Dryness Guyana,2025-12-08T03:45:00+00:00,Guyana,0.7412033012539809,0,2,en,NSA,South-America
