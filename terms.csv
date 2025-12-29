@@ -38,7 +38,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2025-12-10T03:45:00+00:00,India,0.7367785972438468,0,2,en,SAS,Asia
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,Flashflood Washington OR,2025-12-19T03:46:00+00:00,United States,0.7367012195532576,1,1,en,CNA,North-America
 '4d738c4938',extremes,Flood,#030ba1,wmo,Flood Pacific WA Wahkiakum WA,2025-12-09T03:41:00+00:00,United States,0.7366184735168032,0,2,en,CNA,North-America
-'5b657d1aec',extremes,Flood,#030ba1,wmo,Flood Grays Harbor County Coast,2025-12-06T03:32:00+00:00,United States,0.7365497206640287,0,2,en,CNA,North-America
 '53dadb7e4e',extremes,Flood,#030ba1,wmo,Flooding Pierce WA,2025-12-09T03:41:00+00:00,United States,0.7364365700051533,0,2,en,CNA,North-America
 'acb64f8584',extremes,Flood,#030ba1,wmo,Flooding Wahkiakum WA,2025-12-08T03:44:00+00:00,United States,0.7361047847541521,0,2,en,CNA,North-America
 '84235d43f3',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Dempster,2025-12-02T03:41:00+00:00,Canada,0.735992528148727,0,2,en,NEN,North-America
