@@ -251,7 +251,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b657d1aec',extremes,Flood,#030ba1,wmo,Flood Grays Harbor County Coast,2025-12-06T03:32:00+00:00,United States,0.6262172775644244,1,2,en,CNA,North-America
 '276eca33cd',extremes,Flood,#030ba1,wmo,Flashflood King WA Pierce WA,2025-12-15T03:54:00+00:00,United States,0.6256396829233061,1,1,en,CNA,North-America
 '84235d43f3',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Dempster,2025-12-02T03:41:00+00:00,Canada,0.6255936489264179,1,1,en,NEN,North-America
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2025-12-14T03:49:00+00:00,United States,0.6254000291465975,1,2,en,CNA,North-America
 '8ae049eb86',extremes,Precipitation,#d60d2b,wmo,Rain Thiruvallur district of Tamil Nadu,2025-11-30T03:46:00+00:00,India,0.6247229461965599,1,2,en,SAS,Asia
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2025-12-07T03:47:00+00:00,New Zealand,0.6241153984000516,1,1,en,NZ,Oceania
 '6a3b41120e',extremes,Drought,#edc291,edo,Dry Spell Liberia,2025-12-10T03:45:00+00:00,Liberia,0.6239371089948478,1,1,en,WAF,Africa
@@ -266,4 +265,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2025-11-30T03:46:00+00:00,India,0.5442188985530392,2,1,en,SAS,Asia
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.5433795774223856,2,1,en,NEU,Europe
 '1925b3106a',extremes,Storm,#b3b2b1,wmo,Storm Canterbury High Country,2025-12-14T03:49:00+00:00,New Zealand,0.536589587403802,2,2,en,NZ,Oceania
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2025-12-14T03:49:00+00:00,United States,0.5363923347746079,2,2,en,CNA,North-America
 '88720c241c',extremes,Flood,#030ba1,wmo,Flood Wahkiakum WA,2025-12-12T03:45:00+00:00,United States,0.5361413525767564,2,1,en,CNA,North-America
