@@ -210,7 +210,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9d70cd9c6',extremes,Flood,#030ba1,wmo,Flashflood King WA,2025-12-10T03:45:00+00:00,United States,0.6319650183737595,1,1,en,CNA,North-America
 '7c2a177b68',extremes,Wildfire,#d60d2b,wmo,Wildfire Victoria Mallee and Wimmera,2025-12-19T03:46:00+00:00,Australia,0.6316738490284944,1,1,en,CAU,Oceania
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ireland,2025-12-03T03:40:00+00:00,Ireland,0.6315977129011201,1,1,en,NEU,Europe
-'a7e8b5d526',extremes,Flood,#030ba1,wmo,Flooding Yakima WA,2025-12-12T03:45:00+00:00,United States,0.631498621747698,1,1,en,CNA,North-America
 '2087442b23',extremes,Snow&Ice,#d60d2b,wmo,Snow Old Crow,2025-12-02T03:41:00+00:00,Canada,0.6313279578213112,1,1,en,NEN,North-America
 '232c35e7b5',extremes,Flood,#030ba1,wmo,Flashflood Skagit WA,2025-12-10T03:45:00+00:00,United States,0.6312344581389568,1,1,en,CNA,North-America
 '4bbcd1d583',extremes,Flood,#030ba1,wmo,Flooding King WA Pierce WA,2025-12-10T03:45:00+00:00,United States,0.6312336894476598,1,2,en,CNA,North-America
@@ -272,6 +271,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2025-12-08T03:45:00+00:00,Australia,0.5510121031966846,2,1,en,NAU,Oceania
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2025-11-30T03:46:00+00:00,India,0.5442188985530392,2,1,en,SAS,Asia
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.5433795774223856,2,1,en,NEU,Europe
+'a7e8b5d526',extremes,Flood,#030ba1,wmo,Flooding Yakima WA,2025-12-12T03:45:00+00:00,United States,0.5369238434855433,2,1,en,CNA,North-America
 '1925b3106a',extremes,Storm,#b3b2b1,wmo,Storm Canterbury High Country,2025-12-14T03:49:00+00:00,New Zealand,0.536589587403802,2,2,en,NZ,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2025-12-14T03:49:00+00:00,United States,0.5363923347746079,2,2,en,CNA,North-America
 '88720c241c',extremes,Flood,#030ba1,wmo,Flood Wahkiakum WA,2025-12-12T03:45:00+00:00,United States,0.5361413525767564,2,1,en,CNA,North-America
