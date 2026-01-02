@@ -2,7 +2,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,1,1,en,CNA,North-America
 '44c67905ab',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Marion OR,2025-12-13T03:38:00+00:00,United States,0.7434851040372978,1,1,en,CNA,North-America
 '2c8681b398',extremes,Flood,#030ba1,wmo,Flood Benton OR Polk OR,2025-12-11T03:46:00+00:00,United States,0.7430122228469751,8,1,en,CNA,North-America
-'36c712529e',extremes,Flood,#030ba1,wmo,Flooding Clackamas OR Multnomah OR,2025-12-10T03:45:00+00:00,United States,0.7418717336061325,0,2,en,CNA,North-America
+'36c712529e',extremes,Flood,#030ba1,wmo,Flooding Clackamas OR Multnomah OR,2025-12-10T03:45:00+00:00,United States,0.7418717336061325,1,1,en,CNA,North-America
 '1602fa7979',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Multnomah OR,2025-12-09T03:41:00+00:00,United States,0.741835591671383,2,1,en,CNA,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,1,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
@@ -17,9 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c99edce791',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Indore district of Madhya Pradesh,2025-12-15T03:54:00+00:00,India,0.734942769116975,0,2,en,SAS,Asia
 '485794e3d4',extremes,Earthquake,#870007,usgs,Earthquake Canada,2025-12-08T03:44:00+00:00,Canada,0.7345305010735712,0,2,en,NWN,North-America
 '6be0c66131',extremes,Flood,#030ba1,wmo,Flashflood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7344180988935006,1,1,en,CNA,North-America
-'e987630880',extremes,Storm,#b3b2b1,wmo,Storm Surge Highway 97 Pine Pass,2025-12-09T03:41:00+00:00,Canada,0.7333960329118078,0,2,en,NEN,North-America
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,1,1,en,CNA,North-America
-'970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2025-12-08T03:44:00+00:00,Canada,0.7332306307637516,0,2,en,NEN,North-America
 '2b6ea8c56f',extremes,Flood,#030ba1,wmo,Flood Whatcom WA,2025-12-11T03:46:00+00:00,United States,0.733194963083318,0,2,en,CNA,North-America
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2025-12-02T03:41:00+00:00,Australia,0.7322876092542268,0,2,en,CAU,Oceania
 '4d61ebcdfd',extremes,Flood,#030ba1,wmo,Flooding Grays Harbor WA,2025-12-11T03:46:00+00:00,United States,0.7318256880156552,0,2,en,CNA,North-America
@@ -53,7 +51,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2025-12-07T03:47:00+00:00,United States,0.7216810524143505,0,2,en,CNA,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2025-12-09T03:41:00+00:00,United States,0.7213963780431292,0,2,en,CNA,North-America
 'bb52dc77ba',extremes,Snow&Ice,#d60d2b,wmo,Frost Yoho Park Kootenay Park,2025-12-09T03:41:00+00:00,Canada,0.7210763098112544,0,2,en,NEN,North-America
-'0fbfeb6f6d',extremes,Earthquake,#870007,usgs,Earthquake Merizo Village,2025-12-14T03:49:00+00:00,Guam,0.7210194488962065,0,2,en,NPO,Pacific Ocean
 '4d84d97c26',extremes,Snow&Ice,#d60d2b,wmo,Snow Postville Makkovik,2025-12-05T03:41:00+00:00,Canada,0.7205609067815404,0,2,en,NEN,North-America
 '2fbcd6b02b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Nellore Tirupati,2025-12-03T03:40:00+00:00,India,0.719861597725216,0,2,en,SAS,Asia
 '48a5be945f',extremes,Flood,#030ba1,wmo,Flooding Lower Columbia Basin of Washington,2025-12-19T03:46:00+00:00,United States,0.7192655354677802,0,2,en,CNA,North-America
@@ -62,7 +59,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '468b65d461',extremes,Cold Wave,#a7e9fa,acwe,icy temperatures New South Wales,2025-12-05T03:41:00+00:00,Australia,0.7177375944507809,0,2,en,EAU,Oceania
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2025-12-07T03:47:00+00:00,Australia,0.7172579737695328,0,2,en,CAU,Oceania
 '56a85f18c1',extremes,Storm,#b3b2b1,wmo,Storm Gander and vicinity,2025-12-15T03:54:00+00:00,Canada,0.7157725238790654,0,2,en,NEN,North-America
-'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2025-12-09T03:40:00+00:00,United States,0.7152653347704597,0,2,en,NWN,North-America
 '0969025e22',extremes,Precipitation,#d60d2b,wmo,Torrential Rain The ranges of Westland,2025-12-06T03:32:00+00:00,New Zealand,0.7147004716972427,0,2,en,NZ,Oceania
 '4bfbd1e28d',extremes,Drought,#edc291,edo,Dryness Kiribati,2025-12-16T03:47:00+00:00,Kiribati,0.7144550558782846,0,2,en,EAO,Atlantic Ocean
 '310f97d3f1',extremes,Snow&Ice,#d60d2b,wmo,Ice Teslin Atlin,2025-12-06T03:32:00+00:00,Canada,0.7135171704132268,0,2,en,NEN,North-America
@@ -278,7 +274,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6a3b41120e',extremes,Drought,#edc291,edo,Dry Spell Liberia,2025-12-10T03:45:00+00:00,Liberia,0.6239371089948478,1,1,en,WAF,Africa
 '6828fb94e4',extremes,Snow&Ice,#d60d2b,wmo,Ice Kings County P.E.I.,2025-12-05T03:41:00+00:00,Canada,0.6238609314214584,1,1,en,NEN,North-America
 '632d096d56',extremes,Storm,#b3b2b1,wmo,Storm Postville Makkovik,2025-12-06T03:32:00+00:00,Canada,0.6237189570040554,1,1,en,NEN,North-America
+'e987630880',extremes,Storm,#b3b2b1,wmo,Storm Surge Highway 97 Pine Pass,2025-12-09T03:41:00+00:00,Canada,0.6233866279750366,1,1,en,NEN,North-America
 'e529a9043d',extremes,Fog,#d60d2b,wmo,Fog Hisar district of Haryana,2025-12-19T03:46:00+00:00,India,0.6233640741609844,1,2,en,SAS,Asia
+'970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2025-12-08T03:44:00+00:00,Canada,0.6232461411491889,1,1,en,NEN,North-America
 'daa2caadae',extremes,Snow&Ice,#d60d2b,wmo,Frost Red Bay to L'Anse au Clair,2025-12-05T03:41:00+00:00,Canada,0.6230422942122608,1,1,en,NEN,North-America
 'fc7ead17b1',extremes,Drought,#edc291,edo,Lack of Rain Ghana,2025-12-08T03:45:00+00:00,Ghana,0.6223991177228224,1,2,en,WAF,Africa
 '89c12b2a2e',extremes,Precipitation,#d60d2b,wmo,Downpour The Chatham Islands,2025-12-03T03:40:00+00:00,New Zealand,0.6221239375173343,1,1,en,NZ,Oceania
@@ -286,6 +284,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '769280e5b3',extremes,Fog,#d60d2b,wmo,Fog Grapevine,2025-12-07T03:47:00+00:00,United States,0.6210454154747289,1,2,en,CNA,North-America
 '668e74fb1c',extremes,Earthquake,#870007,usgs,Earthquake Micronesia,2025-12-02T03:41:00+00:00,Micronesia,0.6205219092788999,1,1,en,NPO,Pacific Ocean
 'a890e4040f',extremes,Storm,#b3b2b1,wmo,Storm Fiordland,2025-12-14T03:49:00+00:00,New Zealand,0.6190957104324097,1,1,en,NZ,Oceania
+'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2025-12-09T03:40:00+00:00,United States,0.6174649545548907,1,3,en,NWN,North-America
 'd1d6516388',extremes,Storm,#b3b2b1,aidr,Storm Severe Storm Melbourne Victoria 2011,2025-12-04T03:42:00+00:00,Australia,0.6170977575277322,1,1,en,SAU,Oceania
 '4edbdea66a',extremes,Flood,#030ba1,wmo,Flooding Hawaii in Hawaii HI,2025-12-19T03:46:00+00:00,United States,0.6166037520812224,1,1,en,CNA,North-America
 'e35102c4e9',extremes,Storm,#b3b2b1,wmo,Storm Bonavista Peninsula,2025-12-06T03:32:00+00:00,Canada,0.6164706071616493,1,2,en,NEN,North-America
@@ -298,7 +297,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2025-11-25T03:37:00+00:00,Canada,0.5490427732657281,2,2,en,NEN,North-America
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2025-11-30T03:46:00+00:00,India,0.5442188985530392,2,1,en,SAS,Asia
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.5433795774223856,2,1,en,NEU,Europe
-'f30fb16f75',extremes,Precipitation,#d60d2b,wmo,Rain Tasman west of Takaka,2025-11-26T03:37:00+00:00,New Zealand,0.5431905192865463,2,1,en,NZ,Oceania
 'a7e8b5d526',extremes,Flood,#030ba1,wmo,Flooding Yakima WA,2025-12-12T03:45:00+00:00,United States,0.5369238434855433,2,1,en,CNA,North-America
 '1925b3106a',extremes,Storm,#b3b2b1,wmo,Storm Canterbury High Country,2025-12-14T03:49:00+00:00,New Zealand,0.536589587403802,2,2,en,NZ,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2025-12-14T03:49:00+00:00,United States,0.5363923347746079,2,2,en,CNA,North-America
