@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,1,1,en,CNA,North-America
 '44c67905ab',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Marion OR,2025-12-13T03:38:00+00:00,United States,0.7434851040372978,2,1,en,CNA,North-America
-'2c8681b398',extremes,Flood,#030ba1,wmo,Flood Benton OR Polk OR,2025-12-11T03:46:00+00:00,United States,0.7430122228469751,9,1,en,CNA,North-America
 '36c712529e',extremes,Flood,#030ba1,wmo,Flooding Clackamas OR Multnomah OR,2025-12-10T03:45:00+00:00,United States,0.7418717336061325,4,1,en,CNA,North-America
 '1602fa7979',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Multnomah OR,2025-12-09T03:41:00+00:00,United States,0.741835591671383,2,1,en,CNA,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,1,1,en,CNA,North-America
@@ -14,18 +13,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,2,1,en,CNA,North-America
 '4d61ebcdfd',extremes,Flood,#030ba1,wmo,Flooding Grays Harbor WA,2025-12-11T03:46:00+00:00,United States,0.7318256880156551,1,1,en,CNA,North-America
 '721b7d6185',extremes,Drought,#edc291,edo,Drought United States,2025-12-01T04:02:00+00:00,United States,0.7315631521479441,1,1,en,WCE,Europe
-'95d50a2dd4',extremes,Flood,#030ba1,wmo,Flood Yakima Valley,2025-12-16T03:47:00+00:00,United States,0.7308801292113734,1,1,en,CNA,North-America
 'b15deef221',extremes,Flood,#030ba1,wmo,Flashflood Kootenai Cabinet Region,2025-12-15T03:54:00+00:00,United States,0.7302985728321142,1,1,en,CNA,North-America
 '1a8044e375',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Northern Peninsula East,2025-12-05T03:41:00+00:00,Canada,0.7296480530141431,1,1,en,NEN,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2025-12-01T04:02:00+00:00,United States,0.7292116661521654,1,1,en,CNA,North-America
 '61007812be',extremes,Fog,#d60d2b,wmo,Fog 8 districts of Punjab,2025-12-18T03:44:00+00:00,India,0.7270008174842951,1,1,en,SAS,Asia
-'55543c597d',extremes,Precipitation,#d60d2b,wmo,Precipitation Fiordland,2025-12-05T03:41:00+00:00,New Zealand,0.7245965069025441,0,2,en,NZ,Oceania
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2025-12-15T03:54:00+00:00,Canada,0.7244795811492545,0,2,en,NEN,North-America
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,Freezing Crown Range Road,2025-12-18T03:44:00+00:00,New Zealand,0.7242513295337129,0,2,en,NZ,Oceania
 'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,Ice Paulatuk,2025-12-14T03:49:00+00:00,Canada,0.7238757516477932,1,1,en,NEN,North-America
 'd8161a5967',extremes,Flood,#030ba1,wmo,Flashflood Eastern Bergen,2025-12-19T03:46:00+00:00,United States,0.7237679791273435,0,2,en,CNA,North-America
 'da307952db',extremes,Precipitation,#d60d2b,wmo,Downpour Ireland,2025-12-01T04:02:00+00:00,Ireland,0.7235714617685812,1,1,en,NEU,Europe
-'4fbc5a28e6',extremes,Earthquake,#870007,usgs,Earthquake Colonia,2025-11-30T03:46:00+00:00,Micronesia,0.7230305417422932,0,2,en,NPO,Oceania
 '686d605ab5',extremes,Storm,#b3b2b1,wmo,Storm Connaigre,2025-12-09T03:41:00+00:00,Canada,0.722524030972011,0,2,en,NEN,North-America
 '8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2025-12-08T03:44:00+00:00,Fiji,0.7222998204596289,0,2,en,SPO,Pacific Ocean
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2025-12-01T04:03:00+00:00,Australia,0.7221903421129778,1,1,en,SAU,Oceania
@@ -41,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '468b65d461',extremes,Cold Wave,#a7e9fa,acwe,icy temperatures New South Wales,2025-12-05T03:41:00+00:00,Australia,0.7177375944507809,1,1,en,EAU,Oceania
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2025-12-07T03:47:00+00:00,Australia,0.7172579737695328,0,2,en,CAU,Oceania
 '56a85f18c1',extremes,Storm,#b3b2b1,wmo,Storm Gander and vicinity,2025-12-15T03:54:00+00:00,Canada,0.7157725238790654,0,2,en,NEN,North-America
-'4bfbd1e28d',extremes,Drought,#edc291,edo,Dryness Kiribati,2025-12-16T03:47:00+00:00,Kiribati,0.7144550558782846,1,1,en,EAO,Atlantic Ocean
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2025-12-05T03:41:00+00:00,United States,0.713183720524551,0,2,en,CNA,North-America
 '4fe34cb23e',extremes,Precipitation,#d60d2b,wmo,Downpour Ranges of the Westland District,2025-12-15T03:54:00+00:00,New Zealand,0.713130857201174,0,2,en,NZ,Oceania
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2025-12-16T03:47:00+00:00,India,0.7129706314200935,1,1,en,SAS,Asia
@@ -82,7 +77,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '848feeb1bc',extremes,Precipitation,#d60d2b,wmo,Downpour United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.6970361595869964,0,2,en,NEU,Europe
 'f6fe1dce8b',extremes,Storm,#b3b2b1,aidr,Storm Severe Storm Melbourne Victoria February 2011,2025-12-03T03:40:00+00:00,Australia,0.6962944261737307,0,2,en,SAU,Oceania
 '99eee4a3b6',extremes,Flood,#030ba1,aidr,Flood Moree New South Wales 2011,2025-12-15T03:54:00+00:00,Australia,0.6959692550079711,0,2,en,EAU,Oceania
-'0ad0139b19',extremes,Snow&Ice,#d60d2b,wmo,Frost Kootenai Cabinet Region,2025-12-01T04:02:00+00:00,United States,0.6959027647039461,0,2,en,CNA,North-America
 'fb7c4961bb',extremes,Precipitation,#d60d2b,wmo,Rain Ranges of Westland,2025-12-18T03:44:00+00:00,New Zealand,0.6957732788902025,0,2,en,NZ,Oceania
 'e98bbbbe23',extremes,Drought,#edc291,edo,Drought British Indian Ocean Territory,2025-12-03T03:40:00+00:00,British Indian Ocean Territory,0.6954107419003175,0,2,en,EIO,Indian Ocean
 '481e050c88',extremes,Drought,#edc291,acwe,low water level Tasmania,2025-12-01T04:03:00+00:00,Australia,0.6944753832458102,0,2,en,SAU,Oceania
@@ -291,6 +285,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc7ead17b1',extremes,Drought,#edc291,edo,Lack of Rain Ghana,2025-12-08T03:45:00+00:00,Ghana,0.6223991177228224,1,2,en,WAF,Africa
 '89c12b2a2e',extremes,Precipitation,#d60d2b,wmo,Downpour The Chatham Islands,2025-12-03T03:40:00+00:00,New Zealand,0.6221239375173343,1,1,en,NZ,Oceania
 'e1cb5d77a6',extremes,Snow&Ice,#d60d2b,wmo,Frost Chevery,2025-12-05T03:41:00+00:00,Canada,0.6220209684683662,1,1,en,NEN,North-America
+'95d50a2dd4',extremes,Flood,#030ba1,wmo,Flood Yakima Valley,2025-12-16T03:47:00+00:00,United States,0.6215481398296674,2,1,en,CNA,North-America
 '769280e5b3',extremes,Fog,#d60d2b,wmo,Fog Grapevine,2025-12-07T03:47:00+00:00,United States,0.6210454154747289,1,2,en,CNA,North-America
 'fa1579cf47',extremes,Flood,#030ba1,wmo,Flashflood Clearwater ID,2025-12-11T03:46:00+00:00,United States,0.6206806999429366,1,1,en,CNA,North-America
 '668e74fb1c',extremes,Earthquake,#870007,usgs,Earthquake Micronesia,2025-12-02T03:41:00+00:00,Micronesia,0.6205219092788999,1,1,en,NPO,Pacific Ocean
@@ -306,7 +301,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e35102c4e9',extremes,Storm,#b3b2b1,wmo,Storm Bonavista Peninsula,2025-12-06T03:32:00+00:00,Canada,0.6164706071616493,1,2,en,NEN,North-America
 '196e63017c',extremes,Snow&Ice,#d60d2b,wmo,Ice Upper Lake Melville Eagle River,2025-12-12T03:45:00+00:00,Canada,0.6162650738884949,1,1,en,NEN,North-America
 'e8d558c618',extremes,Flood,#030ba1,wmo,Flooding Clearwater ID Idaho ID,2025-12-09T03:41:00+00:00,United States,0.6161336860381509,1,1,en,CNA,North-America
+'55543c597d',extremes,Precipitation,#d60d2b,wmo,Precipitation Fiordland,2025-12-05T03:41:00+00:00,New Zealand,0.6159070308671625,1,1,en,NZ,Oceania
 '6b1942f1fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Eswatini,2025-12-14T03:49:00+00:00,Eswatini,0.6154145919963834,2,1,en,ESAF,Africa
+'4fbc5a28e6',extremes,Earthquake,#870007,usgs,Earthquake Colonia,2025-11-30T03:46:00+00:00,Micronesia,0.6145759604809492,1,1,en,NPO,Oceania
 'bbbc0a78c7',extremes,Drought,#edc291,edo,Dryness Fiji,2025-12-02T03:41:00+00:00,Fiji,0.6143899922862145,1,2,en,,
 '674f73e548',extremes,Precipitation,#d60d2b,wmo,Precipitation United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.6117034926578067,1,2,en,NEU,Europe
 'dba8cbdda5',extremes,Flood,#030ba1,wmo,Flooding Latah ID Whitman WA,2025-12-19T03:46:00+00:00,United States,0.6101322858447457,1,1,en,CNA,North-America
@@ -318,6 +315,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2025-12-09T03:40:00+00:00,Fiji,0.5998195365793735,1,1,en,SPO,Pacific Ocean
 '200915a12f',extremes,Drought,#edc291,edo,Drought Namibia,2025-12-15T03:54:00+00:00,Namibia,0.596143746173344,1,1,en,WSAF,Africa
 '11389d1af4',extremes,Flood,#030ba1,aidr,Flood Victoria 2011,2025-12-18T03:45:00+00:00,Australia,0.5924093738946933,1,1,en,SAU,Oceania
+'0ad0139b19',extremes,Snow&Ice,#d60d2b,wmo,Frost Kootenai Cabinet Region,2025-12-01T04:02:00+00:00,United States,0.5915173499983541,1,1,en,CNA,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2025-11-24T03:46:00+00:00,Australia,0.5726999698615343,2,2,en,CAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.5724997174620282,2,1,en,SAU,Oceania
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Canada,2025-12-10T03:45:00+00:00,Canada,0.5608611349284554,2,2,en,NEN,North-America
