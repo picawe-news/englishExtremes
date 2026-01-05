@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,2,en,SAU,Oceania
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,0,2,en,CNA,North-America
 '44c67905ab',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Marion OR,2025-12-13T03:38:00+00:00,United States,0.7434851040372978,3,1,en,CNA,North-America
 '2c8681b398',extremes,Flood,#030ba1,wmo,Flood Benton OR Polk OR,2025-12-11T03:46:00+00:00,United States,0.7430122228469751,0,2,en,CNA,North-America
@@ -65,7 +64,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93f466567b',extremes,Earthquake,#870007,usgs,Earthquake Kieta,2025-12-03T03:40:00+00:00,Papua New Guinea,0.7019624891687446,0,2,en,EPO,Pacific Ocean
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2025-12-18T03:45:00+00:00,Australia,0.7015032924380354,1,1,en,EAU,Oceania
 '04485005cb',extremes,Snow&Ice,#d60d2b,wmo,Ice Tuktoyaktuk East Channel Region,2025-12-13T03:38:00+00:00,Canada,0.7011854562540889,1,1,en,NEN,North-America
-'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2025-12-07T03:47:00+00:00,Australia,0.7004003402875698,0,2,en,CAU,Oceania
 'dccbba8d54',extremes,Fog,#d60d2b,wmo,Fog Sabine Lake Calcasieu Lake,2025-12-07T03:47:00+00:00,United States,0.7003359784625949,0,2,en,CNA,North-America
 '060f7f7a38',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Paulatuk,2025-12-13T03:38:00+00:00,Canada,0.7000712656254744,0,2,en,NEN,North-America
 'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2025-11-30T03:47:00+00:00,Fiji,0.7000005407847144,0,2,en,,
@@ -328,6 +326,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6035bf1ea4',extremes,Drought,#edc291,wmo,Drought Maumee Bay to Reno Beach OH,2025-11-30T03:46:00+00:00,United States,0.6023479634666281,2,1,en,CNA,North-America
 '30dd1a71a3',extremes,Storm,#b3b2b1,wmo,Storm Surge Saint Matthew Island Waters,2025-12-01T04:02:00+00:00,United States,0.6010404115311778,1,1,en,CNA,North-America
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2025-12-09T03:40:00+00:00,Fiji,0.5998195365793735,1,1,en,SPO,Pacific Ocean
+'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2025-12-07T03:47:00+00:00,Australia,0.5992446842444342,1,3,en,CAU,Oceania
 '9e7dd3f9c0',extremes,Drought,#edc291,edo,Lack of Rain South Georgia and the South Sandwich Islands,2025-12-08T03:45:00+00:00,South Georgia and the South Sandwich Islands,0.5981345956046906,1,1,en,SOO,Antarctica
 '777963abec',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Australia,2025-12-14T03:49:00+00:00,Australia,0.5971086661939721,1,1,en,CAU,Oceania
 '200915a12f',extremes,Drought,#edc291,edo,Drought Namibia,2025-12-15T03:54:00+00:00,Namibia,0.596143746173344,1,1,en,WSAF,Africa
