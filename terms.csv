@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
 '3c41d4f8cf',extremes,Flood,#030ba1,wmo,Flashflood Lincoln OR,2025-12-19T03:46:00+00:00,United States,0.7376755515542327,3,1,en,CNA,North-America
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,Flashflood Washington OR,2025-12-19T03:46:00+00:00,United States,0.7367012195532576,1,1,en,CNA,North-America
-'6be0c66131',extremes,Flood,#030ba1,wmo,Flashflood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7344180988935006,1,1,en,CNA,North-America
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,2,1,en,CNA,North-America
 '4d61ebcdfd',extremes,Flood,#030ba1,wmo,Flooding Grays Harbor WA,2025-12-11T03:46:00+00:00,United States,0.7318256880156551,1,1,en,CNA,North-America
 'b15deef221',extremes,Flood,#030ba1,wmo,Flashflood Kootenai Cabinet Region,2025-12-15T03:54:00+00:00,United States,0.7302985728321142,1,1,en,CNA,North-America
@@ -195,7 +194,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,Storm Surge Taranaki,2025-12-02T03:41:00+00:00,New Zealand,0.6330248237793946,1,1,en,NZ,Oceania
 '8f31a6cf58',extremes,Precipitation,#d60d2b,wmo,Rain Taranaki Maunga,2025-11-27T03:34:00+00:00,New Zealand,0.632632455388053,1,1,en,NZ,Oceania
 '55c34e2831',extremes,Flood,#030ba1,wmo,Flood Grays Harbor WA,2025-12-10T03:45:00+00:00,United States,0.6326247089267908,1,1,en,CNA,North-America
-'8c2b565540',extremes,Drought,#edc291,edo,Dry Spell Uganda,2025-11-27T03:34:00+00:00,Uganda,0.6325811509651366,1,2,en,SEAF,Africa
 'df3b4ea64b',extremes,Storm,#b3b2b1,wmo,Storm Surge Moosonee,2025-11-27T03:34:00+00:00,Canada,0.6325626932106854,1,1,en,NEN,North-America
 '0eeb2fcda0',extremes,Precipitation,#d60d2b,wmo,Rain Wairarapa,2025-12-02T03:41:00+00:00,New Zealand,0.632484845567751,1,1,en,NZ,Oceania
 '26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,Freezing Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.6323161923860614,1,1,en,NEN,North-America
@@ -345,6 +343,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2025-11-30T03:46:00+00:00,India,0.5442188985530392,2,1,en,SAS,Asia
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.5433795774223856,2,1,en,NEU,Europe
 '82b998a6aa',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Wairarapa,2025-12-03T03:40:00+00:00,New Zealand,0.5389666478667071,2,1,en,NZ,Oceania
+'8c2b565540',extremes,Drought,#edc291,edo,Dry Spell Uganda,2025-11-27T03:34:00+00:00,Uganda,0.537843993320366,2,2,en,SEAF,Africa
 'a7e8b5d526',extremes,Flood,#030ba1,wmo,Flooding Yakima WA,2025-12-12T03:45:00+00:00,United States,0.5369238434855433,2,1,en,CNA,North-America
 '1925b3106a',extremes,Storm,#b3b2b1,wmo,Storm Canterbury High Country,2025-12-14T03:49:00+00:00,New Zealand,0.536589587403802,2,2,en,NZ,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2025-12-14T03:49:00+00:00,United States,0.5363923347746079,2,2,en,CNA,North-America
