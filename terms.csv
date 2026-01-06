@@ -1,4 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,2,en,SAU,Oceania
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2025-11-30T03:46:00+00:00,India,0.753244150246421,0,2,en,SAS,Asia
+'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.7520824601001876,0,2,en,NEU,Europe
+'3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,0,2,en,CNA,North-America
 '44c67905ab',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Marion OR,2025-12-13T03:38:00+00:00,United States,0.7434851040372978,5,1,en,CNA,North-America
 '2c8681b398',extremes,Flood,#030ba1,wmo,Flood Benton OR Polk OR,2025-12-11T03:46:00+00:00,United States,0.7430122228469751,2,1,en,CNA,North-America
 '36c712529e',extremes,Flood,#030ba1,wmo,Flooding Clackamas OR Multnomah OR,2025-12-10T03:45:00+00:00,United States,0.7418717336061325,4,1,en,CNA,North-America
@@ -32,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4fe34cb23e',extremes,Precipitation,#d60d2b,wmo,Downpour Ranges of the Westland District,2025-12-15T03:54:00+00:00,New Zealand,0.713130857201174,0,2,en,NZ,Oceania
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2025-12-16T03:47:00+00:00,India,0.7129706314200935,1,1,en,SAS,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2025-12-07T03:46:00+00:00,Papua New Guinea,0.7127143067616131,0,2,en,SEA,Oceania
+'a4a0219171',extremes,Snow&Ice,#d60d2b,wmo,Frost Dempster Old Crow,2025-12-13T03:38:00+00:00,Canada,0.7116108379661896,0,2,en,NEN,North-America
 'eea762c52b',extremes,Snow&Ice,#d60d2b,wmo,Snow Bristol Bay greater than 15 NM,2025-12-19T03:46:00+00:00,United States,0.7115905638249448,0,2,en,CNA,North-America
 'a28c8ef428',extremes,Storm,#b3b2b1,wmo,Storm United Kingdom,2025-12-08T03:44:00+00:00,United Kingdom,0.7108187643721324,0,2,en,NEU,Europe
 'c5af0e9ad9',extremes,Drought,#edc291,edo,Dryness Saint Helena,2025-12-02T03:41:00+00:00,Saint Helena,0.7100878010322199,0,2,en,SAO,Atlantic Ocean
@@ -116,6 +121,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,Heat Wave Argentina,2025-12-01T04:02:00+00:00,Argentina,0.679064032853844,0,2,en,SES,South-America
 'c2b6fa6e9e',extremes,Precipitation,#d60d2b,wmo,Downpour From Baa Atoll to Alif Alif Atoll,2025-12-04T03:42:00+00:00,Maldives,0.679041995568344,0,2,en,EIO,Indian Ocean
 '78e1faa9d1',extremes,Snow&Ice,#d60d2b,wmo,Snow Missoula Bitterroot Valleys,2025-12-02T03:41:00+00:00,United States,0.6788500918824304,0,2,en,CNA,North-America
+'90c23693c6',extremes,Wildfire,#d60d2b,acwe,bushfire Queensland,2025-11-30T03:47:00+00:00,Australia,0.6786229991775293,0,2,en,CAU,Oceania
+'042968096b',extremes,Storm,#b3b2b1,wmo,Storm Iceland,2025-12-02T03:41:00+00:00,Iceland,0.6784089228487101,0,2,en,GIC,Europe
+'7317a6d022',extremes,Storm,#b3b2b1,wmo,Storm Surge Western Chippewa Central Chippewa,2025-12-04T03:42:00+00:00,United States,0.6783540682864699,0,2,en,CNA,North-America
+'bc425ed68d',extremes,Storm,#b3b2b1,wmo,Storm South Australia Spencer Gulf,2025-12-05T03:41:00+00:00,Australia,0.6783012666639071,0,2,en,CAU,Oceania
+'54e7f6f565',extremes,Storm,#b3b2b1,wmo,Storm Surge Bering Sea Offshore East of 171W,2025-12-16T03:47:00+00:00,United States,0.6782095885948837,0,2,en,CNA,North-America
 '9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2025-11-27T03:34:00+00:00,Australia,0.6714523306546086,1,2,en,SAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern Territory,2025-11-27T03:34:00+00:00,Australia,0.6713043162836675,1,2,en,CAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,wet spell Australia,2025-11-27T03:34:00+00:00,Australia,0.6698813584901624,1,2,en,CAU,Oceania
