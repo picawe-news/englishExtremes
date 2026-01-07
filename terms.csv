@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,2,en,SAU,Oceania
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2025-11-30T03:46:00+00:00,India,0.753244150246421,0,2,en,SAS,Asia
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,2,1,en,CNA,North-America
 '44c67905ab',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Marion OR,2025-12-13T03:38:00+00:00,United States,0.7434851040372978,5,1,en,CNA,North-America
 '2c8681b398',extremes,Flood,#030ba1,wmo,Flood Benton OR Polk OR,2025-12-11T03:46:00+00:00,United States,0.7430122228469751,2,1,en,CNA,North-America
@@ -10,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,3,1,en,CNA,North-America
 '3c41d4f8cf',extremes,Flood,#030ba1,wmo,Flashflood Lincoln OR,2025-12-19T03:46:00+00:00,United States,0.7376755515542327,3,1,en,CNA,North-America
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,Flashflood Washington OR,2025-12-19T03:46:00+00:00,United States,0.7367012195532576,1,1,en,CNA,North-America
+'8ae049eb86',extremes,Precipitation,#d60d2b,wmo,Rain Thiruvallur district of Tamil Nadu,2025-11-30T03:46:00+00:00,India,0.7347916837606587,0,2,en,SAS,Asia
 '6be0c66131',extremes,Flood,#030ba1,wmo,Flashflood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7344180988935006,1,1,en,CNA,North-America
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,2,1,en,CNA,North-America
 '4d61ebcdfd',extremes,Flood,#030ba1,wmo,Flooding Grays Harbor WA,2025-12-11T03:46:00+00:00,United States,0.7318256880156551,1,1,en,CNA,North-America
@@ -35,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c5af0e9ad9',extremes,Drought,#edc291,edo,Dryness Saint Helena,2025-12-02T03:41:00+00:00,Saint Helena,0.7100878010322199,0,2,en,SAO,Atlantic Ocean
 '83bfa36f5c',extremes,Fog,#d60d2b,wmo,Fog Chesterfield Inlet,2025-12-06T03:32:00+00:00,Canada,0.7095914919675625,0,2,en,NEN,North-America
 '04f9463542',extremes,Snow&Ice,#d60d2b,wmo,Avalanche United States,2025-12-10T03:45:00+00:00,United States,0.7086655818486851,0,2,en,CNA,North-America
+'9c28bd8698',extremes,Drought,#edc291,edo,Dry Spell South Sudan,2025-12-11T03:46:00+00:00,South Sudan,0.7080822463787227,0,2,en,NEAF,Africa
 '54898bb95f',extremes,Storm,#b3b2b1,wmo,Storm Surge Green Bay White Bay,2025-12-16T03:47:00+00:00,Canada,0.7077873376084368,0,2,en,NEN,North-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2025-12-10T03:45:00+00:00,Canada,0.7074129554563303,0,2,en,NEN,North-America
 'd17fb9bc17',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Eastern Preston Eastern Tucker,2025-12-10T03:45:00+00:00,United States,0.7070695897120275,1,1,en,CNA,North-America
@@ -52,8 +56,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99eee4a3b6',extremes,Flood,#030ba1,aidr,Flood Moree New South Wales 2011,2025-12-15T03:54:00+00:00,Australia,0.6959692550079711,0,2,en,EAU,Oceania
 'fb7c4961bb',extremes,Precipitation,#d60d2b,wmo,Rain Ranges of Westland,2025-12-18T03:44:00+00:00,New Zealand,0.6957732788902025,0,2,en,NZ,Oceania
 'e98bbbbe23',extremes,Drought,#edc291,edo,Drought British Indian Ocean Territory,2025-12-03T03:40:00+00:00,British Indian Ocean Territory,0.6954107419003175,0,2,en,EIO,Indian Ocean
+'481e050c88',extremes,Drought,#edc291,acwe,low water level Tasmania,2025-12-01T04:03:00+00:00,Australia,0.6944753832458102,0,2,en,SAU,Oceania
 'd577347130',extremes,Earthquake,#870007,usgs,Earthquake Kirakira,2025-12-03T03:40:00+00:00,Solomon Islands,0.6931407630894221,0,2,en,SPO,Oceania
 '0e1a7c0ff4',extremes,Storm,#b3b2b1,wmo,Storm Surge LG Quatre Laforge and Fontanges,2025-12-18T03:44:00+00:00,Canada,0.6922516971080737,0,2,en,NEN,North-America
+'50d3b02868',extremes,Storm,#b3b2b1,wmo,Storm Surge Bay of Exploits Bonavista North,2025-12-06T03:32:00+00:00,Canada,0.6922228681105907,0,2,en,NEN,North-America
 '0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,Storm Barren Islands East,2025-12-06T03:32:00+00:00,United States,0.6918253832832656,0,2,en,CNA,North-America
 'fe53edf6f8',extremes,Precipitation,#d60d2b,wmo,Precipitation Buller District,2025-12-15T03:54:00+00:00,New Zealand,0.6913806530427606,0,2,en,NZ,Oceania
 'd28ca888c1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Sydney Metro and Cape Breton County,2025-12-09T03:41:00+00:00,Canada,0.6911790548882056,0,2,en,NEN,North-America
@@ -109,6 +115,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7317a6d022',extremes,Storm,#b3b2b1,wmo,Storm Surge Western Chippewa Central Chippewa,2025-12-04T03:42:00+00:00,United States,0.6783540682864699,0,2,en,CNA,North-America
 'bc425ed68d',extremes,Storm,#b3b2b1,wmo,Storm South Australia Spencer Gulf,2025-12-05T03:41:00+00:00,Australia,0.6783012666639071,0,2,en,CAU,Oceania
 '54e7f6f565',extremes,Storm,#b3b2b1,wmo,Storm Surge Bering Sea Offshore East of 171W,2025-12-16T03:47:00+00:00,United States,0.6782095885948837,0,2,en,CNA,North-America
+'a9144dcd4c',extremes,Snow&Ice,#d60d2b,wmo,Ice Quaqtaq,2025-12-09T03:41:00+00:00,Canada,0.6781105843334324,0,2,en,NEN,North-America
+'bbf4913d20',extremes,Snow&Ice,#d60d2b,wmo,Avalanche York Lancaster,2025-12-02T03:41:00+00:00,United States,0.6779143019734656,0,2,en,CNA,North-America
+'46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,Downpour Maldives,2025-11-30T03:46:00+00:00,Maldives,0.6775073364875619,0,2,en,EIO,Indian Ocean
+'b5f4dba174',extremes,Drought,#edc291,edo,Lack of Rain British Indian Ocean Territory,2025-11-30T03:47:00+00:00,British Indian Ocean Territory,0.677375182234715,0,2,en,EIO,Indian Ocean
 '9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2025-11-27T03:34:00+00:00,Australia,0.6714523306546086,1,2,en,SAU,Oceania
 'e6d1629586',extremes,Wildfire,#d60d2b,acwe,wildfire Northern Territory,2025-11-27T03:34:00+00:00,Australia,0.6713043162836675,1,2,en,CAU,Oceania
 'c90309b4ea',extremes,Precipitation,#d60d2b,acwe,wet spell Australia,2025-11-27T03:34:00+00:00,Australia,0.6698813584901624,1,2,en,CAU,Oceania
