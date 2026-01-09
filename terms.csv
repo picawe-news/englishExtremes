@@ -1,12 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'44c67905ab',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Marion OR,2025-12-13T03:38:00+00:00,United States,0.7434851040372978,1,1,en,CNA,North-America
+'44c67905ab',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Marion OR,2025-12-13T03:38:00+00:00,United States,0.7434851040372978,2,1,en,CNA,North-America
 '2c8681b398',extremes,Flood,#030ba1,wmo,Flood Benton OR Polk OR,2025-12-11T03:46:00+00:00,United States,0.7430122228469751,3,1,en,CNA,North-America
 '36c712529e',extremes,Flood,#030ba1,wmo,Flooding Clackamas OR Multnomah OR,2025-12-10T03:45:00+00:00,United States,0.7418717336061325,4,1,en,CNA,North-America
 '1602fa7979',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Multnomah OR,2025-12-09T03:41:00+00:00,United States,0.741835591671383,3,1,en,CNA,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,1,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466096,1,1,en,CNA,North-America
 '72d86f00f6',extremes,Storm,#b3b2b1,wmo,Storm Surge Greater Victoria,2025-12-09T03:41:00+00:00,Canada,0.74111504140362,1,2,en,NEN,North-America
-'02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,1,1,en,CNA,North-America
+'02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
 '3c41d4f8cf',extremes,Flood,#030ba1,wmo,Flashflood Lincoln OR,2025-12-19T03:46:00+00:00,United States,0.7376755515542327,4,1,en,CNA,North-America
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,Flashflood Washington OR,2025-12-19T03:46:00+00:00,United States,0.7367012195532576,2,1,en,CNA,North-America
 '6be0c66131',extremes,Flood,#030ba1,wmo,Flashflood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7344180988935006,1,1,en,CNA,North-America
@@ -20,21 +20,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2025-12-01T04:03:00+00:00,Australia,0.7221903421129778,1,1,en,SAU,Oceania
 '333baf64d4',extremes,Flood,#030ba1,wmo,Flooding Marquette Alger,2025-12-18T03:44:00+00:00,United States,0.7219576246016909,1,1,en,CNA,North-America
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2025-12-07T03:47:00+00:00,United States,0.7216810524143505,1,1,en,CNA,North-America
-'83bfa36f5c',extremes,Fog,#d60d2b,wmo,Fog Chesterfield Inlet,2025-12-06T03:32:00+00:00,Canada,0.7095914919675625,0,2,en,NEN,North-America
-'6035bf1ea4',extremes,Drought,#edc291,wmo,Drought Maumee Bay to Reno Beach OH,2025-11-30T03:46:00+00:00,United States,0.7086446629019154,0,2,en,CNA,North-America
-'9c28bd8698',extremes,Drought,#edc291,edo,Dry Spell South Sudan,2025-12-11T03:46:00+00:00,South Sudan,0.7080822463787227,0,2,en,NEAF,Africa
 '54898bb95f',extremes,Storm,#b3b2b1,wmo,Storm Surge Green Bay White Bay,2025-12-16T03:47:00+00:00,Canada,0.7077873376084368,0,2,en,NEN,North-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2025-12-10T03:45:00+00:00,Canada,0.7074129554563303,0,2,en,NEN,North-America
 '30dd1a71a3',extremes,Storm,#b3b2b1,wmo,Storm Surge Saint Matthew Island Waters,2025-12-01T04:02:00+00:00,United States,0.7071063665072681,0,2,en,CNA,North-America
 'fdcca63d76',extremes,Fog,#d60d2b,wmo,Fog Mecklenburg Union,2025-12-08T03:44:00+00:00,United States,0.7066135560774828,1,1,en,CNA,North-America
-'33dcf78201',extremes,Storm,#b3b2b1,wmo,Storm Surge Gander and vicinity,2025-12-16T03:47:00+00:00,Canada,0.7062591503513949,0,2,en,NEN,North-America
 '3967ab9290',extremes,Storm,#b3b2b1,wmo,Storm Surge Valdez Narrows,2025-12-11T03:46:00+00:00,United States,0.7040932104551919,0,2,en,CNA,North-America
 'df4c08f42e',extremes,Snow&Ice,#d60d2b,wmo,Snow Whitehorse Teslin,2025-12-06T03:32:00+00:00,Canada,0.7034887524804654,0,2,en,NEN,North-America
 '68c47e3afd',extremes,Storm,#b3b2b1,wmo,Storm North and West of Nunivak Island,2025-11-30T03:46:00+00:00,United States,0.7022187783382843,0,2,en,CNA,North-America
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2025-12-18T03:45:00+00:00,Australia,0.7015032924380354,1,1,en,EAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,aidr,flooding Australia,2025-12-14T03:49:00+00:00,Australia,0.7014154878574971,0,2,en,CAU,Oceania
 '060f7f7a38',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Paulatuk,2025-12-13T03:38:00+00:00,Canada,0.7000712656254744,0,2,en,NEN,North-America
-'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2025-11-30T03:47:00+00:00,Fiji,0.7000005407847144,0,2,en,,
 'df3b4ea64b',extremes,Storm,#b3b2b1,wmo,Storm Surge Moosonee,2025-12-18T03:44:00+00:00,Canada,0.6998357163193836,0,2,en,NEN,North-America
 '02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2025-12-09T03:41:00+00:00,Australia,0.6989640187736852,0,2,en,EAU,Oceania
 '99eee4a3b6',extremes,Flood,#030ba1,aidr,Flood Moree New South Wales 2011,2025-12-15T03:54:00+00:00,Australia,0.6959692550079711,0,2,en,EAU,Oceania
@@ -52,14 +47,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2025-12-13T03:38:00+00:00,Ireland,0.6881498721082286,0,2,en,NEU,Europe
 '565ef25bc4',extremes,Storm,#b3b2b1,wmo,Storm Surge Bristol Bay greater than 15 NM,2025-12-04T03:42:00+00:00,United States,0.688099676998095,0,2,en,CNA,North-America
 'fa63ae1788',extremes,Precipitation,#d60d2b,wmo,Rain Shelburne County Yarmouth County,2025-12-03T03:40:00+00:00,Canada,0.687769854362663,0,2,en,NEN,North-America
-'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,Precipitation Tanzania,2025-12-18T03:44:00+00:00,Tanzania,0.6865979161075204,0,2,en,SEAF,Africa
 '8b55e7f8a3',extremes,Drought,#edc291,edo,Drought Bermuda,2025-12-06T03:32:00+00:00,Bermuda,0.6864041629120815,0,2,en,NAO,Atlantic Ocean
 '471314450f',extremes,Cold Wave,#a7e9fa,acwe,cold wave Tasmania,2025-12-04T03:42:00+00:00,Australia,0.6863404484914547,0,2,en,SAU,Oceania
 'cf6843b4bb',extremes,Snow&Ice,#d60d2b,wmo,Freezing Kugluktuk,2025-12-19T03:46:00+00:00,Canada,0.6858605087552592,0,2,en,NEN,North-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Argentina,2025-12-10T03:45:00+00:00,Argentina,0.6854063326881754,0,2,en,SES,South-America
 '92d4118c9c',extremes,Storm,#b3b2b1,wmo,Storm Victoria Central Gippsland Coast,2025-12-03T03:40:00+00:00,Australia,0.6851684139963302,0,2,en,CAU,Oceania
 '517e4b4a9e',extremes,Storm,#b3b2b1,wmo,Storm Northern Lynn Canal,2025-12-18T03:44:00+00:00,United States,0.6851155939320349,0,2,en,CNA,North-America
-'989439d143',extremes,Snow&Ice,#d60d2b,wmo,Ice Ethiopia,2025-12-09T03:41:00+00:00,Ethiopia,0.6850593239908678,0,2,en,NEAF,Africa
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2025-12-06T03:32:00+00:00,Australia,0.6843462809818698,0,2,en,CAU,Oceania
 'f737adcac9',extremes,Storm,#b3b2b1,wmo,Storm Resurrection Bay,2025-12-05T03:41:00+00:00,United States,0.683803017199724,0,2,en,CNA,North-America
 '9f0647c82e',extremes,Snow&Ice,#d60d2b,wmo,Ice Orofino Grangeville Region,2025-12-02T03:41:00+00:00,United States,0.6833394865042425,0,2,en,CNA,North-America
@@ -72,7 +65,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '384b068faa',extremes,Storm,#b3b2b1,wmo,Storm Queensland Peninsula Coast,2025-12-05T03:41:00+00:00,Australia,0.6806316618728816,0,2,en,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,heavy rain Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.6804189318813569,1,2,en,CAU,Oceania
 'e16f88d8d0',extremes,Storm,#b3b2b1,wmo,Storm Surge Barren Islands East,2025-12-07T03:47:00+00:00,United States,0.6800144567340615,0,2,en,CNA,North-America
-'c313a67acc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Warren McKean,2025-12-13T03:38:00+00:00,United States,0.6795935653284901,0,2,en,CNA,North-America
 '3adb2fdbbf',extremes,Storm,#b3b2b1,wmo,Storm Kiska to Attu Pacific Side,2025-12-04T03:42:00+00:00,United States,0.6794647517709724,0,2,en,CNA,North-America
 '18672f438d',extremes,Storm,#b3b2b1,wmo,Storm Surge Marmot Bay,2025-12-11T03:46:00+00:00,United States,0.679361599371173,0,2,en,CNA,North-America
 'b764ce0db1',extremes,Drought,#edc291,edo,Drought Seychelles,2025-11-30T03:47:00+00:00,Seychelles,0.6792704883452421,0,2,en,EIO,Indian Ocean
@@ -98,7 +90,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,Storm Vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.6762177766776102,0,2,en,SPO,Oceania
 '069aad1b56',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Wexford,2025-12-01T04:02:00+00:00,Ireland,0.6760560313596232,0,2,en,NEU,Europe
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,Storm Southeast Iceland,2025-12-01T04:02:00+00:00,Iceland,0.6759645440338542,0,2,en,GIC,Europe
-'e45d3ee02d',extremes,Storm,#b3b2b1,wmo,Storm Surge Treasure Northern Rosebud Custer,2025-12-13T03:38:00+00:00,United States,0.6759334205652131,0,2,en,CNA,North-America
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,Heat Wave Rio Cuarto y alrededores,2025-12-07T03:47:00+00:00,Argentina,0.6756081743373316,0,2,en,SES,South-America
 'f49cf0dd55',extremes,Snow&Ice,#d60d2b,wmo,Ice Death Valley National Park,2025-12-01T04:02:00+00:00,United States,0.6755284882059301,0,2,en,CNA,North-America
 'bf242fe474',extremes,Drought,#edc291,edo,Drought Zambia,2025-12-07T03:47:00+00:00,Zambia,0.6747006426539303,0,2,en,ESAF,Africa
@@ -126,7 +117,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2025-11-27T03:34:00+00:00,Canada,0.6461698433981508,1,2,en,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2025-11-27T03:34:00+00:00,Canada,0.6461274048920818,1,2,en,NEN,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,storm Australia,2025-12-07T03:47:00+00:00,Australia,0.6459761521722941,1,2,en,SAU,Oceania
-'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2025-12-04T03:42:00+00:00,Canada,0.6458706034301387,1,2,en,NEN,North-America
 '052d9fa0c5',extremes,Storm,#b3b2b1,aidr,Storm Thunderstorm Asthma Victoria,2025-12-12T03:46:00+00:00,Australia,0.6457390667014984,1,1,en,SAU,Oceania
 '27e5411070',extremes,Precipitation,#d60d2b,wmo,Downpour Solomon Islands,2025-12-11T03:46:00+00:00,Solomon Islands,0.6438715625044076,1,1,en,EPO,Oceania
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2025-12-09T03:41:00+00:00,Australia,0.6432414210196902,1,2,en,CAU,Oceania
@@ -329,8 +319,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,Freezing Dempster,2025-12-06T03:32:00+00:00,Canada,0.6038668245411506,1,1,en,NEN,North-America
 'c613234021',extremes,Storm,#b3b2b1,wmo,Storm Haida Gwaii,2025-12-09T03:41:00+00:00,Canada,0.6036944791325419,1,1,en,NEN,North-America
 'c5af0e9ad9',extremes,Drought,#edc291,edo,Dryness Saint Helena,2025-12-02T03:41:00+00:00,Saint Helena,0.6035746308773869,1,1,en,SAO,Atlantic Ocean
+'6035bf1ea4',extremes,Drought,#edc291,wmo,Drought Maumee Bay to Reno Beach OH,2025-11-30T03:46:00+00:00,United States,0.6023479634666281,1,1,en,CNA,North-America
+'9c28bd8698',extremes,Drought,#edc291,edo,Dry Spell South Sudan,2025-12-11T03:46:00+00:00,South Sudan,0.6018699094219143,1,1,en,NEAF,Africa
 'd17fb9bc17',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Eastern Preston Eastern Tucker,2025-12-10T03:45:00+00:00,United States,0.6010091512552234,2,1,en,CNA,North-America
 'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2025-12-02T03:42:00+00:00,Australia,0.6004210035450642,1,1,en,SAU,Oceania
+'33dcf78201',extremes,Storm,#b3b2b1,wmo,Storm Surge Gander and vicinity,2025-12-16T03:47:00+00:00,Canada,0.6003202777986856,1,1,en,NEN,North-America
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2025-12-09T03:40:00+00:00,Fiji,0.5998195365793735,1,1,en,SPO,Pacific Ocean
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2025-12-07T03:47:00+00:00,Australia,0.5992446842444342,1,3,en,CAU,Oceania
 '2d701b2c0f',extremes,Storm,#b3b2b1,wmo,Storm Wales,2025-12-09T03:41:00+00:00,United Kingdom,0.5981393217132137,1,2,en,NEU,Europe
@@ -341,6 +334,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '200915a12f',extremes,Drought,#edc291,edo,Drought Namibia,2025-12-15T03:54:00+00:00,Namibia,0.596143746173344,1,1,en,WSAF,Africa
 '04485005cb',extremes,Snow&Ice,#d60d2b,wmo,Ice Tuktoyaktuk East Channel Region,2025-12-13T03:38:00+00:00,Canada,0.5960076378159755,2,1,en,NEN,North-America
 'dccbba8d54',extremes,Fog,#d60d2b,wmo,Fog Sabine Lake Calcasieu Lake,2025-12-07T03:47:00+00:00,United States,0.5952855816932057,1,1,en,CNA,North-America
+'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2025-11-30T03:47:00+00:00,Fiji,0.5950004746670072,1,1,en,,
 '583acb6dbf',extremes,Flood,#030ba1,aidr,Flood Gascoyne River Western Australia,2025-12-18T03:45:00+00:00,Australia,0.5940106987291626,1,1,en,CAU,Oceania
 '07eea948e4',extremes,Fog,#d60d2b,wmo,Fog Monterey Bay,2025-12-18T03:44:00+00:00,United States,0.5930720174386143,1,2,en,CNA,North-America
 '848feeb1bc',extremes,Precipitation,#d60d2b,wmo,Downpour United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.5924807506489469,1,1,en,NEU,Europe
@@ -356,7 +350,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '846fa8fe30',extremes,Storm,#b3b2b1,wmo,Storm Surge Îles de la Madeleine,2025-12-15T03:54:00+00:00,Canada,0.5871526600132355,1,1,en,NEN,North-America
 '35e097af59',extremes,Snow&Ice,#d60d2b,wmo,Ice Miami Cass,2025-12-01T04:02:00+00:00,United States,0.5837505238472032,1,1,en,CNA,North-America
 '7f260ec036',extremes,Storm,#b3b2b1,wmo,Storm Surge Unalaska Bay,2025-12-07T03:47:00+00:00,United States,0.5837019119544887,1,1,en,CNA,North-America
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,Precipitation Tanzania,2025-12-18T03:44:00+00:00,Tanzania,0.5836082586913923,1,1,en,SEAF,Africa
 '1ef7a68493',extremes,Snow&Ice,#d60d2b,wmo,Frost Port of Valdez,2025-12-18T03:44:00+00:00,United States,0.5834099288935326,1,1,en,CNA,North-America
+'989439d143',extremes,Snow&Ice,#d60d2b,wmo,Ice Ethiopia,2025-12-09T03:41:00+00:00,Ethiopia,0.5823008003922376,1,1,en,NEAF,Africa
 '6fb0f66509',extremes,Storm,#b3b2b1,wmo,Storm Surge Central Panhandle Mountains,2025-12-06T03:32:00+00:00,United States,0.5818590476003112,1,1,en,CNA,North-America
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave New South Wales,2025-12-04T03:42:00+00:00,Australia,0.5813614202315697,1,1,en,EAU,Oceania
 '00856d5d4e',extremes,Precipitation,#d60d2b,wmo,Precipitation Kuwait,2025-12-11T03:46:00+00:00,Kuwait,0.5813234381328537,1,2,en,ARP,Asia
@@ -367,7 +363,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e05f085e14',extremes,Storm,#b3b2b1,wmo,Storm Surge Shelikof Strait,2025-12-13T03:38:00+00:00,United States,0.5795271176702822,1,1,en,CNA,North-America
 '970631bf41',extremes,Storm,#b3b2b1,wmo,Storm Surge Mason Oceana Muskegon Ottawa,2025-12-02T03:41:00+00:00,United States,0.5786442019987613,1,1,en,CNA,North-America
 'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Paulatuk,2025-12-12T03:45:00+00:00,Canada,0.5786224465106247,1,1,en,NEN,North-America
+'c313a67acc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Warren McKean,2025-12-13T03:38:00+00:00,United States,0.5776545305292166,1,1,en,CNA,North-America
+'e45d3ee02d',extremes,Storm,#b3b2b1,wmo,Storm Surge Treasure Northern Rosebud Custer,2025-12-13T03:38:00+00:00,United States,0.5745434074804311,1,1,en,CNA,North-America
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.5724997174620282,2,1,en,SAU,Oceania
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2025-12-04T03:42:00+00:00,Canada,0.5688601492949282,2,3,en,NEN,North-America
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Canada,2025-12-10T03:45:00+00:00,Canada,0.5608611349284554,2,2,en,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2025-12-06T03:32:00+00:00,Canada,0.5431280379681299,2,3,en,NEN,North-America
 'a7e8b5d526',extremes,Flood,#030ba1,wmo,Flooding Yakima WA,2025-12-12T03:45:00+00:00,United States,0.5369238434855433,2,1,en,CNA,North-America
