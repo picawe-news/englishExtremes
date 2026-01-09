@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2025-12-01T04:03:00+00:00,Australia,0.7221903421129778,1,1,en,SAU,Oceania
 '333baf64d4',extremes,Flood,#030ba1,wmo,Flooding Marquette Alger,2025-12-18T03:44:00+00:00,United States,0.7219576246016909,1,1,en,CNA,North-America
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2025-12-07T03:47:00+00:00,United States,0.7216810524143505,1,1,en,CNA,North-America
-'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2025-12-10T03:45:00+00:00,Canada,0.7074129554563303,0,2,en,NEN,North-America
 '30dd1a71a3',extremes,Storm,#b3b2b1,wmo,Storm Surge Saint Matthew Island Waters,2025-12-01T04:02:00+00:00,United States,0.7071063665072681,0,2,en,CNA,North-America
 'fdcca63d76',extremes,Fog,#d60d2b,wmo,Fog Mecklenburg Union,2025-12-08T03:44:00+00:00,United States,0.7066135560774828,1,1,en,CNA,North-America
 '3967ab9290',extremes,Storm,#b3b2b1,wmo,Storm Surge Valdez Narrows,2025-12-11T03:46:00+00:00,United States,0.7040932104551919,0,2,en,CNA,North-America
@@ -36,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb7c4961bb',extremes,Precipitation,#d60d2b,wmo,Rain Ranges of Westland,2025-12-18T03:44:00+00:00,New Zealand,0.6957732788902025,0,2,en,NZ,Oceania
 'e98bbbbe23',extremes,Drought,#edc291,edo,Drought British Indian Ocean Territory,2025-12-03T03:40:00+00:00,British Indian Ocean Territory,0.6954107419003175,0,2,en,EIO,Indian Ocean
 '481e050c88',extremes,Drought,#edc291,acwe,low water level Tasmania,2025-12-01T04:03:00+00:00,Australia,0.6944753832458102,0,2,en,SAU,Oceania
-'50d3b02868',extremes,Storm,#b3b2b1,wmo,Storm Surge Bay of Exploits Bonavista North,2025-12-06T03:32:00+00:00,Canada,0.6922228681105907,0,2,en,NEN,North-America
 '0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,Storm Barren Islands East,2025-12-06T03:32:00+00:00,United States,0.6918253832832656,0,2,en,CNA,North-America
 'a979be575d',extremes,Snow&Ice,#d60d2b,wmo,Snow Paulatuk,2025-12-18T03:44:00+00:00,Canada,0.6904476005126305,0,2,en,NEN,North-America
 '5d85dc5645',extremes,Drought,#edc291,edo,Dryness Rwanda,2025-12-16T03:47:00+00:00,Rwanda,0.6899534601730223,0,2,en,SEAF,Africa
@@ -311,6 +309,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '310f97d3f1',extremes,Snow&Ice,#d60d2b,wmo,Ice Teslin Atlin,2025-12-06T03:32:00+00:00,Canada,0.6064895948512428,2,1,en,NEN,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2025-12-07T03:46:00+00:00,Papua New Guinea,0.6062572057473711,1,2,en,SEA,Oceania
 '4fe34cb23e',extremes,Precipitation,#d60d2b,wmo,Downpour Ranges of the Westland District,2025-12-15T03:54:00+00:00,New Zealand,0.6061612286209979,1,1,en,NZ,Oceania
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2025-12-10T03:45:00+00:00,Canada,0.6061021221378808,1,2,en,NEN,North-America
 '7864ddafb8',extremes,Precipitation,#d60d2b,wmo,Downpour Fiordland,2025-12-07T03:47:00+00:00,New Zealand,0.6059526718607298,2,1,en,NZ,Oceania
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2025-12-09T03:41:00+00:00,United Kingdom,0.6057201157747487,1,2,en,NEU,Europe
 '7e40fc6e30',extremes,Drought,#edc291,edo,Lack of Rain Mauritius,2025-12-04T03:42:00+00:00,Mauritius,0.6050885291043258,1,1,en,SIO,Indian Ocean
