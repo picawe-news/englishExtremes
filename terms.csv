@@ -58,7 +58,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18672f438d',extremes,Storm,#b3b2b1,wmo,Storm Surge Marmot Bay,2025-12-11T03:46:00+00:00,United States,0.679361599371173,0,2,en,CNA,North-America
 'b764ce0db1',extremes,Drought,#edc291,edo,Drought Seychelles,2025-11-30T03:47:00+00:00,Seychelles,0.6792704883452421,0,2,en,EIO,Indian Ocean
 '78e1faa9d1',extremes,Snow&Ice,#d60d2b,wmo,Snow Missoula Bitterroot Valleys,2025-12-02T03:41:00+00:00,United States,0.6788500918824304,0,2,en,CNA,North-America
-'90c23693c6',extremes,Wildfire,#d60d2b,acwe,bushfire Queensland,2025-11-30T03:47:00+00:00,Australia,0.6786229991775293,0,2,en,CAU,Oceania
 '042968096b',extremes,Storm,#b3b2b1,wmo,Storm Iceland,2025-12-02T03:41:00+00:00,Iceland,0.6784089228487101,0,2,en,GIC,Europe
 '7317a6d022',extremes,Storm,#b3b2b1,wmo,Storm Surge Western Chippewa Central Chippewa,2025-12-04T03:42:00+00:00,United States,0.6783540682864699,0,2,en,CNA,North-America
 'bc425ed68d',extremes,Storm,#b3b2b1,wmo,Storm South Australia Spencer Gulf,2025-12-05T03:41:00+00:00,Australia,0.6783012666639071,0,2,en,CAU,Oceania
@@ -66,7 +65,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bbf4913d20',extremes,Snow&Ice,#d60d2b,wmo,Avalanche York Lancaster,2025-12-02T03:41:00+00:00,United States,0.6779143019734656,0,2,en,CNA,North-America
 '46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,Downpour Maldives,2025-11-30T03:46:00+00:00,Maldives,0.6775073364875619,0,2,en,EIO,Indian Ocean
 'b5f4dba174',extremes,Drought,#edc291,edo,Lack of Rain British Indian Ocean Territory,2025-11-30T03:47:00+00:00,British Indian Ocean Territory,0.677375182234715,0,2,en,EIO,Indian Ocean
-'4121ea2e8c',extremes,Storm,#b3b2b1,wmo,Storm Marmot Bay,2025-12-09T03:41:00+00:00,United States,0.676967634396562,0,2,en,CNA,North-America
 '11c3be2873',extremes,Storm,#b3b2b1,wmo,Storm Surge Haines Borough and Klukwan,2025-12-06T03:32:00+00:00,United States,0.676871503480212,0,2,en,CNA,North-America
 'd7d22b3962',extremes,Drought,#edc291,edo,Lack of Rain Nigeria,2025-12-03T03:40:00+00:00,Nigeria,0.6767039613005786,0,2,en,WAF,Africa
 'e84ad823fc',extremes,Thunderstorm,#53785a,wmo,Hail Maldives,2025-12-02T03:41:00+00:00,Maldives,0.6766959877192033,0,2,en,EIO,Indian Ocean
@@ -359,6 +357,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c71c50556',extremes,Snow&Ice,#d60d2b,wmo,Frost Valdez Narrows,2025-12-09T03:41:00+00:00,United States,0.5795306633977948,1,1,en,CNA,North-America
 'e05f085e14',extremes,Storm,#b3b2b1,wmo,Storm Surge Shelikof Strait,2025-12-13T03:38:00+00:00,United States,0.5795271176702822,1,1,en,CNA,North-America
 '970631bf41',extremes,Storm,#b3b2b1,wmo,Storm Surge Mason Oceana Muskegon Ottawa,2025-12-02T03:41:00+00:00,United States,0.5786442019987613,1,1,en,CNA,North-America
+'90c23693c6',extremes,Wildfire,#d60d2b,acwe,bushfire Queensland,2025-11-30T03:47:00+00:00,Australia,0.5786297293009,1,2,en,CAU,Oceania
 'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,Freezing Paulatuk,2025-12-12T03:45:00+00:00,Canada,0.5786224465106247,1,1,en,NEN,North-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,Heat Wave Argentina,2025-12-01T04:02:00+00:00,Argentina,0.5782545329257673,1,2,en,SES,South-America
 'c313a67acc',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Warren McKean,2025-12-13T03:38:00+00:00,United States,0.5776545305292166,1,1,en,CNA,North-America
