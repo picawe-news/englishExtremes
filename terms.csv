@@ -26,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fdcca63d76',extremes,Fog,#d60d2b,wmo,Fog Mecklenburg Union,2025-12-08T03:44:00+00:00,United States,0.7066135560774828,1,1,en,CNA,North-America
 '68c47e3afd',extremes,Storm,#b3b2b1,wmo,Storm North and West of Nunivak Island,2025-11-30T03:46:00+00:00,United States,0.7022187783382843,0,2,en,CNA,North-America
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2025-12-18T03:45:00+00:00,Australia,0.7015032924380354,1,1,en,EAU,Oceania
-'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2025-11-30T03:47:00+00:00,Fiji,0.7000005407847144,0,2,en,,
 '02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2025-12-09T03:41:00+00:00,Australia,0.6989640187736852,0,2,en,EAU,Oceania
 '848feeb1bc',extremes,Precipitation,#d60d2b,wmo,Downpour United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.6970361595869964,0,2,en,NEU,Europe
 '99eee4a3b6',extremes,Flood,#030ba1,aidr,Flood Moree New South Wales 2011,2025-12-15T03:54:00+00:00,Australia,0.6959692550079711,0,2,en,EAU,Oceania
