@@ -1,11 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,2,en,SAU,Oceania
-'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.764182308597963,0,2,en,SAU,Oceania
-'4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Grant Katherine floods train derailment chemical spill,2025-12-01T04:03:00+00:00,Australia,0.7545264572744963,0,2,en,NAU,Oceania
-'7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2025-11-30T03:46:00+00:00,New Zealand,0.7537811793125446,0,2,en,NZ,Oceania
-'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2025-11-30T03:46:00+00:00,India,0.753244150246421,0,2,en,SAS,Asia
-'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.7520824601001876,0,2,en,NEU,Europe
-'8982a15e86',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern Territory Barkly North,2025-12-01T04:02:00+00:00,Australia,0.7518322930926343,0,2,en,CAU,Oceania
 'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kancheepuram district of Tamil Nadu,2025-11-30T03:46:00+00:00,India,0.7490105014502165,0,2,en,SAS,Asia
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,0,2,en,CNA,North-America
 '26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,Freezing Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.7439014028071311,0,2,en,NEN,North-America
@@ -40,7 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '848feeb1bc',extremes,Precipitation,#d60d2b,wmo,Downpour United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.6970361595869964,0,2,en,NEU,Europe
 '99eee4a3b6',extremes,Flood,#030ba1,aidr,Flood Moree New South Wales 2011,2025-12-15T03:54:00+00:00,Australia,0.6959692550079711,0,2,en,EAU,Oceania
 '0ad0139b19',extremes,Snow&Ice,#d60d2b,wmo,Frost Kootenai Cabinet Region,2025-12-01T04:02:00+00:00,United States,0.6959027647039461,0,2,en,CNA,North-America
-'fb7c4961bb',extremes,Precipitation,#d60d2b,wmo,Rain Ranges of Westland,2025-12-18T03:44:00+00:00,New Zealand,0.6957732788902025,0,2,en,NZ,Oceania
 '481e050c88',extremes,Drought,#edc291,acwe,low water level Tasmania,2025-12-01T04:03:00+00:00,Australia,0.6944753832458102,0,2,en,SAU,Oceania
 '50d3b02868',extremes,Storm,#b3b2b1,wmo,Storm Surge Bay of Exploits Bonavista North,2025-12-06T03:32:00+00:00,Canada,0.6922228681105907,0,2,en,NEN,North-America
 '5d85dc5645',extremes,Drought,#edc291,edo,Dryness Rwanda,2025-12-16T03:47:00+00:00,Rwanda,0.6899534601730223,0,2,en,SEAF,Africa
@@ -110,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '150d64029a',extremes,Flood,#030ba1,wmo,Flooding Skagit WA,2025-12-12T03:45:00+00:00,United States,0.653156957374535,1,2,en,CNA,North-America
 '5a20612e67',extremes,Drought,#edc291,edo,Lack of Rain Trinidad and Tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.6519061627673073,1,1,en,NSA,North-America
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2025-12-01T04:02:00+00:00,Canada,0.6505177729466308,1,3,en,NEN,North-America
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.6495552473082685,1,1,en,SAU,Oceania
 '99251f8aa7',extremes,Drought,#edc291,edo,Lack of Rain Liberia,2025-12-08T03:45:00+00:00,Liberia,0.6493503420223216,1,1,en,WAF,Africa
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2025-12-06T03:32:00+00:00,Ireland,0.647770051377713,1,3,en,NEU,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2025-12-02T03:41:00+00:00,Canada,0.6462359152741551,1,2,en,NEN,North-America
@@ -328,6 +321,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '583acb6dbf',extremes,Flood,#030ba1,aidr,Flood Gascoyne River Western Australia,2025-12-18T03:45:00+00:00,Australia,0.5940106987291626,1,1,en,CAU,Oceania
 '07eea948e4',extremes,Fog,#d60d2b,wmo,Fog Monterey Bay,2025-12-18T03:44:00+00:00,United States,0.5930720174386143,1,2,en,CNA,North-America
 '11389d1af4',extremes,Flood,#030ba1,aidr,Flood Victoria 2011,2025-12-18T03:45:00+00:00,Australia,0.5924093738946933,1,1,en,SAU,Oceania
+'fb7c4961bb',extremes,Precipitation,#d60d2b,wmo,Rain Ranges of Westland,2025-12-18T03:44:00+00:00,New Zealand,0.5920073470566721,1,2,en,NZ,Oceania
 'f6fe1dce8b',extremes,Storm,#b3b2b1,aidr,Storm Severe Storm Melbourne Victoria February 2011,2025-12-03T03:40:00+00:00,Australia,0.5918502622476711,1,1,en,SAU,Oceania
 'e98bbbbe23',extremes,Drought,#edc291,edo,Drought British Indian Ocean Territory,2025-12-03T03:40:00+00:00,British Indian Ocean Territory,0.5910991456152699,1,1,en,EIO,Indian Ocean
 'd577347130',extremes,Earthquake,#870007,usgs,Earthquake Kirakira,2025-12-03T03:40:00+00:00,Solomon Islands,0.5891696486260087,1,1,en,SPO,Oceania
