@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c766f9dbfa',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kancheepuram district of Tamil Nadu,2025-11-30T03:46:00+00:00,India,0.7490105014502165,0,2,en,SAS,Asia
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,Flashflood Tillamook OR,2025-12-09T03:41:00+00:00,United States,0.7447730055296754,0,2,en,CNA,North-America
 '26ee8382ea',extremes,Snow&Ice,#d60d2b,wmo,Freezing Simcoe Delhi Norfolk,2025-12-01T04:02:00+00:00,Canada,0.7439014028071311,0,2,en,NEN,North-America
 '44c67905ab',extremes,Flood,#030ba1,wmo,Flood Clackamas OR Marion OR,2025-12-13T03:38:00+00:00,United States,0.7434851040372978,4,1,en,CNA,North-America
@@ -80,15 +79,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ac183d289',extremes,Storm,#b3b2b1,wmo,Storm North Snowy Range Foothills,2025-12-01T04:02:00+00:00,United States,0.6741360145904862,0,2,en,CNA,North-America
 'e0ee13f0a6',extremes,Storm,#b3b2b1,wmo,Storm Kachemak Bay,2025-11-30T03:46:00+00:00,United States,0.6738904505505156,0,2,en,CNA,North-America
 '57d5873e48',extremes,Storm,#b3b2b1,wmo,Storm Surge Nain and vicinity,2025-12-19T03:46:00+00:00,Canada,0.6738757750529383,0,2,en,NEN,North-America
-'f97489bce1',extremes,Storm,#b3b2b1,wmo,Storm Shirley Basin,2025-12-09T03:41:00+00:00,United States,0.6736854404679553,0,2,en,CNA,North-America
 '25bb73581e',extremes,Flood,#030ba1,wmo,Flashflood Philippines,2025-12-07T03:47:00+00:00,Philippines,0.6736483029508749,0,2,en,SEA,Asia
 '92829ce601',extremes,Storm,#b3b2b1,wmo,Storm Port of Valdez,2025-12-07T03:47:00+00:00,United States,0.6734469999916242,0,2,en,CNA,North-America
 '7e5dd54b87',extremes,Snow&Ice,#d60d2b,wmo,Freezing Morris,2025-12-02T03:41:00+00:00,United States,0.6734398322389054,0,2,en,CNA,North-America
-'f56fd59374',extremes,Storm,#b3b2b1,wmo,Storm Aklavik Region Inuvik Region,2025-12-12T03:45:00+00:00,Canada,0.6731064708105254,0,2,en,NEN,North-America
 '87ba69f7f2',extremes,Storm,#b3b2b1,wmo,Storm Surge Maldives,2025-12-01T04:02:00+00:00,Maldives,0.6730905668145031,0,2,en,EIO,Indian Ocean
 '11db661ab4',extremes,Thunderstorm,#53785a,wmo,Severe Weather Maldives,2025-12-18T03:44:00+00:00,Maldives,0.6728587919680786,0,2,en,EIO,Indian Ocean
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,Downpour Argentina,2025-12-14T03:49:00+00:00,Argentina,0.6728027582005023,0,2,en,SES,South-America
-'3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2025-12-05T03:41:00+00:00,Kenya,0.6726324434780615,0,2,en,SEAF,Africa
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,Storm Bahrain,2025-12-19T03:46:00+00:00,Bahrain,0.6725790610469954,0,2,en,ARP,Asia
 'b354d99860',extremes,Snow&Ice,#d60d2b,wmo,Snow Ethiopia,2025-12-13T03:38:00+00:00,Ethiopia,0.6724080750345378,0,2,en,NEAF,Africa
 '9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2025-11-27T03:34:00+00:00,Australia,0.6714523306546086,1,2,en,SAU,Oceania
@@ -361,6 +357,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,Storm Vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.5749351251759687,1,2,en,SPO,Oceania
 'e45d3ee02d',extremes,Storm,#b3b2b1,wmo,Storm Surge Treasure Northern Rosebud Custer,2025-12-13T03:38:00+00:00,United States,0.5745434074804311,1,1,en,CNA,North-America
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tanzania,2025-12-11T03:46:00+00:00,Tanzania,0.5733189947598287,1,1,en,SEAF,Africa
+'f97489bce1',extremes,Storm,#b3b2b1,wmo,Storm Shirley Basin,2025-12-09T03:41:00+00:00,United States,0.572632624397762,1,1,en,CNA,North-America
+'f56fd59374',extremes,Storm,#b3b2b1,wmo,Storm Aklavik Region Inuvik Region,2025-12-12T03:45:00+00:00,Canada,0.5721405001889466,1,1,en,NEN,North-America
+'3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2025-12-05T03:41:00+00:00,Kenya,0.5718876069563523,1,2,en,SEAF,Africa
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2025-12-04T03:42:00+00:00,Canada,0.5688601492949282,2,3,en,NEN,North-America
 '9800aef52a',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Canada,2025-12-10T03:45:00+00:00,Canada,0.5608611349284554,2,2,en,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2025-12-06T03:32:00+00:00,Canada,0.5431280379681299,2,3,en,NEN,North-America
