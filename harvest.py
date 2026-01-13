@@ -2,6 +2,7 @@ import mysecrets
 import os
 import sys
 import math
+import re
 
 import pandas as pd
 
@@ -735,6 +736,9 @@ def inqRandomNews(maxCount=1):
     ##  crc = rndKey['crc'].iloc[0]
     crc = rndKey['index'].iloc[0]
     keyWord = rndKey['term'].iloc[0]
+    keyWord = re.sub('\. OR$', '', keyWord)  ## newsapi don"t allow OR  at the end
+    keyWord = re.sub('\. AND$', '', keyWord) ## newsapi don"t allow AND at the end
+    
     feed = rndKey['feed'].iloc[0]
     topic = rndKey['topic'].iloc[0]
     country = rndKey['country'].iloc[0]
