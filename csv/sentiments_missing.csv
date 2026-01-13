@@ -1,0 +1,80 @@
+,phrase,label,sentiment,subjectivity,language,count
+Australian,Australian,NORP,,,en,4.3999999999999995
+Saturday,Saturday,DATE,,,en,4.2
+Friday,Friday,DATE,,,en,2.8
+first,first,ORDINAL,,,en,2.6
+the Black Summer,the Black Summer,EVENT,,,en,1.9
+40 degrees Celsius,40 degrees Celsius,QUANTITY,,,en,1.9
+45C,45C,FAC,,,en,1.9
+the summer of 2019,the summer of 2019,DATE,,,en,1.9
+2020,2020,DATE,,,en,1.9
+tomorrow,tomorrow,DATE,,,en,1.8
+Millions,Millions,CARDINAL,,,en,1.8
+winter,winter,DATE,,,en,1.8
+morning,morning,TIME,,,en,1.8
+Tuesday,Tuesday,DATE,,,en,1.8
+next year,next year,DATE,,,en,1.8
+45%,45%,PERCENT,,,en,1.8
+one,one,CARDINAL,,,en,1.8
+40C,40C,CARDINAL,,,en,1.8
+today,today,DATE,,,en,1.8
+thousands,thousands,CARDINAL,,,en,1.8
+6.0,6.0,CARDINAL,,,en,1.0
+last year,last year,DATE,,,en,1.0
+"120,000","120,000",CARDINAL,,,en,1.0
+Christmas Day,Christmas Day,DATE,,,en,1.0
+Christmas,Christmas,DATE,,,en,1.0
+last summer,last summer,DATE,,,en,1.0
+6 months later,6 months later,DATE,,,en,1.0
+36 Inches,36 Inches,QUANTITY,,,en,1.0
+the past several weeks,the past several weeks,DATE,,,en,1.0
+South Australian,South Australian,NORP,,,en,1.0
+New Year’s eve,New Year’s eve,EVENT,,,en,1.0
+48 Inches,48 Inches,QUANTITY,,,en,1.0
+this winter,this winter,DATE,,,en,1.0
+Thousands,Thousands,CARDINAL,,,en,1.0
+the coming days,the coming days,DATE,,,en,1.0
+weeks,weeks,DATE,,,en,1.0
+Port Pirie,Port Pirie,FAC,,,en,1.0
+Thursday,Thursday,DATE,,,en,1.0
+Tropical Cyclone Fina,Tropical Cyclone Fina,NORP,,,en,1.0
+four,four,CARDINAL,,,en,1.0
+47C,47C,MONEY,,,en,1.0
+this weekend,this weekend,DATE,,,en,1.0
+Three,Three,CARDINAL,,,en,1.0
+weekend,weekend,DATE,,,en,1.0
+decades,decades,DATE,,,en,1.0
+this week,this week,DATE,,,en,1.0
+hundreds,hundreds,CARDINAL,,,en,1.0
+Sunday,Sunday,DATE,,,en,1.0
+November,November,DATE,,,en,1.0
+996,996,CARDINAL,,,en,1.0
+about 9 miles,about 9 miles,QUANTITY,,,en,1.0
+magnitude-7.0,magnitude-7.0,PRODUCT,,,en,1.0
+roughly 30 miles,roughly 30 miles,QUANTITY,,,en,1.0
+the year,the year,DATE,,,en,1.0
+this year,this year,DATE,,,en,1.0
+40 degrees,40 degrees,QUANTITY,,,en,1.0
+Thanksgiving Day,Thanksgiving Day,DATE,,,en,1.0
+the summer,the summer,DATE,,,en,1.0
+this season,this season,DATE,,,en,1.0
+Indian,Indian,NORP,,,en,1.0
+the 2026 Winter Olympics,the 2026 Winter Olympics,EVENT,,,en,1.0
+7.0,7.0,CARDINAL,,,en,1.0
+the morning hours,the morning hours,TIME,,,en,1.0
+24 Hours,24 Hours,TIME,,,en,1.0
+Canadian,Canadian,NORP,,,en,1.0
+1792,1792,DATE,,,en,1.0
+Yukon,Yukon,FAC,,,en,1.0
+Eight,Eight,CARDINAL,,,en,1.0
+more than 50,more than 50,CARDINAL,,,en,1.0
+between Friday and Sunday,between Friday and Sunday,DATE,,,en,1.0
+up to,up to,QUANTITY,,,en,1.0
+120kmh,120kmh,QUANTITY,,,en,1.0
+yesterday,yesterday,DATE,,,en,1.0
+"almost 60,000","almost 60,000",CARDINAL,,,en,1.0
+Israeli,Israeli,NORP,,,en,1.0
+Asia In Brief,Asia In Brief,EVENT,,,en,1.0
+Monday ResearchBuzz,Monday ResearchBuzz,DATE,,,en,1.0
+"December 15, 2025","December 15, 2025",DATE,,,en,1.0
+dozens,dozens,CARDINAL,,,en,1.0

@@ -1,0 +1,12 @@
+,phrase,label,sentiment,subjectivity,language,count
+Storm Goretti,Storm Goretti,PERSON,-0.22413793103448282,0.4655172413793104,en,5.8
+Storm Bram,Storm Bram,PERSON,0.12179487179487178,0.19871794871794868,en,2.6
+Brock Nelson,Brock Nelson,PERSON,0.1273148148148148,0.9004629629629629,en,1.8
+Port Pirie,Port Pirie,PERSON,-0.07777777777777779,0.14444444444444446,en,1.0
+Narayana Murthy,Narayana Murthy,PERSON,0.0,0.3333333333333333,en,1.0
+Scott Wedgewood,Scott Wedgewood,PERSON,0.5125,0.675,en,1.0
+Mackenzie Blackwood,Mackenzie Blackwood,PERSON,0.5125,0.675,en,1.0
+Storm Éowyn,Storm Éowyn,PERSON,0.5,0.5,en,1.0
+Ahmed al Ahmed,Ahmed al Ahmed,PERSON,-0.4000000000000001,0.6,en,1.0
+Ezra As,Ezra As,PERSON,0.3666666666666667,0.45,en,1.0
+Met Éireann,Met Éireann,PERSON,0.0,1.0,en,1.0

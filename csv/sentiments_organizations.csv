@@ -1,0 +1,27 @@
+,phrase,label,sentiment,subjectivity,language,count
+Avalanche Canada,Avalanche Canada,ORG,0.275974025974026,0.3246753246753247,en,2.8
+Infosys,Infosys,ORG,0.0,0.18518518518518517,en,1.8
+Environment Canada,Environment Canada,ORG,0.2881562881562882,0.31746031746031744,en,1.8
+Cyclone Fina,Cyclone Fina,ORG,0.0,0.0,en,1.0
+Magnitude-7.0 Earthquake Hit Remote Area Along,Magnitude-7.0 Earthquake Hit Remote Area Along,ORG,-0.1,0.0,en,1.0
+Snow Approach,Snow Approach,ORG,0.0,0.0,en,1.0
+National Weather Service Issues ',National Weather Service Issues ',ORG,0.0,0.0,en,1.0
+NSW,NSW,ORG,-0.0625,0.0,en,1.0
+Lower Mainland,Lower Mainland,ORG,0.0,0.0,en,1.0
+The Motley Fool Australia,The Motley Fool Australia,ORG,0.275,0.0,en,1.0
+Reddit,Reddit,ORG,0.5,0.0,en,1.0
+Elon Musk's AI Chatbot Grok,Elon Musk's AI Chatbot Grok,ORG,-0.4000000000000001,0.0,en,1.0
+Elon Musk's,Elon Musk's,ORG,0.0,0.0,en,1.0
+Earthquakes Strike Alaska,Earthquakes Strike Alaska,ORG,0.0,0.0,en,1.0
+Reuters,Reuters,ORG,-0.3,0.0,en,1.0
+USGS,USGS,ORG,0.0,0.0,en,1.0
+U.S. Olympic,U.S. Olympic,ORG,0.25,0.0,en,1.0
+Avalanche Journal,Avalanche Journal,ORG,0.25,0.0,en,1.0
+Google,Google,ORG,0.5,0.0,en,1.0
+Susitna,Susitna,ORG,0.0,0.0,en,1.0
+Team Canada's,Team Canada's,ORG,0.5125,0.0,en,1.0
+NHL,NHL,ORG,0.5125,0.0,en,1.0
+Blackwood for Olympic Glory,Blackwood for Olympic Glory,ORG,0.0,0.0,en,1.0
+EU,EU,ORG,0.7125,0.0,en,1.0
+Woman's,Woman's,ORG,0.1,0.0,en,1.0
+Status Yellow,Status Yellow,ORG,-0.1,0.0,en,1.0
