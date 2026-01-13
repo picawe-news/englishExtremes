@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,4,1,en,CNA,North-America
 '8ba9ae33f7',extremes,Heat Wave,#c40202,acwe,heatwave Australia,2025-11-26T03:37:00+00:00,Australia,0.68963423184449,1,2,en,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,heavy rain Northern Territory,2025-11-26T03:37:00+00:00,Australia,0.6804189318813569,1,2,en,CAU,Oceania
-'e16f88d8d0',extremes,Storm,#b3b2b1,wmo,Storm Surge Barren Islands East,2025-12-07T03:47:00+00:00,United States,0.6800144567340615,0,2,en,CNA,North-America
 '18672f438d',extremes,Storm,#b3b2b1,wmo,Storm Surge Marmot Bay,2025-12-11T03:46:00+00:00,United States,0.679361599371173,0,2,en,CNA,North-America
 'b764ce0db1',extremes,Drought,#edc291,edo,Drought Seychelles,2025-11-30T03:47:00+00:00,Seychelles,0.6792704883452421,0,2,en,EIO,Indian Ocean
 '042968096b',extremes,Storm,#b3b2b1,wmo,Storm Iceland,2025-12-02T03:41:00+00:00,Iceland,0.6784089228487101,0,2,en,GIC,Europe
