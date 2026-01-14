@@ -8,10 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,Flashflood Washington OR,2025-12-19T03:46:00+00:00,United States,0.7367012195532576,2,1,en,CNA,North-America
 '6be0c66131',extremes,Flood,#030ba1,wmo,Flashflood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7344180988935006,2,1,en,CNA,North-America
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,4,1,en,CNA,North-America
-'46e78fc4cd',extremes,Precipitation,#d60d2b,wmo,Downpour Maldives,2025-11-30T03:46:00+00:00,Maldives,0.6775073364875619,0,2,en,EIO,Indian Ocean
-'b5f4dba174',extremes,Drought,#edc291,edo,Lack of Rain British Indian Ocean Territory,2025-11-30T03:47:00+00:00,British Indian Ocean Territory,0.677375182234715,0,2,en,EIO,Indian Ocean
-'11c3be2873',extremes,Storm,#b3b2b1,wmo,Storm Surge Haines Borough and Klukwan,2025-12-06T03:32:00+00:00,United States,0.676871503480212,0,2,en,CNA,North-America
-'d7d22b3962',extremes,Drought,#edc291,edo,Lack of Rain Nigeria,2025-12-03T03:40:00+00:00,Nigeria,0.6767039613005786,0,2,en,WAF,Africa
 'e84ad823fc',extremes,Thunderstorm,#53785a,wmo,Hail Maldives,2025-12-02T03:41:00+00:00,Maldives,0.6766959877192033,0,2,en,EIO,Indian Ocean
 '2072c25fd3',extremes,Drought,#edc291,edo,Dry Spell Guyana,2025-12-04T03:42:00+00:00,Guyana,0.6766339588782246,0,2,en,NSA,South-America
 'b1e00975bd',extremes,Drought,#edc291,edo,Dry Spell Saint Helena,2025-12-12T03:46:00+00:00,Saint Helena,0.6765767741910828,0,2,en,SAO,Atlantic Ocean
@@ -276,6 +272,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bc425ed68d',extremes,Storm,#b3b2b1,wmo,Storm South Australia Spencer Gulf,2025-12-05T03:41:00+00:00,Australia,0.5767060916643211,1,2,en,CAU,Oceania
 '54e7f6f565',extremes,Storm,#b3b2b1,wmo,Storm Surge Bering Sea Offshore East of 171W,2025-12-16T03:47:00+00:00,United States,0.5764781503056511,1,1,en,CNA,North-America
 'a9144dcd4c',extremes,Snow&Ice,#d60d2b,wmo,Ice Quaqtaq,2025-12-09T03:41:00+00:00,Canada,0.5763939966834175,1,1,en,NEN,North-America
+'d7d22b3962',extremes,Drought,#edc291,edo,Lack of Rain Nigeria,2025-12-03T03:40:00+00:00,Nigeria,0.5754984121054919,1,2,en,WAF,Africa
+'11c3be2873',extremes,Storm,#b3b2b1,wmo,Storm Surge Haines Borough and Klukwan,2025-12-06T03:32:00+00:00,United States,0.5753407779581802,1,1,en,CNA,North-America
 '5a6fe8ff00',extremes,Snow&Ice,#d60d2b,wmo,Snow James Bay and La Grande River,2025-12-08T03:44:00+00:00,Canada,0.5750284693733476,1,1,en,NEN,North-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,Storm Vanuatu,2025-12-06T03:32:00+00:00,Vanuatu,0.5749351251759687,1,2,en,SPO,Oceania
 'e45d3ee02d',extremes,Storm,#b3b2b1,wmo,Storm Surge Treasure Northern Rosebud Custer,2025-12-13T03:38:00+00:00,United States,0.5745434074804311,1,1,en,CNA,North-America
