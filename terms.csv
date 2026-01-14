@@ -1,5 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'b747714817',extremes,Cold Wave,#a7e9fa,acwe,coldwave Victoria,2025-12-04T03:42:00+00:00,Australia,0.7839441687395238,0,1,en,SAU,Oceania
 '4d61ebcdfd',extremes,Flood,#030ba1,wmo,Flooding Grays Harbor WA,2025-12-11T03:46:00+00:00,United States,0.7722018498133069,2,2,en,CNA,North-America
+'4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Grant Katherine floods train derailment chemical spill,2025-12-01T04:03:00+00:00,Australia,0.7545264572744963,0,1,en,NAU,Oceania
+'7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2025-11-30T03:46:00+00:00,New Zealand,0.7537811793125446,0,1,en,NZ,Oceania
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2025-11-30T03:46:00+00:00,India,0.753244150246421,0,1,en,SAS,Asia
+'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2025-11-30T03:46:00+00:00,United Kingdom,0.7520824601001876,0,1,en,NEU,Europe
+'3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2025-12-03T03:40:00+00:00,Canada,0.7519105461496318,0,1,en,NEN,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
