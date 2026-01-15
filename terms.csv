@@ -1,4 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ebe314dd99',extremes,Flood,#030ba1,aidr,Heavy rainfall and floods Queensland February 2020,2026-01-15T10:57:00+00:00,Australia,0.791788862104919,0,1,en,EAU,Oceania
+'3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-01-15T10:57:00+00:00,Australia,0.7917676672171993,0,1,en,EAU,Oceania
+'c797f587a9',extremes,Flood,#030ba1,aidr,Flood Boonah Queensland,2026-01-15T10:57:00+00:00,Australia,0.7913253748500657,0,1,en,EAU,Oceania
+'ebe3f8a23f',extremes,Drought,#edc291,edo,Lack of Rain Kiribati,2026-01-15T10:57:00+00:00,Kiribati,0.7905904974824074,0,1,en,EAO,Atlantic Ocean
+'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.7905117858643235,0,1,en,WAF,Africa
+'99549776e6',extremes,Drought,#edc291,edo,Drought Papua New Guinea,2026-01-15T10:57:00+00:00,Papua New Guinea,0.7904923536199646,0,1,en,EPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
@@ -276,8 +282,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bfbd1e28d',extremes,Drought,#edc291,edo,Dryness Kiribati,2025-12-16T03:47:00+00:00,Kiribati,0.5161937778720606,2,1,en,EAO,Atlantic Ocean
 '4677f8ea9f',extremes,Snow&Ice,#d60d2b,wmo,Snow Sydney Metro and Cape Breton County,2025-12-16T03:47:00+00:00,Canada,0.4980890786654281,2,1,en,NEN,North-America
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,coldest year,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,en,,
-'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.25669966665781385,0,1,en,,
-'95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,en,,
+'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,en,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,en,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record cold,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,en,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arctic sea ice,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,en,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,en,,
