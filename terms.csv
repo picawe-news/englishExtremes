@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4d61ebcdfd',extremes,Flood,#030ba1,wmo,Flooding Grays Harbor WA,2025-12-11T03:46:00+00:00,United States,0.7722018498133069,2,2,en,CNA,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
@@ -9,9 +8,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6be0c66131',extremes,Flood,#030ba1,wmo,Flashflood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7344180988935006,2,1,en,CNA,North-America
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,4,1,en,CNA,North-America
 'b6dd0cd9ce',extremes,Earthquake,#870007,usgs,Earthquake Susitna,2025-11-29T03:34:00+00:00,United States,0.6582906566184543,1,2,en,NWN,North-America
-'5a20612e67',extremes,Drought,#edc291,edo,Lack of Rain Trinidad and Tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.6519061627673073,1,1,en,NSA,North-America
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.6526222602120282,2,2,en,SAU,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2025-12-01T04:02:00+00:00,Canada,0.6505177729466308,1,3,en,NEN,North-America
-'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.6495552473082685,1,1,en,SAU,Oceania
 '99251f8aa7',extremes,Drought,#edc291,edo,Lack of Rain Liberia,2025-12-08T03:45:00+00:00,Liberia,0.6493503420223216,1,1,en,WAF,Africa
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2025-12-06T03:32:00+00:00,Ireland,0.647770051377713,1,3,en,NEU,Europe
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2025-12-07T03:47:00+00:00,United States,0.6463546295521979,2,2,en,CNA,North-America
