@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ebe314dd99',extremes,Flood,#030ba1,aidr,Heavy rainfall and floods Queensland February 2020,2026-01-15T10:57:00+00:00,Australia,0.791788862104919,0,1,en,EAU,Oceania
-'3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-01-15T10:57:00+00:00,Australia,0.7917676672171993,0,1,en,EAU,Oceania
+'3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-01-15T10:57:00+00:00,Australia,0.7972777571346193,1,2,en,EAU,Oceania
 'c797f587a9',extremes,Flood,#030ba1,aidr,Flood Boonah Queensland,2026-01-15T10:57:00+00:00,Australia,0.7913253748500657,0,1,en,EAU,Oceania
 'ebe3f8a23f',extremes,Drought,#edc291,edo,Lack of Rain Kiribati,2026-01-15T10:57:00+00:00,Kiribati,0.7905904974824074,0,1,en,EAO,Atlantic Ocean
 'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.7905117858643235,0,1,en,WAF,Africa
