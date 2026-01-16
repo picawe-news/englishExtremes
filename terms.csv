@@ -1,4 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
+'2fa9116266',extremes,Earthquake,#870007,usgs,Earthquake Port Alsworth,2026-01-15T12:13:00+00:00,United States,0.7913418319897825,0,1,en,NWN,North-America
+'ad41fee440',extremes,Earthquake,#870007,usgs,Earthquake Lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.7912918593022662,0,1,en,SPO,Oceania
+'3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-01-15T10:56:00+00:00,India,0.7911086436836171,0,1,en,SAS,Asia
+'f199635353',extremes,Earthquake,#870007,usgs,Earthquake Morigaon,2026-01-15T10:56:00+00:00,India,0.7909490139778838,0,1,en,SAS,Asia
+'08226562a9',extremes,Earthquake,#870007,usgs,Earthquake Fais,2026-01-15T10:56:00+00:00,Micronesia,0.7908601593325073,0,1,en,NPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
@@ -266,4 +272,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record cold,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,en,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arctic sea ice,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,en,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,en,,
-'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,coldest year,2026-01-15T10:20:00+00:00,,0.24173230842379567,1,2,en,,
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,coldest year,2026-01-15T10:20:00+00:00,,0.2417323084237956,1,2,en,,
