@@ -1,4 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
+'f4e7397282',extremes,Tsunami,#690191,usgs,Tsunami Port Alsworth,2026-01-15T10:56:00+00:00,United States,0.7915577344561969,0,1,en,NWN,North-America
+'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,Tsunami Yakutat,2026-01-15T10:56:00+00:00,Canada,0.7915264636869044,0,1,en,NWN,North-America
+'c605f8759a',extremes,Earthquake,#870007,usgs,Earthquake Guam,2026-01-15T10:56:00+00:00,Guam,0.7915118096637802,0,1,en,NPO,Pacific Ocean
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7914692502450328,0,1,en,EPO,Pacific Ocean
+'6bf5e2061d',extremes,Earthquake,#870007,usgs,Earthquake Castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.7914342141817913,0,1,en,NZ,Oceania
 'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.780127980127532,1,2,en,WAF,Africa
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
