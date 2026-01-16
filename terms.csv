@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
-'2fa9116266',extremes,Earthquake,#870007,usgs,Earthquake Port Alsworth,2026-01-15T12:13:00+00:00,United States,0.7913418319897825,0,1,en,NWN,North-America
-'ad41fee440',extremes,Earthquake,#870007,usgs,Earthquake Lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.7912918593022662,0,1,en,SPO,Oceania
-'3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-01-15T10:56:00+00:00,India,0.7911086436836171,0,1,en,SAS,Asia
 'f199635353',extremes,Earthquake,#870007,usgs,Earthquake Morigaon,2026-01-15T10:56:00+00:00,India,0.7909490139778838,0,1,en,SAS,Asia
 '08226562a9',extremes,Earthquake,#870007,usgs,Earthquake Fais,2026-01-15T10:56:00+00:00,Micronesia,0.7908601593325073,0,1,en,NPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
@@ -13,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,Flashflood Washington OR,2025-12-19T03:46:00+00:00,United States,0.7367012195532576,2,1,en,CNA,North-America
 '6be0c66131',extremes,Flood,#030ba1,wmo,Flashflood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7344180988935006,2,1,en,CNA,North-America
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,4,1,en,CNA,North-America
+'3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-01-15T10:56:00+00:00,India,0.6910299707674382,1,2,en,SAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.6870094286242827,1,2,en,NZ,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-01-15T10:57:00+00:00,Australia,0.6776863485644264,2,1,en,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,Heavy rainfall and floods Queensland February 2020,2026-01-15T10:57:00+00:00,Australia,0.6730205327891811,1,1,en,EAU,Oceania
@@ -23,7 +20,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c605f8759a',extremes,Earthquake,#870007,usgs,Earthquake Guam,2026-01-15T10:56:00+00:00,Guam,0.6727850382142132,1,1,en,NPO,Pacific Ocean
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.6727488627082778,1,1,en,EPO,Pacific Ocean
 '6bf5e2061d',extremes,Earthquake,#870007,usgs,Earthquake Castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.6727190820545226,1,1,en,NZ,Oceania
+'2fa9116266',extremes,Earthquake,#870007,usgs,Earthquake Port Alsworth,2026-01-15T12:13:00+00:00,United States,0.6726405571913151,1,1,en,NWN,North-America
 'c797f587a9',extremes,Flood,#030ba1,aidr,Flood Boonah Queensland,2026-01-15T10:57:00+00:00,Australia,0.6726265686225559,1,1,en,EAU,Oceania
+'ad41fee440',extremes,Earthquake,#870007,usgs,Earthquake Lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.6725980804069263,1,1,en,SPO,Oceania
 'ebe3f8a23f',extremes,Drought,#edc291,edo,Lack of Rain Kiribati,2026-01-15T10:57:00+00:00,Kiribati,0.6720019228600462,1,1,en,EAO,Atlantic Ocean
 'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.6641588881084023,2,2,en,WAF,Africa
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.6526222602120282,2,2,en,SAU,Oceania
