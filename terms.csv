@@ -1,13 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
-'08226562a9',extremes,Earthquake,#870007,usgs,Earthquake Fais,2026-01-15T10:56:00+00:00,Micronesia,0.7908601593325073,0,1,en,NPO,Pacific Ocean
-'0816dd344b',extremes,Earthquake,#870007,usgs,Earthquake Lae,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7907449443704075,0,1,en,SEA,Asia
-'3c0d8a70ba',extremes,Earthquake,#870007,usgs,Earthquake Finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.7905004784201181,0,1,en,SEA,Asia
-'99549776e6',extremes,Drought,#edc291,edo,Drought Papua New Guinea,2026-01-15T10:57:00+00:00,Papua New Guinea,0.7904923536199646,0,1,en,EPO,Pacific Ocean
-'5a7935db1c',extremes,Drought,#edc291,edo,Drought Eswatini,2026-01-15T10:57:00+00:00,Eswatini,0.7904888969021961,0,1,en,ESAF,Africa
-'bba49c53eb',extremes,Drought,#edc291,edo,Lack of Rain Norfolk Island,2026-01-15T10:57:00+00:00,Norfolk Island,0.7904803375997337,0,1,en,SPO,Pacific Ocean
-'fd25f2baec',extremes,Drought,#edc291,edo,Dryness Seychelles,2026-01-15T10:57:00+00:00,Seychelles,0.7904701642260015,0,1,en,EIO,Indian Ocean
-'93760c82eb',extremes,Drought,#edc291,edo,Dryness Lesotho,2026-01-15T10:57:00+00:00,Lesotho,0.7904631289348202,0,1,en,ESAF,Africa
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
@@ -16,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,Flashflood Washington OR,2025-12-19T03:46:00+00:00,United States,0.7367012195532576,2,1,en,CNA,North-America
 '6be0c66131',extremes,Flood,#030ba1,wmo,Flashflood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7344180988935006,2,1,en,CNA,North-America
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,4,1,en,CNA,North-America
-'982d97b8ec',extremes,Earthquake,#870007,usgs,Earthquake Susanville,2026-01-15T12:13:00+00:00,United States,0.722593425721035,1,1,en,WNA,North-America
 'f199635353',extremes,Earthquake,#870007,usgs,Earthquake Morigaon,2026-01-15T10:56:00+00:00,India,0.7116068418812012,1,1,en,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-01-15T10:56:00+00:00,India,0.6910299707674382,1,2,en,SAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.6870094286242827,1,2,en,NZ,Oceania
@@ -32,7 +22,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2fa9116266',extremes,Earthquake,#870007,usgs,Earthquake Port Alsworth,2026-01-15T12:13:00+00:00,United States,0.6726405571913151,1,1,en,NWN,North-America
 'c797f587a9',extremes,Flood,#030ba1,aidr,Flood Boonah Queensland,2026-01-15T10:57:00+00:00,Australia,0.6726265686225559,1,1,en,EAU,Oceania
 'ad41fee440',extremes,Earthquake,#870007,usgs,Earthquake Lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.6725980804069263,1,1,en,SPO,Oceania
+'08226562a9',extremes,Earthquake,#870007,usgs,Earthquake Fais,2026-01-15T10:56:00+00:00,Micronesia,0.6722311354326312,1,1,en,NPO,Pacific Ocean
+'0816dd344b',extremes,Earthquake,#870007,usgs,Earthquake Lae,2026-01-15T10:56:00+00:00,Papua New Guinea,0.6721332027148464,1,1,en,SEA,Asia
 'ebe3f8a23f',extremes,Drought,#edc291,edo,Lack of Rain Kiribati,2026-01-15T10:57:00+00:00,Kiribati,0.6720019228600462,1,1,en,EAO,Atlantic Ocean
+'3c0d8a70ba',extremes,Earthquake,#870007,usgs,Earthquake Finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.6719254066571003,1,1,en,SEA,Asia
+'99549776e6',extremes,Drought,#edc291,edo,Drought Papua New Guinea,2026-01-15T10:57:00+00:00,Papua New Guinea,0.6719185005769699,1,1,en,EPO,Pacific Ocean
+'5a7935db1c',extremes,Drought,#edc291,edo,Drought Eswatini,2026-01-15T10:57:00+00:00,Eswatini,0.6719155623668667,1,1,en,ESAF,Africa
+'bba49c53eb',extremes,Drought,#edc291,edo,Lack of Rain Norfolk Island,2026-01-15T10:57:00+00:00,Norfolk Island,0.6719082869597736,1,1,en,SPO,Pacific Ocean
+'fd25f2baec',extremes,Drought,#edc291,edo,Dryness Seychelles,2026-01-15T10:57:00+00:00,Seychelles,0.6718996395921012,1,1,en,EIO,Indian Ocean
+'93760c82eb',extremes,Drought,#edc291,edo,Dryness Lesotho,2026-01-15T10:57:00+00:00,Lesotho,0.6718936595945971,1,1,en,ESAF,Africa
+'982d97b8ec',extremes,Earthquake,#870007,usgs,Earthquake Susanville,2026-01-15T12:13:00+00:00,United States,0.6646544718628797,2,1,en,WNA,North-America
 'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.6641588881084023,2,2,en,WAF,Africa
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.6526222602120282,2,2,en,SAU,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2025-12-01T04:02:00+00:00,Canada,0.6505177729466308,1,3,en,NEN,North-America
