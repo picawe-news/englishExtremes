@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'08226562a9',extremes,Earthquake,#870007,usgs,Earthquake Fais,2026-01-15T10:56:00+00:00,Micronesia,0.7908601593325073,0,1,en,NPO,Pacific Ocean
-'982d97b8ec',extremes,Earthquake,#870007,usgs,Earthquake Susanville,2026-01-15T12:13:00+00:00,United States,0.7907569008482765,0,1,en,WNA,North-America
 '0816dd344b',extremes,Earthquake,#870007,usgs,Earthquake Lae,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7907449443704075,0,1,en,SEA,Asia
 '3c0d8a70ba',extremes,Earthquake,#870007,usgs,Earthquake Finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.7905004784201181,0,1,en,SEA,Asia
 '99549776e6',extremes,Drought,#edc291,edo,Drought Papua New Guinea,2026-01-15T10:57:00+00:00,Papua New Guinea,0.7904923536199646,0,1,en,EPO,Pacific Ocean
@@ -12,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,Flashflood Washington OR,2025-12-19T03:46:00+00:00,United States,0.7367012195532576,2,1,en,CNA,North-America
 '6be0c66131',extremes,Flood,#030ba1,wmo,Flashflood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7344180988935006,2,1,en,CNA,North-America
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,4,1,en,CNA,North-America
+'982d97b8ec',extremes,Earthquake,#870007,usgs,Earthquake Susanville,2026-01-15T12:13:00+00:00,United States,0.722593425721035,1,1,en,WNA,North-America
 'f199635353',extremes,Earthquake,#870007,usgs,Earthquake Morigaon,2026-01-15T10:56:00+00:00,India,0.7116068418812012,1,1,en,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-01-15T10:56:00+00:00,India,0.6910299707674382,1,2,en,SAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.6870094286242827,1,2,en,NZ,Oceania
