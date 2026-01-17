@@ -1,7 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
+'08226562a9',extremes,Earthquake,#870007,usgs,Earthquake Fais,2026-01-15T10:56:00+00:00,Micronesia,0.7908601593325073,0,1,en,NPO,Pacific Ocean
 '0816dd344b',extremes,Earthquake,#870007,usgs,Earthquake Lae,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7907449443704075,0,1,en,SEA,Asia
 '3c0d8a70ba',extremes,Earthquake,#870007,usgs,Earthquake Finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.7905004784201181,0,1,en,SEA,Asia
 '99549776e6',extremes,Drought,#edc291,edo,Drought Papua New Guinea,2026-01-15T10:57:00+00:00,Papua New Guinea,0.7904923536199646,0,1,en,EPO,Pacific Ocean
+'5a7935db1c',extremes,Drought,#edc291,edo,Drought Eswatini,2026-01-15T10:57:00+00:00,Eswatini,0.7904888969021961,0,1,en,ESAF,Africa
+'bba49c53eb',extremes,Drought,#edc291,edo,Lack of Rain Norfolk Island,2026-01-15T10:57:00+00:00,Norfolk Island,0.7904803375997337,0,1,en,SPO,Pacific Ocean
+'fd25f2baec',extremes,Drought,#edc291,edo,Dryness Seychelles,2026-01-15T10:57:00+00:00,Seychelles,0.7904701642260015,0,1,en,EIO,Indian Ocean
+'93760c82eb',extremes,Drought,#edc291,edo,Dryness Lesotho,2026-01-15T10:57:00+00:00,Lesotho,0.7904631289348202,0,1,en,ESAF,Africa
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
