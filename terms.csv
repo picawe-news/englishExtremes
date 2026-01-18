@@ -1,10 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
-'8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2026-01-15T10:56:00+00:00,Fiji,0.7913542231430383,0,1,en,SPO,Pacific Ocean
-'5a7935db1c',extremes,Drought,#edc291,edo,Drought Eswatini,2026-01-15T10:57:00+00:00,Eswatini,0.7904888969021961,0,1,en,ESAF,Africa
-'474905c6c6',extremes,Drought,#edc291,edo,Lack of Rain Namibia,2026-01-15T10:57:00+00:00,Namibia,0.7903176278592804,0,1,en,WSAF,Africa
-'04bee72edb',extremes,Drought,#edc291,edo,Lack of Rain Antigua and Barbuda,2026-01-15T10:57:00+00:00,Antigua and Barbuda,0.7902663262789791,0,1,en,CAR,North-America
-'7e642c0883',extremes,Drought,#edc291,edo,Dry Spell Anguilla,2026-01-15T10:57:00+00:00,Anguilla,0.7902648081698089,0,1,en,CAR,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
@@ -15,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,4,1,en,CNA,North-America
 'f199635353',extremes,Earthquake,#870007,usgs,Earthquake Morigaon,2026-01-15T10:56:00+00:00,India,0.7116068418812012,1,1,en,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-01-15T10:56:00+00:00,India,0.6910299707674382,1,2,en,SAS,Asia
-'2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.6870094286242827,1,2,en,NZ,Oceania
 '6797a9705d',extremes,Drought,#edc291,edo,Drought Jamaica,2026-01-15T10:57:00+00:00,Jamaica,0.6816308629020777,1,2,en,CAR,North-America
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-01-15T10:57:00+00:00,Australia,0.6776863485644264,2,1,en,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,Heavy rainfall and floods Queensland February 2020,2026-01-15T10:57:00+00:00,Australia,0.6730205327891811,1,1,en,EAU,Oceania
@@ -26,6 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c605f8759a',extremes,Earthquake,#870007,usgs,Earthquake Guam,2026-01-15T10:56:00+00:00,Guam,0.6727850382142132,1,1,en,NPO,Pacific Ocean
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.6727488627082778,1,1,en,EPO,Pacific Ocean
 '6bf5e2061d',extremes,Earthquake,#870007,usgs,Earthquake Castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.6727190820545226,1,1,en,NZ,Oceania
+'8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2026-01-15T10:56:00+00:00,Fiji,0.6726510896715825,1,1,en,SPO,Pacific Ocean
 '2fa9116266',extremes,Earthquake,#870007,usgs,Earthquake Port Alsworth,2026-01-15T12:13:00+00:00,United States,0.6726405571913151,1,1,en,NWN,North-America
 'c797f587a9',extremes,Flood,#030ba1,aidr,Flood Boonah Queensland,2026-01-15T10:57:00+00:00,Australia,0.6726265686225559,1,1,en,EAU,Oceania
 'ad41fee440',extremes,Earthquake,#870007,usgs,Earthquake Lata,2026-01-15T10:56:00+00:00,Solomon Islands,0.6725980804069263,1,1,en,SPO,Oceania
@@ -34,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ebe3f8a23f',extremes,Drought,#edc291,edo,Lack of Rain Kiribati,2026-01-15T10:57:00+00:00,Kiribati,0.6720019228600462,1,1,en,EAO,Atlantic Ocean
 '3c0d8a70ba',extremes,Earthquake,#870007,usgs,Earthquake Finschhafen,2026-01-15T12:13:00+00:00,Papua New Guinea,0.6719254066571003,1,1,en,SEA,Asia
 '99549776e6',extremes,Drought,#edc291,edo,Drought Papua New Guinea,2026-01-15T10:57:00+00:00,Papua New Guinea,0.6719185005769699,1,1,en,EPO,Pacific Ocean
+'5a7935db1c',extremes,Drought,#edc291,edo,Drought Eswatini,2026-01-15T10:57:00+00:00,Eswatini,0.6719155623668667,1,1,en,ESAF,Africa
 'bba49c53eb',extremes,Drought,#edc291,edo,Lack of Rain Norfolk Island,2026-01-15T10:57:00+00:00,Norfolk Island,0.6719082869597736,1,1,en,SPO,Pacific Ocean
 'fd25f2baec',extremes,Drought,#edc291,edo,Dryness Seychelles,2026-01-15T10:57:00+00:00,Seychelles,0.6718996395921012,1,1,en,EIO,Indian Ocean
 '93760c82eb',extremes,Drought,#edc291,edo,Dryness Lesotho,2026-01-15T10:57:00+00:00,Lesotho,0.6718936595945971,1,1,en,ESAF,Africa
@@ -41,6 +36,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fada59714f',extremes,Drought,#edc291,edo,Lack of Rain Zambia,2026-01-15T10:57:00+00:00,Zambia,0.6718651965553554,1,1,en,ESAF,Africa
 '02f4a27a12',extremes,Earthquake,#870007,usgs,Earthquake Mendi,2026-01-15T12:13:00+00:00,Papua New Guinea,0.6718111944954364,1,1,en,SEA,Oceania
 '2072c25fd3',extremes,Drought,#edc291,edo,Dry Spell Guyana,2026-01-15T10:57:00+00:00,Guyana,0.6717943080116013,1,1,en,NSA,South-America
+'474905c6c6',extremes,Drought,#edc291,edo,Lack of Rain Namibia,2026-01-15T10:57:00+00:00,Namibia,0.6717699836803883,1,1,en,WSAF,Africa
+'04bee72edb',extremes,Drought,#edc291,edo,Lack of Rain Antigua and Barbuda,2026-01-15T10:57:00+00:00,Antigua and Barbuda,0.6717263773371323,1,1,en,CAR,North-America
+'7e642c0883',extremes,Drought,#edc291,edo,Dry Spell Anguilla,2026-01-15T10:57:00+00:00,Anguilla,0.6717250869443375,1,1,en,CAR,North-America
 '982d97b8ec',extremes,Earthquake,#870007,usgs,Earthquake Susanville,2026-01-15T12:13:00+00:00,United States,0.6646544718628797,2,1,en,WNA,North-America
 'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.6641588881084023,2,2,en,WAF,Africa
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2025-12-05T03:41:00+00:00,Australia,0.6526222602120282,2,2,en,SAU,Oceania
@@ -195,6 +193,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '060f7f7a38',extremes,Snow&Ice,#d60d2b,wmo,Avalanche Paulatuk,2025-12-13T03:38:00+00:00,Canada,0.5950605757816532,1,1,en,NEN,North-America
 'df3b4ea64b',extremes,Storm,#b3b2b1,wmo,Storm Surge Moosonee,2025-12-18T03:44:00+00:00,Canada,0.594860358871476,1,1,en,NEN,North-America
 '583acb6dbf',extremes,Flood,#030ba1,aidr,Flood Gascoyne River Western Australia,2025-12-18T03:45:00+00:00,Australia,0.5940106987291626,1,1,en,CAU,Oceania
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '07eea948e4',extremes,Fog,#d60d2b,wmo,Fog Monterey Bay,2025-12-18T03:44:00+00:00,United States,0.5930720174386143,1,2,en,CNA,North-America
 '11389d1af4',extremes,Flood,#030ba1,aidr,Flood Victoria 2011,2025-12-18T03:45:00+00:00,Australia,0.5924093738946933,1,1,en,SAU,Oceania
 'fb7c4961bb',extremes,Precipitation,#d60d2b,wmo,Rain Ranges of Westland,2025-12-18T03:44:00+00:00,New Zealand,0.5920073470566721,1,2,en,NZ,Oceania
