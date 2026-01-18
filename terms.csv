@@ -1,4 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
+'bc178afc30',extremes,Drought,#edc291,edo,Dryness Mauritius,2026-01-15T10:57:00+00:00,Mauritius,0.7904507466988268,0,1,en,SIO,Indian Ocean
+'fada59714f',extremes,Drought,#edc291,edo,Lack of Rain Zambia,2026-01-15T10:57:00+00:00,Zambia,0.7904296430063005,0,1,en,ESAF,Africa
+'02f4a27a12',extremes,Earthquake,#870007,usgs,Earthquake Mendi,2026-01-15T12:13:00+00:00,Papua New Guinea,0.7903661111711016,0,1,en,SEA,Oceania
+'2072c25fd3',extremes,Drought,#edc291,edo,Dry Spell Guyana,2026-01-15T10:57:00+00:00,Guyana,0.790346244719531,0,1,en,NSA,South-America
+'6797a9705d',extremes,Drought,#edc291,edo,Drought Jamaica,2026-01-15T10:57:00+00:00,Jamaica,0.7903299504730327,0,1,en,CAR,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
