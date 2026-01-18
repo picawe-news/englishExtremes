@@ -1,4 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
+'8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2026-01-15T10:56:00+00:00,Fiji,0.7913542231430383,0,1,en,SPO,Pacific Ocean
+'5a7935db1c',extremes,Drought,#edc291,edo,Drought Eswatini,2026-01-15T10:57:00+00:00,Eswatini,0.7904888969021961,0,1,en,ESAF,Africa
+'474905c6c6',extremes,Drought,#edc291,edo,Lack of Rain Namibia,2026-01-15T10:57:00+00:00,Namibia,0.7903176278592804,0,1,en,WSAF,Africa
+'04bee72edb',extremes,Drought,#edc291,edo,Lack of Rain Antigua and Barbuda,2026-01-15T10:57:00+00:00,Antigua and Barbuda,0.7902663262789791,0,1,en,CAR,North-America
+'7e642c0883',extremes,Drought,#edc291,edo,Dry Spell Anguilla,2026-01-15T10:57:00+00:00,Anguilla,0.7902648081698089,0,1,en,CAR,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
@@ -254,4 +260,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arctic sea ice,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,en,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,en,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,coldest year,2026-01-15T10:20:00+00:00,,0.2417323084237956,1,2,en,,
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record cold,2026-01-15T10:20:00+00:00,,0.23211298166271271,1,2,en,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record cold,2026-01-15T10:20:00+00:00,,0.2321129816627127,1,2,en,,
