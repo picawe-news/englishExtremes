@@ -1,80 +1,128 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Australian,Australian,NORP,,,en,4.3999999999999995
+Australian,Australian,NORP,,,en,4.7
 Saturday,Saturday,DATE,,,en,4.2
+Christmas,Christmas,DATE,,,en,4.2
+winter,winter,DATE,,,en,3.8000000000000007
 Friday,Friday,DATE,,,en,2.8
-first,first,ORDINAL,,,en,2.6
-the Black Summer,the Black Summer,EVENT,,,en,1.9
+first,first,ORDINAL,,,en,2.8
 40 degrees Celsius,40 degrees Celsius,QUANTITY,,,en,1.9
-45C,45C,FAC,,,en,1.9
-the summer of 2019,the summer of 2019,DATE,,,en,1.9
 2020,2020,DATE,,,en,1.9
-tomorrow,tomorrow,DATE,,,en,1.8
-Millions,Millions,CARDINAL,,,en,1.8
-winter,winter,DATE,,,en,1.8
-morning,morning,TIME,,,en,1.8
-Tuesday,Tuesday,DATE,,,en,1.8
+the summer of 2019,the summer of 2019,DATE,,,en,1.9
+the Black Summer,the Black Summer,EVENT,,,en,1.9
+45C,45C,FAC,,,en,1.9
 next year,next year,DATE,,,en,1.8
-45%,45%,PERCENT,,,en,1.8
+thousands,thousands,CARDINAL,,,en,1.8
 one,one,CARDINAL,,,en,1.8
+45%,45%,PERCENT,,,en,1.8
+Millions,Millions,CARDINAL,,,en,1.8
+Tuesday,Tuesday,DATE,,,en,1.8
+this week,this week,DATE,,,en,1.8
+tomorrow,tomorrow,DATE,,,en,1.8
 40C,40C,CARDINAL,,,en,1.8
 today,today,DATE,,,en,1.8
-thousands,thousands,CARDINAL,,,en,1.8
-6.0,6.0,CARDINAL,,,en,1.0
-last year,last year,DATE,,,en,1.0
-"120,000","120,000",CARDINAL,,,en,1.0
-Christmas Day,Christmas Day,DATE,,,en,1.0
-Christmas,Christmas,DATE,,,en,1.0
-last summer,last summer,DATE,,,en,1.0
-6 months later,6 months later,DATE,,,en,1.0
-36 Inches,36 Inches,QUANTITY,,,en,1.0
-the past several weeks,the past several weeks,DATE,,,en,1.0
-South Australian,South Australian,NORP,,,en,1.0
-New Year’s eve,New Year’s eve,EVENT,,,en,1.0
-48 Inches,48 Inches,QUANTITY,,,en,1.0
-this winter,this winter,DATE,,,en,1.0
-Thousands,Thousands,CARDINAL,,,en,1.0
-the coming days,the coming days,DATE,,,en,1.0
-weeks,weeks,DATE,,,en,1.0
-Port Pirie,Port Pirie,FAC,,,en,1.0
-Thursday,Thursday,DATE,,,en,1.0
-Tropical Cyclone Fina,Tropical Cyclone Fina,NORP,,,en,1.0
-four,four,CARDINAL,,,en,1.0
-47C,47C,MONEY,,,en,1.0
-this weekend,this weekend,DATE,,,en,1.0
-Three,Three,CARDINAL,,,en,1.0
-weekend,weekend,DATE,,,en,1.0
-decades,decades,DATE,,,en,1.0
-this week,this week,DATE,,,en,1.0
-hundreds,hundreds,CARDINAL,,,en,1.0
-Sunday,Sunday,DATE,,,en,1.0
-November,November,DATE,,,en,1.0
-996,996,CARDINAL,,,en,1.0
-about 9 miles,about 9 miles,QUANTITY,,,en,1.0
-magnitude-7.0,magnitude-7.0,PRODUCT,,,en,1.0
+morning,morning,TIME,,,en,1.8
+360,360,CARDINAL,,,en,1.3
+yesterday,yesterday,DATE,,,en,1.3
+Christmas Day,Christmas Day,DATE,,,en,1.3
+Monday,Monday,DATE,,,en,1.2
+the New Year,the New Year,DATE,,,en,1.2
+Christmas Eve,Christmas Eve,DATE,,,en,1.2
 roughly 30 miles,roughly 30 miles,QUANTITY,,,en,1.0
-the year,the year,DATE,,,en,1.0
-this year,this year,DATE,,,en,1.0
-40 degrees,40 degrees,QUANTITY,,,en,1.0
-Thanksgiving Day,Thanksgiving Day,DATE,,,en,1.0
-the summer,the summer,DATE,,,en,1.0
-this season,this season,DATE,,,en,1.0
-Indian,Indian,NORP,,,en,1.0
-the 2026 Winter Olympics,the 2026 Winter Olympics,EVENT,,,en,1.0
-7.0,7.0,CARDINAL,,,en,1.0
-the morning hours,the morning hours,TIME,,,en,1.0
-24 Hours,24 Hours,TIME,,,en,1.0
-Canadian,Canadian,NORP,,,en,1.0
-1792,1792,DATE,,,en,1.0
-Yukon,Yukon,FAC,,,en,1.0
-Eight,Eight,CARDINAL,,,en,1.0
-more than 50,more than 50,CARDINAL,,,en,1.0
-between Friday and Sunday,between Friday and Sunday,DATE,,,en,1.0
-up to,up to,QUANTITY,,,en,1.0
-120kmh,120kmh,QUANTITY,,,en,1.0
-yesterday,yesterday,DATE,,,en,1.0
-"almost 60,000","almost 60,000",CARDINAL,,,en,1.0
-Israeli,Israeli,NORP,,,en,1.0
-Asia In Brief,Asia In Brief,EVENT,,,en,1.0
-Monday ResearchBuzz,Monday ResearchBuzz,DATE,,,en,1.0
-"December 15, 2025","December 15, 2025",DATE,,,en,1.0
+the early hours of Monday,the early hours of Monday,TIME,,,en,1.0
+two,two,CARDINAL,,,en,1.0
+Jan. 1,Jan. 1,DATE,,,en,1.0
+five,five,CARDINAL,,,en,1.0
+"January 5, 2026","January 5, 2026",DATE,,,en,1.0
+Five,Five,CARDINAL,,,en,1.0
+around 4:17 am,around 4:17 am,TIME,,,en,1.0
+at least three,at least three,CARDINAL,,,en,1.0
+three,three,CARDINAL,,,en,1.0
+5.1,5.1,CARDINAL,,,en,1.0
+2035,2035,DATE,,,en,1.0
+this winter,this winter,DATE,,,en,1.0
+48 Inches,48 Inches,QUANTITY,,,en,1.0
+earlier this month,earlier this month,DATE,,,en,1.0
+$400 million,$400 million,MONEY,,,en,1.0
+Bridge Street Program,Bridge Street Program,FAC,,,en,1.0
+US$400M,US$400M,MONEY,,,en,1.0
+the last week,the last week,DATE,,,en,1.0
+early this week,early this week,DATE,,,en,1.0
+South Australian,South Australian,NORP,,,en,1.0
+US$ 131.79 Million,US$ 131.79 Million,MONEY,,,en,1.0
+60%,60%,PERCENT,,,en,1.0
+New Year’s eve,New Year’s eve,EVENT,,,en,1.0
+Three,Three,CARDINAL,,,en,1.0
+Weeks,Weeks,DATE,,,en,1.0
+101,101,CARDINAL,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+a couple of degrees,a couple of degrees,CARDINAL,,,en,1.0
+Up to 200 mm,Up to 200 mm,QUANTITY,,,en,1.0
 dozens,dozens,CARDINAL,,,en,1.0
+Sunday,Sunday,DATE,,,en,1.0
+hundreds,hundreds,CARDINAL,,,en,1.0
+decades,decades,DATE,,,en,1.0
+weekend,weekend,DATE,,,en,1.0
+this weekend,this weekend,DATE,,,en,1.0
+6-APA,6-APA,CARDINAL,,,en,1.0
+47C,47C,MONEY,,,en,1.0
+four,four,CARDINAL,,,en,1.0
+Tropical Cyclone Fina,Tropical Cyclone Fina,NORP,,,en,1.0
+Thursday,Thursday,DATE,,,en,1.0
+"more than 100,000","more than 100,000",CARDINAL,,,en,1.0
+Port Pirie,Port Pirie,FAC,,,en,1.0
+the coming days,the coming days,DATE,,,en,1.0
+last year,last year,DATE,,,en,1.0
+Thousands,Thousands,CARDINAL,,,en,1.0
+"18,600","18,600",CARDINAL,,,en,1.0
+Winter,Winter,DATE,,,en,1.0
+between 10 and 15,between 10 and 15,CARDINAL,,,en,1.0
+Tanga,Tanga,LAW,,,en,1.0
+Canadian,Canadian,NORP,,,en,1.0
+Monday ResearchBuzz,Monday ResearchBuzz,DATE,,,en,1.0
+Indian,Indian,NORP,,,en,1.0
+Israeli,Israeli,NORP,,,en,1.0
+"almost 60,000","almost 60,000",CARDINAL,,,en,1.0
+120kmh,120kmh,QUANTITY,,,en,1.0
+up to,up to,QUANTITY,,,en,1.0
+this season,this season,DATE,,,en,1.0
+more than 50,more than 50,CARDINAL,,,en,1.0
+Eight,Eight,CARDINAL,,,en,1.0
+Yukon,Yukon,FAC,,,en,1.0
+magnitude-7.0,magnitude-7.0,PRODUCT,,,en,1.0
+Tomahawk,Tomahawk,PRODUCT,,,en,1.0
+24 Hours,24 Hours,TIME,,,en,1.0
+the morning hours,the morning hours,TIME,,,en,1.0
+7.0,7.0,CARDINAL,,,en,1.0
+the 2026 Winter Olympics,the 2026 Winter Olympics,EVENT,,,en,1.0
+Thanksgiving Day,Thanksgiving Day,DATE,,,en,1.0
+6.0,6.0,CARDINAL,,,en,1.0
+the summer,the summer,DATE,,,en,1.0
+about 9 miles,about 9 miles,QUANTITY,,,en,1.0
+40 degrees,40 degrees,QUANTITY,,,en,1.0
+this year,this year,DATE,,,en,1.0
+"December 15, 2025","December 15, 2025",DATE,,,en,1.0
+1792,1792,DATE,,,en,1.0
+Asia In Brief,Asia In Brief,EVENT,,,en,1.0
+996,996,CARDINAL,,,en,1.0
+the year,the year,DATE,,,en,1.0
+over a dozen,over a dozen,CARDINAL,,,en,1.0
+the past several weeks,the past several weeks,DATE,,,en,1.0
+36 Inches,36 Inches,QUANTITY,,,en,1.0
+One,One,CARDINAL,,,en,1.0
+Australians,Australians,NORP,,,en,1.0
+Germline,Germline,NORP,,,en,1.0
+Christmas Eve downpour,Christmas Eve downpour,DATE,,,en,1.0
+any given day,any given day,DATE,,,en,1.0
+120,120,CARDINAL,,,en,1.0
+between Friday and Sunday,between Friday and Sunday,DATE,,,en,1.0
+6 months later,6 months later,DATE,,,en,1.0
+39°C,39°C,PERCENT,,,en,1.0
+early December,early December,DATE,,,en,1.0
+last summer,last summer,DATE,,,en,1.0
+New Year,New Year,EVENT,,,en,1.0
+weeks,weeks,DATE,,,en,1.0
+the Week,the Week,DATE,,,en,1.0
+"120,000","120,000",CARDINAL,,,en,1.0
+Derana 360's,Derana 360's,FAC,,,en,1.0
+November,November,DATE,,,en,1.0
+the Paternal Sex Ratio,the Paternal Sex Ratio,LAW,,,en,1.0
