@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-01-15T10:57:00+00:00,Australia,0.7900103347668062,0,1,en,EAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2026-01-15T10:57:00+00:00,Australia,0.7875368388810735,0,1,en,SAU,Oceania
 '8c46315dbe',extremes,Earthquake,#870007,aidr,earthquake Australia,2026-01-15T10:57:00+00:00,Australia,0.7865070744248548,0,1,en,EAU,Oceania
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
