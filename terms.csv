@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2026-01-15T10:57:00+00:00,Australia,0.7875368388810735,0,1,en,SAU,Oceania
-'8c46315dbe',extremes,Earthquake,#870007,aidr,earthquake Australia,2026-01-15T10:57:00+00:00,Australia,0.7865070744248548,0,1,en,EAU,Oceania
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-01-15T10:57:00+00:00,Australia,0.7799837908873817,0,1,en,NAU,Oceania
 'ebbb5bceab',extremes,Flood,#030ba1,aidr,Flood North and Central Queensland,2026-01-15T12:14:00+00:00,Australia,0.7799341653774808,0,1,en,NAU,Oceania
 'e5e64ee526',extremes,Flood,#030ba1,aidr,Flood Katherine Northern Territory,2026-01-15T12:14:00+00:00,Australia,0.7771823151188582,0,1,en,NAU,Oceania
@@ -15,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09eac01848',extremes,Flood,#030ba1,wmo,Flood Linn OR Marion OR,2025-12-19T03:46:00+00:00,United States,0.7332562863305889,4,1,en,CNA,North-America
 'f199635353',extremes,Earthquake,#870007,usgs,Earthquake Morigaon,2026-01-15T10:56:00+00:00,India,0.7116068418812012,1,1,en,SAS,Asia
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-01-15T10:56:00+00:00,India,0.6910299707674382,1,2,en,SAS,Asia
+'8c46315dbe',extremes,Earthquake,#870007,aidr,earthquake Australia,2026-01-15T10:57:00+00:00,Australia,0.6876976222933846,1,2,en,EAU,Oceania
 '6797a9705d',extremes,Drought,#edc291,edo,Drought Jamaica,2026-01-15T10:57:00+00:00,Jamaica,0.6816308629020777,1,2,en,CAR,North-America
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-01-15T10:57:00+00:00,Australia,0.6776863485644264,2,1,en,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,Heavy rainfall and floods Queensland February 2020,2026-01-15T10:57:00+00:00,Australia,0.6730205327891811,1,1,en,EAU,Oceania
