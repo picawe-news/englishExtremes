@@ -1,7 +1,13 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
+'3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-01-15T10:57:00+00:00,Australia,0.7900103347668062,0,1,en,EAU,Oceania
+'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2026-01-15T10:57:00+00:00,Australia,0.7875368388810735,0,1,en,SAU,Oceania
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-01-15T10:57:00+00:00,Australia,0.7799837908873817,0,1,en,NAU,Oceania
 'ebbb5bceab',extremes,Flood,#030ba1,aidr,Flood North and Central Queensland,2026-01-15T12:14:00+00:00,Australia,0.7799341653774808,0,1,en,NAU,Oceania
 'e5e64ee526',extremes,Flood,#030ba1,aidr,Flood Katherine Northern Territory,2026-01-15T12:14:00+00:00,Australia,0.7771823151188582,0,1,en,NAU,Oceania
+'3388f3d3d6',extremes,Drought,#edc291,acwe,lack of rain Australia,2026-01-15T10:57:00+00:00,Australia,0.7734516531659235,0,1,en,CAU,Oceania
+'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-01-15T10:56:00+00:00,Australia,0.7722186796260393,0,1,en,CAU,Oceania
+'bbc9d44319',extremes,Storm,#b3b2b1,wmo,Storm Northwest Prince William Sound,2026-01-15T10:56:00+00:00,United States,0.7721841006170046,0,1,en,CNA,North-America
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,Flashflood Clatsop OR Tillamook OR,2025-12-10T03:45:00+00:00,United States,0.7412473250466095,2,1,en,CNA,North-America
