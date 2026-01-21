@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
+'3388f3d3d6',extremes,Drought,#edc291,acwe,lack of rain Australia,2026-01-15T10:57:00+00:00,Australia,0.7734516531659235,0,1,en,CAU,Oceania
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-01-15T10:56:00+00:00,Australia,0.7722186796260393,0,1,en,CAU,Oceania
 'bbc9d44319',extremes,Storm,#b3b2b1,wmo,Storm Northwest Prince William Sound,2026-01-15T10:56:00+00:00,United States,0.7721841006170046,0,1,en,CNA,North-America
 '0bc923d7b5',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Rosebud Southern Rosebud,2026-01-15T10:56:00+00:00,United States,0.7721833253707029,0,1,en,CNA,North-America
@@ -8,6 +10,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddf79ea789',extremes,Storm,#b3b2b1,wmo,Storm Surge Jefferson Lewis,2026-01-15T10:56:00+00:00,United States,0.7721797050231303,0,1,en,CNA,North-America
 '2892788cb2',extremes,Storm,#b3b2b1,wmo,Storm Geneva on the Lake to Conneaut OH,2026-01-15T10:56:00+00:00,United States,0.7721791423678949,0,1,en,CNA,North-America
 'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave 5 districts of Rajasthan,2026-01-15T10:56:00+00:00,India,0.7721782922723038,0,1,en,SAS,Asia
+'541f3fa0f3',extremes,Storm,#b3b2b1,wmo,Storm Cross Sound,2026-01-15T10:56:00+00:00,United States,0.7721777577868472,0,1,en,CNA,North-America
+'2474f8e864',extremes,Storm,#b3b2b1,wmo,Storm Passage Canal,2026-01-15T10:56:00+00:00,United States,0.7721736455835977,0,1,en,CNA,North-America
+'476e61e032',extremes,Storm,#b3b2b1,wmo,Storm Surge Monroe Wayne Northern Cayuga,2026-01-15T10:56:00+00:00,United States,0.7721699016946845,0,1,en,CNA,North-America
+'b0f83fba29',extremes,Snow&Ice,#d60d2b,wmo,Snow Marshall Cass,2026-01-15T10:56:00+00:00,United States,0.7721688465544905,0,1,en,CNA,North-America
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
