@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'3388f3d3d6',extremes,Drought,#edc291,acwe,lack of rain Australia,2026-01-15T10:57:00+00:00,Australia,0.7734516531659235,0,1,en,CAU,Oceania
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-01-15T10:56:00+00:00,Australia,0.7722186796260393,0,1,en,CAU,Oceania
 'bbc9d44319',extremes,Storm,#b3b2b1,wmo,Storm Northwest Prince William Sound,2026-01-15T10:56:00+00:00,United States,0.7721841006170046,0,1,en,CNA,North-America
 '0bc923d7b5',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Rosebud Southern Rosebud,2026-01-15T10:56:00+00:00,United States,0.7721833253707029,0,1,en,CNA,North-America
