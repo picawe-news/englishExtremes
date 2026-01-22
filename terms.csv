@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
+'bbc9d44319',extremes,Storm,#b3b2b1,wmo,Storm Northwest Prince William Sound,2026-01-15T10:56:00+00:00,United States,0.7721841006170046,0,1,en,CNA,North-America
 '0bc923d7b5',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Rosebud Southern Rosebud,2026-01-15T10:56:00+00:00,United States,0.7721833253707029,0,1,en,CNA,North-America
 '4042a711c6',extremes,Storm,#b3b2b1,wmo,Storm Coastal Collier County,2026-01-15T10:56:00+00:00,United States,0.7721823832355701,0,1,en,CNA,North-America
 'fb79db23fd',extremes,Storm,#b3b2b1,wmo,Storm Surge Chevery Blanc Sablon,2026-01-15T10:56:00+00:00,Canada,0.7721821882427067,0,1,en,NEN,North-America
@@ -13,6 +15,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2bf9bf375',extremes,Storm,#b3b2b1,wmo,Storm Surge Southwest Prince William Sound,2026-01-15T10:56:00+00:00,United States,0.7721680274191014,0,1,en,CNA,North-America
 '523317fb20',extremes,Snow&Ice,#d60d2b,wmo,Snow Kivalina and Red Dog Dock,2026-01-15T10:56:00+00:00,United States,0.7721661129232112,0,1,en,CNA,North-America
 '556b42e0d1',extremes,Storm,#b3b2b1,wmo,Storm Majuro Coastal Waters,2026-01-15T10:56:00+00:00,United States,0.7721644460574277,0,1,en,CNA,North-America
+'290dcf50e4',extremes,Storm,#b3b2b1,wmo,Storm Surge Southern Lynn Canal,2026-01-15T10:56:00+00:00,United States,0.7721509403578203,0,1,en,CNA,North-America
+'bd4355d0ec',extremes,Snow&Ice,#d60d2b,wmo,Ice Kangiqsujuaq Raglan Lake,2026-01-15T10:56:00+00:00,Canada,0.7721487305844814,0,1,en,NEN,North-America
+'565ef25bc4',extremes,Storm,#b3b2b1,wmo,Storm Surge Bristol Bay greater than 15 NM,2026-01-15T10:56:00+00:00,United States,0.7721457225427897,0,1,en,CNA,North-America
+'0dad6cb33a',extremes,Snow&Ice,#d60d2b,wmo,Snow Gatineau,2026-01-15T10:56:00+00:00,Canada,0.7721436434814265,0,1,en,NEN,North-America
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
