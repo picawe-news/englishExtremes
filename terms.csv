@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.7920186796260393,0,1,en,SAU,Oceania
-'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7914176368768449,0,1,en,SEA,Asia
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-01-15T10:56:00+00:00,Australia,0.7722186796260393,0,1,en,CAU,Oceania
 '2474f8e864',extremes,Storm,#b3b2b1,wmo,Storm Passage Canal,2026-01-15T10:56:00+00:00,United States,0.7721736455835977,0,1,en,CNA,North-America
 '476e61e032',extremes,Storm,#b3b2b1,wmo,Storm Surge Monroe Wayne Northern Cayuga,2026-01-15T10:56:00+00:00,United States,0.7721699016946845,0,1,en,CNA,North-America
@@ -17,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea2d09062f',extremes,Snow&Ice,#d60d2b,wmo,Ice Mason Oceana,2026-01-15T10:56:00+00:00,United States,0.7721188022002389,0,1,en,CNA,North-America
 '9590c197ce',extremes,Snow&Ice,#d60d2b,wmo,Ice Central Brooks Range,2026-01-15T10:56:00+00:00,United States,0.7721093225457936,0,1,en,CNA,North-America
 '91c96e0c29',extremes,Snow&Ice,#d60d2b,wmo,Ice Graham,2026-01-15T10:56:00+00:00,United States,0.772087926387785,0,1,en,CNA,North-America
+'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
