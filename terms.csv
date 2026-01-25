@@ -23,7 +23,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,Wildfire Andhra Pradesh,2026-01-15T10:56:00+00:00,India,0.7718700661328048,0,1,en,SAS,Asia
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.771867062535878,0,1,en,NEN,North-America
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.7718644519442325,0,1,en,NZ,Oceania
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-01-15T10:56:00+00:00,Canada,0.7718632840441352,0,1,en,NEN,North-America
 'b46a44d87f',extremes,Precipitation,#d60d2b,wmo,Downpour Canterbury north of Banks Peninsula,2026-01-15T12:14:00+00:00,New Zealand,0.7718617153004809,0,1,en,NZ,Oceania
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-01-15T10:56:00+00:00,Canada,0.771861677649292,0,1,en,NEN,North-America
+'5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave India,2026-01-15T10:56:00+00:00,India,0.7718613666008162,0,1,en,SAS,Asia
+'6d843df4ba',extremes,Precipitation,#d60d2b,wmo,Downpour Bay of Plenty and Rotorua,2026-01-15T12:14:00+00:00,New Zealand,0.7718570385773795,0,1,en,NZ,Oceania
+'885597e0f4',extremes,Wildfire,#d60d2b,wmo,Wildfire Australia,2026-01-15T10:56:00+00:00,Australia,0.7718560068372783,0,1,en,CAU,Oceania
+'52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.7718517669141143,0,1,en,NZ,Oceania
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
