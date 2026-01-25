@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2474f8e864',extremes,Storm,#b3b2b1,wmo,Storm Passage Canal,2026-01-15T10:56:00+00:00,United States,0.7721736455835977,0,1,en,CNA,North-America
 '476e61e032',extremes,Storm,#b3b2b1,wmo,Storm Surge Monroe Wayne Northern Cayuga,2026-01-15T10:56:00+00:00,United States,0.7721699016946845,0,1,en,CNA,North-America
 'b0f83fba29',extremes,Snow&Ice,#d60d2b,wmo,Snow Marshall Cass,2026-01-15T10:56:00+00:00,United States,0.7721688465544905,0,1,en,CNA,North-America
 'a2bf9bf375',extremes,Storm,#b3b2b1,wmo,Storm Surge Southwest Prince William Sound,2026-01-15T10:56:00+00:00,United States,0.7721680274191014,0,1,en,CNA,North-America
@@ -88,6 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e5e64ee526',extremes,Flood,#030ba1,aidr,Flood Katherine Northern Territory,2026-01-15T12:14:00+00:00,Australia,0.6607549978510294,1,1,en,NAU,Oceania
 'bbc9d44319',extremes,Storm,#b3b2b1,wmo,Storm Northwest Prince William Sound,2026-01-15T10:56:00+00:00,United States,0.6565065005244539,1,1,en,CNA,North-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,Storm Starke,2026-01-15T10:56:00+00:00,United States,0.656504803231168,1,1,en,CNA,North-America
+'2474f8e864',extremes,Storm,#b3b2b1,wmo,Storm Passage Canal,2026-01-15T10:56:00+00:00,United States,0.656497613746058,1,1,en,CNA,North-America
 '0bc923d7b5',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Rosebud Southern Rosebud,2026-01-15T10:56:00+00:00,United States,0.6563558265650974,1,1,en,CNA,North-America
 '4042a711c6',extremes,Storm,#b3b2b1,wmo,Storm Coastal Collier County,2026-01-15T10:56:00+00:00,United States,0.6563550257502345,1,1,en,CNA,North-America
 'fb79db23fd',extremes,Storm,#b3b2b1,wmo,Storm Surge Chevery Blanc Sablon,2026-01-15T10:56:00+00:00,Canada,0.6563548600063006,1,1,en,NEN,North-America
