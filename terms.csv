@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-01-15T10:56:00+00:00,Australia,0.7722186796260393,0,1,en,CAU,Oceania
 '2474f8e864',extremes,Storm,#b3b2b1,wmo,Storm Passage Canal,2026-01-15T10:56:00+00:00,United States,0.7721736455835977,0,1,en,CNA,North-America
 '476e61e032',extremes,Storm,#b3b2b1,wmo,Storm Surge Monroe Wayne Northern Cayuga,2026-01-15T10:56:00+00:00,United States,0.7721699016946845,0,1,en,CNA,North-America
 'b0f83fba29',extremes,Snow&Ice,#d60d2b,wmo,Snow Marshall Cass,2026-01-15T10:56:00+00:00,United States,0.7721688465544905,0,1,en,CNA,North-America
@@ -37,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-01-15T10:56:00+00:00,Australia,0.7166790498249905,1,2,en,CAU,Oceania
 'f199635353',extremes,Earthquake,#870007,usgs,Earthquake Morigaon,2026-01-15T10:56:00+00:00,India,0.7116068418812012,1,1,en,SAS,Asia
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-01-15T10:57:00+00:00,Australia,0.7079435751114173,1,1,en,NAU,Oceania
+'d79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-01-15T10:56:00+00:00,Australia,0.7045861847789077,1,2,en,CAU,Oceania
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-01-15T10:57:00+00:00,Australia,0.6974088745517852,1,1,en,EAU,Oceania
 'ebbb5bceab',extremes,Flood,#030ba1,aidr,Flood North and Central Queensland,2026-01-15T12:14:00+00:00,Australia,0.6956905844170125,1,2,en,NAU,Oceania
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-01-15T10:56:00+00:00,India,0.6910299707674382,1,2,en,SAS,Asia
