@@ -6,6 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ffc8128219',extremes,Precipitation,#d60d2b,wmo,Downpour Auckland and Waikato,2026-01-15T10:56:00+00:00,New Zealand,0.7719711312260816,0,1,en,NZ,Oceania
 '8c973db015',extremes,Fog,#d60d2b,wmo,Fog Western Siskiyou County,2026-01-15T12:14:00+00:00,United States,0.7719709960455332,0,1,en,CNA,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-01-15T10:56:00+00:00,Canada,0.7719644784059778,0,1,en,NEN,North-America
+'84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-01-15T10:56:00+00:00,Australia,0.7718729284033972,0,1,en,CAU,Oceania
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,Wildfire Andhra Pradesh,2026-01-15T10:56:00+00:00,India,0.7718700661328048,0,1,en,SAS,Asia
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.771867062535878,0,1,en,NEN,North-America
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.7718644519442325,0,1,en,NZ,Oceania
@@ -22,6 +23,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2026-01-15T10:56:00+00:00,United States,0.7718489243665398,0,1,en,CNA,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7718482110784423,0,1,en,NEN,North-America
 'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,Freezing 5 districts of Rajasthan,2026-01-15T12:14:00+00:00,India,0.771847734509604,0,1,en,SAS,Asia
+'432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-01-15T10:56:00+00:00,United States,0.7718453321508582,0,1,en,CNA,North-America
+'8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-01-15T10:56:00+00:00,Australia,0.7718452143333373,0,1,en,CAU,Oceania
+'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,Frost India,2026-01-15T12:14:00+00:00,India,0.7718425760970207,0,1,en,SAS,Asia
+'f1966df415',extremes,Thunderstorm,#53785a,wmo,Hail Australia,2026-01-15T10:56:00+00:00,Australia,0.7718216006253857,0,1,en,CAU,Oceania
+'0d0b4f15b5',extremes,Snow&Ice,#d60d2b,wmo,Freezing Gatineau,2026-01-15T12:14:00+00:00,Canada,0.771819584406535,0,1,en,NEN,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
