@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '9590c197ce',extremes,Snow&Ice,#d60d2b,wmo,Ice Central Brooks Range,2026-01-15T10:56:00+00:00,United States,0.8065929541639245,1,2,en,CNA,North-America
-'91c96e0c29',extremes,Snow&Ice,#d60d2b,wmo,Ice Graham,2026-01-15T10:56:00+00:00,United States,0.772087926387785,0,1,en,CNA,North-America
 'e90c937029',extremes,Snow&Ice,#d60d2b,wmo,Ice Saint Matthew Island Waters,2026-01-15T10:56:00+00:00,United States,0.7720682294964651,0,1,en,CNA,North-America
 '61025741bb',extremes,Snow&Ice,#d60d2b,wmo,Snow Glades Hendry,2026-01-15T10:56:00+00:00,United States,0.7720665922630715,0,1,en,CNA,North-America
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-01-15T10:56:00+00:00,Canada,0.7719779209165686,0,1,en,NEN,North-America
@@ -43,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6797a9705d',extremes,Drought,#edc291,edo,Drought Jamaica,2026-01-15T10:57:00+00:00,Jamaica,0.6816308629020777,1,2,en,CAR,North-America
 '0dad6cb33a',extremes,Snow&Ice,#d60d2b,wmo,Snow Gatineau,2026-01-15T10:56:00+00:00,Canada,0.6788007733877839,1,1,en,NEN,North-America
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-01-15T10:57:00+00:00,Australia,0.6776863485644264,2,1,en,EAU,Oceania
+'91c96e0c29',extremes,Snow&Ice,#d60d2b,wmo,Ice Graham,2026-01-15T10:56:00+00:00,United States,0.6757788324296173,1,2,en,CNA,North-America
 '3388f3d3d6',extremes,Drought,#edc291,acwe,lack of rain Australia,2026-01-15T10:57:00+00:00,Australia,0.6743706138273986,1,2,en,CAU,Oceania
 '45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.6733658926821334,1,1,en,SAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,Heavy rainfall and floods Queensland February 2020,2026-01-15T10:57:00+00:00,Australia,0.6730205327891811,1,1,en,EAU,Oceania
