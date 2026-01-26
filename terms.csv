@@ -20,6 +20,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d843df4ba',extremes,Precipitation,#d60d2b,wmo,Downpour Bay of Plenty and Rotorua,2026-01-15T12:14:00+00:00,New Zealand,0.7718570385773795,0,1,en,NZ,Oceania
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,Wildfire Australia,2026-01-15T10:56:00+00:00,Australia,0.7718560068372783,0,1,en,CAU,Oceania
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.7718517669141143,0,1,en,NZ,Oceania
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-01-15T10:56:00+00:00,Canada,0.7718508854189984,0,1,en,NEN,North-America
+'4e03bb2fcd',extremes,Storm,#b3b2b1,wmo,Storm Natashquan Anticosti,2026-01-15T12:14:00+00:00,Canada,0.7718507652835679,0,1,en,NEN,North-America
+'0f7c486492',extremes,Wildfire,#d60d2b,wmo,Wildfire Arunachal Pradesh,2026-01-15T12:14:00+00:00,India,0.771850462009441,0,1,en,SAS,Asia
+'3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2026-01-15T10:56:00+00:00,United States,0.7718489243665398,0,1,en,CNA,North-America
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7718482110784423,0,1,en,NEN,North-America
+'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,Freezing 5 districts of Rajasthan,2026-01-15T12:14:00+00:00,India,0.771847734509604,0,1,en,SAS,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
