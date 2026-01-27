@@ -20,6 +20,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,Frost India,2026-01-15T12:14:00+00:00,India,0.7718425760970207,0,1,en,SAS,Asia
 'f1966df415',extremes,Thunderstorm,#53785a,wmo,Hail Australia,2026-01-15T10:56:00+00:00,Australia,0.7718216006253857,0,1,en,CAU,Oceania
 '0d0b4f15b5',extremes,Snow&Ice,#d60d2b,wmo,Freezing Gatineau,2026-01-15T12:14:00+00:00,Canada,0.771819584406535,0,1,en,NEN,North-America
+'66365f45cb',extremes,Flood,#030ba1,wmo,Flashflood George MS Greene MS Perry MS,2026-01-15T12:14:00+00:00,United States,0.7718099706968018,0,1,en,CNA,North-America
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-01-15T10:56:00+00:00,United States,0.7718098177898328,0,1,en,CNA,North-America
+'4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-01-15T10:56:00+00:00,United States,0.7718074253335546,0,1,en,CNA,North-America
+'f1019711ee',extremes,Wildfire,#d60d2b,wmo,Wildfire Sedgwick County Phillips County,2026-01-15T10:56:00+00:00,United States,0.7718063448359751,0,1,en,CNA,North-America
+'b02ec47c6e',extremes,Flood,#030ba1,wmo,Flashflood St. Tammany LA,2026-01-15T12:14:00+00:00,United States,0.7718020055228864,0,1,en,CNA,North-America
+'60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-01-15T10:56:00+00:00,United States,0.7717901225247122,0,1,en,CNA,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
