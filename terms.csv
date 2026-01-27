@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.8063848141525976,1,2,en,NZ,Oceania
-'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7908682740100135,0,1,en,SEAF,Africa
-'e921e2b0b7',extremes,Flood,#030ba1,aidr,Flood Severe Flooding from ex Tropical Cyclone Tiffany South Australia 2022,2026-01-17T03:45:00+00:00,Australia,0.7724989890367918,0,1,en,SAU,Oceania
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7721788499842038,0,1,en,SAS,Asia
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-01-15T10:56:00+00:00,Australia,0.7718729284033972,0,1,en,CAU,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-01-15T10:56:00+00:00,Canada,0.7718632840441352,0,1,en,NEN,North-America
@@ -34,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
+'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
 '09c2075ff6',extremes,Flood,#030ba1,wmo,Flashflood Benton OR Polk OR,2025-12-18T03:44:00+00:00,United States,0.7414574311834388,2,1,en,CNA,North-America
 '02dc9a1088',extremes,Flood,#030ba1,wmo,Flashflood Benton OR,2025-12-19T03:46:00+00:00,United States,0.7395389620548991,2,1,en,CNA,North-America
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2025-12-18T03:45:00+00:00,Australia,0.73930303857233,2,2,en,EAU,Oceania
@@ -52,6 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c46315dbe',extremes,Earthquake,#870007,aidr,earthquake Australia,2026-01-15T10:57:00+00:00,Australia,0.6876976222933846,1,2,en,EAU,Oceania
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-01-15T10:56:00+00:00,Canada,0.6857993911483189,2,2,en,NEN,North-America
 '9590c197ce',extremes,Snow&Ice,#d60d2b,wmo,Ice Central Brooks Range,2026-01-15T10:56:00+00:00,United States,0.6856040410393358,2,1,en,CNA,North-America
+'7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.6854271220297079,2,1,en,NZ,Oceania
 '6797a9705d',extremes,Drought,#edc291,edo,Drought Jamaica,2026-01-15T10:57:00+00:00,Jamaica,0.6816308629020777,1,2,en,CAR,North-America
 '0dad6cb33a',extremes,Snow&Ice,#d60d2b,wmo,Snow Gatineau,2026-01-15T10:56:00+00:00,Canada,0.6788007733877839,1,1,en,NEN,North-America
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-01-15T10:57:00+00:00,Australia,0.6776863485644264,2,1,en,EAU,Oceania
@@ -93,6 +92,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '982d97b8ec',extremes,Earthquake,#870007,usgs,Earthquake Susanville,2026-01-15T12:13:00+00:00,United States,0.6646544718628797,2,1,en,WNA,North-America
 'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.6641588881084023,2,2,en,WAF,Africa
 'e5e64ee526',extremes,Flood,#030ba1,aidr,Flood Katherine Northern Territory,2026-01-15T12:14:00+00:00,Australia,0.6607549978510294,1,1,en,NAU,Oceania
+'e921e2b0b7',extremes,Flood,#030ba1,aidr,Flood Severe Flooding from ex Tropical Cyclone Tiffany South Australia 2022,2026-01-17T03:45:00+00:00,Australia,0.6566241406812731,1,1,en,SAU,Oceania
 'bbc9d44319',extremes,Storm,#b3b2b1,wmo,Storm Northwest Prince William Sound,2026-01-15T10:56:00+00:00,United States,0.6565065005244539,1,1,en,CNA,North-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,Storm Starke,2026-01-15T10:56:00+00:00,United States,0.656504803231168,1,1,en,CNA,North-America
 '2474f8e864',extremes,Storm,#b3b2b1,wmo,Storm Passage Canal,2026-01-15T10:56:00+00:00,United States,0.656497613746058,1,1,en,CNA,North-America
