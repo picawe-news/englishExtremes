@@ -30,6 +30,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e26941aa4',extremes,Fog,#d60d2b,wmo,Fog Yakima Valley,2026-01-15T10:56:00+00:00,United States,0.7717360726599757,0,1,en,CNA,North-America
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-01-15T10:56:00+00:00,United States,0.7717350734985343,0,1,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7717345221799186,0,1,en,CAU,Oceania
+'0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-01-15T10:56:00+00:00,Australia,0.7717270846322946,0,1,en,CAU,Oceania
+'da50c9766d',extremes,Fog,#d60d2b,wmo,Fog Kittitas Valley,2026-01-15T12:14:00+00:00,United States,0.7717235940533322,0,1,en,CNA,North-America
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7717212840338125,0,1,en,CNA,North-America
+'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-01-15T12:14:00+00:00,Australia,0.7717164480640021,0,1,en,CAU,Oceania
+'4aada2ec79',extremes,Precipitation,#d60d2b,wmo,Rain United Kingdom,2026-01-15T12:14:00+00:00,United Kingdom,0.7717163468977963,0,1,en,NEU,Europe
+'0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,Storm Barren Islands East,2026-01-15T10:56:00+00:00,United States,0.7717055364644743,0,1,en,CNA,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-01-15T10:56:00+00:00,Australia,0.7671943670461134,1,3,en,CAU,Oceania
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7642791224865733,1,3,en,SAS,Asia
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
