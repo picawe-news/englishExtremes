@@ -3,11 +3,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.7718517669141143,0,1,en,NZ,Oceania
 '0f7c486492',extremes,Wildfire,#d60d2b,wmo,Wildfire Arunachal Pradesh,2026-01-15T12:14:00+00:00,India,0.771850462009441,0,1,en,SAS,Asia
-'4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-01-15T10:56:00+00:00,United States,0.7718074253335546,0,1,en,CNA,North-America
 'f1019711ee',extremes,Wildfire,#d60d2b,wmo,Wildfire Sedgwick County Phillips County,2026-01-15T10:56:00+00:00,United States,0.7718063448359751,0,1,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-01-15T10:56:00+00:00,United States,0.7717901225247122,0,1,en,CNA,North-America
 '0452bbb3d4',extremes,Flood,#030ba1,wmo,Flooding Queensland Staaten River,2026-01-15T12:14:00+00:00,Australia,0.7717682331490883,0,1,en,CAU,Oceania
-'28e5039f57',extremes,Flood,#030ba1,wmo,Flood Queensland Nogoa River,2026-01-15T10:56:00+00:00,Australia,0.7717637599895923,0,1,en,CAU,Oceania
 '8d0d34d451',extremes,Flood,#030ba1,wmo,Flood Queensland Leichhardt River,2026-01-15T10:56:00+00:00,Australia,0.7717626232783007,0,1,en,CAU,Oceania
 '463a80336c',extremes,Flood,#030ba1,wmo,Flooding Queensland Barcoo River,2026-01-15T12:14:00+00:00,Australia,0.7717604476563131,0,1,en,CAU,Oceania
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2026-01-15T12:14:00+00:00,Australia,0.7717577617366232,0,1,en,CAU,Oceania
@@ -72,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9590c197ce',extremes,Snow&Ice,#d60d2b,wmo,Ice Central Brooks Range,2026-01-15T10:56:00+00:00,United States,0.6856040410393358,2,1,en,CNA,North-America
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.6854271220297079,2,1,en,NZ,Oceania
 '6797a9705d',extremes,Drought,#edc291,edo,Drought Jamaica,2026-01-15T10:57:00+00:00,Jamaica,0.6816308629020777,1,2,en,CAR,North-America
+'4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-01-15T10:56:00+00:00,United States,0.6791693747153396,1,2,en,CNA,North-America
 '0dad6cb33a',extremes,Snow&Ice,#d60d2b,wmo,Snow Gatineau,2026-01-15T10:56:00+00:00,Canada,0.6788007733877839,1,1,en,NEN,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-01-15T10:56:00+00:00,Australia,0.6782701316059332,1,2,en,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-01-15T10:57:00+00:00,Australia,0.6776863485644264,2,1,en,EAU,Oceania
@@ -154,6 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b02ec47c6e',extremes,Flood,#030ba1,wmo,Flashflood St. Tammany LA,2026-01-15T12:14:00+00:00,United States,0.6560317046944534,1,1,en,CNA,North-America
 '920e2491f3',extremes,Flood,#030ba1,wmo,Flashflood Southern Kenai Mtns,2026-01-15T12:14:00+00:00,United States,0.6560087657204616,1,1,en,CNA,North-America
 'af3a97556f',extremes,Flood,#030ba1,wmo,Flashflood Queensland Nogoa River,2026-01-15T10:56:00+00:00,Australia,0.656008158594633,1,1,en,CAU,Oceania
+'28e5039f57',extremes,Flood,#030ba1,wmo,Flood Queensland Nogoa River,2026-01-15T10:56:00+00:00,Australia,0.6559991959911535,1,1,en,CAU,Oceania
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,Fog India,2025-12-15T03:54:00+00:00,India,0.6412500651079363,1,3,en,SAS,Asia
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2025-12-14T03:49:00+00:00,New Zealand,0.6369329952512194,1,3,en,NZ,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2025-12-14T03:49:00+00:00,Jamaica,0.6346544964155424,1,3,en,CAR,North-America
