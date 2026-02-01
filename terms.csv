@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-01-15T10:56:00+00:00,United States,0.7911931108109751,0,1,en,WNA,North-America
 '485794e3d4',extremes,Earthquake,#870007,usgs,Earthquake Canada,2026-01-15T12:13:00+00:00,Canada,0.7911027570560705,0,1,en,NWN,North-America
-'06972a2776',extremes,Flood,#030ba1,acwe,flash flood New South Wales,2026-01-31T04:17:00+00:00,Australia,0.774823407013601,0,1,en,EAU,Oceania
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.7718517669141143,0,1,en,NZ,Oceania
 '0f7c486492',extremes,Wildfire,#d60d2b,wmo,Wildfire Arunachal Pradesh,2026-01-15T12:14:00+00:00,India,0.771850462009441,0,1,en,SAS,Asia
 'f1019711ee',extremes,Wildfire,#d60d2b,wmo,Wildfire Sedgwick County Phillips County,2026-01-15T10:56:00+00:00,United States,0.7718063448359751,0,1,en,CNA,North-America
@@ -60,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f199635353',extremes,Earthquake,#870007,usgs,Earthquake Morigaon,2026-01-15T10:56:00+00:00,India,0.7116068418812012,1,1,en,SAS,Asia
 'f1966df415',extremes,Thunderstorm,#53785a,wmo,Hail Australia,2026-01-15T10:56:00+00:00,Australia,0.7109989005315779,1,2,en,CAU,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-01-15T10:56:00+00:00,United States,0.7105701523282294,1,2,en,CNA,North-America
+'06972a2776',extremes,Flood,#030ba1,acwe,flash flood New South Wales,2026-01-31T04:17:00+00:00,Australia,0.7104000759615607,1,1,en,EAU,Oceania
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-01-15T10:57:00+00:00,Australia,0.7079435751114173,1,1,en,NAU,Oceania
 'e3e012c1ea',extremes,Snow&Ice,#d60d2b,wmo,Frost India,2026-01-15T12:14:00+00:00,India,0.7077418496824676,1,2,en,SAS,Asia
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-01-15T10:56:00+00:00,Canada,0.7056851477790832,1,2,en,NEN,North-America
