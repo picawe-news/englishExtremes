@@ -45,6 +45,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c09090723a',extremes,Storm,#b3b2b1,wmo,Storm Surge Delta Junction,2026-01-15T12:14:00+00:00,United States,0.7716250328888765,0,1,en,CNA,North-America
 '32e6fa37e6',extremes,Snow&Ice,#d60d2b,wmo,Frost The Islands to Vermilion OH,2026-01-15T12:14:00+00:00,United States,0.7716229173679726,0,1,en,CNA,North-America
 'bcac033de3',extremes,Storm,#b3b2b1,wmo,Storm Surge Kiska to Attu Pacific Side,2026-01-15T12:14:00+00:00,United States,0.7716200519879943,0,1,en,CNA,North-America
+'e25c70f8ae',extremes,Storm,#b3b2b1,wmo,Storm Unalaska Bay,2026-01-15T12:14:00+00:00,United States,0.7716174729438857,0,1,en,CNA,North-America
+'42fab2fe29',extremes,Storm,#b3b2b1,wmo,Storm Lower Niagara River,2026-01-15T12:14:00+00:00,United States,0.7716155203803624,0,1,en,CNA,North-America
+'12f24484f4',extremes,Snow&Ice,#d60d2b,wmo,Frost Geneva on the Lake to Conneaut OH,2026-01-15T12:14:00+00:00,United States,0.7716128522088859,0,1,en,CNA,North-America
+'08d82d11e8',extremes,Storm,#b3b2b1,wmo,Storm Western Arctic Coast,2026-01-15T12:14:00+00:00,United States,0.7716068822453018,0,1,en,CNA,North-America
+'53e8150e3b',extremes,Storm,#b3b2b1,wmo,Storm Penobscot Bay,2026-01-15T10:56:00+00:00,United States,0.7716055421204092,0,1,en,CNA,North-America
+'682743104c',extremes,Storm,#b3b2b1,wmo,Storm Ashe Watauga Grayson,2026-01-15T12:14:00+00:00,United States,0.7716026770762818,0,1,en,CNA,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-01-15T10:56:00+00:00,Australia,0.7671943670461134,1,3,en,CAU,Oceania
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7642791224865733,1,3,en,SAS,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-01-15T10:56:00+00:00,United States,0.7639648001213578,1,3,en,CNA,North-America
