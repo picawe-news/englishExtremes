@@ -1,20 +1,44 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Storm Goretti,Storm Goretti,PERSON,-0.22413793103448282,0.4655172413793104,en,5.8
 Storm Bram,Storm Bram,PERSON,0.12179487179487178,0.19871794871794868,en,2.6
+Lindsey Graham,Lindsey Graham,PERSON,0.4166666666666667,0.4166666666666667,en,2.4
 Ashoka Ranwala,Ashoka Ranwala,PERSON,0.0,0.16987179487179485,en,1.3
+Ayushman Arogya Mandirs,Ayushman Arogya Mandirs,PERSON,0.39335664335664333,0.6381118881118881,en,1.3
+Gautam Buddh Nagar,Gautam Buddh Nagar,PERSON,-0.28205128205128205,0.6666666666666666,en,1.3
+Joan Didion,Joan Didion,PERSON,0.1346153846153846,0.3846153846153846,en,1.3
+Max Planck,Max Planck,PERSON,0.3717948717948718,0.876068376068376,en,1.3
+Ilhan Omar,Ilhan Omar,PERSON,0.0,0.0,en,1.3
+Donald Trump,Donald Trump,PERSON,-0.07692307692307693,0.07692307692307693,en,1.3
 Gentle Reset,Gentle Reset,PERSON,0.30303030303030304,0.9638047138047139,en,1.2
+Ken Graham,Ken Graham,PERSON,0.0,0.0,en,1.0
+Nick Ellis,Nick Ellis,PERSON,0.0,0.1,en,1.0
+Dylan Cole,Dylan Cole,PERSON,0.0,0.1,en,1.0
+Tucker Carlson,Tucker Carlson,PERSON,0.0,0.0,en,1.0
+Franklin Graham,Franklin Graham,PERSON,0.0,0.0,en,1.0
+Nicolás Maduro,Nicolás Maduro,PERSON,0.25,0.27777777777777773,en,1.0
+A Tribe Called Quest,A Tribe Called Quest,PERSON,0.0,0.0,en,1.0
+Shane prac,Shane prac,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
+Amit Shah,Amit Shah,PERSON,0.012121212121212125,0.2792929292929293,en,1.0
+Silent Hill f,Silent Hill f,PERSON,-0.01666666666666668,0.45,en,1.0
+Nasonia vitripennis,Nasonia vitripennis,PERSON,0.16666666666666663,0.4020833333333333,en,1.0
+Rekha Gupta,Rekha Gupta,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+James Boasberg,James Boasberg,PERSON,-0.15,0.15000000000000002,en,1.0
 Port Pirie,Port Pirie,PERSON,-0.07777777777777779,0.14444444444444446,en,1.0
-Kingsley Omonobi,Kingsley Omonobi,PERSON,0.08666666666666667,0.3133333333333333,en,1.0
-Met Éireann,Met Éireann,PERSON,0.0,1.0,en,1.0
-Nelson Byrd Woltz Landscape Architects,Nelson Byrd Woltz Landscape Architects,PERSON,-0.02121212121212122,0.30707070707070705,en,1.0
-Thomas Woltz,Thomas Woltz,PERSON,0.0,0.0,en,1.0
-Camille Styles,Camille Styles,PERSON,0.19545454545454546,0.5292929292929293,en,1.0
+Stuart Braun,Stuart Braun,PERSON,-0.018333333333333326,0.4766666666666667,en,1.0
+David Secter,David Secter,PERSON,-0.3,0.4,en,1.0
+Scott Wedgewood,Scott Wedgewood,PERSON,0.5125,0.675,en,1.0
+Mackenzie Blackwood,Mackenzie Blackwood,PERSON,0.5125,0.675,en,1.0
+Storm Éowyn,Storm Éowyn,PERSON,0.5,0.5,en,1.0
+Brock Nelson,Brock Nelson,PERSON,0.22916666666666666,1.6208333333333333,en,1.0
+Ahmed al Ahmed,Ahmed al Ahmed,PERSON,-0.4000000000000001,0.6,en,1.0
 Willis Eschenbach,Willis Eschenbach,PERSON,0.0,0.3,en,1.0
 Ezra As,Ezra As,PERSON,0.3666666666666667,0.45,en,1.0
+Kingsley Omonobi,Kingsley Omonobi,PERSON,0.08666666666666667,0.3133333333333333,en,1.0
+Camille Styles,Camille Styles,PERSON,0.19545454545454546,0.5292929292929293,en,1.0
+Jonathan Otto,Jonathan Otto,PERSON,0.05,0.5,en,1.0
+Thomas Woltz,Thomas Woltz,PERSON,0.0,0.0,en,1.0
+Nelson Byrd Woltz Landscape Architects,Nelson Byrd Woltz Landscape Architects,PERSON,-0.02121212121212122,0.30707070707070705,en,1.0
+Mike Adams,Mike Adams,PERSON,0.1787878787878788,0.40151515151515155,en,1.0
+Met Éireann,Met Éireann,PERSON,0.0,1.0,en,1.0
 Narayana Murthy,Narayana Murthy,PERSON,0.0,0.3333333333333333,en,1.0
-Ahmed al Ahmed,Ahmed al Ahmed,PERSON,-0.4000000000000001,0.6,en,1.0
-Brock Nelson,Brock Nelson,PERSON,0.22916666666666666,1.6208333333333333,en,1.0
-Storm Éowyn,Storm Éowyn,PERSON,0.5,0.5,en,1.0
-Mackenzie Blackwood,Mackenzie Blackwood,PERSON,0.5125,0.675,en,1.0
-Scott Wedgewood,Scott Wedgewood,PERSON,0.5125,0.675,en,1.0
-Nasonia vitripennis,Nasonia vitripennis,PERSON,0.16666666666666663,0.4020833333333333,en,1.0
+Victoria Faces ‘Dangerous’,Victoria Faces ‘Dangerous’,PERSON,-0.6,0.9,en,1.0
