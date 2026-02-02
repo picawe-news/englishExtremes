@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0452bbb3d4',extremes,Flood,#030ba1,wmo,Flooding Queensland Staaten River,2026-01-15T12:14:00+00:00,Australia,0.7717682331490883,0,1,en,CAU,Oceania
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-01-15T10:56:00+00:00,United States,0.7717350734985343,0,1,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7717345221799186,0,1,en,CAU,Oceania
-'0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-01-15T10:56:00+00:00,Australia,0.7717270846322946,0,1,en,CAU,Oceania
 'da50c9766d',extremes,Fog,#d60d2b,wmo,Fog Kittitas Valley,2026-01-15T12:14:00+00:00,United States,0.7717235940533322,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7717212840338125,0,1,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-01-15T12:14:00+00:00,Australia,0.7717164480640021,0,1,en,CAU,Oceania
@@ -92,6 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0dad6cb33a',extremes,Snow&Ice,#d60d2b,wmo,Snow Gatineau,2026-01-15T10:56:00+00:00,Canada,0.6788007733877839,1,1,en,NEN,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-01-15T10:56:00+00:00,Australia,0.6782701316059332,1,2,en,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-01-15T10:57:00+00:00,Australia,0.6776863485644264,2,1,en,EAU,Oceania
+'0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-01-15T10:56:00+00:00,Australia,0.6759181869374504,1,1,en,CAU,Oceania
 '91c96e0c29',extremes,Snow&Ice,#d60d2b,wmo,Ice Graham,2026-01-15T10:56:00+00:00,United States,0.6757788324296173,1,2,en,CNA,North-America
 '3388f3d3d6',extremes,Drought,#edc291,acwe,lack of rain Australia,2026-01-15T10:57:00+00:00,Australia,0.6743706138273986,1,2,en,CAU,Oceania
 '45f861329d',extremes,Landslide,#572c03,aidr,Landslide Adelaide Hills South Australia,2026-01-15T10:57:00+00:00,Australia,0.6733658926821334,1,1,en,SAU,Oceania
@@ -184,7 +184,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2025-12-13T03:38:00+00:00,United Kingdom,0.6334988992664804,1,3,en,NEU,Europe
 '0c663115df',extremes,Snow&Ice,#d60d2b,wmo,Avalanche New Zealand,2025-12-18T03:44:00+00:00,New Zealand,0.6334641700272413,1,2,en,NZ,Oceania
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2025-12-16T03:47:00+00:00,India,0.6334068649763587,1,3,en,SAS,Asia
-'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2025-12-10T03:45:00+00:00,India,0.6310647626572697,1,3,en,SAS,Asia
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2025-12-15T03:54:00+00:00,Canada,0.6252979039768662,1,3,en,NEN,North-America
 'f01d6af0d4',extremes,Flood,#030ba1,wmo,Flood Lower Columbia Basin of Washington,2025-12-18T03:44:00+00:00,United States,0.6240912723277697,1,2,en,CNA,North-America
 'e529a9043d',extremes,Fog,#d60d2b,wmo,Fog Hisar district of Haryana,2025-12-19T03:46:00+00:00,India,0.6233640741609844,1,2,en,SAS,Asia
@@ -193,7 +192,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '07eea948e4',extremes,Fog,#d60d2b,wmo,Fog Monterey Bay,2025-12-18T03:44:00+00:00,United States,0.5930720174386143,1,2,en,CNA,North-America
 'fb7c4961bb',extremes,Precipitation,#d60d2b,wmo,Rain Ranges of Westland,2025-12-18T03:44:00+00:00,New Zealand,0.5920073470566721,1,2,en,NZ,Oceania
-'11db661ab4',extremes,Thunderstorm,#53785a,wmo,Severe Weather Maldives,2025-12-18T03:44:00+00:00,Maldives,0.5720800031728669,1,2,en,EIO,Indian Ocean
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,en,,
