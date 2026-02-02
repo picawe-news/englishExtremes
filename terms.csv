@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-01-15T10:56:00+00:00,United States,0.7967214577677688,1,3,en,CNA,North-America
 '485794e3d4',extremes,Earthquake,#870007,usgs,Earthquake Canada,2026-01-15T12:13:00+00:00,Canada,0.7911027570560705,0,1,en,NWN,North-America
-'42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-02-02T04:37:00+00:00,Australia,0.7731593335737534,0,1,en,EAU,Oceania
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-01-15T10:56:00+00:00,Canada,0.7721906219738428,0,1,en,NEN,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7721571290745076,0,1,en,CNA,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.7718517669141143,0,1,en,NZ,Oceania
@@ -141,6 +140,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-01-15T12:14:00+00:00,Australia,0.6598593708544017,1,2,en,CAU,Oceania
 '7bd46b5588',extremes,Flood,#030ba1,wmo,Flooding Queensland Norman River,2026-01-15T12:14:00+00:00,Australia,0.6575007420785057,1,1,en,CAU,Oceania
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,Flood Rainfall and Flooding Queensland February March 2022,2026-01-15T10:57:00+00:00,Australia,0.6574238744327005,1,1,en,EAU,Oceania
+'42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-02-02T04:37:00+00:00,Australia,0.6573354485376904,1,1,en,EAU,Oceania
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,Flood Severe Flooding from ex Tropical Cyclone Tiffany South Australia 2022,2026-01-17T03:45:00+00:00,Australia,0.6566241406812731,1,1,en,SAU,Oceania
 'bbc9d44319',extremes,Storm,#b3b2b1,wmo,Storm Northwest Prince William Sound,2026-01-15T10:56:00+00:00,United States,0.6565065005244539,1,1,en,CNA,North-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,Storm Starke,2026-01-15T10:56:00+00:00,United States,0.656504803231168,1,1,en,CNA,North-America
