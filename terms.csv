@@ -12,9 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0452bbb3d4',extremes,Flood,#030ba1,wmo,Flooding Queensland Staaten River,2026-01-15T12:14:00+00:00,Australia,0.7717682331490883,0,1,en,CAU,Oceania
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-01-15T10:56:00+00:00,United States,0.7717350734985343,0,1,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7717345221799186,0,1,en,CAU,Oceania
-'da50c9766d',extremes,Fog,#d60d2b,wmo,Fog Kittitas Valley,2026-01-15T12:14:00+00:00,United States,0.7717235940533322,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7717212840338125,0,1,en,CNA,North-America
-'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-01-15T12:14:00+00:00,Australia,0.7717164480640021,0,1,en,CAU,Oceania
 '4aada2ec79',extremes,Precipitation,#d60d2b,wmo,Rain United Kingdom,2026-01-15T12:14:00+00:00,United Kingdom,0.7717163468977963,0,1,en,NEU,Europe
 '0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,Storm Barren Islands East,2026-01-15T10:56:00+00:00,United States,0.7717055364644743,0,1,en,CNA,North-America
 '592e20b0c2',extremes,Snow&Ice,#d60d2b,wmo,Freezing Pribilof Islands Nearshore Waters,2026-01-15T10:56:00+00:00,United States,0.771703120264078,0,1,en,CNA,North-America
@@ -134,6 +132,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.6641588881084023,2,2,en,WAF,Africa
 'e5e64ee526',extremes,Flood,#030ba1,aidr,Flood Katherine Northern Territory,2026-01-15T12:14:00+00:00,Australia,0.6607549978510294,1,1,en,NAU,Oceania
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2026-01-15T12:14:00+00:00,Australia,0.6606451774761297,1,2,en,CAU,Oceania
+'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-01-15T12:14:00+00:00,Australia,0.6598593708544017,1,2,en,CAU,Oceania
 '7bd46b5588',extremes,Flood,#030ba1,wmo,Flooding Queensland Norman River,2026-01-15T12:14:00+00:00,Australia,0.6575007420785057,1,1,en,CAU,Oceania
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,Flood Rainfall and Flooding Queensland February March 2022,2026-01-15T10:57:00+00:00,Australia,0.6574238744327005,1,1,en,EAU,Oceania
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,Flood Severe Flooding from ex Tropical Cyclone Tiffany South Australia 2022,2026-01-17T03:45:00+00:00,Australia,0.6566241406812731,1,1,en,SAU,Oceania
@@ -178,6 +177,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f22b6601a9',extremes,Flood,#030ba1,wmo,Flashflood Oahu in Honolulu HI,2026-01-15T12:14:00+00:00,United States,0.6559845502964875,1,1,en,CNA,North-America
 '4119e8a01e',extremes,Flood,#030ba1,wmo,Flooding Northern Territory Mary River,2026-01-15T12:14:00+00:00,Australia,0.6559843719056766,1,1,en,CAU,Oceania
 '8e26941aa4',extremes,Fog,#d60d2b,wmo,Fog Yakima Valley,2026-01-15T10:56:00+00:00,United States,0.6559756617609793,1,1,en,CNA,North-America
+'da50c9766d',extremes,Fog,#d60d2b,wmo,Fog Kittitas Valley,2026-01-15T12:14:00+00:00,United States,0.6559650549453324,1,1,en,CNA,North-America
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,Fog India,2025-12-15T03:54:00+00:00,India,0.6412500651079363,1,3,en,SAS,Asia
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2025-12-14T03:49:00+00:00,New Zealand,0.6369329952512194,1,3,en,NZ,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2025-12-14T03:49:00+00:00,Jamaica,0.6346544964155424,1,3,en,CAR,North-America
