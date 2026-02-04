@@ -10,12 +10,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f7c486492',extremes,Wildfire,#d60d2b,wmo,Wildfire Arunachal Pradesh,2026-01-15T12:14:00+00:00,India,0.771850462009441,0,1,en,SAS,Asia
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-01-15T10:56:00+00:00,United States,0.7717901225247122,0,1,en,CNA,North-America
 '0452bbb3d4',extremes,Flood,#030ba1,wmo,Flooding Queensland Staaten River,2026-01-15T12:14:00+00:00,Australia,0.7717682331490883,0,1,en,CAU,Oceania
-'0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-01-15T10:56:00+00:00,United States,0.7717350734985343,0,1,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7717345221799186,0,1,en,CAU,Oceania
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7717212840338125,0,1,en,CNA,North-America
 '869ef54b45',extremes,Storm,#b3b2b1,wmo,Storm Surge Kuskokwim Delta from 15 to 80 NM,2026-01-15T12:14:00+00:00,United States,0.7716339245641144,0,1,en,CNA,North-America
 '625db112cc',extremes,Storm,#b3b2b1,wmo,Storm Surge Adak to Kiska Bering Side,2026-01-15T12:14:00+00:00,United States,0.7716268609727227,1,1,en,CNA,North-America
-'46a6ba2461',extremes,Snow&Ice,#d60d2b,wmo,Snow Cambria Somerset,2026-01-15T12:14:00+00:00,United States,0.7716261822173897,0,1,en,CNA,North-America
 'c09090723a',extremes,Storm,#b3b2b1,wmo,Storm Surge Delta Junction,2026-01-15T12:14:00+00:00,United States,0.7716250328888765,0,1,en,CNA,North-America
 '32e6fa37e6',extremes,Snow&Ice,#d60d2b,wmo,Frost The Islands to Vermilion OH,2026-01-15T12:14:00+00:00,United States,0.7716229173679726,0,1,en,CNA,North-America
 'bcac033de3',extremes,Storm,#b3b2b1,wmo,Storm Surge Kiska to Attu Pacific Side,2026-01-15T12:14:00+00:00,United States,0.7716200519879943,0,1,en,CNA,North-America
@@ -79,6 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-01-15T10:57:00+00:00,Australia,0.6974088745517852,1,1,en,EAU,Oceania
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,Wildfire Australia,2026-01-15T10:56:00+00:00,Australia,0.6966350723634106,1,2,en,CAU,Oceania
 'ebbb5bceab',extremes,Flood,#030ba1,aidr,Flood North and Central Queensland,2026-01-15T12:14:00+00:00,Australia,0.6956905844170125,1,2,en,NAU,Oceania
+'0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-01-15T10:56:00+00:00,United States,0.6935887374737542,1,2,en,CNA,North-America
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-01-15T10:56:00+00:00,India,0.6910299707674382,1,2,en,SAS,Asia
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-01-15T10:56:00+00:00,Canada,0.6883248782746255,1,2,en,NEN,North-America
 '8c46315dbe',extremes,Earthquake,#870007,aidr,earthquake Australia,2026-01-15T10:57:00+00:00,Australia,0.6876976222933846,1,2,en,EAU,Oceania
@@ -201,16 +200,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad5b777a19',extremes,Storm,#b3b2b1,wmo,Storm Surge Starke,2026-01-15T12:14:00+00:00,United States,0.6558872789993727,1,1,en,CNA,North-America
 'b8bea23b11',extremes,Snow&Ice,#d60d2b,wmo,Frost Pribilof Islands Nearshore Waters,2026-01-15T10:56:00+00:00,United States,0.6558848345149847,1,1,en,CNA,North-America
 '1ee130b372',extremes,Storm,#b3b2b1,wmo,Storm Surge Cook Inlet North Kalgin Island,2026-01-15T10:56:00+00:00,United States,0.6558844584367162,1,1,en,CNA,North-America
+'46a6ba2461',extremes,Snow&Ice,#d60d2b,wmo,Snow Cambria Somerset,2026-01-15T12:14:00+00:00,United States,0.6558822548847811,1,1,en,CNA,North-America
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,Fog India,2025-12-15T03:54:00+00:00,India,0.6412500651079363,1,3,en,SAS,Asia
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2025-12-14T03:49:00+00:00,New Zealand,0.6369329952512194,1,3,en,NZ,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2025-12-14T03:49:00+00:00,Jamaica,0.6346544964155424,1,3,en,CAR,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2025-12-13T03:38:00+00:00,United Kingdom,0.6334988992664804,1,3,en,NEU,Europe
-'0c663115df',extremes,Snow&Ice,#d60d2b,wmo,Avalanche New Zealand,2025-12-18T03:44:00+00:00,New Zealand,0.6334641700272413,1,2,en,NZ,Oceania
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2025-12-16T03:47:00+00:00,India,0.6334068649763587,1,3,en,SAS,Asia
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2025-12-15T03:54:00+00:00,Canada,0.6252979039768662,1,3,en,NEN,North-America
-'e529a9043d',extremes,Fog,#d60d2b,wmo,Fog Hisar district of Haryana,2025-12-19T03:46:00+00:00,India,0.6233640741609844,1,2,en,SAS,Asia
-'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2025-12-13T03:38:00+00:00,Ireland,0.6159162405777087,1,3,en,NEU,Europe
-'48a5be945f',extremes,Flood,#030ba1,wmo,Flooding Lower Columbia Basin of Washington,2025-12-19T03:46:00+00:00,United States,0.6115257201476131,1,2,en,CNA,North-America
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
