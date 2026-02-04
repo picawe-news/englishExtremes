@@ -14,7 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7717345221799186,0,1,en,CAU,Oceania
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7717212840338125,0,1,en,CNA,North-America
 '869ef54b45',extremes,Storm,#b3b2b1,wmo,Storm Surge Kuskokwim Delta from 15 to 80 NM,2026-01-15T12:14:00+00:00,United States,0.7716339245641144,0,1,en,CNA,North-America
-'625db112cc',extremes,Storm,#b3b2b1,wmo,Storm Surge Adak to Kiska Bering Side,2026-01-15T12:14:00+00:00,United States,0.7716268609727227,0,1,en,CNA,North-America
+'625db112cc',extremes,Storm,#b3b2b1,wmo,Storm Surge Adak to Kiska Bering Side,2026-01-15T12:14:00+00:00,United States,0.7716268609727227,1,1,en,CNA,North-America
 '46a6ba2461',extremes,Snow&Ice,#d60d2b,wmo,Snow Cambria Somerset,2026-01-15T12:14:00+00:00,United States,0.7716261822173897,0,1,en,CNA,North-America
 'c09090723a',extremes,Storm,#b3b2b1,wmo,Storm Surge Delta Junction,2026-01-15T12:14:00+00:00,United States,0.7716250328888765,0,1,en,CNA,North-America
 '32e6fa37e6',extremes,Snow&Ice,#d60d2b,wmo,Frost The Islands to Vermilion OH,2026-01-15T12:14:00+00:00,United States,0.7716229173679726,0,1,en,CNA,North-America
