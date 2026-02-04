@@ -54,6 +54,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-01-20T03:56:00+00:00,Solomon Islands,0.7514438280159347,0,1,en,EPO,Oceania
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-01-19T04:03:00+00:00,Solomon Islands,0.7505897482144618,0,1,en,EPO,Oceania
 '4712445a4d',extremes,Flood,#030ba1,wmo,Flashflood Queensland Gilbert River,2026-01-15T10:56:00+00:00,Australia,0.7504190262110629,0,1,en,CAU,Oceania
+'037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-01-15T10:56:00+00:00,United States,0.7502161928663358,0,1,en,CNA,North-America
+'27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-01-29T04:19:00+00:00,Solomon Islands,0.7499686896925986,0,1,en,EPO,Oceania
+'84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave 4 districts of Haryana,2026-01-22T03:59:00+00:00,India,0.7494771865271368,0,1,en,SAS,Asia
+'3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-02-03T04:27:00+00:00,Canada,0.7492518487577842,0,1,en,NEN,North-America
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-01-15T10:56:00+00:00,United States,0.7492107388528172,0,1,en,CNA,North-America
+'087c387775',extremes,Storm,#b3b2b1,wmo,Storm All waters of SI,2026-01-30T04:21:00+00:00,Solomon Islands,0.7491145851985298,0,1,en,EPO,Oceania
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
