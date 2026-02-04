@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,Freezing 5 districts of Rajasthan,2026-01-15T12:14:00+00:00,India,0.8062205893331634,1,2,en,SAS,Asia
+'08d82d11e8',extremes,Storm,#b3b2b1,wmo,Storm Western Arctic Coast,2026-01-15T12:14:00+00:00,United States,0.8047091420513637,1,3,en,CNA,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-01-15T10:56:00+00:00,United States,0.7967214577677688,1,3,en,CNA,North-America
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-01-15T10:57:00+00:00,Australia,0.7917919790728939,0,1,en,EAU,Oceania
@@ -13,12 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7717345221799186,0,1,en,CAU,Oceania
 '869ef54b45',extremes,Storm,#b3b2b1,wmo,Storm Surge Kuskokwim Delta from 15 to 80 NM,2026-01-15T12:14:00+00:00,United States,0.7716339245641144,0,1,en,CNA,North-America
 '625db112cc',extremes,Storm,#b3b2b1,wmo,Storm Surge Adak to Kiska Bering Side,2026-01-15T12:14:00+00:00,United States,0.7716268609727227,1,1,en,CNA,North-America
-'32e6fa37e6',extremes,Snow&Ice,#d60d2b,wmo,Frost The Islands to Vermilion OH,2026-01-15T12:14:00+00:00,United States,0.7716229173679726,0,1,en,CNA,North-America
-'bcac033de3',extremes,Storm,#b3b2b1,wmo,Storm Surge Kiska to Attu Pacific Side,2026-01-15T12:14:00+00:00,United States,0.7716200519879943,0,1,en,CNA,North-America
-'e25c70f8ae',extremes,Storm,#b3b2b1,wmo,Storm Unalaska Bay,2026-01-15T12:14:00+00:00,United States,0.7716174729438857,0,1,en,CNA,North-America
-'42fab2fe29',extremes,Storm,#b3b2b1,wmo,Storm Lower Niagara River,2026-01-15T12:14:00+00:00,United States,0.7716155203803624,0,1,en,CNA,North-America
-'12f24484f4',extremes,Snow&Ice,#d60d2b,wmo,Frost Geneva on the Lake to Conneaut OH,2026-01-15T12:14:00+00:00,United States,0.7716128522088859,0,1,en,CNA,North-America
-'08d82d11e8',extremes,Storm,#b3b2b1,wmo,Storm Western Arctic Coast,2026-01-15T12:14:00+00:00,United States,0.7716068822453018,0,1,en,CNA,North-America
 '53e8150e3b',extremes,Storm,#b3b2b1,wmo,Storm Penobscot Bay,2026-01-15T10:56:00+00:00,United States,0.7716055421204092,0,1,en,CNA,North-America
 '682743104c',extremes,Storm,#b3b2b1,wmo,Storm Ashe Watauga Grayson,2026-01-15T12:14:00+00:00,United States,0.7716026770762818,0,1,en,CNA,North-America
 'cdd4957432',extremes,Storm,#b3b2b1,wmo,Storm Surge St. Andrews Bay Waterways,2026-01-15T12:14:00+00:00,United States,0.7716016560795743,0,1,en,CNA,North-America
@@ -207,6 +202,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ee130b372',extremes,Storm,#b3b2b1,wmo,Storm Surge Cook Inlet North Kalgin Island,2026-01-15T10:56:00+00:00,United States,0.6558844584367162,1,1,en,CNA,North-America
 '46a6ba2461',extremes,Snow&Ice,#d60d2b,wmo,Snow Cambria Somerset,2026-01-15T12:14:00+00:00,United States,0.6558822548847811,1,1,en,CNA,North-America
 'c09090723a',extremes,Storm,#b3b2b1,wmo,Storm Surge Delta Junction,2026-01-15T12:14:00+00:00,United States,0.6558812779555451,1,1,en,CNA,North-America
+'32e6fa37e6',extremes,Snow&Ice,#d60d2b,wmo,Frost The Islands to Vermilion OH,2026-01-15T12:14:00+00:00,United States,0.6558794797627767,1,1,en,CNA,North-America
+'bcac033de3',extremes,Storm,#b3b2b1,wmo,Storm Surge Kiska to Attu Pacific Side,2026-01-15T12:14:00+00:00,United States,0.6558770441897952,1,1,en,CNA,North-America
+'e25c70f8ae',extremes,Storm,#b3b2b1,wmo,Storm Unalaska Bay,2026-01-15T12:14:00+00:00,United States,0.6558748520023029,1,1,en,CNA,North-America
+'42fab2fe29',extremes,Storm,#b3b2b1,wmo,Storm Lower Niagara River,2026-01-15T12:14:00+00:00,United States,0.655873192323308,1,1,en,CNA,North-America
+'12f24484f4',extremes,Snow&Ice,#d60d2b,wmo,Frost Geneva on the Lake to Conneaut OH,2026-01-15T12:14:00+00:00,United States,0.655870924377553,1,1,en,CNA,North-America
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,Fog India,2025-12-15T03:54:00+00:00,India,0.6412500651079363,1,3,en,SAS,Asia
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2025-12-14T03:49:00+00:00,New Zealand,0.6369329952512194,1,3,en,NZ,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2025-12-14T03:49:00+00:00,Jamaica,0.6346544964155424,1,3,en,CAR,North-America
