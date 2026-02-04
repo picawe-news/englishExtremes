@@ -56,6 +56,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-02-03T04:27:00+00:00,Canada,0.7492518487577842,0,1,en,NEN,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-01-15T10:56:00+00:00,United States,0.7492107388528172,0,1,en,CNA,North-America
 '087c387775',extremes,Storm,#b3b2b1,wmo,Storm All waters of SI,2026-01-30T04:21:00+00:00,Solomon Islands,0.7491145851985298,0,1,en,EPO,Oceania
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-01-19T04:03:00+00:00,New Zealand,0.7490857970383236,0,1,en,NZ,Oceania
+'01aa566f43',extremes,Storm,#b3b2b1,wmo,Storm Surge Westland and Grey districts,2026-02-03T04:27:00+00:00,New Zealand,0.7487490425395283,0,1,en,NZ,Oceania
+'4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Grant Katherine floods train derailment chemical spill,2026-01-15T12:14:00+00:00,Australia,0.7486419361138564,0,1,en,NAU,Oceania
+'9d78e3f2f2',extremes,Flood,#030ba1,wmo,Flood Newaygo MI,2026-02-02T04:36:00+00:00,United States,0.7481730604677905,0,1,en,CNA,North-America
+'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,Avalanche India,2026-01-25T04:06:00+00:00,India,0.7480321674108683,0,1,en,SAS,Asia
+'7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-01-20T03:56:00+00:00,Jamaica,0.7480086184873028,0,1,en,CAR,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
