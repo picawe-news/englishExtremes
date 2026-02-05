@@ -3,9 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '08d82d11e8',extremes,Storm,#b3b2b1,wmo,Storm Western Arctic Coast,2026-01-15T12:14:00+00:00,United States,0.8047091420513637,1,3,en,CNA,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-01-15T10:56:00+00:00,United States,0.7967214577677688,1,3,en,CNA,North-America
-'255621cc4c',extremes,Earthquake,#870007,usgs,Earthquake Panguna,2026-01-31T04:16:00+00:00,Papua New Guinea,0.7801948726391603,0,1,en,EPO,Pacific Ocean
-'381ceff412',extremes,Earthquake,#870007,usgs,Earthquake Kimbe,2026-01-29T04:18:00+00:00,Papua New Guinea,0.7789104882076641,0,1,en,EPO,Pacific Ocean
-'9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2026-01-21T03:55:00+00:00,Saint Helena,0.7765066335350165,0,1,en,SAO,Atlantic Ocean
 '3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2026-01-21T03:55:00+00:00,Saint Helena,0.7756956287775371,0,1,en,EAO,Atlantic Ocean
 '521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Oswald Queensland New South Wales 2013,2026-02-05T04:28:00+00:00,Australia,0.7729688914015387,0,1,en,NAU,Oceania
 'aef4c7cec9',extremes,Earthquake,#870007,aidr,Earthquake Christchurch New Zealand 2011,2026-01-29T04:19:00+00:00,New Zealand,0.7723148063117603,0,1,en,NZ,Oceania
@@ -141,8 +138,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '982d97b8ec',extremes,Earthquake,#870007,usgs,Earthquake Susanville,2026-01-15T12:13:00+00:00,United States,0.6646544718628797,2,1,en,WNA,North-America
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,warm spell Victoria,2026-01-30T04:22:00+00:00,Australia,0.6643124059600615,1,1,en,SAU,Oceania
 'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.6641588881084023,2,2,en,WAF,Africa
+'255621cc4c',extremes,Earthquake,#870007,usgs,Earthquake Panguna,2026-01-31T04:16:00+00:00,Papua New Guinea,0.6631656417432863,1,1,en,EPO,Pacific Ocean
+'381ceff412',extremes,Earthquake,#870007,usgs,Earthquake Kimbe,2026-01-29T04:18:00+00:00,Papua New Guinea,0.6620739149765145,1,1,en,EPO,Pacific Ocean
 'e5e64ee526',extremes,Flood,#030ba1,aidr,Flood Katherine Northern Territory,2026-01-15T12:14:00+00:00,Australia,0.6607549978510294,1,1,en,NAU,Oceania
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2026-01-15T12:14:00+00:00,Australia,0.6606451774761297,1,2,en,CAU,Oceania
+'9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2026-01-21T03:55:00+00:00,Saint Helena,0.660630698504764,1,1,en,SAO,Atlantic Ocean
 '4aada2ec79',extremes,Precipitation,#d60d2b,wmo,Rain United Kingdom,2026-01-15T12:14:00+00:00,United Kingdom,0.6604599148631268,1,2,en,NEU,Europe
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-01-15T12:14:00+00:00,Australia,0.6598593708544017,1,2,en,CAU,Oceania
 '7bd46b5588',extremes,Flood,#030ba1,wmo,Flooding Queensland Norman River,2026-01-15T12:14:00+00:00,Australia,0.6575007420785057,1,1,en,CAU,Oceania
