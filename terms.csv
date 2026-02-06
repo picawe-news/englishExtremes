@@ -61,6 +61,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2026-01-23T04:03:00+00:00,United Kingdom,0.7472130373049952,0,1,en,NEU,Europe
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-01-18T03:57:00+00:00,New Zealand,0.7468426836567945,0,1,en,NZ,Oceania
+'7cafe13185',extremes,Flood,#030ba1,wmo,Flooding South West England,2026-02-02T04:36:00+00:00,United Kingdom,0.7468335575269095,0,1,en,NEU,Europe
+'7e6c45f3ef',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Kullu district of Himachal Pradesh,2026-01-26T04:09:00+00:00,India,0.7466268919675582,0,1,en,SAS,Asia
+'728cd885c7',extremes,Precipitation,#d60d2b,wmo,Downpour ALL Provinces,2026-01-26T04:09:00+00:00,Solomon Islands,0.7464022552269319,0,1,en,EPO,Oceania
+'5ca6f4a6ca',extremes,Flood,#030ba1,wmo,Flashflood Clarke AL Washington AL,2026-01-28T03:56:00+00:00,United States,0.746342098365764,0,1,en,CNA,North-America
+'f1d53a07a1',extremes,Storm,#b3b2b1,wmo,Storm Surge Fiordland,2026-02-02T04:36:00+00:00,New Zealand,0.745820910191096,0,1,en,NZ,Oceania
+'5075de9301',extremes,Flood,#030ba1,wmo,Flooding Madison MS Yazoo MS,2026-01-27T03:58:00+00:00,United States,0.7456572830947681,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
 'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave 5 districts of Rajasthan,2026-01-15T10:56:00+00:00,India,0.7316515784314582,1,2,en,SAS,Asia
