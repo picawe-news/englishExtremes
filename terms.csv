@@ -3,6 +3,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '08d82d11e8',extremes,Storm,#b3b2b1,wmo,Storm Western Arctic Coast,2026-01-15T12:14:00+00:00,United States,0.8047091420513637,1,3,en,CNA,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-01-15T10:56:00+00:00,United States,0.7967214577677688,1,3,en,CNA,North-America
+'ba920c05ae',extremes,Earthquake,#870007,usgs,Earthquake Riverton,2026-02-03T04:27:00+00:00,New Zealand,0.7718598303672844,0,1,en,NZ,Oceania
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.7718517669141143,0,1,en,NZ,Oceania
 '0f7c486492',extremes,Wildfire,#d60d2b,wmo,Wildfire Arunachal Pradesh,2026-01-15T12:14:00+00:00,India,0.771850462009441,0,1,en,SAS,Asia
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-01-15T10:56:00+00:00,United States,0.7717901225247122,0,1,en,CNA,North-America
@@ -20,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c836ac82c0',extremes,Storm,#b3b2b1,wmo,Storm Surge Biscayne Bay,2026-01-15T12:14:00+00:00,United States,0.7715435582162103,0,1,en,CNA,North-America
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2026-01-15T10:56:00+00:00,India,0.7715401401489832,0,1,en,SAS,Asia
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,dry spell New South Wales,2026-01-15T12:14:00+00:00,Australia,0.7693758795524424,0,1,en,EAU,Oceania
+'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2026-02-02T04:36:00+00:00,Solomon Islands,0.7690368684270371,0,1,en,EPO,Pacific Ocean
 '8f9b19ab0f',extremes,Drought,#edc291,acwe,drought Victoria,2026-01-15T12:14:00+00:00,Australia,0.7680754906149039,0,1,en,SAU,Oceania
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-01-15T10:56:00+00:00,Australia,0.7671943670461134,1,3,en,CAU,Oceania
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,bushfire South Australia,2026-01-27T03:59:00+00:00,Australia,0.764596931429306,0,1,en,SAU,Oceania
@@ -30,12 +32,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '96bc08d978',extremes,Drought,#edc291,acwe,low water level Northern Territory,2026-01-15T10:57:00+00:00,Australia,0.7619222535006943,0,1,en,CAU,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
 '64476ecf6f',extremes,Precipitation,#d60d2b,acwe,heavy rain South Australia,2026-01-27T03:59:00+00:00,Australia,0.7604932938406109,0,1,en,CAU,Oceania
+'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-01-18T03:56:00+00:00,Solomon Islands,0.7554825672260623,0,1,en,SPO,Oceania
+'d3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-02-05T04:27:00+00:00,Jamaica,0.7547390659867769,0,1,en,CAR,North-America
 'df9ca5fc9c',extremes,Storm,#b3b2b1,wmo,Storm Marlborough Sounds,2026-02-03T04:27:00+00:00,New Zealand,0.7527220558468796,0,1,en,NZ,Oceania
 '51b14c1443',extremes,Flood,#030ba1,aidr,Flood Geelong Victoria 2016,2026-01-18T03:57:00+00:00,Australia,0.7524011481452269,0,1,en,SAU,Oceania
 '236d7a616f',extremes,Precipitation,#d60d2b,wmo,Precipitation Solomon Islands,2026-01-30T04:21:00+00:00,Solomon Islands,0.7514797599484364,0,1,en,EPO,Oceania
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-01-20T03:56:00+00:00,Solomon Islands,0.7514438280159347,0,1,en,EPO,Oceania
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-01-19T04:03:00+00:00,Solomon Islands,0.7505897482144618,0,1,en,EPO,Oceania
 '4712445a4d',extremes,Flood,#030ba1,wmo,Flashflood Queensland Gilbert River,2026-01-15T10:56:00+00:00,Australia,0.7504190262110629,0,1,en,CAU,Oceania
+'982ec95067',extremes,Wildfire,#d60d2b,wmo,Wildfire Victoria North East,2026-02-01T04:41:00+00:00,Australia,0.7504091203001193,0,1,en,CAU,Oceania
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-01-15T10:56:00+00:00,United States,0.7502161928663358,0,1,en,CNA,North-America
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-01-29T04:19:00+00:00,Solomon Islands,0.7499686896925986,0,1,en,EPO,Oceania
 '84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave 4 districts of Haryana,2026-01-22T03:59:00+00:00,India,0.7494771865271368,0,1,en,SAS,Asia
@@ -54,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56ec713a70',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Marcia Queensland 2015,2026-01-26T04:09:00+00:00,Australia,0.747671343007232,0,1,en,EAU,Oceania
 '2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL Provinces,2026-01-29T04:19:00+00:00,Solomon Islands,0.7476077848213042,0,1,en,EPO,Oceania
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
+'7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-01-26T04:09:00+00:00,United Kingdom,0.7474831851127214,0,1,en,NEU,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2026-01-23T04:03:00+00:00,United Kingdom,0.7472130373049952,0,1,en,NEU,Europe
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-01-18T03:57:00+00:00,New Zealand,0.7468426836567945,0,1,en,NZ,Oceania
