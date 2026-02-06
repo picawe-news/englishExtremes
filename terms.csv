@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7717345221799186,0,1,en,CAU,Oceania
 '869ef54b45',extremes,Storm,#b3b2b1,wmo,Storm Surge Kuskokwim Delta from 15 to 80 NM,2026-01-15T12:14:00+00:00,United States,0.7716339245641144,0,1,en,CNA,North-America
 '625db112cc',extremes,Storm,#b3b2b1,wmo,Storm Surge Adak to Kiska Bering Side,2026-01-15T12:14:00+00:00,United States,0.7716268609727227,1,1,en,CNA,North-America
-'4121ea2e8c',extremes,Storm,#b3b2b1,wmo,Storm Marmot Bay,2026-01-15T12:14:00+00:00,United States,0.7715954281461911,0,1,en,CNA,North-America
 '8fab8ba9b2',extremes,Storm,#b3b2b1,wmo,Storm Surge Valdez Arm,2026-01-15T10:56:00+00:00,United States,0.7715882565645096,0,1,en,CNA,North-America
 '89ab98ccc9',extremes,Snow&Ice,#d60d2b,wmo,Ice Livingston Ontario Allegany,2026-01-15T12:14:00+00:00,United States,0.7715853229609683,0,1,en,CNA,North-America
 'a492c1f826',extremes,Storm,#b3b2b1,wmo,Storm Lake Okeechobee,2026-01-15T12:14:00+00:00,United States,0.7715765544340027,0,1,en,CNA,North-America
@@ -189,6 +188,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b02ec47c6e',extremes,Flood,#030ba1,wmo,Flashflood St. Tammany LA,2026-01-15T12:14:00+00:00,United States,0.6560317046944534,1,1,en,CNA,North-America
 '920e2491f3',extremes,Flood,#030ba1,wmo,Flashflood Southern Kenai Mtns,2026-01-15T12:14:00+00:00,United States,0.6560087657204616,1,1,en,CNA,North-America
 'af3a97556f',extremes,Flood,#030ba1,wmo,Flashflood Queensland Nogoa River,2026-01-15T10:56:00+00:00,Australia,0.656008158594633,1,1,en,CAU,Oceania
+'4121ea2e8c',extremes,Storm,#b3b2b1,wmo,Storm Marmot Bay,2026-01-15T12:14:00+00:00,United States,0.6560061289242624,1,1,en,CNA,North-America
 '28e5039f57',extremes,Flood,#030ba1,wmo,Flood Queensland Nogoa River,2026-01-15T10:56:00+00:00,Australia,0.6559991959911535,1,1,en,CAU,Oceania
 '463a80336c',extremes,Flood,#030ba1,wmo,Flooding Queensland Barcoo River,2026-01-15T12:14:00+00:00,Australia,0.6559963805078661,1,1,en,CAU,Oceania
 'f22b6601a9',extremes,Flood,#030ba1,wmo,Flashflood Oahu in Honolulu HI,2026-01-15T12:14:00+00:00,United States,0.6559845502964875,1,1,en,CNA,North-America
