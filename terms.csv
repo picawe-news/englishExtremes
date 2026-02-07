@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0452bbb3d4',extremes,Flood,#030ba1,wmo,Flooding Queensland Staaten River,2026-01-15T12:14:00+00:00,Australia,0.7717682331490883,0,1,en,CAU,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7717345221799186,0,1,en,CAU,Oceania
 '625db112cc',extremes,Storm,#b3b2b1,wmo,Storm Surge Adak to Kiska Bering Side,2026-01-15T12:14:00+00:00,United States,0.7716268609727227,1,1,en,CNA,North-America
-'79a70d20fa',extremes,Storm,#b3b2b1,wmo,Storm Surge Cross Sound,2026-01-15T12:14:00+00:00,United States,0.7715705311067513,0,1,en,CNA,North-America
 'd661590904',extremes,Snow&Ice,#d60d2b,wmo,Freezing Potter Tioga,2026-01-15T12:14:00+00:00,United States,0.7715594064403447,0,1,en,CNA,North-America
 'ab45e01c17',extremes,Snow&Ice,#d60d2b,wmo,Freezing Northern Herkimer Hamilton,2026-01-15T12:14:00+00:00,United States,0.7715456116056844,0,1,en,CNA,North-America
 'c836ac82c0',extremes,Storm,#b3b2b1,wmo,Storm Surge Biscayne Bay,2026-01-15T12:14:00+00:00,United States,0.7715435582162103,0,1,en,CNA,North-America
@@ -153,6 +152,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7bd46b5588',extremes,Flood,#030ba1,wmo,Flooding Queensland Norman River,2026-01-15T12:14:00+00:00,Australia,0.6575007420785057,1,1,en,CAU,Oceania
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,Flood Rainfall and Flooding Queensland February March 2022,2026-01-15T10:57:00+00:00,Australia,0.6574238744327005,1,1,en,EAU,Oceania
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-02-02T04:37:00+00:00,Australia,0.6573354485376904,1,1,en,EAU,Oceania
+'79a70d20fa',extremes,Storm,#b3b2b1,wmo,Storm Surge Cross Sound,2026-01-15T12:14:00+00:00,United States,0.6570350864407387,1,1,en,CNA,North-America
 '521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Oswald Queensland New South Wales 2013,2026-02-05T04:28:00+00:00,Australia,0.6570235576913078,1,1,en,NAU,Oceania
 'aef4c7cec9',extremes,Earthquake,#870007,aidr,Earthquake Christchurch New Zealand 2011,2026-01-29T04:19:00+00:00,New Zealand,0.6567676153649963,1,1,en,NZ,Oceania
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,Flood Severe Flooding from ex Tropical Cyclone Tiffany South Australia 2022,2026-01-17T03:45:00+00:00,Australia,0.6566241406812731,1,1,en,SAU,Oceania
