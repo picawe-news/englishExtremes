@@ -13,8 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7642791224865733,1,3,en,SAS,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-01-15T10:56:00+00:00,United States,0.7639648001213578,1,3,en,CNA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
-'93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,typhoon Australia,2026-02-05T04:28:00+00:00,Australia,0.7537796368303398,0,1,en,CAU,Oceania
-'df9ca5fc9c',extremes,Storm,#b3b2b1,wmo,Storm Marlborough Sounds,2026-02-03T04:27:00+00:00,New Zealand,0.7527220558468796,0,1,en,NZ,Oceania
 '51b14c1443',extremes,Flood,#030ba1,aidr,Flood Geelong Victoria 2016,2026-01-18T03:57:00+00:00,Australia,0.7524011481452269,0,1,en,SAU,Oceania
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,Fog India,2026-02-05T04:27:00+00:00,India,0.7523606545031445,0,1,en,SAS,Asia
 '236d7a616f',extremes,Precipitation,#d60d2b,wmo,Precipitation Solomon Islands,2026-01-30T04:21:00+00:00,Solomon Islands,0.7514797599484364,0,1,en,EPO,Oceania
@@ -164,6 +162,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4aada2ec79',extremes,Precipitation,#d60d2b,wmo,Rain United Kingdom,2026-01-15T12:14:00+00:00,United Kingdom,0.6604599148631268,1,2,en,NEU,Europe
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-01-15T12:14:00+00:00,Australia,0.6598593708544017,1,2,en,CAU,Oceania
 '3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2026-01-21T03:55:00+00:00,Saint Helena,0.6593412844609065,1,1,en,EAO,Atlantic Ocean
+'93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,typhoon Australia,2026-02-05T04:28:00+00:00,Australia,0.6587294929724554,1,1,en,CAU,Oceania
 '7bd46b5588',extremes,Flood,#030ba1,wmo,Flooding Queensland Norman River,2026-01-15T12:14:00+00:00,Australia,0.6575007420785057,1,1,en,CAU,Oceania
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,Flood Rainfall and Flooding Queensland February March 2022,2026-01-15T10:57:00+00:00,Australia,0.6574238744327005,1,1,en,EAU,Oceania
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-02-02T04:37:00+00:00,Australia,0.6573354485376904,1,1,en,EAU,Oceania
@@ -255,6 +254,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2026-02-02T04:36:00+00:00,Solomon Islands,0.6536813381629816,1,1,en,EPO,Pacific Ocean
 'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-01-18T03:56:00+00:00,Solomon Islands,0.642160182142153,1,1,en,SPO,Oceania
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-02-05T04:27:00+00:00,Jamaica,0.6419782510887603,1,1,en,CAR,North-America
+'df9ca5fc9c',extremes,Storm,#b3b2b1,wmo,Storm Marlborough Sounds,2026-02-03T04:27:00+00:00,New Zealand,0.6398137474698476,1,1,en,NZ,Oceania
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
