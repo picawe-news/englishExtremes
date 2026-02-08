@@ -64,6 +64,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e68b7fa2e0',extremes,Flood,#030ba1,wmo,Flooding Clarke AL Washington AL,2026-01-26T04:09:00+00:00,United States,0.7442462408204619,0,1,en,CNA,North-America
 '00c00e9472',extremes,Flood,#030ba1,wmo,Flooding Lowndes MS Monroe MS,2026-01-26T04:09:00+00:00,United States,0.7442024261423634,0,1,en,CNA,North-America
 '6e14d79e4a',extremes,Flood,#030ba1,wmo,Flashflood Madison MS Yazoo MS,2026-01-28T03:56:00+00:00,United States,0.74412673372608,0,1,en,CNA,North-America
+'dc39054d90',extremes,Precipitation,#d60d2b,wmo,Precipitation Auckland and Great Barrier Island,2026-01-21T03:56:00+00:00,New Zealand,0.7440832090775158,0,1,en,NZ,Oceania
+'388ff76bdb',extremes,Wildfire,#d60d2b,wmo,Wildfire South Australia West Coast,2026-01-26T04:09:00+00:00,Australia,0.7440083716841556,0,1,en,CAU,Oceania
+'6eb9d896b9',extremes,Flood,#030ba1,wmo,Flashflood Norfolk Portsmouth Chesapeake,2026-02-01T04:41:00+00:00,United States,0.7438489883887152,0,1,en,CNA,North-America
+'6171ca62b4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ireland,2026-01-19T04:03:00+00:00,Ireland,0.74376743159752,0,1,en,NEU,Europe
+'c1ea948b6b',extremes,Flood,#030ba1,wmo,Flood Attala MS Holmes MS,2026-01-27T03:58:00+00:00,United States,0.7436159961552495,0,1,en,CNA,North-America
+'7848abdd49',extremes,Flood,#030ba1,wmo,Flashflood Queensland Staaten River,2026-01-26T04:09:00+00:00,Australia,0.743277426394461,0,1,en,CAU,Oceania
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
 'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave 5 districts of Rajasthan,2026-01-15T10:56:00+00:00,India,0.7316515784314582,1,2,en,SAS,Asia
