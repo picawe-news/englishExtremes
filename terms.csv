@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7642791224865733,1,3,en,SAS,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-01-15T10:56:00+00:00,United States,0.7639648001213578,1,3,en,CNA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
-'037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-01-15T10:56:00+00:00,United States,0.7502161928663358,0,1,en,CNA,North-America
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-01-31T04:16:00+00:00,Canada,0.7502024790280196,0,1,en,NEN,North-America
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-01-29T04:19:00+00:00,Solomon Islands,0.7499686896925986,0,1,en,EPO,Oceania
 '84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave 4 districts of Haryana,2026-01-22T03:59:00+00:00,India,0.7494771865271368,0,1,en,SAS,Asia
@@ -260,6 +259,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2026-02-02T04:36:00+00:00,Solomon Islands,0.6536813381629816,1,1,en,EPO,Pacific Ocean
 'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-01-18T03:56:00+00:00,Solomon Islands,0.642160182142153,1,1,en,SPO,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-02-07T04:19:00+00:00,Jamaica,0.6420529418755601,1,2,en,CAR,North-America
+'037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-01-15T10:56:00+00:00,United States,0.6420395239363854,1,2,en,CNA,North-America
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-02-05T04:27:00+00:00,Jamaica,0.6419782510887603,1,1,en,CAR,North-America
 'df9ca5fc9c',extremes,Storm,#b3b2b1,wmo,Storm Marlborough Sounds,2026-02-03T04:27:00+00:00,New Zealand,0.6398137474698476,1,1,en,NZ,Oceania
 '51b14c1443',extremes,Flood,#030ba1,aidr,Flood Geelong Victoria 2016,2026-01-18T03:57:00+00:00,Australia,0.6395409759234428,1,1,en,SAU,Oceania
