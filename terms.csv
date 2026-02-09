@@ -13,11 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7642791224865733,1,3,en,SAS,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-01-15T10:56:00+00:00,United States,0.7639648001213578,1,3,en,CNA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
-'236d7a616f',extremes,Precipitation,#d60d2b,wmo,Precipitation Solomon Islands,2026-01-30T04:21:00+00:00,Solomon Islands,0.7514797599484364,0,1,en,EPO,Oceania
-'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-01-20T03:56:00+00:00,Solomon Islands,0.7514438280159347,0,1,en,EPO,Oceania
-'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-01-19T04:03:00+00:00,Solomon Islands,0.7505897482144618,0,1,en,EPO,Oceania
-'4712445a4d',extremes,Flood,#030ba1,wmo,Flashflood Queensland Gilbert River,2026-01-15T10:56:00+00:00,Australia,0.7504190262110629,0,1,en,CAU,Oceania
-'829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-02-07T04:19:00+00:00,Jamaica,0.7504147139712471,0,1,en,CAR,North-America
 '982ec95067',extremes,Wildfire,#d60d2b,wmo,Wildfire Victoria North East,2026-02-01T04:41:00+00:00,Australia,0.7504091203001193,0,1,en,CAU,Oceania
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-01-15T10:56:00+00:00,United States,0.7502161928663358,0,1,en,CNA,North-America
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-01-31T04:16:00+00:00,Canada,0.7502024790280196,0,1,en,NEN,North-America
@@ -258,9 +253,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,dry spell New South Wales,2026-01-15T12:14:00+00:00,Australia,0.653969512619576,1,1,en,EAU,Oceania
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2026-02-02T04:36:00+00:00,Solomon Islands,0.6536813381629816,1,1,en,EPO,Pacific Ocean
 'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-01-18T03:56:00+00:00,Solomon Islands,0.642160182142153,1,1,en,SPO,Oceania
+'829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-02-07T04:19:00+00:00,Jamaica,0.6420529418755601,1,2,en,CAR,North-America
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-02-05T04:27:00+00:00,Jamaica,0.6419782510887603,1,1,en,CAR,North-America
 'df9ca5fc9c',extremes,Storm,#b3b2b1,wmo,Storm Marlborough Sounds,2026-02-03T04:27:00+00:00,New Zealand,0.6398137474698476,1,1,en,NZ,Oceania
 '51b14c1443',extremes,Flood,#030ba1,aidr,Flood Geelong Victoria 2016,2026-01-18T03:57:00+00:00,Australia,0.6395409759234428,1,1,en,SAU,Oceania
+'236d7a616f',extremes,Precipitation,#d60d2b,wmo,Precipitation Solomon Islands,2026-01-30T04:21:00+00:00,Solomon Islands,0.6387577959561709,1,1,en,EPO,Oceania
+'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-01-20T03:56:00+00:00,Solomon Islands,0.6387272538135444,1,1,en,EPO,Oceania
+'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-01-19T04:03:00+00:00,Solomon Islands,0.6380012859822924,1,1,en,EPO,Oceania
+'4712445a4d',extremes,Flood,#030ba1,wmo,Flashflood Queensland Gilbert River,2026-01-15T10:56:00+00:00,Australia,0.6378561722794035,1,1,en,CAU,Oceania
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
