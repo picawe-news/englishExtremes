@@ -73,6 +73,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '989e730f78',extremes,Flood,#030ba1,wmo,Flood Queensland Barron River,2026-01-27T03:58:00+00:00,Australia,0.7406495721701782,0,1,en,CAU,Oceania
 'e31238aff2',extremes,Flood,#030ba1,wmo,Flood South West England | Wales,2026-01-24T03:48:00+00:00,United Kingdom,0.7403405745352722,0,1,en,NEU,Europe
 '3e27f60bda',extremes,Flood,#030ba1,wmo,Flashflood Lowndes MS Monroe MS,2026-01-28T03:56:00+00:00,United States,0.7402562285772353,0,1,en,CNA,North-America
+'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-01-27T03:58:00+00:00,India,0.7394141931834919,0,1,en,SAS,Asia
+'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-01-22T03:59:00+00:00,India,0.7394001712035135,0,1,en,SAS,Asia
+'16067b43c4',extremes,Flood,#030ba1,wmo,Flood Queensland Gilbert River,2026-01-27T03:58:00+00:00,Australia,0.7392511699546572,0,1,en,CAU,Oceania
+'753f1aaa45',extremes,Flood,#030ba1,wmo,Flooding Greene AL Pickens AL Sumter AL,2026-01-26T04:09:00+00:00,United States,0.7389543366475256,0,1,en,CNA,North-America
+'89a71f9dae',extremes,Flood,#030ba1,wmo,Flood Herkimer NY,2026-01-28T03:56:00+00:00,United States,0.7387575259976713,0,1,en,CNA,North-America
+'5e54875259',extremes,Earthquake,#870007,usgs,Earthquake Foxton Beach,2026-01-29T04:18:00+00:00,New Zealand,0.7386265817720615,0,1,en,NZ,Oceania
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
 'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave 5 districts of Rajasthan,2026-01-15T10:56:00+00:00,India,0.7316515784314582,1,2,en,SAS,Asia
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-02-06T04:28:00+00:00,Australia,0.7274431163234651,1,3,en,EAU,Oceania
