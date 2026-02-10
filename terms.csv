@@ -14,6 +14,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7642791224865733,1,3,en,SAS,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-01-15T10:56:00+00:00,United States,0.7639648001213578,1,3,en,CNA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
+'24e7169f97',extremes,Storm,#b3b2b1,wmo,Storm Trinidad and Tobago,2026-02-10T04:43:00+00:00,Trinidad and Tobago,0.7575442211281755,0,1,en,NSA,North-America
+'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7544054750224652,0,1,en,CNA,North-America
+'b5dab6daa1',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Adak to Kiska Pacific Side,2026-02-10T04:43:00+00:00,United States,0.7534014300655636,0,1,en,CNA,North-America
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-02-03T04:27:00+00:00,Canada,0.7492518487577842,0,1,en,NEN,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-01-15T10:56:00+00:00,United States,0.7492107388528172,0,1,en,CNA,North-America
 '087c387775',extremes,Storm,#b3b2b1,wmo,Storm All waters of SI,2026-01-30T04:21:00+00:00,Solomon Islands,0.7491145851985298,0,1,en,EPO,Oceania
@@ -38,6 +41,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,Snow Dempster,2026-01-27T03:58:00+00:00,Canada,0.7467905934185546,0,1,en,NEN,North-America
 '7e6c45f3ef',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Kullu district of Himachal Pradesh,2026-01-26T04:09:00+00:00,India,0.7466268919675582,0,1,en,SAS,Asia
 '9d8f8e836f',extremes,Flood,#030ba1,wmo,Flashflood Northern Territory Katherine River,2026-02-06T04:27:00+00:00,Australia,0.7466216629440072,0,1,en,CAU,Oceania
+'d843ceedc6',extremes,Storm,#b3b2b1,wmo,Storm offshore Morant Bank area,2026-02-10T04:43:00+00:00,Jamaica,0.7466151361444792,0,1,en,CAR,North-America
 '728cd885c7',extremes,Precipitation,#d60d2b,wmo,Downpour ALL Provinces,2026-01-26T04:09:00+00:00,Solomon Islands,0.7464022552269319,0,1,en,EPO,Oceania
 '5ca6f4a6ca',extremes,Flood,#030ba1,wmo,Flashflood Clarke AL Washington AL,2026-01-28T03:56:00+00:00,United States,0.746342098365764,0,1,en,CNA,North-America
 'f1d53a07a1',extremes,Storm,#b3b2b1,wmo,Storm Surge Fiordland,2026-02-02T04:36:00+00:00,New Zealand,0.745820910191096,0,1,en,NZ,Oceania
@@ -79,6 +83,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '89a71f9dae',extremes,Flood,#030ba1,wmo,Flood Herkimer NY,2026-01-28T03:56:00+00:00,United States,0.7387575259976713,0,1,en,CNA,North-America
 '5e54875259',extremes,Earthquake,#870007,usgs,Earthquake Foxton Beach,2026-01-29T04:18:00+00:00,New Zealand,0.7386265817720615,0,1,en,NZ,Oceania
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
+'5b6e7863c8',extremes,Flood,#030ba1,acwe,high water level Victoria,2026-01-30T04:22:00+00:00,Australia,0.7383486933344111,0,1,en,SAU,Oceania
+'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2026-01-29T04:19:00+00:00,Australia,0.7382833231925523,0,1,en,EAU,Oceania
 'f2cea183b1',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave 5 districts of Rajasthan,2026-01-15T10:56:00+00:00,India,0.7316515784314582,1,2,en,SAS,Asia
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-02-06T04:28:00+00:00,Australia,0.7274431163234651,1,3,en,EAU,Oceania
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-01-15T10:56:00+00:00,Canada,0.7249560723141301,1,2,en,NEN,North-America
