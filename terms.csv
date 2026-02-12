@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,Avalanche India,2026-01-25T04:06:00+00:00,India,0.7480321674108683,0,1,en,SAS,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
-'2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL Provinces,2026-01-29T04:19:00+00:00,Solomon Islands,0.7476077848213042,0,1,en,EPO,Oceania
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-01-26T04:09:00+00:00,United Kingdom,0.7474831851127214,0,1,en,NEU,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
@@ -100,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f199635353',extremes,Earthquake,#870007,usgs,Earthquake Morigaon,2026-01-15T10:56:00+00:00,India,0.7116068418812012,1,1,en,SAS,Asia
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,bushfire South Australia,2026-01-27T03:59:00+00:00,Australia,0.711155623439048,1,2,en,SAU,Oceania
 'f1966df415',extremes,Thunderstorm,#53785a,wmo,Hail Australia,2026-01-15T10:56:00+00:00,Australia,0.7109989005315779,1,2,en,CAU,Oceania
+'2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL Provinces,2026-01-29T04:19:00+00:00,Solomon Islands,0.7106564075328912,1,3,en,EPO,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-01-15T10:56:00+00:00,United States,0.7105701523282294,1,2,en,CNA,North-America
 '06972a2776',extremes,Flood,#030ba1,acwe,flash flood New South Wales,2026-01-31T04:17:00+00:00,Australia,0.7104000759615607,1,1,en,EAU,Oceania
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-01-15T10:57:00+00:00,Australia,0.7079435751114173,1,1,en,NAU,Oceania
