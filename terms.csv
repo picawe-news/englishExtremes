@@ -19,13 +19,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7585474437690954,1,3,en,CNA,North-America
 'c2f16b92e6',extremes,Drought,#edc291,edo,Lack of Rain Kenya,2026-01-19T04:03:00+00:00,Kenya,0.7489406732131284,1,2,en,SEAF,Africa
-'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,Avalanche India,2026-01-25T04:06:00+00:00,India,0.7480321674108683,0,1,en,SAS,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-01-18T03:57:00+00:00,New Zealand,0.7468426836567945,0,1,en,NZ,Oceania
-'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,Snow Dempster,2026-01-27T03:58:00+00:00,Canada,0.7467905934185546,0,1,en,NEN,North-America
 '7e6c45f3ef',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Kullu district of Himachal Pradesh,2026-01-26T04:09:00+00:00,India,0.7466268919675582,0,1,en,SAS,Asia
 '9d8f8e836f',extremes,Flood,#030ba1,wmo,Flashflood Northern Territory Katherine River,2026-02-06T04:27:00+00:00,Australia,0.7466216629440072,0,1,en,CAU,Oceania
 'd843ceedc6',extremes,Storm,#b3b2b1,wmo,Storm offshore Morant Bank area,2026-02-10T04:43:00+00:00,Jamaica,0.7466151361444792,0,1,en,CAR,North-America
@@ -280,6 +278,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c836ac82c0',extremes,Storm,#b3b2b1,wmo,Storm Surge Biscayne Bay,2026-01-15T12:14:00+00:00,United States,0.6558120244837787,1,1,en,CNA,North-America
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2026-01-15T10:56:00+00:00,India,0.6558091191266358,1,1,en,SAS,Asia
 '60c561f711',extremes,Thunderstorm,#53785a,wmo,Severe Weather New Zealand,2026-02-11T04:41:00+00:00,New Zealand,0.6556733948802522,1,2,en,NZ,Oceania
+'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,Avalanche India,2026-01-25T04:06:00+00:00,India,0.6553282722992381,1,2,en,SAS,Asia
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,dry spell New South Wales,2026-01-15T12:14:00+00:00,Australia,0.653969512619576,1,1,en,EAU,Oceania
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-02-11T04:41:00+00:00,New Zealand,0.6539621353866144,1,2,en,NZ,Oceania
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2026-02-02T04:36:00+00:00,Solomon Islands,0.6536813381629816,1,1,en,EPO,Pacific Ocean
@@ -309,6 +308,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-01-20T03:56:00+00:00,Jamaica,0.6358073407142074,1,1,en,CAR,North-America
 '56ec713a70',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Marcia Queensland 2015,2026-01-26T04:09:00+00:00,Australia,0.6355206415561472,1,1,en,EAU,Oceania
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2026-01-23T04:03:00+00:00,United Kingdom,0.6351310817092459,1,1,en,NEU,Europe
+'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,Snow Dempster,2026-01-27T03:58:00+00:00,Canada,0.6347720044057714,1,1,en,NEN,North-America
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
