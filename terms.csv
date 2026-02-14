@@ -26,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Australia,2026-01-24T03:48:00+00:00,Australia,0.745591827443041,0,1,en,CAU,Oceania
-'0dedeac327',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fiordland,2026-02-01T04:41:00+00:00,New Zealand,0.7448574538759656,0,1,en,NZ,Oceania
 'b74cc3ed00',extremes,Flood,#030ba1,wmo,Flashflood Mason WA,2026-01-28T03:56:00+00:00,United States,0.7446358302623535,0,1,en,CNA,North-America
 'e68b7fa2e0',extremes,Flood,#030ba1,wmo,Flooding Clarke AL Washington AL,2026-01-26T04:09:00+00:00,United States,0.7442462408204619,0,1,en,CNA,North-America
 '00c00e9472',extremes,Flood,#030ba1,wmo,Flooding Lowndes MS Monroe MS,2026-01-26T04:09:00+00:00,United States,0.7442024261423634,0,1,en,CNA,North-America
@@ -321,6 +320,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1d53a07a1',extremes,Storm,#b3b2b1,wmo,Storm Surge Fiordland,2026-02-02T04:36:00+00:00,New Zealand,0.6339477736624316,1,1,en,NZ,Oceania
 '5075de9301',extremes,Flood,#030ba1,wmo,Flooding Madison MS Yazoo MS,2026-01-27T03:58:00+00:00,United States,0.6338086906305529,1,1,en,CNA,North-America
 'd6786cc958',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Leh Ladakh district of Ladakh,2026-01-27T03:58:00+00:00,India,0.633485386603802,1,1,en,SAS,Asia
+'0dedeac327',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fiordland,2026-02-01T04:41:00+00:00,New Zealand,0.6332788507945707,1,1,en,NZ,Oceania
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
