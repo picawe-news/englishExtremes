@@ -26,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
-'6e9b022451',extremes,Precipitation,#d60d2b,wmo,Precipitation Wellington,2026-02-14T04:21:00+00:00,New Zealand,0.7470915926788237,0,1,en,NZ,Oceania
 '9af928bf63',extremes,Flood,#030ba1,wmo,Flooding Queensland Condamine Rivers,2026-02-14T04:21:00+00:00,Australia,0.7463134043870893,0,1,en,CAU,Oceania
 'b74cc3ed00',extremes,Flood,#030ba1,wmo,Flashflood Mason WA,2026-01-28T03:56:00+00:00,United States,0.7446358302623535,0,1,en,CNA,North-America
 '00c00e9472',extremes,Flood,#030ba1,wmo,Flooding Lowndes MS Monroe MS,2026-01-26T04:09:00+00:00,United States,0.7442024261423634,0,1,en,CNA,North-America
@@ -316,6 +315,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d78e3f2f2',extremes,Flood,#030ba1,wmo,Flood Newaygo MI,2026-02-02T04:36:00+00:00,United States,0.6359471013976219,1,1,en,CNA,North-America
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-01-20T03:56:00+00:00,Jamaica,0.6358073407142074,1,1,en,CAR,North-America
 '56ec713a70',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Marcia Queensland 2015,2026-01-26T04:09:00+00:00,Australia,0.6355206415561472,1,1,en,EAU,Oceania
+'6e9b022451',extremes,Precipitation,#d60d2b,wmo,Precipitation Wellington,2026-02-14T04:21:00+00:00,New Zealand,0.6353278837770002,1,1,en,NZ,Oceania
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2026-01-23T04:03:00+00:00,United Kingdom,0.6351310817092459,1,1,en,NEU,Europe
 'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,Snow Dempster,2026-01-27T03:58:00+00:00,Canada,0.6347720044057714,1,1,en,NEN,North-America
 '7e6c45f3ef',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Kullu district of Himachal Pradesh,2026-01-26T04:09:00+00:00,India,0.6346328581724244,1,1,en,SAS,Asia
