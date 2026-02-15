@@ -9,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '728cd885c7',extremes,Precipitation,#d60d2b,wmo,Downpour ALL Provinces,2026-01-26T04:09:00+00:00,Solomon Islands,0.7845919319428921,1,2,en,EPO,Oceania
 '9af928bf63',extremes,Flood,#030ba1,wmo,Flooding Queensland Condamine Rivers,2026-02-14T04:21:00+00:00,Australia,0.7845164087290258,1,2,en,CAU,Oceania
 '8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Kargil district of Ladakh,2026-01-25T04:06:00+00:00,India,0.7839392377344616,1,2,en,SAS,Asia
+'2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Chamoli district of Uttarakhand,2026-01-25T04:06:00+00:00,India,0.7819045852871087,1,2,en,SAS,Asia
 '64476ecf6f',extremes,Precipitation,#d60d2b,acwe,heavy rain South Australia,2026-01-27T03:59:00+00:00,Australia,0.7800805595921054,1,3,en,CAU,Oceania
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-01-26T04:09:00+00:00,United Kingdom,0.7760991973458131,1,3,en,NEU,Europe
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Australia,2026-01-24T03:48:00+00:00,Australia,0.7744911233265848,1,3,en,CAU,Oceania
@@ -22,21 +23,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-01-15T10:56:00+00:00,United States,0.7639648001213578,1,3,en,CNA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7585474437690954,1,3,en,CNA,North-America
-'fac1cc1397',extremes,Storm,#b3b2b1,wmo,Storm Wairarapa and the Tararua District,2026-02-15T04:35:00+00:00,New Zealand,0.751963731625878,0,1,en,NZ,Oceania
-'58193d11dc',extremes,Storm,#b3b2b1,wmo,Storm Taupo,2026-02-15T04:35:00+00:00,New Zealand,0.7514993847497546,0,1,en,NZ,Oceania
-'7c16bb36e0',extremes,Storm,#b3b2b1,wmo,Storm Surge Manawatu,2026-02-15T04:35:00+00:00,New Zealand,0.7493628316372757,0,1,en,NZ,Oceania
 'c2f16b92e6',extremes,Drought,#edc291,edo,Lack of Rain Kenya,2026-01-19T04:03:00+00:00,Kenya,0.7489406732131284,1,2,en,SEAF,Africa
-'d2badc3801',extremes,Flood,#030ba1,wmo,Flashflood Lyon KS,2026-02-15T04:35:00+00:00,United States,0.7482801464971034,0,1,en,CNA,North-America
-'964319b3cc',extremes,Storm,#b3b2b1,wmo,Storm Horowhenua and Kapiti Coast,2026-02-15T04:35:00+00:00,New Zealand,0.7480848766148906,0,1,en,NZ,Oceania
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
-'c929fcba1d',extremes,Flood,#030ba1,wmo,Flood New South Wales Wilsons River,2026-02-13T04:34:00+00:00,Australia,0.747568462984684,0,1,en,CAU,Oceania
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
-'c1ea948b6b',extremes,Flood,#030ba1,wmo,Flood Attala MS Holmes MS,2026-01-27T03:58:00+00:00,United States,0.7436159961552495,0,1,en,CNA,North-America
-'11d653a06b',extremes,Flood,#030ba1,wmo,Flashflood Queensland Lower Brisbane River,2026-02-14T04:21:00+00:00,Australia,0.7435387194093749,0,1,en,CAU,Oceania
-'7848abdd49',extremes,Flood,#030ba1,wmo,Flashflood Queensland Staaten River,2026-01-26T04:09:00+00:00,Australia,0.743277426394461,0,1,en,CAU,Oceania
-'2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Chamoli district of Uttarakhand,2026-01-25T04:06:00+00:00,India,0.7430641826907163,0,1,en,SAS,Asia
 '9cad491c39',extremes,Flood,#030ba1,wmo,Flooding Queensland Mitchell River,2026-01-24T03:48:00+00:00,Australia,0.7430409792611224,0,1,en,CAU,Oceania
 'd1cf9cc390',extremes,Snow&Ice,#d60d2b,wmo,Frost Kugaaruk,2026-02-12T04:37:00+00:00,Canada,0.7429724844384288,0,1,en,NEN,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7428187296954442,0,1,en,CAU,Oceania
@@ -305,7 +296,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5dab6daa1',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Adak to Kiska Pacific Side,2026-02-10T04:43:00+00:00,United States,0.6403912155557291,1,1,en,CNA,North-America
 'df9ca5fc9c',extremes,Storm,#b3b2b1,wmo,Storm Marlborough Sounds,2026-02-03T04:27:00+00:00,New Zealand,0.6398137474698476,1,1,en,NZ,Oceania
 '51b14c1443',extremes,Flood,#030ba1,aidr,Flood Geelong Victoria 2016,2026-01-18T03:57:00+00:00,Australia,0.6395409759234428,1,1,en,SAU,Oceania
+'fac1cc1397',extremes,Storm,#b3b2b1,wmo,Storm Wairarapa and the Tararua District,2026-02-15T04:35:00+00:00,New Zealand,0.6391691718819963,1,1,en,NZ,Oceania
 'd4e54bdaef',extremes,Storm,#b3b2b1,wmo,Storm Surge Horowhenua and Kapiti Coast,2026-02-14T04:21:00+00:00,New Zealand,0.6390358845937403,1,1,en,NZ,Oceania
+'58193d11dc',extremes,Storm,#b3b2b1,wmo,Storm Taupo,2026-02-15T04:35:00+00:00,New Zealand,0.6387744770372914,1,1,en,NZ,Oceania
 '236d7a616f',extremes,Precipitation,#d60d2b,wmo,Precipitation Solomon Islands,2026-01-30T04:21:00+00:00,Solomon Islands,0.6387577959561709,1,1,en,EPO,Oceania
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-01-20T03:56:00+00:00,Solomon Islands,0.6387272538135444,1,1,en,EPO,Oceania
 '5c843bde01',extremes,Precipitation,#d60d2b,wmo,Downpour Hawke's Bay,2026-02-13T04:34:00+00:00,New Zealand,0.638203582102725,1,1,en,NZ,Oceania
@@ -313,14 +306,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-01-19T04:03:00+00:00,Solomon Islands,0.6380012859822924,1,1,en,EPO,Oceania
 '4712445a4d',extremes,Flood,#030ba1,wmo,Flashflood Queensland Gilbert River,2026-01-15T10:56:00+00:00,Australia,0.6378561722794035,1,1,en,CAU,Oceania
 '087c387775',extremes,Storm,#b3b2b1,wmo,Storm All waters of SI,2026-01-30T04:21:00+00:00,Solomon Islands,0.6371974424187503,1,1,en,EPO,Oceania
+'7c16bb36e0',extremes,Storm,#b3b2b1,wmo,Storm Surge Manawatu,2026-02-15T04:35:00+00:00,New Zealand,0.6369584068916844,1,1,en,NZ,Oceania
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-02-03T04:27:00+00:00,Canada,0.6368640714441165,1,1,en,NEN,North-America
 '6833a28ab8',extremes,Precipitation,#d60d2b,wmo,Rain Bay of Plenty east of Opotiki,2026-02-13T04:34:00+00:00,New Zealand,0.6366815995040889,1,1,en,NZ,Oceania
 '77a82da512',extremes,Thunderstorm,#53785a,wmo,Hail TADEPALLE Mandal,2026-02-11T04:41:00+00:00,India,0.6366513991409782,1,1,en,SAS,Asia
 '01aa566f43',extremes,Storm,#b3b2b1,wmo,Storm Surge Westland and Grey districts,2026-02-03T04:27:00+00:00,New Zealand,0.636436686158599,1,1,en,NZ,Oceania
 '4340743979',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Grant Katherine floods train derailment chemical spill,2026-01-15T12:14:00+00:00,Australia,0.636345645696778,1,1,en,NAU,Oceania
+'d2badc3801',extremes,Flood,#030ba1,wmo,Flashflood Lyon KS,2026-02-15T04:35:00+00:00,United States,0.6360381245225378,1,1,en,CNA,North-America
 '9d78e3f2f2',extremes,Flood,#030ba1,wmo,Flood Newaygo MI,2026-02-02T04:36:00+00:00,United States,0.6359471013976219,1,1,en,CNA,North-America
+'964319b3cc',extremes,Storm,#b3b2b1,wmo,Storm Horowhenua and Kapiti Coast,2026-02-15T04:35:00+00:00,New Zealand,0.635872145122657,1,1,en,NZ,Oceania
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-01-20T03:56:00+00:00,Jamaica,0.6358073407142074,1,1,en,CAR,North-America
 '56ec713a70',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Marcia Queensland 2015,2026-01-26T04:09:00+00:00,Australia,0.6355206415561472,1,1,en,EAU,Oceania
+'c929fcba1d',extremes,Flood,#030ba1,wmo,Flood New South Wales Wilsons River,2026-02-13T04:34:00+00:00,Australia,0.6354331935369815,1,1,en,CAU,Oceania
 '6e9b022451',extremes,Precipitation,#d60d2b,wmo,Precipitation Wellington,2026-02-14T04:21:00+00:00,New Zealand,0.6353278837770002,1,1,en,NZ,Oceania
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2026-01-23T04:03:00+00:00,United Kingdom,0.6351310817092459,1,1,en,NEU,Europe
 'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,Snow Dempster,2026-01-27T03:58:00+00:00,Canada,0.6347720044057714,1,1,en,NEN,North-America
@@ -339,6 +336,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6e14d79e4a',extremes,Flood,#030ba1,wmo,Flashflood Madison MS Yazoo MS,2026-01-28T03:56:00+00:00,United States,0.6325077236671679,1,1,en,CNA,North-America
 'dc39054d90',extremes,Precipitation,#d60d2b,wmo,Precipitation Auckland and Great Barrier Island,2026-01-21T03:56:00+00:00,New Zealand,0.6324707277158884,1,1,en,NZ,Oceania
 '6eb9d896b9',extremes,Flood,#030ba1,wmo,Flashflood Norfolk Portsmouth Chesapeake,2026-02-01T04:41:00+00:00,United States,0.6322716401304078,1,1,en,CNA,North-America
+'c1ea948b6b',extremes,Flood,#030ba1,wmo,Flood Attala MS Holmes MS,2026-01-27T03:58:00+00:00,United States,0.6320735967319621,1,1,en,CNA,North-America
+'11d653a06b',extremes,Flood,#030ba1,wmo,Flashflood Queensland Lower Brisbane River,2026-02-14T04:21:00+00:00,Australia,0.6320079114979686,1,1,en,CAU,Oceania
+'7848abdd49',extremes,Flood,#030ba1,wmo,Flashflood Queensland Staaten River,2026-01-26T04:09:00+00:00,Australia,0.6317858124352919,1,1,en,CAU,Oceania
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
