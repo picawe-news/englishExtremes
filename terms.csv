@@ -1,8 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,Freezing 5 districts of Rajasthan,2026-01-15T12:14:00+00:00,India,0.8062205893331634,1,2,en,SAS,Asia
-'08d82d11e8',extremes,Storm,#b3b2b1,wmo,Storm Western Arctic Coast,2026-01-15T12:14:00+00:00,United States,0.8047091420513637,1,3,en,CNA,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
-'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-01-15T10:56:00+00:00,United States,0.7967214577677688,1,3,en,CNA,North-America
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-01-29T04:19:00+00:00,Solomon Islands,0.7876234012387088,1,2,en,EPO,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-01-18T03:57:00+00:00,New Zealand,0.7851163111082753,1,2,en,NZ,Oceania
 '728cd885c7',extremes,Precipitation,#d60d2b,wmo,Downpour ALL Provinces,2026-01-26T04:09:00+00:00,Solomon Islands,0.7845919319428921,1,2,en,EPO,Oceania
@@ -27,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
-'d1cf9cc390',extremes,Snow&Ice,#d60d2b,wmo,Frost Kugaaruk,2026-02-12T04:37:00+00:00,Canada,0.7429724844384288,0,1,en,NEN,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7428187296954442,0,1,en,CAU,Oceania
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '3a968c538f',extremes,Flood,#030ba1,wmo,Flood Queensland Haughton River,2026-01-26T04:09:00+00:00,Australia,0.742715823512171,0,1,en,CAU,Oceania
@@ -108,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-01-15T10:56:00+00:00,Australia,0.7045861847789077,1,2,en,CAU,Oceania
 '5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave India,2026-01-15T10:56:00+00:00,India,0.7030731866106937,1,2,en,SAS,Asia
 '04779cf92a',extremes,Snow&Ice,#d60d2b,wmo,Ice Jasper,2026-01-15T12:14:00+00:00,United States,0.7018443027260166,1,2,en,CNA,North-America
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-01-15T10:56:00+00:00,United States,0.7012198328122808,2,3,en,CNA,North-America
 '485794e3d4',extremes,Earthquake,#870007,usgs,Earthquake Canada,2026-01-15T12:13:00+00:00,Canada,0.7001152012249326,1,2,en,NWN,North-America
 '982ec95067',extremes,Wildfire,#d60d2b,wmo,Wildfire Victoria North East,2026-02-01T04:41:00+00:00,Australia,0.6985978272551013,1,1,en,CAU,Oceania
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-01-15T10:57:00+00:00,Australia,0.6974088745517852,1,1,en,EAU,Oceania
@@ -123,6 +120,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a492c1f826',extremes,Storm,#b3b2b1,wmo,Storm Lake Okeechobee,2026-01-15T12:14:00+00:00,United States,0.6857966715785669,2,2,en,CNA,North-America
 '9590c197ce',extremes,Snow&Ice,#d60d2b,wmo,Ice Central Brooks Range,2026-01-15T10:56:00+00:00,United States,0.6856040410393358,2,1,en,CNA,North-America
 '7dc96a35fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm New Zealand,2026-01-15T12:14:00+00:00,New Zealand,0.6854271220297079,2,1,en,NZ,Oceania
+'dd346fd726',extremes,Cold Wave,#a7e9fa,wmo,Freezing 5 districts of Rajasthan,2026-01-15T12:14:00+00:00,India,0.6852875009331889,2,1,en,SAS,Asia
+'08d82d11e8',extremes,Storm,#b3b2b1,wmo,Storm Western Arctic Coast,2026-01-15T12:14:00+00:00,United States,0.6840032207436592,2,2,en,CNA,North-America
 '0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,precipitation South Australia,2026-01-28T03:57:00+00:00,Australia,0.683877336981835,1,1,en,SAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-01-15T10:56:00+00:00,Australia,0.6825074941014392,1,2,en,CAU,Oceania
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-01-15T10:56:00+00:00,United States,0.6820033841893288,1,2,en,WNA,North-America
@@ -339,6 +338,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11d653a06b',extremes,Flood,#030ba1,wmo,Flashflood Queensland Lower Brisbane River,2026-02-14T04:21:00+00:00,Australia,0.6320079114979686,1,1,en,CAU,Oceania
 '7848abdd49',extremes,Flood,#030ba1,wmo,Flashflood Queensland Staaten River,2026-01-26T04:09:00+00:00,Australia,0.6317858124352919,1,1,en,CAU,Oceania
 '9cad491c39',extremes,Flood,#030ba1,wmo,Flooding Queensland Mitchell River,2026-01-24T03:48:00+00:00,Australia,0.6315848323719541,1,1,en,CAU,Oceania
+'d1cf9cc390',extremes,Snow&Ice,#d60d2b,wmo,Frost Kugaaruk,2026-02-12T04:37:00+00:00,Canada,0.6315266117726644,1,1,en,NEN,North-America
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
