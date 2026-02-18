@@ -15,7 +15,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bcb6cba683',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Banks Peninsula,2026-02-16T04:38:00+00:00,New Zealand,0.7602349230066194,1,2,en,NZ,Oceania
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7585474437690954,1,3,en,CNA,North-America
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
-'4299cdd13a',extremes,Storm,#b3b2b1,wmo,Storm Surge Ghana,2026-02-18T04:34:00+00:00,Ghana,0.7544973270914528,0,1,en,WAF,Africa
 '4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2026-02-18T04:34:00+00:00,India,0.7519940828490399,0,1,en,SAS,Asia
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-02-06T04:27:00+00:00,United Kingdom,0.7510941769987374,0,1,en,NEU,Europe
 'e43a127d61',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Joshimath,2026-02-18T04:34:00+00:00,India,0.7503126230223472,0,1,en,SAS,Asia
@@ -315,6 +314,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-01-15T10:56:00+00:00,United States,0.6420395239363854,1,2,en,CNA,North-America
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-02-05T04:27:00+00:00,Jamaica,0.6419782510887603,1,1,en,CAR,North-America
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,Wildfire Assam,2026-02-11T04:41:00+00:00,India,0.6416264275847351,1,1,en,SAS,Asia
+'4299cdd13a',extremes,Storm,#b3b2b1,wmo,Storm Surge Ghana,2026-02-18T04:34:00+00:00,Ghana,0.6414727430277348,1,1,en,WAF,Africa
 '9293b0f660',extremes,Wildfire,#d60d2b,wmo,Wildfire Karnataka,2026-02-11T04:41:00+00:00,India,0.6413702560617899,1,1,en,SAS,Asia
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-02-11T04:41:00+00:00,India,0.6410786522179256,1,1,en,SAS,Asia
 '18ec1601d2',extremes,Storm,#b3b2b1,wmo,Storm Chatham Islands,2026-02-16T04:38:00+00:00,New Zealand,0.6410690036690175,1,1,en,NZ,Oceania
