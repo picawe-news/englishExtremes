@@ -23,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
 'd4af5da119',extremes,Wildfire,#d60d2b,wmo,Wildfire Knox Stark Marshall,2026-02-18T04:34:00+00:00,United States,0.7471914444331584,0,1,en,CNA,North-America
 'f35db5adb5',extremes,Wildfire,#d60d2b,wmo,Wildfire Dickens King,2026-02-18T04:34:00+00:00,United States,0.7470690404595619,0,1,en,CNA,North-America
+'b044d9f6b4',extremes,Snow&Ice,#d60d2b,wmo,Frost Ireland,2026-02-18T04:34:00+00:00,Ireland,0.744633221268449,0,1,en,NEU,Europe
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '0304d14d37',extremes,Snow&Ice,#d60d2b,wmo,Frost Green Bay White Bay,2026-02-12T04:37:00+00:00,Canada,0.7425832805097323,0,1,en,NEN,North-America
 '93110c7113',extremes,Flood,#030ba1,wmo,Flooding Queensland Upper Brisbane River,2026-02-11T04:41:00+00:00,Australia,0.742445802866273,0,1,en,CAU,Oceania
@@ -32,7 +33,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91fa06d61c',extremes,Precipitation,#d60d2b,wmo,Precipitation Waikato Waitomo and Taupo,2026-01-21T03:56:00+00:00,New Zealand,0.7421980742603036,0,1,en,NZ,Oceania
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-02-07T04:19:00+00:00,Canada,0.7421942826585213,0,1,en,NEN,North-America
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,warm spell South Australia,2026-01-28T03:57:00+00:00,Australia,0.7421009699239033,0,1,en,SAU,Oceania
+'b75f48af90',extremes,Flood,#030ba1,wmo,Flashflood Western Australia Sandy Desert,2026-02-18T04:34:00+00:00,Australia,0.7418820793352967,0,1,en,CAU,Oceania
 '28fb3d5315',extremes,Precipitation,#d60d2b,wmo,Precipitation Gisborne north of Tokomaru Bay,2026-01-20T03:56:00+00:00,New Zealand,0.7416803149951614,0,1,en,NZ,Oceania
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-02-08T04:43:00+00:00,Canada,0.7415911082671525,0,1,en,NEN,North-America
 'cda017c360',extremes,Flood,#030ba1,wmo,Flooding Queensland Cloncurry River,2026-02-17T04:31:00+00:00,Australia,0.741432332362316,0,1,en,CAU,Oceania
 '9da5df2f4e',extremes,Snow&Ice,#d60d2b,wmo,Snow United Kingdom,2026-01-27T03:58:00+00:00,United Kingdom,0.7412088169656087,0,1,en,NEU,Europe
 'e5fdf93e91',extremes,Flood,#030ba1,wmo,Flashflood Queensland Normanby River,2026-01-26T04:09:00+00:00,Australia,0.7409899007710551,0,1,en,CAU,Oceania
@@ -40,12 +43,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e31238aff2',extremes,Flood,#030ba1,wmo,Flood South West England | Wales,2026-01-24T03:48:00+00:00,United Kingdom,0.7403405745352722,0,1,en,NEU,Europe
 '3e27f60bda',extremes,Flood,#030ba1,wmo,Flashflood Lowndes MS Monroe MS,2026-01-28T03:56:00+00:00,United States,0.7402562285772353,0,1,en,CNA,North-America
 '82e69a1846',extremes,Tsunami,#690191,usgs,Tsunami Meadow Lakes,2026-02-11T04:41:00+00:00,United States,0.7397838425304523,0,1,en,NWN,North-America
+'e182ea86bb',extremes,Flood,#030ba1,wmo,Flooding Queensland Leichhardt River,2026-02-18T04:34:00+00:00,Australia,0.7397490945083351,0,1,en,CAU,Oceania
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-01-27T03:58:00+00:00,India,0.7394141931834919,0,1,en,SAS,Asia
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-01-22T03:59:00+00:00,India,0.7394001712035135,0,1,en,SAS,Asia
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-02-14T04:21:00+00:00,New Zealand,0.7393960669606291,1,2,en,NZ,Oceania
 '16067b43c4',extremes,Flood,#030ba1,wmo,Flood Queensland Gilbert River,2026-01-27T03:58:00+00:00,Australia,0.7392511699546572,0,1,en,CAU,Oceania
 '753f1aaa45',extremes,Flood,#030ba1,wmo,Flooding Greene AL Pickens AL Sumter AL,2026-01-26T04:09:00+00:00,United States,0.7389543366475256,0,1,en,CNA,North-America
 'aef23a818d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ireland,2026-02-13T04:34:00+00:00,Ireland,0.738909239794467,0,1,en,NEU,Europe
+'af702879fc',extremes,Flood,#030ba1,wmo,Flashflood Western Australia De Grey River,2026-02-18T04:34:00+00:00,Australia,0.738903384061635,0,1,en,CAU,Oceania
 '89a71f9dae',extremes,Flood,#030ba1,wmo,Flood Herkimer NY,2026-01-28T03:56:00+00:00,United States,0.7387575259976713,0,1,en,CNA,North-America
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-01-27T03:58:00+00:00,India,0.7386345373038307,0,1,en,SAS,Asia
 '5e54875259',extremes,Earthquake,#870007,usgs,Earthquake Foxton Beach,2026-01-29T04:18:00+00:00,New Zealand,0.7386265817720615,0,1,en,NZ,Oceania
@@ -56,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5fe6c4dd26',extremes,Snow&Ice,#d60d2b,wmo,Frost Grise Fiord,2026-02-12T04:37:00+00:00,Canada,0.7382479022821025,0,1,en,NEN,North-America
 'a552e32ef3',extremes,Flood,#030ba1,wmo,Flashflood Queensland Herbert River,2026-01-26T04:09:00+00:00,Australia,0.7381653649912913,0,1,en,CAU,Oceania
 'c6a1f9591b',extremes,Flood,#030ba1,wmo,Flood Queensland Murray River,2026-02-15T04:35:00+00:00,Australia,0.7371491447820235,0,1,en,CAU,Oceania
+'a2933a7b7b',extremes,Flood,#030ba1,wmo,Flooding Queensland Tully River,2026-02-18T04:34:00+00:00,Australia,0.7371325847443453,0,1,en,CAU,Oceania
 '7da3f5b7e5',extremes,Flood,#030ba1,wmo,Flashflood Queensland Mossman River,2026-01-27T03:58:00+00:00,Australia,0.7371202924970589,0,1,en,CAU,Oceania
 '5e8e4bc5b1',extremes,Flood,#030ba1,wmo,Flooding Greene AL Hale AL Marengo AL,2026-01-26T04:09:00+00:00,United States,0.736997263641158,0,1,en,CNA,North-America
 '6bab22ed5f',extremes,Flood,#030ba1,wmo,Flood Queensland Johnstone River,2026-01-27T03:58:00+00:00,Australia,0.7367260845937296,0,1,en,CAU,Oceania
