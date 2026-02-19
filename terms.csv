@@ -15,15 +15,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bcb6cba683',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Banks Peninsula,2026-02-16T04:38:00+00:00,New Zealand,0.7602349230066194,1,2,en,NZ,Oceania
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7585474437690954,1,3,en,CNA,North-America
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
-'e43a127d61',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Joshimath,2026-02-18T04:34:00+00:00,India,0.7503126230223472,0,1,en,SAS,Asia
 'c2f16b92e6',extremes,Drought,#edc291,edo,Lack of Rain Kenya,2026-01-19T04:03:00+00:00,Kenya,0.7489406732131284,1,2,en,SEAF,Africa
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
-'d4af5da119',extremes,Wildfire,#d60d2b,wmo,Wildfire Knox Stark Marshall,2026-02-18T04:34:00+00:00,United States,0.7471914444331584,0,1,en,CNA,North-America
-'f35db5adb5',extremes,Wildfire,#d60d2b,wmo,Wildfire Dickens King,2026-02-18T04:34:00+00:00,United States,0.7470690404595619,0,1,en,CNA,North-America
-'b044d9f6b4',extremes,Snow&Ice,#d60d2b,wmo,Frost Ireland,2026-02-18T04:34:00+00:00,Ireland,0.744633221268449,0,1,en,NEU,Europe
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '0304d14d37',extremes,Snow&Ice,#d60d2b,wmo,Frost Green Bay White Bay,2026-02-12T04:37:00+00:00,Canada,0.7425832805097323,0,1,en,NEN,North-America
 '93110c7113',extremes,Flood,#030ba1,wmo,Flooding Queensland Upper Brisbane River,2026-02-11T04:41:00+00:00,Australia,0.742445802866273,0,1,en,CAU,Oceania
@@ -134,6 +130,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-01-15T10:57:00+00:00,Australia,0.6918862372119597,1,2,en,EAU,Oceania
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-01-15T10:56:00+00:00,India,0.6910299707674382,1,2,en,SAS,Asia
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-01-31T04:16:00+00:00,Canada,0.6907118439480101,1,2,en,NEN,North-America
+'b044d9f6b4',extremes,Snow&Ice,#d60d2b,wmo,Frost Ireland,2026-02-18T04:34:00+00:00,Ireland,0.6887622600012585,1,2,en,NEU,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-01-15T10:56:00+00:00,Canada,0.6883248782746255,1,2,en,NEN,North-America
 '8c46315dbe',extremes,Earthquake,#870007,aidr,earthquake Australia,2026-01-15T10:57:00+00:00,Australia,0.6876976222933846,1,2,en,EAU,Oceania
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-01-15T10:56:00+00:00,Canada,0.6857993911483189,2,2,en,NEN,North-America
@@ -337,6 +334,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-01-19T04:03:00+00:00,New Zealand,0.638073062482575,1,1,en,NZ,Oceania
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-01-19T04:03:00+00:00,Solomon Islands,0.6380012859822924,1,1,en,EPO,Oceania
 '4712445a4d',extremes,Flood,#030ba1,wmo,Flashflood Queensland Gilbert River,2026-01-15T10:56:00+00:00,Australia,0.6378561722794035,1,1,en,CAU,Oceania
+'e43a127d61',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave Joshimath,2026-02-18T04:34:00+00:00,India,0.6377657295689951,1,1,en,SAS,Asia
 '087c387775',extremes,Storm,#b3b2b1,wmo,Storm All waters of SI,2026-01-30T04:21:00+00:00,Solomon Islands,0.6371974424187503,1,1,en,EPO,Oceania
 '7c16bb36e0',extremes,Storm,#b3b2b1,wmo,Storm Surge Manawatu,2026-02-15T04:35:00+00:00,New Zealand,0.6369584068916844,1,1,en,NZ,Oceania
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-02-03T04:27:00+00:00,Canada,0.6368640714441165,1,1,en,NEN,North-America
@@ -354,6 +352,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c929fcba1d',extremes,Flood,#030ba1,wmo,Flood New South Wales Wilsons River,2026-02-13T04:34:00+00:00,Australia,0.6354331935369815,1,1,en,CAU,Oceania
 '6e9b022451',extremes,Precipitation,#d60d2b,wmo,Precipitation Wellington,2026-02-14T04:21:00+00:00,New Zealand,0.6353278837770002,1,1,en,NZ,Oceania
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2026-01-23T04:03:00+00:00,United Kingdom,0.6351310817092459,1,1,en,NEU,Europe
+'d4af5da119',extremes,Wildfire,#d60d2b,wmo,Wildfire Knox Stark Marshall,2026-02-18T04:34:00+00:00,United States,0.6351127277681846,1,1,en,CNA,North-America
+'f35db5adb5',extremes,Wildfire,#d60d2b,wmo,Wildfire Dickens King,2026-02-18T04:34:00+00:00,United States,0.6350086843906276,1,1,en,CNA,North-America
 'f5303cb715',extremes,Flood,#030ba1,wmo,Flashflood Hunt TX,2026-02-15T04:35:00+00:00,United States,0.634852254932007,1,1,en,CNA,North-America
 'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,Snow Dempster,2026-01-27T03:58:00+00:00,Canada,0.6347720044057714,1,1,en,NEN,North-America
 '7e6c45f3ef',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Kullu district of Himachal Pradesh,2026-01-26T04:09:00+00:00,India,0.6346328581724244,1,1,en,SAS,Asia
