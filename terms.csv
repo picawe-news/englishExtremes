@@ -9,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-01-15T10:56:00+00:00,United States,0.7728832530248946,1,3,en,CNA,North-America
 '625db112cc',extremes,Storm,#b3b2b1,wmo,Storm Surge Adak to Kiska Bering Side,2026-01-15T12:14:00+00:00,United States,0.7716268609727227,1,1,en,CNA,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-01-15T10:56:00+00:00,Australia,0.7671943670461134,1,3,en,CAU,Oceania
+'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7669932544713614,1,3,en,NEU,Europe
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,Storm Trinidad and Tobago,2026-02-10T04:43:00+00:00,Trinidad and Tobago,0.7646626629589492,1,2,en,NSA,North-America
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7642791224865733,1,3,en,SAS,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-01-15T10:56:00+00:00,United States,0.7639648001213578,1,3,en,CNA,North-America
@@ -20,9 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
-'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7473733245881562,0,1,en,NEU,Europe
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
-'7f2095d3e9',extremes,Precipitation,#d60d2b,wmo,Rain Tasman west of Mapua,2026-01-21T03:56:00+00:00,New Zealand,0.7424244570525271,0,1,en,NZ,Oceania
 'f68f62491e',extremes,Flood,#030ba1,wmo,Flooding Western Australia Avon River,2026-02-12T04:37:00+00:00,Australia,0.7423205192507145,0,1,en,CAU,Oceania
 'e01aa2c7dc',extremes,Flood,#030ba1,wmo,Flooding Garden NE,2026-01-27T03:58:00+00:00,United States,0.7422371500663972,0,1,en,CNA,North-America
 '91fa06d61c',extremes,Precipitation,#d60d2b,wmo,Precipitation Waikato Waitomo and Taupo,2026-01-21T03:56:00+00:00,New Zealand,0.7421980742603036,0,1,en,NZ,Oceania
@@ -393,6 +392,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd15fd56319',extremes,Wildfire,#d60d2b,wmo,Wildfire Jones Lyman Buffalo,2026-02-15T04:35:00+00:00,United States,0.6315481377549691,1,1,en,CNA,North-America
 'd1cf9cc390',extremes,Snow&Ice,#d60d2b,wmo,Frost Kugaaruk,2026-02-12T04:37:00+00:00,Canada,0.6315266117726644,1,1,en,NEN,North-America
 '3a968c538f',extremes,Flood,#030ba1,wmo,Flood Queensland Haughton River,2026-01-26T04:09:00+00:00,Australia,0.6313084499853454,1,1,en,CAU,Oceania
+'7f2095d3e9',extremes,Precipitation,#d60d2b,wmo,Rain Tasman west of Mapua,2026-01-21T03:56:00+00:00,New Zealand,0.6310607884946481,1,1,en,NZ,Oceania
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
