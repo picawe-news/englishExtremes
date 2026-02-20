@@ -68,10 +68,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '361d356ada',extremes,Flood,#030ba1,wmo,Flashflood San Diego County Coastal Areas,2026-02-03T04:27:00+00:00,United States,0.7360448415526366,0,1,en,CNA,North-America
 'aac1e6661e',extremes,Flood,#030ba1,wmo,Flashflood Pamlico Southern Craven,2026-01-31T04:16:00+00:00,United States,0.7357695914134033,0,1,en,CNA,North-America
 'fc60bdce5b',extremes,Flood,#030ba1,wmo,Flashflood Butler NE Platte NE,2026-01-24T03:48:00+00:00,United States,0.7356195244797098,0,1,en,CNA,North-America
+'e624cb7c4a',extremes,Flood,#030ba1,wmo,Flood Queensland Cloncurry River,2026-02-19T04:32:00+00:00,Australia,0.7354377943791893,0,1,en,CAU,Oceania
 'd9105c96ce',extremes,Flood,#030ba1,wmo,Flood Queensland Bulloo River QLD,2026-02-14T04:21:00+00:00,Australia,0.7353712121809173,0,1,en,CAU,Oceania
+'a860f19615',extremes,Snow&Ice,#d60d2b,wmo,Ice United Kingdom,2026-02-13T04:34:00+00:00,United Kingdom,0.735324981946598,0,1,en,NEU,Europe
 'e73c1c8775',extremes,Flood,#030ba1,wmo,Flood Queensland Logan and Albert Rivers,2026-02-14T04:21:00+00:00,Australia,0.73530208824678,0,1,en,CAU,Oceania
 'b523f38879',extremes,Flood,#030ba1,wmo,Flashflood Kankakee IL,2026-01-28T03:56:00+00:00,United States,0.7352718200423762,0,1,en,CNA,North-America
+'d17278cca0',extremes,Fog,#d60d2b,wmo,Fog York Lancaster,2026-02-18T04:34:00+00:00,United States,0.7350995429310475,0,1,en,CNA,North-America
 '0af96dac49',extremes,Flood,#030ba1,wmo,Flooding South West England | Wales,2026-01-25T04:06:00+00:00,United Kingdom,0.7350973651214374,0,1,en,NEU,Europe
+'e9a192ad67',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Mono,2026-02-18T04:34:00+00:00,United States,0.7349534928360463,0,1,en,CNA,North-America
 '60846b2cbd',extremes,Flood,#030ba1,wmo,Flooding Queensland Comet and Nogoa Rivers,2026-02-14T04:21:00+00:00,Australia,0.7348313672174551,0,1,en,CAU,Oceania
 'aab01fa648',extremes,Flood,#030ba1,wmo,Flood Western Australia Fitzroy River,2026-01-24T03:48:00+00:00,Australia,0.7348225569113324,0,1,en,CAU,Oceania
 '783ed5f461',extremes,Flood,#030ba1,wmo,Flashflood Garden NE,2026-01-26T04:09:00+00:00,United States,0.7347956871550116,0,1,en,CNA,North-America
@@ -79,7 +83,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60a27f0489',extremes,Flood,#030ba1,wmo,Flooding Kankakee IL,2026-01-24T03:48:00+00:00,United States,0.7345482805522195,0,1,en,CNA,North-America
 '94b2900911',extremes,Flood,#030ba1,wmo,Flood Queensland Daintree River,2026-01-26T04:09:00+00:00,Australia,0.734446638069786,0,1,en,CAU,Oceania
 'cc12e69437',extremes,Thunderstorm,#53785a,wmo,Severe Weather Cameroon,2026-02-16T04:38:00+00:00,Cameroon,0.7344021638796665,0,1,en,CAF,Africa
+'08579e390c',extremes,Earthquake,#870007,usgs,Earthquake Yigo Village,2026-02-06T04:27:00+00:00,Guam,0.7342666902855981,0,1,en,NPO,Pacific Ocean
 'e84e180072',extremes,Flood,#030ba1,wmo,Flood Southern Queens Southern Nassau,2026-02-01T04:41:00+00:00,United States,0.7342647505994794,0,1,en,CNA,North-America
+'7518798de4',extremes,Storm,#b3b2b1,wmo,Storm offshore Pedro Bank area,2026-02-19T04:32:00+00:00,Jamaica,0.7341576729827478,0,1,en,CAR,North-America
 '38a585ebf8',extremes,Flood,#030ba1,wmo,Flood Queensland Diamantina River,2026-02-15T04:35:00+00:00,Australia,0.7341395571068586,0,1,en,CAU,Oceania
 'd0ac8d546a',extremes,Flood,#030ba1,wmo,Flooding Western Australia Fortescue River,2026-02-07T04:19:00+00:00,Australia,0.7334332962471964,0,1,en,CAU,Oceania
 '491643818a',extremes,Flood,#030ba1,wmo,Flooding Queensland Herbert River,2026-01-26T04:09:00+00:00,Australia,0.7334250543584251,0,1,en,CAU,Oceania
