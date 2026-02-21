@@ -2,6 +2,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-01-18T03:57:00+00:00,New Zealand,0.7851163111082753,1,2,en,NZ,Oceania
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Chamoli district of Uttarakhand,2026-01-25T04:06:00+00:00,India,0.7819045852871087,1,2,en,SAS,Asia
+'cda017c360',extremes,Flood,#030ba1,wmo,Flooding Queensland Cloncurry River,2026-02-17T04:31:00+00:00,Australia,0.7803674975079686,1,2,en,CAU,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7792940460943101,1,3,en,CAU,Oceania
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Australia,2026-01-24T03:48:00+00:00,Australia,0.7744911233265848,1,3,en,CAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-01-15T10:56:00+00:00,United States,0.7728832530248946,1,3,en,CNA,North-America
@@ -21,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
-'cda017c360',extremes,Flood,#030ba1,wmo,Flooding Queensland Cloncurry River,2026-02-17T04:31:00+00:00,Australia,0.741432332362316,0,1,en,CAU,Oceania
 '9da5df2f4e',extremes,Snow&Ice,#d60d2b,wmo,Snow United Kingdom,2026-01-27T03:58:00+00:00,United Kingdom,0.7412088169656087,0,1,en,NEU,Europe
 'e5fdf93e91',extremes,Flood,#030ba1,wmo,Flashflood Queensland Normanby River,2026-01-26T04:09:00+00:00,Australia,0.7409899007710551,0,1,en,CAU,Oceania
 '989e730f78',extremes,Flood,#030ba1,wmo,Flood Queensland Barron River,2026-01-27T03:58:00+00:00,Australia,0.7406495721701782,0,1,en,CAU,Oceania
@@ -408,7 +408,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
-'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,en,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,coldest year,2026-01-15T10:20:00+00:00,,0.2417323084237956,1,2,en,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arctic sea ice,2026-01-15T10:20:00+00:00,,0.2410901849498939,1,2,en,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,record cold,2026-01-15T10:20:00+00:00,,0.2321129816627127,1,2,en,,
