@@ -17,12 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bcb6cba683',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Banks Peninsula,2026-02-16T04:38:00+00:00,New Zealand,0.7602349230066194,1,2,en,NZ,Oceania
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7585474437690954,1,3,en,CNA,North-America
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
-'c893beb51c',extremes,Snow&Ice,#d60d2b,wmo,Snow Kugaaruk,2026-02-21T04:18:00+00:00,Canada,0.7548146000683899,0,1,en,NEN,North-America
-'852eb2b733',extremes,Snow&Ice,#d60d2b,wmo,Freezing Avalon Peninsula Southeast,2026-02-21T04:18:00+00:00,Canada,0.7546573563055082,0,1,en,NEN,North-America
-'468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Taloyoak Gjoa Haven,2026-02-21T04:18:00+00:00,Canada,0.7544330532989373,0,1,en,NEN,North-America
-'b46d43381d',extremes,Snow&Ice,#d60d2b,wmo,Snow Grand Falls Windsor and vicinity,2026-02-21T04:18:00+00:00,Canada,0.7542824096249706,0,1,en,NEN,North-America
-'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,Ice Pickle Lake Cat Lake,2026-02-21T04:18:00+00:00,Canada,0.753897300532242,0,1,en,NEN,North-America
-'6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,Wildfire Telangana,2026-02-21T04:18:00+00:00,India,0.7514866194176072,0,1,en,SAS,Asia
 'c2f16b92e6',extremes,Drought,#edc291,edo,Lack of Rain Kenya,2026-01-19T04:03:00+00:00,Kenya,0.7489406732131284,1,2,en,SEAF,Africa
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
@@ -334,17 +328,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-01-15T10:56:00+00:00,United States,0.6420395239363854,1,2,en,CNA,North-America
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-02-05T04:27:00+00:00,Jamaica,0.6419782510887603,1,1,en,CAR,North-America
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,Wildfire Assam,2026-02-11T04:41:00+00:00,India,0.6416264275847351,1,1,en,SAS,Asia
+'c893beb51c',extremes,Snow&Ice,#d60d2b,wmo,Snow Kugaaruk,2026-02-21T04:18:00+00:00,Canada,0.6415924100581314,1,1,en,NEN,North-America
 'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,Ice Paulatuk,2026-02-19T04:32:00+00:00,Canada,0.6415469164701206,1,1,en,NEN,North-America
 '4299cdd13a',extremes,Storm,#b3b2b1,wmo,Storm Surge Ghana,2026-02-18T04:34:00+00:00,Ghana,0.6414727430277348,1,1,en,WAF,Africa
+'852eb2b733',extremes,Snow&Ice,#d60d2b,wmo,Freezing Avalon Peninsula Southeast,2026-02-21T04:18:00+00:00,Canada,0.641458752859682,1,1,en,NEN,North-America
 '9293b0f660',extremes,Wildfire,#d60d2b,wmo,Wildfire Karnataka,2026-02-11T04:41:00+00:00,India,0.6413702560617899,1,1,en,SAS,Asia
+'468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,Freezing Taloyoak Gjoa Haven,2026-02-21T04:18:00+00:00,Canada,0.6412680953040967,1,1,en,NEN,North-America
+'b46d43381d',extremes,Snow&Ice,#d60d2b,wmo,Snow Grand Falls Windsor and vicinity,2026-02-21T04:18:00+00:00,Canada,0.641140048181225,1,1,en,NEN,North-America
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-02-11T04:41:00+00:00,India,0.6410786522179256,1,1,en,SAS,Asia
 '18ec1601d2',extremes,Storm,#b3b2b1,wmo,Storm Chatham Islands,2026-02-16T04:38:00+00:00,New Zealand,0.6410690036690175,1,1,en,NZ,Oceania
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,Storm Surge Seychelles,2026-02-19T04:32:00+00:00,Seychelles,0.6408288936002939,1,1,en,EIO,Africa
+'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,Ice Pickle Lake Cat Lake,2026-02-21T04:18:00+00:00,Canada,0.6408127054524057,1,1,en,NEN,North-America
 'b5dab6daa1',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Adak to Kiska Pacific Side,2026-02-10T04:43:00+00:00,United States,0.6403912155557291,1,1,en,CNA,North-America
 'df9ca5fc9c',extremes,Storm,#b3b2b1,wmo,Storm Marlborough Sounds,2026-02-03T04:27:00+00:00,New Zealand,0.6398137474698476,1,1,en,NZ,Oceania
 '51b14c1443',extremes,Flood,#030ba1,aidr,Flood Geelong Victoria 2016,2026-01-18T03:57:00+00:00,Australia,0.6395409759234428,1,1,en,SAU,Oceania
 'fac1cc1397',extremes,Storm,#b3b2b1,wmo,Storm Wairarapa and the Tararua District,2026-02-15T04:35:00+00:00,New Zealand,0.6391691718819963,1,1,en,NZ,Oceania
 'd4e54bdaef',extremes,Storm,#b3b2b1,wmo,Storm Surge Horowhenua and Kapiti Coast,2026-02-14T04:21:00+00:00,New Zealand,0.6390358845937403,1,1,en,NZ,Oceania
+'6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,Wildfire Telangana,2026-02-21T04:18:00+00:00,India,0.6389136415049661,1,1,en,SAS,Asia
 '58193d11dc',extremes,Storm,#b3b2b1,wmo,Storm Taupo,2026-02-15T04:35:00+00:00,New Zealand,0.6387744770372914,1,1,en,NZ,Oceania
 '236d7a616f',extremes,Precipitation,#d60d2b,wmo,Precipitation Solomon Islands,2026-01-30T04:21:00+00:00,Solomon Islands,0.6387577959561709,1,1,en,EPO,Oceania
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-01-20T03:56:00+00:00,Solomon Islands,0.6387272538135444,1,1,en,EPO,Oceania
