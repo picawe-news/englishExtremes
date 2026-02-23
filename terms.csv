@@ -17,7 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-01-15T10:57:00+00:00,Kenya,0.7475380779085115,1,2,en,SEAF,Africa
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
-'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-01-22T03:59:00+00:00,India,0.7394001712035135,0,1,en,SAS,Asia
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-02-14T04:21:00+00:00,New Zealand,0.7393960669606291,1,2,en,NZ,Oceania
 '1e5ab33128',extremes,Flood,#030ba1,wmo,Flood Southwest Suffolk Southern Nassau,2026-02-21T04:18:00+00:00,United States,0.7392708939787325,0,1,en,CNA,North-America
 '16067b43c4',extremes,Flood,#030ba1,wmo,Flood Queensland Gilbert River,2026-01-27T03:58:00+00:00,Australia,0.7392511699546572,0,1,en,CAU,Oceania
@@ -130,6 +129,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-01-31T04:16:00+00:00,Canada,0.6907118439480101,1,2,en,NEN,North-America
 'b044d9f6b4',extremes,Snow&Ice,#d60d2b,wmo,Frost Ireland,2026-02-18T04:34:00+00:00,Ireland,0.6887622600012585,1,2,en,NEU,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-01-15T10:56:00+00:00,Canada,0.6883248782746255,1,2,en,NEN,North-America
+'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-01-22T03:59:00+00:00,India,0.6879870100684411,1,2,en,SAS,Asia
 '8c46315dbe',extremes,Earthquake,#870007,aidr,earthquake Australia,2026-01-15T10:57:00+00:00,Australia,0.6876976222933846,1,2,en,EAU,Oceania
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-01-15T10:56:00+00:00,Canada,0.6857993911483189,2,2,en,NEN,North-America
 'a492c1f826',extremes,Storm,#b3b2b1,wmo,Storm Lake Okeechobee,2026-01-15T12:14:00+00:00,United States,0.6857966715785669,2,2,en,CNA,North-America
