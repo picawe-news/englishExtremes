@@ -66,12 +66,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc12e69437',extremes,Thunderstorm,#53785a,wmo,Severe Weather Cameroon,2026-02-16T04:38:00+00:00,Cameroon,0.7344021638796665,0,1,en,CAF,Africa
 '08579e390c',extremes,Earthquake,#870007,usgs,Earthquake Yigo Village,2026-02-06T04:27:00+00:00,Guam,0.7342666902855981,0,1,en,NPO,Pacific Ocean
 'e84e180072',extremes,Flood,#030ba1,wmo,Flood Southern Queens Southern Nassau,2026-02-01T04:41:00+00:00,United States,0.7342647505994794,0,1,en,CNA,North-America
+'26b4e7a767',extremes,Flood,#030ba1,wmo,Flooding Northern Outer Banks,2026-02-24T04:31:00+00:00,United States,0.7341603764465792,0,1,en,CNA,North-America
 '7518798de4',extremes,Storm,#b3b2b1,wmo,Storm offshore Pedro Bank area,2026-02-19T04:32:00+00:00,Jamaica,0.7341576729827478,0,1,en,CAR,North-America
 '38a585ebf8',extremes,Flood,#030ba1,wmo,Flood Queensland Diamantina River,2026-02-15T04:35:00+00:00,Australia,0.7341395571068586,0,1,en,CAU,Oceania
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-02-07T04:19:00+00:00,Canada,0.7341042002597431,1,3,en,NEN,North-America
+'efe08ab82a',extremes,Flood,#030ba1,wmo,Flood Queensland Mitchell River,2026-02-23T04:37:00+00:00,Australia,0.7338038980154212,0,1,en,CAU,Oceania
+'2ddd04af85',extremes,Earthquake,#870007,usgs,Earthquake Labasa,2026-02-19T04:31:00+00:00,Fiji,0.733759873930732,0,1,en,SPO,Pacific Ocean
 'd0ac8d546a',extremes,Flood,#030ba1,wmo,Flooding Western Australia Fortescue River,2026-02-07T04:19:00+00:00,Australia,0.7334332962471964,0,1,en,CAU,Oceania
 '491643818a',extremes,Flood,#030ba1,wmo,Flooding Queensland Herbert River,2026-01-26T04:09:00+00:00,Australia,0.7334250543584251,0,1,en,CAU,Oceania
 '76df89631f',extremes,Drought,#edc291,edo,Dry Spell Kiribati,2026-02-11T04:42:00+00:00,Kiribati,0.7333505634415046,0,1,en,EAO,Atlantic Ocean
+'0e61953e38',extremes,Flood,#030ba1,wmo,Flood Victoria Maribyrnong River,2026-02-23T04:37:00+00:00,Australia,0.7332471544344341,0,1,en,CAU,Oceania
+'e3f478e59c',extremes,Flood,#030ba1,wmo,Flashflood Victoria Ovens and King Rivers,2026-02-23T04:37:00+00:00,Australia,0.7330615859865808,0,1,en,CAU,Oceania
 '528eb18ef2',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Bear River Range,2026-02-18T04:34:00+00:00,United States,0.7330570476520805,0,1,en,CNA,North-America
 'da307952db',extremes,Precipitation,#d60d2b,wmo,Downpour Ireland,2026-01-26T04:09:00+00:00,Ireland,0.7329092217897953,0,1,en,NEU,Europe
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2026-01-27T03:58:00+00:00,India,0.7328390729190595,0,1,en,SAS,Asia
@@ -80,6 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-02-14T04:21:00+00:00,United States,0.7325607672833313,0,1,en,CNA,North-America
 'c73c1c860f',extremes,Flood,#030ba1,wmo,Flood Queensland Burnett River,2026-02-13T04:34:00+00:00,Australia,0.7325342934532115,0,1,en,CAU,Oceania
 '214d14f10d',extremes,Flood,#030ba1,wmo,Flashflood Western Australia Onslow Coast,2026-02-06T04:27:00+00:00,Australia,0.7321147264423393,0,1,en,CAU,Oceania
+'ea6bb31003',extremes,Storm,#b3b2b1,wmo,Storm Surge Inverness County Mabou and north,2026-02-23T04:37:00+00:00,Canada,0.7320540690376203,0,1,en,NEN,North-America
 'ab75c60aef',extremes,Flood,#030ba1,wmo,Flooding Queensland Lockhart River,2026-01-29T04:19:00+00:00,Australia,0.7320456297757272,0,1,en,CAU,Oceania
 '50edbbaa6d',extremes,Flood,#030ba1,wmo,Flashflood Queensland Lockhart River,2026-01-31T04:16:00+00:00,Australia,0.7319721819460309,0,1,en,CAU,Oceania
 '117f2e1e78',extremes,Flood,#030ba1,wmo,Flood Coastal Hancock Coastal Washington,2026-02-02T04:36:00+00:00,United States,0.7319478775605717,0,1,en,CNA,North-America
