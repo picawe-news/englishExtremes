@@ -15,8 +15,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7585474437690954,1,3,en,CNA,North-America
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
+'6507524436',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Barren Islands East,2026-02-25T04:32:00+00:00,United States,0.7526353830098746,0,1,en,CNA,North-America
+'f9551e9298',extremes,Flood,#030ba1,wmo,Flashflood Mendocino CA,2026-02-25T04:32:00+00:00,United States,0.7495093424891364,0,1,en,CNA,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
+'3a04076217',extremes,Flood,#030ba1,wmo,Flashflood Coos OR,2026-02-25T04:32:00+00:00,United States,0.7467332304384225,0,1,en,CNA,North-America
+'f78648bb34',extremes,Flood,#030ba1,wmo,Flooding Mendocino CA,2026-02-25T04:32:00+00:00,United States,0.7463873161060784,0,1,en,CNA,North-America
+'4bfaf4db07',extremes,Flood,#030ba1,wmo,Flood Tehama CA,2026-02-25T04:32:00+00:00,United States,0.745669468746564,0,1,en,CNA,North-America
+'3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2026-02-09T04:39:00+00:00,Kenya,0.7448392628076232,0,1,en,SEAF,Africa
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
 'ecafa59592',extremes,Flood,#030ba1,wmo,Flood Victoria Kiewa River,2026-02-23T04:37:00+00:00,Australia,0.7383251618159518,0,1,en,CAU,Oceania
