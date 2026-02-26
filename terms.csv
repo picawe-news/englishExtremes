@@ -18,8 +18,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
-'8e36a69bd3',extremes,Storm,#b3b2b1,wmo,Storm Surge Paulatuk,2026-02-22T04:30:00+00:00,Canada,0.7374541233790987,0,1,en,NEN,North-America
-'c6a1f9591b',extremes,Flood,#030ba1,wmo,Flood Queensland Murray River,2026-02-15T04:35:00+00:00,Australia,0.7371491447820235,0,1,en,CAU,Oceania
 'a2933a7b7b',extremes,Flood,#030ba1,wmo,Flooding Queensland Tully River,2026-02-18T04:34:00+00:00,Australia,0.7371325847443453,0,1,en,CAU,Oceania
 '7da3f5b7e5',extremes,Flood,#030ba1,wmo,Flashflood Queensland Mossman River,2026-01-27T03:58:00+00:00,Australia,0.7371202924970589,0,1,en,CAU,Oceania
 '5e8e4bc5b1',extremes,Flood,#030ba1,wmo,Flooding Greene AL Hale AL Marengo AL,2026-01-26T04:09:00+00:00,United States,0.736997263641158,0,1,en,CNA,North-America
@@ -343,6 +341,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5fe6c4dd26',extremes,Snow&Ice,#d60d2b,wmo,Frost Grise Fiord,2026-02-12T04:37:00+00:00,Canada,0.6276607319397871,1,1,en,NEN,North-America
 'ecafa59592',extremes,Flood,#030ba1,wmo,Flood Victoria Kiewa River,2026-02-23T04:37:00+00:00,Australia,0.6275763875435589,1,1,en,CAU,Oceania
 'a552e32ef3',extremes,Flood,#030ba1,wmo,Flashflood Queensland Herbert River,2026-01-26T04:09:00+00:00,Australia,0.6274405602425975,1,1,en,CAU,Oceania
+'c6a1f9591b',extremes,Flood,#030ba1,wmo,Flood Queensland Murray River,2026-02-15T04:35:00+00:00,Australia,0.62702681806472,1,1,en,CAU,Oceania
+'8e36a69bd3',extremes,Storm,#b3b2b1,wmo,Storm Surge Paulatuk,2026-02-22T04:30:00+00:00,Canada,0.6268360048722339,1,1,en,NEN,North-America
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
