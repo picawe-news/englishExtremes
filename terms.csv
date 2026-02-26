@@ -16,7 +16,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
+'49ddcc4606',extremes,Wildfire,#d60d2b,wmo,Wildfire Kit Carson County Cheyenne Dundy,2026-02-25T04:32:00+00:00,United States,0.7446716869050819,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
+'4e9eda17a4',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Adams ID Idaho ID Valley ID,2026-02-25T04:32:00+00:00,United States,0.7421450266536629,0,1,en,CNA,North-America
+'a60f2d695c',extremes,Flood,#030ba1,wmo,Flooding Josephine OR,2026-02-25T04:32:00+00:00,United States,0.7408768479036495,0,1,en,CNA,North-America
+'65d5dc7549',extremes,Flood,#030ba1,wmo,Flood Victoria Mitchell River,2026-02-23T04:37:00+00:00,Australia,0.7405094015008874,0,1,en,CAU,Oceania
+'ca71b12deb',extremes,Flood,#030ba1,wmo,Flashflood Guam Rota Tinian Saipan,2026-02-25T04:32:00+00:00,United States,0.740093129333343,0,1,en,CNA,North-America
+'72543c90cb',extremes,Earthquake,#870007,usgs,Earthquake Bamboo Flat,2026-02-24T04:30:00+00:00,India,0.7396954734124257,0,1,en,BOB,Indian Ocean
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
 'a552e32ef3',extremes,Flood,#030ba1,wmo,Flashflood Queensland Herbert River,2026-01-26T04:09:00+00:00,Australia,0.7381653649912913,0,1,en,CAU,Oceania
 'd5460f574c',extremes,Snow Avalanche,#deddd5,wmo,Avalanche West Glacier Region,2026-02-23T04:37:00+00:00,United States,0.7377098313765269,0,1,en,CNA,North-America
