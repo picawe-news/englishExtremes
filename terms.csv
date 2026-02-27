@@ -14,17 +14,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7585474437690954,1,3,en,CNA,North-America
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
-'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2026-02-26T04:29:00+00:00,Australia,0.7550919694488796,0,1,en,EAU,Oceania
-'3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2026-02-08T04:43:00+00:00,United States,0.7547913652911595,0,1,en,CNA,North-America
-'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2026-02-12T04:37:00+00:00,India,0.7535381423034181,0,1,en,SAS,Asia
-'8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-02-25T04:32:00+00:00,Australia,0.7483889123046531,0,1,en,CAU,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
-'a9a8d922d7',extremes,Flood,#030ba1,wmo,Flood Northern Ireland,2026-01-26T04:09:00+00:00,United Kingdom,0.7364077026585163,0,1,en,NEU,Europe
-'77d820405c',extremes,Flood,#030ba1,wmo,Flooding Western Australia Fitzroy River,2026-01-23T04:03:00+00:00,Australia,0.7362848940328145,0,1,en,CAU,Oceania
 '853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,Freezing Dempster,2026-01-26T04:09:00+00:00,Canada,0.7362451913188497,0,1,en,NEN,North-America
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,2019 Cyclone WA Severe tropical cyclone Veronica,2026-02-23T04:37:00+00:00,Australia,0.7361534523085503,0,1,en,CAU,Oceania
 '361d356ada',extremes,Flood,#030ba1,wmo,Flashflood San Diego County Coastal Areas,2026-02-03T04:27:00+00:00,United States,0.7360448415526366,0,1,en,CNA,North-America
@@ -115,6 +109,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04779cf92a',extremes,Snow&Ice,#d60d2b,wmo,Ice Jasper,2026-01-15T12:14:00+00:00,United States,0.7018443027260166,1,2,en,CNA,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-01-15T10:56:00+00:00,United States,0.7012198328122808,2,3,en,CNA,North-America
 '485794e3d4',extremes,Earthquake,#870007,usgs,Earthquake Canada,2026-01-15T12:13:00+00:00,Canada,0.7001152012249326,1,2,en,NWN,North-America
+'a9a8d922d7',extremes,Flood,#030ba1,wmo,Flood Northern Ireland,2026-01-26T04:09:00+00:00,United Kingdom,0.6998503038386862,1,1,en,NEU,Europe
 '453697199c',extremes,Storm,#b3b2b1,wmo,Storm Ghana,2026-02-17T04:31:00+00:00,Ghana,0.6995368922342756,1,1,en,WAF,Africa
 '982ec95067',extremes,Wildfire,#d60d2b,wmo,Wildfire Victoria North East,2026-02-01T04:41:00+00:00,Australia,0.6985978272551013,1,1,en,CAU,Oceania
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-01-15T10:57:00+00:00,Australia,0.6974088745517852,1,1,en,EAU,Oceania
@@ -203,8 +198,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-02-07T04:19:00+00:00,Jamaica,0.6420529418755601,1,2,en,CAR,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-01-15T10:56:00+00:00,United States,0.6420395239363854,1,2,en,CNA,North-America
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-02-05T04:27:00+00:00,Jamaica,0.6419782510887603,1,1,en,CAR,North-America
+'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2026-02-26T04:29:00+00:00,Australia,0.6418281740315476,1,1,en,EAU,Oceania
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,Wildfire Assam,2026-02-11T04:41:00+00:00,India,0.6416264275847351,1,1,en,SAS,Asia
 'c893beb51c',extremes,Snow&Ice,#d60d2b,wmo,Snow Kugaaruk,2026-02-21T04:18:00+00:00,Canada,0.6415924100581314,1,1,en,NEN,North-America
+'3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2026-02-08T04:43:00+00:00,United States,0.6415726604974856,1,1,en,CNA,North-America
 'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,Ice Paulatuk,2026-02-19T04:32:00+00:00,Canada,0.6415469164701206,1,1,en,NEN,North-America
 '4299cdd13a',extremes,Storm,#b3b2b1,wmo,Storm Surge Ghana,2026-02-18T04:34:00+00:00,Ghana,0.6414727430277348,1,1,en,WAF,Africa
 '852eb2b733',extremes,Snow&Ice,#d60d2b,wmo,Freezing Avalon Peninsula Southeast,2026-02-21T04:18:00+00:00,Canada,0.641458752859682,1,1,en,NEN,North-America
@@ -216,6 +213,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18ec1601d2',extremes,Storm,#b3b2b1,wmo,Storm Chatham Islands,2026-02-16T04:38:00+00:00,New Zealand,0.6410690036690175,1,1,en,NZ,Oceania
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,Storm Surge Seychelles,2026-02-19T04:32:00+00:00,Seychelles,0.6408288936002939,1,1,en,EIO,Africa
 'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,Ice Pickle Lake Cat Lake,2026-02-21T04:18:00+00:00,Canada,0.6408127054524057,1,1,en,NEN,North-America
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2026-02-12T04:37:00+00:00,India,0.6405074209579054,1,1,en,SAS,Asia
 'b5dab6daa1',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Adak to Kiska Pacific Side,2026-02-10T04:43:00+00:00,United States,0.6403912155557291,1,1,en,CNA,North-America
 'df9ca5fc9c',extremes,Storm,#b3b2b1,wmo,Storm Marlborough Sounds,2026-02-03T04:27:00+00:00,New Zealand,0.6398137474698476,1,1,en,NZ,Oceania
 '6507524436',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Barren Islands East,2026-02-25T04:32:00+00:00,United States,0.6397400755583934,1,1,en,CNA,North-America
@@ -248,6 +246,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01aa566f43',extremes,Storm,#b3b2b1,wmo,Storm Surge Westland and Grey districts,2026-02-03T04:27:00+00:00,New Zealand,0.636436686158599,1,1,en,NZ,Oceania
 'a8a211b5f7',extremes,Wildfire,#d60d2b,wmo,Wildfire Northeast Highlands,2026-02-16T04:38:00+00:00,United States,0.6363815860233302,1,1,en,CNA,North-America
 'cc87503cc8',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ulukhaktok,2026-02-21T04:18:00+00:00,Canada,0.6363316226383067,1,1,en,NEN,North-America
+'8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-02-25T04:32:00+00:00,Australia,0.6361305754589551,1,1,en,CAU,Oceania
 'd2badc3801',extremes,Flood,#030ba1,wmo,Flashflood Lyon KS,2026-02-15T04:35:00+00:00,United States,0.6360381245225378,1,1,en,CNA,North-America
 '9d78e3f2f2',extremes,Flood,#030ba1,wmo,Flood Newaygo MI,2026-02-02T04:36:00+00:00,United States,0.6359471013976219,1,1,en,CNA,North-America
 '73b16dc950',extremes,Flood,#030ba1,wmo,Flashflood Jackson AR Woodruff AR,2026-02-19T04:32:00+00:00,United States,0.6359037907552908,1,1,en,CNA,North-America
@@ -348,6 +347,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e8e4bc5b1',extremes,Flood,#030ba1,wmo,Flooding Greene AL Hale AL Marengo AL,2026-01-26T04:09:00+00:00,United States,0.6264476740949844,1,1,en,CNA,North-America
 '6bab22ed5f',extremes,Flood,#030ba1,wmo,Flood Queensland Johnstone River,2026-01-27T03:58:00+00:00,Australia,0.6262171719046701,1,1,en,CAU,Oceania
 'c2168ef322',extremes,Flood,#030ba1,wmo,Flooding Maui HI,2026-02-22T04:30:00+00:00,United States,0.6258463191840482,1,1,en,CNA,North-America
+'77d820405c',extremes,Flood,#030ba1,wmo,Flooding Western Australia Fitzroy River,2026-01-23T04:03:00+00:00,Australia,0.6258421599278923,1,1,en,CAU,Oceania
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-01-15T10:56:00+00:00,New Zealand,0.5934540088760949,2,2,en,NZ,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
