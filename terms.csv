@@ -17,7 +17,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
+'79de7e552d',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Western Bay of Plenty Rotorua,2026-02-27T04:26:00+00:00,New Zealand,0.7471301518014448,0,1,en,NZ,Oceania
+'8d0d34d451',extremes,Flood,#030ba1,wmo,Flood Queensland Leichhardt River,2026-02-25T04:32:00+00:00,Australia,0.745816900138459,0,1,en,CAU,Oceania
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
+'433c40e193',extremes,Flood,#030ba1,aidr,Flood Warmun Kimberley 2011,2026-02-13T04:34:00+00:00,Australia,0.7410523209998676,0,1,en,NAU,Oceania
+'463a80336c',extremes,Flood,#030ba1,wmo,Flooding Queensland Barcoo River,2026-02-14T04:21:00+00:00,Australia,0.739892740695151,0,1,en,CAU,Oceania
+'4d6e25cb32',extremes,Flood,#030ba1,wmo,Flashflood New South Wales Paroo River NSW,2026-02-25T04:32:00+00:00,Australia,0.7396191436317663,0,1,en,CAU,Oceania
+'2879268265',extremes,Flood,#030ba1,wmo,Flood Lake CA Mendocino CA,2026-02-25T04:32:00+00:00,United States,0.7396099306539408,0,1,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
 '853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,Freezing Dempster,2026-01-26T04:09:00+00:00,Canada,0.7362451913188497,0,1,en,NEN,North-America
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,2019 Cyclone WA Severe tropical cyclone Veronica,2026-02-23T04:37:00+00:00,Australia,0.7361534523085503,0,1,en,CAU,Oceania
