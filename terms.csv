@@ -21,14 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
-'853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,Freezing Dempster,2026-01-26T04:09:00+00:00,Canada,0.7362451913188497,0,1,en,NEN,North-America
-'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,2019 Cyclone WA Severe tropical cyclone Veronica,2026-02-23T04:37:00+00:00,Australia,0.7361534523085503,0,1,en,CAU,Oceania
-'361d356ada',extremes,Flood,#030ba1,wmo,Flashflood San Diego County Coastal Areas,2026-02-03T04:27:00+00:00,United States,0.7360448415526366,0,1,en,CNA,North-America
-'aac1e6661e',extremes,Flood,#030ba1,wmo,Flashflood Pamlico Southern Craven,2026-01-31T04:16:00+00:00,United States,0.7357695914134033,0,1,en,CNA,North-America
-'fc60bdce5b',extremes,Flood,#030ba1,wmo,Flashflood Butler NE Platte NE,2026-01-24T03:48:00+00:00,United States,0.7356195244797098,0,1,en,CNA,North-America
-'8ebd5341cd',extremes,Fog,#d60d2b,wmo,Fog Matagorda Bay,2026-02-20T04:27:00+00:00,United States,0.735613169849726,0,1,en,CNA,North-America
-'db1e814857',extremes,Snow&Ice,#d60d2b,wmo,Frost Sea to Sky Squamish to Whistler,2026-02-23T04:37:00+00:00,Canada,0.7354748958883291,0,1,en,NEN,North-America
-'e624cb7c4a',extremes,Flood,#030ba1,wmo,Flood Queensland Cloncurry River,2026-02-19T04:32:00+00:00,Australia,0.7354377943791893,0,1,en,CAU,Oceania
 '943d9829b4',extremes,Flood,#030ba1,wmo,Flooding South Australia Onkaparinga River,2026-02-28T04:07:00+00:00,Australia,0.7354314465028988,0,1,en,CAU,Oceania
 'd9105c96ce',extremes,Flood,#030ba1,wmo,Flood Queensland Bulloo River QLD,2026-02-14T04:21:00+00:00,Australia,0.7353712121809173,0,1,en,CAU,Oceania
 'e58f2968e2',extremes,Flood,#030ba1,wmo,Flooding Northern Territory Simpson Desert,2026-02-20T04:27:00+00:00,Australia,0.7353455450074875,0,1,en,CAU,Oceania
@@ -167,6 +159,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.6641588881084023,2,2,en,WAF,Africa
 '0304d14d37',extremes,Snow&Ice,#d60d2b,wmo,Frost Green Bay White Bay,2026-02-12T04:37:00+00:00,Canada,0.6641439479182817,2,1,en,NEN,North-America
 'cda017c360',extremes,Flood,#030ba1,wmo,Flooding Queensland Cloncurry River,2026-02-17T04:31:00+00:00,Australia,0.6633124028817734,2,1,en,CAU,Oceania
+'e624cb7c4a',extremes,Flood,#030ba1,wmo,Flood Queensland Cloncurry River,2026-02-19T04:32:00+00:00,Australia,0.6632221852223109,1,1,en,CAU,Oceania
 '255621cc4c',extremes,Earthquake,#870007,usgs,Earthquake Panguna,2026-01-31T04:16:00+00:00,Papua New Guinea,0.6631656417432863,1,1,en,EPO,Pacific Ocean
 'ebe314dd99',extremes,Flood,#030ba1,aidr,Heavy rainfall and floods Queensland February 2020,2026-02-08T04:44:00+00:00,Australia,0.662689251922478,1,1,en,EAU,Oceania
 '8f9b19ab0f',extremes,Drought,#edc291,acwe,drought Victoria,2026-01-15T12:14:00+00:00,Australia,0.6623521620226682,1,2,en,SAU,Oceania
@@ -200,7 +193,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,Frost Sydney Metro and Cape Breton County,2026-02-16T04:38:00+00:00,Canada,0.6449246111565999,1,1,en,NEN,North-America
 '6539cd4b6f',extremes,Precipitation,#d60d2b,wmo,Downpour Dunedin east of Pukerangi,2026-02-17T04:31:00+00:00,New Zealand,0.6432741416427156,1,1,en,NZ,Oceania
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,Rain Seychelles,2026-02-16T04:38:00+00:00,Seychelles,0.643132447039014,1,1,en,EIO,Africa
-'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-01-18T03:56:00+00:00,Solomon Islands,0.642160182142153,1,1,en,SPO,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-02-07T04:19:00+00:00,Jamaica,0.6420529418755601,1,2,en,CAR,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-01-15T10:56:00+00:00,United States,0.6420395239363854,1,2,en,CNA,North-America
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-02-05T04:27:00+00:00,Jamaica,0.6419782510887603,1,1,en,CAR,North-America
@@ -223,7 +215,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5dab6daa1',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Adak to Kiska Pacific Side,2026-02-10T04:43:00+00:00,United States,0.6403912155557291,1,1,en,CNA,North-America
 'df9ca5fc9c',extremes,Storm,#b3b2b1,wmo,Storm Marlborough Sounds,2026-02-03T04:27:00+00:00,New Zealand,0.6398137474698476,1,1,en,NZ,Oceania
 '6507524436',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Barren Islands East,2026-02-25T04:32:00+00:00,United States,0.6397400755583934,1,1,en,CNA,North-America
-'51b14c1443',extremes,Flood,#030ba1,aidr,Flood Geelong Victoria 2016,2026-01-18T03:57:00+00:00,Australia,0.6395409759234428,1,1,en,SAU,Oceania
 'fac1cc1397',extremes,Storm,#b3b2b1,wmo,Storm Wairarapa and the Tararua District,2026-02-15T04:35:00+00:00,New Zealand,0.6391691718819963,1,1,en,NZ,Oceania
 'd4e54bdaef',extremes,Storm,#b3b2b1,wmo,Storm Surge Horowhenua and Kapiti Coast,2026-02-14T04:21:00+00:00,New Zealand,0.6390358845937403,1,1,en,NZ,Oceania
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,Wildfire Telangana,2026-02-21T04:18:00+00:00,India,0.6389136415049661,1,1,en,SAS,Asia
@@ -366,5 +357,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bab22ed5f',extremes,Flood,#030ba1,wmo,Flood Queensland Johnstone River,2026-01-27T03:58:00+00:00,Australia,0.6262171719046701,1,1,en,CAU,Oceania
 'c2168ef322',extremes,Flood,#030ba1,wmo,Flooding Maui HI,2026-02-22T04:30:00+00:00,United States,0.6258463191840482,1,1,en,CNA,North-America
 '77d820405c',extremes,Flood,#030ba1,wmo,Flooding Western Australia Fitzroy River,2026-01-23T04:03:00+00:00,Australia,0.6258421599278923,1,1,en,CAU,Oceania
+'853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,Freezing Dempster,2026-01-26T04:09:00+00:00,Canada,0.6258084126210223,1,1,en,NEN,North-America
+'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,2019 Cyclone WA Severe tropical cyclone Veronica,2026-02-23T04:37:00+00:00,Australia,0.6257304344622677,1,1,en,CAU,Oceania
+'361d356ada',extremes,Flood,#030ba1,wmo,Flashflood San Diego County Coastal Areas,2026-02-03T04:27:00+00:00,United States,0.6256381153197411,1,1,en,CNA,North-America
+'aac1e6661e',extremes,Flood,#030ba1,wmo,Flashflood Pamlico Southern Craven,2026-01-31T04:16:00+00:00,United States,0.6254041527013927,1,1,en,CNA,North-America
+'fc60bdce5b',extremes,Flood,#030ba1,wmo,Flashflood Butler NE Platte NE,2026-01-24T03:48:00+00:00,United States,0.6252765958077533,1,1,en,CNA,North-America
+'8ebd5341cd',extremes,Fog,#d60d2b,wmo,Fog Matagorda Bay,2026-02-20T04:27:00+00:00,United States,0.6252711943722671,1,1,en,CNA,North-America
+'db1e814857',extremes,Snow&Ice,#d60d2b,wmo,Frost Sea to Sky Squamish to Whistler,2026-02-23T04:37:00+00:00,Canada,0.6251536615050798,1,1,en,NEN,North-America
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
 'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
