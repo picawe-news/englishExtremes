@@ -13,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7669932544713614,1,3,en,NEU,Europe
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7642791224865733,1,3,en,SAS,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-01-15T10:56:00+00:00,United States,0.7639648001213578,1,3,en,CNA,North-America
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.761251170467978,0,1,en,NZ,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7585474437690954,1,3,en,CNA,North-America
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
@@ -20,8 +21,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
+'0914b25ca9',extremes,Storm,#b3b2b1,wmo,Storm Surge Chatham Islands,2026-03-02T04:27:00+00:00,New Zealand,0.7436405170788343,0,1,en,NZ,Oceania
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
+'513f70ccb2',extremes,Precipitation,#d60d2b,wmo,Precipitation Chatham Islands,2026-03-02T04:27:00+00:00,New Zealand,0.7406821001148739,0,1,en,NZ,Oceania
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
+'8fbc3ccce0',extremes,Fog,#d60d2b,wmo,Fog Charleston Harbor,2026-03-02T04:27:00+00:00,United States,0.7376923564908648,0,1,en,CNA,North-America
 'e73c1c8775',extremes,Flood,#030ba1,wmo,Flood Queensland Logan and Albert Rivers,2026-02-14T04:21:00+00:00,Australia,0.73530208824678,0,1,en,CAU,Oceania
 'b523f38879',extremes,Flood,#030ba1,wmo,Flashflood Kankakee IL,2026-01-28T03:56:00+00:00,United States,0.7352718200423762,0,1,en,CNA,North-America
 '979bc48c4a',extremes,Flood,#030ba1,wmo,Flooding Victoria Macalister River,2026-02-24T04:31:00+00:00,Australia,0.735075853111207,0,1,en,CAU,Oceania
@@ -89,7 +93,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e248a97251',extremes,Flood,#030ba1,wmo,Flood Northern Territory Barkly,2026-02-01T04:41:00+00:00,Australia,0.729020588565614,0,1,en,CAU,Oceania
 '4f015d53cc',extremes,Flood,#030ba1,wmo,Flood Queensland Warrego River QLD,2026-02-14T04:21:00+00:00,Australia,0.7289877324312947,0,1,en,CAU,Oceania
 'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-03-01T04:34:00+00:00,Solomon Islands,0.728906242717106,0,1,en,SPO,Pacific Ocean
+'8ea43c4eba',extremes,Flood,#030ba1,wmo,Flood South Australia Lake Eyre,2026-02-23T04:37:00+00:00,Australia,0.7286733589455193,0,1,en,CAU,Oceania
 '97e10345d1',extremes,Flood,#030ba1,wmo,Flashflood Queensland Logan and Albert Rivers,2026-02-13T04:34:00+00:00,Australia,0.7285711613601332,0,1,en,CAU,Oceania
+'a6c0ce7e4a',extremes,Flood,#030ba1,wmo,Flashflood New South Wales Richmond River,2026-02-14T04:21:00+00:00,Australia,0.7285309709141539,0,1,en,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-02-05T04:28:00+00:00,Australia,0.7276246944451159,1,1,en,NAU,Oceania
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-02-06T04:28:00+00:00,Australia,0.7274431163234651,1,3,en,EAU,Oceania
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-01-15T10:56:00+00:00,Canada,0.7249560723141301,1,2,en,NEN,North-America
