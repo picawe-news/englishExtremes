@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7669932544713614,1,3,en,NEU,Europe
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7642791224865733,1,3,en,SAS,Asia
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-01-15T10:56:00+00:00,United States,0.7639648001213578,1,3,en,CNA,North-America
-'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.761251170467978,0,1,en,NZ,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-01-15T10:56:00+00:00,Canada,0.7610382781554963,1,3,en,NEN,North-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7585474437690954,1,3,en,CNA,North-America
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
@@ -134,9 +133,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-01-15T10:56:00+00:00,Canada,0.6883248782746255,1,2,en,NEN,North-America
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-01-22T03:59:00+00:00,India,0.6879870100684411,1,2,en,SAS,Asia
 '8c46315dbe',extremes,Earthquake,#870007,aidr,earthquake Australia,2026-01-15T10:57:00+00:00,Australia,0.6876976222933846,1,2,en,EAU,Oceania
-'970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-01-15T10:56:00+00:00,Canada,0.6857993911483189,2,2,en,NEN,North-America
-'a492c1f826',extremes,Storm,#b3b2b1,wmo,Storm Lake Okeechobee,2026-01-15T12:14:00+00:00,United States,0.6857966715785669,2,2,en,CNA,North-America
-'08d82d11e8',extremes,Storm,#b3b2b1,wmo,Storm Western Arctic Coast,2026-01-15T12:14:00+00:00,United States,0.6840032207436592,2,2,en,CNA,North-America
 '0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,precipitation South Australia,2026-01-28T03:57:00+00:00,Australia,0.683877336981835,1,1,en,SAU,Oceania
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-01-15T10:56:00+00:00,United States,0.6837137718732781,1,2,en,CNA,North-America
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-01-15T10:56:00+00:00,Australia,0.6825074941014392,1,2,en,CAU,Oceania
@@ -155,6 +151,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-01-29T04:19:00+00:00,Solomon Islands,0.6694798910529024,2,1,en,EPO,Oceania
 '93110c7113',extremes,Flood,#030ba1,wmo,Flooding Queensland Upper Brisbane River,2026-02-11T04:41:00+00:00,Australia,0.669178992436332,1,1,en,CAU,Oceania
 '84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave 4 districts of Haryana,2026-01-22T03:59:00+00:00,India,0.6678056835480664,1,1,en,SAS,Asia
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.6670136148977812,1,1,en,NZ,Oceania
 '9af928bf63',extremes,Flood,#030ba1,wmo,Flooding Queensland Condamine Rivers,2026-02-14T04:21:00+00:00,Australia,0.666988962419672,2,2,en,CAU,Oceania
 '728cd885c7',extremes,Precipitation,#d60d2b,wmo,Downpour ALL Provinces,2026-01-26T04:09:00+00:00,Solomon Islands,0.6669031571514583,2,1,en,EPO,Oceania
 '4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2026-02-18T04:34:00+00:00,India,0.6668729631489567,1,2,en,SAS,Asia
@@ -167,7 +164,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84a977d87f',extremes,Wildfire,#d60d2b,wmo,Wildfire Harvey,2026-02-16T04:38:00+00:00,United States,0.6643406864209062,1,1,en,CNA,North-America
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,warm spell Victoria,2026-01-30T04:22:00+00:00,Australia,0.6643124059600615,1,1,en,SAU,Oceania
 'e31238aff2',extremes,Flood,#030ba1,wmo,Flood South West England | Wales,2026-01-24T03:48:00+00:00,United Kingdom,0.6641820918517342,2,1,en,NEU,Europe
-'b5bfafc451',extremes,Drought,#edc291,edo,Lack of Rain United States Minor Outlying Islands,2026-01-15T10:57:00+00:00,United States Minor Outlying Islands,0.6641588881084023,2,2,en,WAF,Africa
 '0304d14d37',extremes,Snow&Ice,#d60d2b,wmo,Frost Green Bay White Bay,2026-02-12T04:37:00+00:00,Canada,0.6641439479182817,2,1,en,NEN,North-America
 'cda017c360',extremes,Flood,#030ba1,wmo,Flooding Queensland Cloncurry River,2026-02-17T04:31:00+00:00,Australia,0.6633124028817734,2,1,en,CAU,Oceania
 'e624cb7c4a',extremes,Flood,#030ba1,wmo,Flood Queensland Cloncurry River,2026-02-19T04:32:00+00:00,Australia,0.6632221852223109,1,1,en,CAU,Oceania
