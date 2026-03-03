@@ -21,10 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
-'513f70ccb2',extremes,Precipitation,#d60d2b,wmo,Precipitation Chatham Islands,2026-03-02T04:27:00+00:00,New Zealand,0.7406821001148739,0,1,en,NZ,Oceania
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
-'8fbc3ccce0',extremes,Fog,#d60d2b,wmo,Fog Charleston Harbor,2026-03-02T04:27:00+00:00,United States,0.7376923564908648,0,1,en,CNA,North-America
-'e73c1c8775',extremes,Flood,#030ba1,wmo,Flood Queensland Logan and Albert Rivers,2026-02-14T04:21:00+00:00,Australia,0.73530208824678,0,1,en,CAU,Oceania
 'b523f38879',extremes,Flood,#030ba1,wmo,Flashflood Kankakee IL,2026-01-28T03:56:00+00:00,United States,0.7352718200423762,0,1,en,CNA,North-America
 '979bc48c4a',extremes,Flood,#030ba1,wmo,Flooding Victoria Macalister River,2026-02-24T04:31:00+00:00,Australia,0.735075853111207,0,1,en,CAU,Oceania
 'e9a192ad67',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Mono,2026-02-18T04:34:00+00:00,United States,0.7349534928360463,0,1,en,CNA,North-America
@@ -327,6 +324,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '433c40e193',extremes,Flood,#030ba1,aidr,Flood Warmun Kimberley 2011,2026-02-13T04:34:00+00:00,Australia,0.6298944728498874,1,1,en,NAU,Oceania
 'e5fdf93e91',extremes,Flood,#030ba1,wmo,Flashflood Queensland Normanby River,2026-01-26T04:09:00+00:00,Australia,0.6298414156553969,1,1,en,CAU,Oceania
 '65d5dc7549',extremes,Flood,#030ba1,wmo,Flood Victoria Mitchell River,2026-02-23T04:37:00+00:00,Australia,0.6295830212757543,1,1,en,CAU,Oceania
+'513f70ccb2',extremes,Precipitation,#d60d2b,wmo,Precipitation Chatham Islands,2026-03-02T04:27:00+00:00,New Zealand,0.6295797850976428,1,1,en,NZ,Oceania
 '75239cb2ef',extremes,Flood,#030ba1,wmo,Flooding Maryland Beaches Accomack,2026-02-23T04:37:00+00:00,United States,0.6295657874648742,1,1,en,CNA,North-America
 '989e730f78',extremes,Flood,#030ba1,wmo,Flood Queensland Barron River,2026-01-27T03:58:00+00:00,Australia,0.6295521363446515,1,1,en,CAU,Oceania
 'b9e7537e34',extremes,Snow&Ice,#d60d2b,wmo,Ice Dempster,2026-02-23T04:37:00+00:00,Canada,0.6293811143267775,1,1,en,NEN,North-America
@@ -356,6 +354,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a552e32ef3',extremes,Flood,#030ba1,wmo,Flashflood Queensland Herbert River,2026-01-26T04:09:00+00:00,Australia,0.6274405602425975,1,1,en,CAU,Oceania
 '2b04991ed1',extremes,Flood,#030ba1,wmo,Flooding Victoria Latrobe River,2026-02-26T04:29:00+00:00,Australia,0.6271299519367135,1,1,en,CAU,Oceania
 '98ef8fca7b',extremes,Flood,#030ba1,wmo,Flashflood Humboldt CA,2026-02-25T04:32:00+00:00,United States,0.6270783904817677,1,1,en,CNA,North-America
+'8fbc3ccce0',extremes,Fog,#d60d2b,wmo,Fog Charleston Harbor,2026-03-02T04:27:00+00:00,United States,0.6270385030172351,1,1,en,CNA,North-America
 'c6a1f9591b',extremes,Flood,#030ba1,wmo,Flood Queensland Murray River,2026-02-15T04:35:00+00:00,Australia,0.62702681806472,1,1,en,CAU,Oceania
 '8e36a69bd3',extremes,Storm,#b3b2b1,wmo,Storm Surge Paulatuk,2026-02-22T04:30:00+00:00,Canada,0.6268360048722339,1,1,en,NEN,North-America
 'bf7234cce2',extremes,Flood,#030ba1,wmo,Flashflood South Australia Lake Eyre,2026-02-21T04:18:00+00:00,Australia,0.6268057121398308,1,1,en,CAU,Oceania
@@ -370,6 +369,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '853a5500ab',extremes,Snow&Ice,#d60d2b,wmo,Freezing Dempster,2026-01-26T04:09:00+00:00,Canada,0.6258084126210223,1,1,en,NEN,North-America
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,2019 Cyclone WA Severe tropical cyclone Veronica,2026-02-23T04:37:00+00:00,Australia,0.6257304344622677,1,1,en,CAU,Oceania
 '361d356ada',extremes,Flood,#030ba1,wmo,Flashflood San Diego County Coastal Areas,2026-02-03T04:27:00+00:00,United States,0.6256381153197411,1,1,en,CNA,North-America
+'e73c1c8775',extremes,Flood,#030ba1,wmo,Flood Queensland Logan and Albert Rivers,2026-02-14T04:21:00+00:00,Australia,0.625456820009763,1,1,en,CAU,Oceania
 'aac1e6661e',extremes,Flood,#030ba1,wmo,Flashflood Pamlico Southern Craven,2026-01-31T04:16:00+00:00,United States,0.6254041527013927,1,1,en,CNA,North-America
 'fc60bdce5b',extremes,Flood,#030ba1,wmo,Flashflood Butler NE Platte NE,2026-01-24T03:48:00+00:00,United States,0.6252765958077533,1,1,en,CNA,North-America
 '8ebd5341cd',extremes,Fog,#d60d2b,wmo,Fog Matagorda Bay,2026-02-20T04:27:00+00:00,United States,0.6252711943722671,1,1,en,CNA,North-America
