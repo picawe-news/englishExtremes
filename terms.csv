@@ -5,6 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-01-18T03:57:00+00:00,New Zealand,0.7851163111082753,1,2,en,NZ,Oceania
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Chamoli district of Uttarakhand,2026-01-25T04:06:00+00:00,India,0.7819045852871087,1,2,en,SAS,Asia
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7792940460943101,1,3,en,CAU,Oceania
+'aab01fa648',extremes,Flood,#030ba1,wmo,Flood Western Australia Fitzroy River,2026-01-24T03:48:00+00:00,Australia,0.7747491883746325,1,2,en,CAU,Oceania
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Australia,2026-01-24T03:48:00+00:00,Australia,0.7744911233265848,1,3,en,CAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-01-15T10:56:00+00:00,United States,0.7728832530248946,1,3,en,CNA,North-America
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-01-27T03:58:00+00:00,India,0.7722062933749227,1,2,en,SAS,Asia
@@ -22,8 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
-'60846b2cbd',extremes,Flood,#030ba1,wmo,Flooding Queensland Comet and Nogoa Rivers,2026-02-14T04:21:00+00:00,Australia,0.7348313672174551,0,1,en,CAU,Oceania
-'aab01fa648',extremes,Flood,#030ba1,wmo,Flood Western Australia Fitzroy River,2026-01-24T03:48:00+00:00,Australia,0.7348225569113324,0,1,en,CAU,Oceania
 '783ed5f461',extremes,Flood,#030ba1,wmo,Flashflood Garden NE,2026-01-26T04:09:00+00:00,United States,0.7347956871550116,0,1,en,CNA,North-America
 '34a5844354',extremes,Flood,#030ba1,wmo,Flooding Northern Territory Tanami Desert,2026-02-26T04:29:00+00:00,Australia,0.734690398103256,0,1,en,CAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7346344852411275,1,3,en,CAU,Oceania
@@ -379,5 +378,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9105c96ce',extremes,Flood,#030ba1,wmo,Flood Queensland Bulloo River QLD,2026-02-14T04:21:00+00:00,Australia,0.6250655303537797,1,1,en,CAU,Oceania
 'b523f38879',extremes,Flood,#030ba1,wmo,Flashflood Kankakee IL,2026-01-28T03:56:00+00:00,United States,0.6249810470360198,1,1,en,CNA,North-America
 '979bc48c4a',extremes,Flood,#030ba1,wmo,Flooding Victoria Macalister River,2026-02-24T04:31:00+00:00,Australia,0.6248144751445259,1,1,en,CAU,Oceania
+'60846b2cbd',extremes,Flood,#030ba1,wmo,Flooding Queensland Comet and Nogoa Rivers,2026-02-14T04:21:00+00:00,Australia,0.6246066621348368,1,1,en,CAU,Oceania
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmospheric river,2026-01-15T10:20:00+00:00,,0.3503173957904605,1,3,en,,
-'b6cef22543',extremes,Drought,#edc291,random,water restriction,2026-01-15T10:20:00+00:00,,0.3140561925682326,1,3,en,,
