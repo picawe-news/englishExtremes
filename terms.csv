@@ -9,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-01-15T10:56:00+00:00,United States,0.7728832530248946,1,3,en,CNA,North-America
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-01-27T03:58:00+00:00,India,0.7722062933749227,1,2,en,SAS,Asia
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-02-08T04:43:00+00:00,Canada,0.7689399370939854,2,3,en,NEN,North-America
+'0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-02-22T04:31:00+00:00,Kenya,0.7673393224656594,0,1,en,SEAF,Africa
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-01-15T10:56:00+00:00,Australia,0.7671943670461134,1,3,en,CAU,Oceania
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7669932544713614,1,3,en,NEU,Europe
 '0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,Freezing India,2026-01-15T10:56:00+00:00,India,0.7642791224865733,1,3,en,SAS,Asia
@@ -21,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.7480050213453181,1,2,en,SEA,Asia
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-01-15T10:56:00+00:00,Fiji,0.7479717509838929,1,2,en,SPO,Pacific Ocean
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
+'11064c7a71',extremes,Drought,#edc291,edo,Drought Falkland Islands,2026-03-04T04:21:00+00:00,Falkland Islands,0.7407397945157914,0,1,en,SSA,South-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7346344852411275,1,3,en,CAU,Oceania
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-02-07T04:19:00+00:00,Canada,0.7341042002597431,1,3,en,NEN,North-America
@@ -36,11 +38,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da307952db',extremes,Precipitation,#d60d2b,wmo,Downpour Ireland,2026-01-26T04:09:00+00:00,Ireland,0.7329092217897953,0,1,en,NEU,Europe
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2026-01-27T03:58:00+00:00,India,0.7328390729190595,0,1,en,SAS,Asia
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-01-30T04:21:00+00:00,Canada,0.7328151485361077,0,1,en,NEN,North-America
+'3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-02-26T04:29:00+00:00,Australia,0.7327333458776513,0,1,en,EAU,Oceania
 '16e34e9bde',extremes,Flood,#030ba1,wmo,Flooding New South Wales Cooper Creek,2026-02-25T04:32:00+00:00,Australia,0.7326298736372961,0,1,en,CAU,Oceania
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-02-05T04:27:00+00:00,United States,0.7326154572165766,0,1,en,CNA,North-America
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-02-14T04:21:00+00:00,United States,0.7325607672833313,0,1,en,CNA,North-America
 'f4588f7cf3',extremes,Flood,#030ba1,wmo,Flooding South Australia River Murray in SA,2026-02-27T04:26:00+00:00,Australia,0.7325547056821391,0,1,en,CAU,Oceania
 'c73c1c860f',extremes,Flood,#030ba1,wmo,Flood Queensland Burnett River,2026-02-13T04:34:00+00:00,Australia,0.7325342934532115,0,1,en,CAU,Oceania
+'0d8bab83be',extremes,Drought,#edc291,edo,Lack of Rain Fiji,2026-02-15T04:35:00+00:00,Fiji,0.7323567390178684,0,1,en,,
+'c480c9ec9f',extremes,Drought,#edc291,edo,Drought Saint Helena,2026-02-25T04:33:00+00:00,Saint Helena,0.7323289150042431,0,1,en,SAO,Atlantic Ocean
 '06daa69aff',extremes,Flood,#030ba1,wmo,Flooding South Australia Yorke Peninsula,2026-02-28T04:07:00+00:00,Australia,0.7322151926713697,0,1,en,CAU,Oceania
 '214d14f10d',extremes,Flood,#030ba1,wmo,Flashflood Western Australia Onslow Coast,2026-02-06T04:27:00+00:00,Australia,0.7321147264423393,0,1,en,CAU,Oceania
 'ea6bb31003',extremes,Storm,#b3b2b1,wmo,Storm Surge Inverness County Mabou and north,2026-02-23T04:37:00+00:00,Canada,0.7320540690376203,0,1,en,NEN,North-America
@@ -65,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da213c6a76',extremes,Flood,#030ba1,wmo,Flashflood Ocean Coastal Ocean,2026-02-01T04:41:00+00:00,United States,0.7303786941747153,0,1,en,CNA,North-America
 '6024419758',extremes,Storm,#b3b2b1,wmo,Storm Ashe Alleghany Watauga,2026-01-30T04:21:00+00:00,United States,0.7302919145999079,0,1,en,CNA,North-America
 'b206ff93f8',extremes,Flood,#030ba1,wmo,Flooding Victoria Loddon River,2026-03-01T04:35:00+00:00,Australia,0.7298586288059914,0,1,en,CAU,Oceania
+'505d2ce2be',extremes,Flood,#030ba1,wmo,Flashflood Warren OH,2026-03-04T04:20:00+00:00,United States,0.7297903020078418,0,1,en,CNA,North-America
 '41258e761d',extremes,Flood,#030ba1,wmo,Flood Queensland Staaten River,2026-02-23T04:37:00+00:00,Australia,0.7297882498699584,0,1,en,CAU,Oceania
 '2f833fc6f3',extremes,Flood,#030ba1,wmo,Flashflood Victoria Thomson River,2026-02-24T04:31:00+00:00,Australia,0.7296877439660275,0,1,en,CAU,Oceania
 'c2abcc3b44',extremes,Flood,#030ba1,wmo,Flashflood Queensland Leichhardt River,2026-02-20T04:27:00+00:00,Australia,0.7296279799024478,0,1,en,CAU,Oceania
