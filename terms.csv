@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Chamoli district of Uttarakhand,2026-01-25T04:06:00+00:00,India,0.7819045852871087,1,2,en,SAS,Asia
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7792940460943101,1,3,en,CAU,Oceania
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Australia,2026-01-24T03:48:00+00:00,Australia,0.7744911233265848,1,3,en,CAU,Oceania
-'491643818a',extremes,Flood,#030ba1,wmo,Flooding Queensland Herbert River,2026-01-26T04:09:00+00:00,Australia,0.7737113262046613,1,2,en,CAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-01-15T10:56:00+00:00,United States,0.7728832530248946,1,3,en,CNA,North-America
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-01-27T03:58:00+00:00,India,0.7722062933749227,1,2,en,SAS,Asia
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-02-08T04:43:00+00:00,Canada,0.7689399370939854,2,3,en,NEN,North-America
@@ -27,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-02-26T04:29:00+00:00,Canada,0.7400257125121428,0,1,en,NEN,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7346344852411275,1,3,en,CAU,Oceania
-'76df89631f',extremes,Drought,#edc291,edo,Dry Spell Kiribati,2026-02-11T04:42:00+00:00,Kiribati,0.7333505634415046,0,1,en,EAO,Atlantic Ocean
 '0e61953e38',extremes,Flood,#030ba1,wmo,Flood Victoria Maribyrnong River,2026-02-23T04:37:00+00:00,Australia,0.7332471544344341,0,1,en,CAU,Oceania
 'e3f478e59c',extremes,Flood,#030ba1,wmo,Flashflood Victoria Ovens and King Rivers,2026-02-23T04:37:00+00:00,Australia,0.7330615859865808,0,1,en,CAU,Oceania
 '528eb18ef2',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Bear River Range,2026-02-18T04:34:00+00:00,United States,0.7330570476520805,0,1,en,CNA,North-America
@@ -149,7 +147,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91c96e0c29',extremes,Snow&Ice,#d60d2b,wmo,Ice Graham,2026-01-15T10:56:00+00:00,United States,0.6757788324296173,1,2,en,CNA,North-America
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-01-29T04:19:00+00:00,Solomon Islands,0.6694798910529024,2,1,en,EPO,Oceania
 '93110c7113',extremes,Flood,#030ba1,wmo,Flooding Queensland Upper Brisbane River,2026-02-11T04:41:00+00:00,Australia,0.669178992436332,1,1,en,CAU,Oceania
-'84f30e1888',extremes,Cold Wave,#a7e9fa,wmo,Cold Wave 4 districts of Haryana,2026-01-22T03:59:00+00:00,India,0.6678056835480664,1,1,en,SAS,Asia
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.6670136148977812,1,1,en,NZ,Oceania
 '9af928bf63',extremes,Flood,#030ba1,wmo,Flooding Queensland Condamine Rivers,2026-02-14T04:21:00+00:00,Australia,0.666988962419672,2,2,en,CAU,Oceania
 '728cd885c7',extremes,Precipitation,#d60d2b,wmo,Downpour ALL Provinces,2026-01-26T04:09:00+00:00,Solomon Islands,0.6669031571514583,2,1,en,EPO,Oceania
@@ -161,7 +158,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,Flood Severe Flooding from ex Tropical Cyclone Tiffany South Australia 2022,2026-02-08T04:44:00+00:00,Australia,0.6655609363805467,1,1,en,SAU,Oceania
 '84a977d87f',extremes,Wildfire,#d60d2b,wmo,Wildfire Harvey,2026-02-16T04:38:00+00:00,United States,0.6643406864209062,1,1,en,CNA,North-America
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,warm spell Victoria,2026-01-30T04:22:00+00:00,Australia,0.6643124059600615,1,1,en,SAU,Oceania
-'e31238aff2',extremes,Flood,#030ba1,wmo,Flood South West England | Wales,2026-01-24T03:48:00+00:00,United Kingdom,0.6641820918517342,2,1,en,NEU,Europe
 '0304d14d37',extremes,Snow&Ice,#d60d2b,wmo,Frost Green Bay White Bay,2026-02-12T04:37:00+00:00,Canada,0.6641439479182817,2,1,en,NEN,North-America
 'cda017c360',extremes,Flood,#030ba1,wmo,Flooding Queensland Cloncurry River,2026-02-17T04:31:00+00:00,Australia,0.6633124028817734,2,1,en,CAU,Oceania
 'e624cb7c4a',extremes,Flood,#030ba1,wmo,Flood Queensland Cloncurry River,2026-02-19T04:32:00+00:00,Australia,0.6632221852223109,1,1,en,CAU,Oceania
@@ -176,7 +172,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,Fog India,2026-02-05T04:27:00+00:00,India,0.6590100363276729,1,2,en,SAS,Asia
 '93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,typhoon Australia,2026-02-05T04:28:00+00:00,Australia,0.6587294929724554,1,1,en,CAU,Oceania
 '38a585ebf8',extremes,Flood,#030ba1,wmo,Flood Queensland Diamantina River,2026-02-15T04:35:00+00:00,Australia,0.6587020918741632,1,1,en,CAU,Oceania
-'aab01fa648',extremes,Flood,#030ba1,wmo,Flood Western Australia Fitzroy River,2026-01-24T03:48:00+00:00,Australia,0.6585368251184376,2,1,en,CAU,Oceania
+'491643818a',extremes,Flood,#030ba1,wmo,Flooding Queensland Herbert River,2026-01-26T04:09:00+00:00,Australia,0.6579546572739621,2,2,en,CAU,Oceania
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-02-02T04:37:00+00:00,Australia,0.6573354485376904,1,1,en,EAU,Oceania
 '521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Oswald Queensland New South Wales 2013,2026-02-05T04:28:00+00:00,Australia,0.6570235576913078,1,1,en,NAU,Oceania
 'aef4c7cec9',extremes,Earthquake,#870007,aidr,Earthquake Christchurch New Zealand 2011,2026-01-29T04:19:00+00:00,New Zealand,0.6567676153649963,1,1,en,NZ,Oceania
@@ -389,3 +385,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d3a40b90b',extremes,Flood,#030ba1,wmo,Flashflood South Australia Warburton River,2026-02-20T04:27:00+00:00,Australia,0.6237008357255155,1,1,en,CAU,Oceania
 '2ddd04af85',extremes,Earthquake,#870007,usgs,Earthquake Labasa,2026-02-19T04:31:00+00:00,Fiji,0.6236958928411223,1,1,en,SPO,Pacific Ocean
 'd0ac8d546a',extremes,Flood,#030ba1,wmo,Flooding Western Australia Fortescue River,2026-02-07T04:19:00+00:00,Australia,0.6234183018101169,1,1,en,CAU,Oceania
+'76df89631f',extremes,Drought,#edc291,edo,Dry Spell Kiribati,2026-02-11T04:42:00+00:00,Kiribati,0.6233479789252789,1,1,en,EAO,Atlantic Ocean
