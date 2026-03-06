@@ -38,7 +38,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2026-01-27T03:58:00+00:00,India,0.7328390729190595,0,1,en,SAS,Asia
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-01-30T04:21:00+00:00,Canada,0.7328151485361077,0,1,en,NEN,North-America
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-02-26T04:29:00+00:00,Australia,0.7327333458776513,0,1,en,EAU,Oceania
-'d57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-02-14T04:21:00+00:00,United States,0.7325607672833313,0,1,en,CNA,North-America
 'f4588f7cf3',extremes,Flood,#030ba1,wmo,Flooding South Australia River Murray in SA,2026-02-27T04:26:00+00:00,Australia,0.7325547056821391,0,1,en,CAU,Oceania
 'c73c1c860f',extremes,Flood,#030ba1,wmo,Flood Queensland Burnett River,2026-02-13T04:34:00+00:00,Australia,0.7325342934532115,0,1,en,CAU,Oceania
 '0d8bab83be',extremes,Drought,#edc291,edo,Lack of Rain Fiji,2026-02-15T04:35:00+00:00,Fiji,0.7323567390178684,0,1,en,,
@@ -364,6 +363,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'efe08ab82a',extremes,Flood,#030ba1,wmo,Flood Queensland Mitchell River,2026-02-23T04:37:00+00:00,Australia,0.623733313313108,1,1,en,CAU,Oceania
 '1d3a40b90b',extremes,Flood,#030ba1,wmo,Flashflood South Australia Warburton River,2026-02-20T04:27:00+00:00,Australia,0.6237008357255155,1,1,en,CAU,Oceania
 '2ddd04af85',extremes,Earthquake,#870007,usgs,Earthquake Labasa,2026-02-19T04:31:00+00:00,Fiji,0.6236958928411223,1,1,en,SPO,Pacific Ocean
+'d57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-02-14T04:21:00+00:00,United States,0.6234267421908316,1,1,en,CNA,North-America
 'd0ac8d546a',extremes,Flood,#030ba1,wmo,Flooding Western Australia Fortescue River,2026-02-07T04:19:00+00:00,Australia,0.6234183018101169,1,1,en,CAU,Oceania
 '76df89631f',extremes,Drought,#edc291,edo,Dry Spell Kiribati,2026-02-11T04:42:00+00:00,Kiribati,0.6233479789252789,1,1,en,EAO,Atlantic Ocean
 'e3f478e59c',extremes,Flood,#030ba1,wmo,Flashflood Victoria Ovens and King Rivers,2026-02-23T04:37:00+00:00,Australia,0.6231023480885937,1,1,en,CAU,Oceania
