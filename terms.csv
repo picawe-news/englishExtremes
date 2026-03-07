@@ -102,6 +102,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c9ae36ff90',extremes,Flood,#030ba1,wmo,Flashflood Shelby IN,2026-03-06T04:21:00+00:00,United States,0.7266268489261017,0,1,en,CNA,North-America
 '1fca18bce1',extremes,Flood,#030ba1,wmo,Flashflood Queensland Tully River,2026-02-17T04:31:00+00:00,Australia,0.7266205546362285,0,1,en,CAU,Oceania
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,Hail New Zealand,2026-02-14T04:21:00+00:00,New Zealand,0.7265661024599138,0,1,en,NZ,Oceania
+'197bb68e5e',extremes,Flood,#030ba1,wmo,Flood Greene IN Monroe IN Owen IN,2026-03-05T04:24:00+00:00,United States,0.7264783783533882,0,1,en,CNA,North-America
+'ddff2574c5',extremes,Flood,#030ba1,wmo,Flood South Australia Cooper Creek,2026-02-20T04:27:00+00:00,Australia,0.7263594745136318,0,1,en,CAU,Oceania
+'02b5f487e8',extremes,Flood,#030ba1,wmo,Flood South Australia Broughton River,2026-02-26T04:29:00+00:00,Australia,0.7263018476391486,0,1,en,CAU,Oceania
+'79a1faa595',extremes,Flood,#030ba1,wmo,Flooding Queensland Balonne River,2026-02-15T04:35:00+00:00,Australia,0.7262237375495064,0,1,en,CAU,Oceania
+'8ebe51e7cc',extremes,Flood,#030ba1,wmo,Flooding Queensland Haughton River,2026-02-18T04:34:00+00:00,Australia,0.7260896914319314,0,1,en,CAU,Oceania
+'832d27f3a8',extremes,Flood,#030ba1,wmo,Flooding South Australia Lake Frome,2026-02-27T04:26:00+00:00,Australia,0.726052502674108,0,1,en,CAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,North American Winter Storm New York,2026-01-31T04:17:00+00:00,United States,0.7242441704094061,1,2,en,ENA,North-America
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,warm spell South Australia,2026-01-28T03:57:00+00:00,Australia,0.7215358994353178,1,2,en,SAU,Oceania
 '0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-02-22T04:31:00+00:00,Kenya,0.719600397557349,1,2,en,SEAF,Africa
