@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd17278cca0',extremes,Fog,#d60d2b,wmo,Fog York Lancaster,2026-02-18T04:34:00+00:00,United States,0.8088869475176819,2,2,en,CNA,North-America
 '0e61953e38',extremes,Flood,#030ba1,wmo,Flood Victoria Maribyrnong River,2026-02-23T04:37:00+00:00,Australia,0.8075485968288787,2,2,en,CAU,Oceania
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
-'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2026-03-08T04:25:00+00:00,Australia,0.7895930297147469,0,1,en,EAU,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-01-18T03:57:00+00:00,New Zealand,0.7851163111082753,1,2,en,NZ,Oceania
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Chamoli district of Uttarakhand,2026-01-25T04:06:00+00:00,India,0.7819045852871087,1,2,en,SAS,Asia
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7792940460943101,1,3,en,CAU,Oceania
@@ -140,6 +139,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,precipitation South Australia,2026-01-28T03:57:00+00:00,Australia,0.683877336981835,1,1,en,SAU,Oceania
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-01-26T04:09:00+00:00,United Kingdom,0.6785475227439411,2,3,en,NEU,Europe
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-02-05T04:28:00+00:00,Kenya,0.6772614054823953,2,1,en,SEAF,Africa
+'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2026-03-08T04:25:00+00:00,Australia,0.6725042102575348,1,1,en,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,warm spell Tasmania,2026-03-05T04:24:00+00:00,Australia,0.6716061114629979,1,1,en,SAU,Oceania
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-03-05T04:24:00+00:00,Australia,0.6708694711115503,1,1,en,SAU,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-01-29T04:19:00+00:00,Solomon Islands,0.6694798910529024,2,1,en,EPO,Oceania
