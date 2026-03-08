@@ -57,6 +57,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a95c685c3e',extremes,Wildfire,#d60d2b,acwe,wildfire New South Wales,2026-01-31T04:17:00+00:00,Australia,0.7313166836181131,0,1,en,EAU,Oceania
 '97800b2ead',extremes,Flood,#030ba1,wmo,Flashflood Crawford MO Washington MO,2026-03-06T04:21:00+00:00,United States,0.7309574314167162,0,1,en,CNA,North-America
 '0e4ed1cbf8',extremes,Snow&Ice,#d60d2b,wmo,Ice Cambridge Bay,2026-02-28T04:07:00+00:00,Canada,0.7308197358150862,0,1,en,NEN,North-America
+'be41680ba8',extremes,Flood,#030ba1,wmo,Flood Crawford MO Washington MO,2026-03-07T04:12:00+00:00,United States,0.7308030784625227,0,1,en,CNA,North-America
+'4af4769765',extremes,Flood,#030ba1,wmo,Flood Jefferson MO,2026-03-07T04:12:00+00:00,United States,0.7307868479390252,0,1,en,CNA,North-America
+'9cad491c39',extremes,Flood,#030ba1,wmo,Flooding Queensland Mitchell River,2026-02-18T04:34:00+00:00,Australia,0.7305465350781187,0,1,en,CAU,Oceania
 '028b7b4940',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Peninsula East,2026-02-25T04:32:00+00:00,Canada,0.7305198329681256,0,1,en,NEN,North-America
 '160f0acdd5',extremes,Flood,#030ba1,wmo,Flooding Queensland Noosa River,2026-02-15T04:35:00+00:00,Australia,0.7303828935573187,0,1,en,CAU,Oceania
 'da213c6a76',extremes,Flood,#030ba1,wmo,Flashflood Ocean Coastal Ocean,2026-02-01T04:41:00+00:00,United States,0.7303786941747153,0,1,en,CNA,North-America
@@ -101,13 +104,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '36903faa57',extremes,Flood,#030ba1,wmo,Flashflood Northern Territory Barkly,2026-02-19T04:32:00+00:00,Australia,0.7266442700590889,0,1,en,CAU,Oceania
 'c9ae36ff90',extremes,Flood,#030ba1,wmo,Flashflood Shelby IN,2026-03-06T04:21:00+00:00,United States,0.7266268489261017,0,1,en,CNA,North-America
 '1fca18bce1',extremes,Flood,#030ba1,wmo,Flashflood Queensland Tully River,2026-02-17T04:31:00+00:00,Australia,0.7266205546362285,0,1,en,CAU,Oceania
+'1923c16449',extremes,Flood,#030ba1,wmo,Flashflood Greene IN Monroe IN Owen IN,2026-03-07T04:12:00+00:00,United States,0.7266131365856495,0,1,en,CNA,North-America
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,Hail New Zealand,2026-02-14T04:21:00+00:00,New Zealand,0.7265661024599138,0,1,en,NZ,Oceania
 '197bb68e5e',extremes,Flood,#030ba1,wmo,Flood Greene IN Monroe IN Owen IN,2026-03-05T04:24:00+00:00,United States,0.7264783783533882,0,1,en,CNA,North-America
+'0a870c3511',extremes,Flood,#030ba1,wmo,Flooding Lawrence IN Martin IN,2026-03-07T04:12:00+00:00,United States,0.7263754959627169,0,1,en,CNA,North-America
 'ddff2574c5',extremes,Flood,#030ba1,wmo,Flood South Australia Cooper Creek,2026-02-20T04:27:00+00:00,Australia,0.7263594745136318,0,1,en,CAU,Oceania
 '02b5f487e8',extremes,Flood,#030ba1,wmo,Flood South Australia Broughton River,2026-02-26T04:29:00+00:00,Australia,0.7263018476391486,0,1,en,CAU,Oceania
 '79a1faa595',extremes,Flood,#030ba1,wmo,Flooding Queensland Balonne River,2026-02-15T04:35:00+00:00,Australia,0.7262237375495064,0,1,en,CAU,Oceania
 '8ebe51e7cc',extremes,Flood,#030ba1,wmo,Flooding Queensland Haughton River,2026-02-18T04:34:00+00:00,Australia,0.7260896914319314,0,1,en,CAU,Oceania
 '832d27f3a8',extremes,Flood,#030ba1,wmo,Flooding South Australia Lake Frome,2026-02-27T04:26:00+00:00,Australia,0.726052502674108,0,1,en,CAU,Oceania
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-03-01T04:35:00+00:00,Canada,0.7258734579087479,0,1,en,NEN,North-America
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,North American Winter Storm New York,2026-01-31T04:17:00+00:00,United States,0.7242441704094061,1,2,en,ENA,North-America
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,warm spell South Australia,2026-01-28T03:57:00+00:00,Australia,0.7215358994353178,1,2,en,SAU,Oceania
 '0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-02-22T04:31:00+00:00,Kenya,0.719600397557349,1,2,en,SEAF,Africa
