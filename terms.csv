@@ -23,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-02-26T04:29:00+00:00,United States,0.749626848913432,0,1,en,CNA,North-America
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-02-25T04:32:00+00:00,Australia,0.7469519262637865,0,1,en,CAU,Oceania
-'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,Heat Wave India,2026-03-08T04:24:00+00:00,India,0.7460832855382683,0,1,en,SAS,Asia
 '6b1942f1fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Eswatini,2026-03-08T04:24:00+00:00,Eswatini,0.7437444017757995,0,1,en,ESAF,Africa
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-03-08T04:24:00+00:00,United States,0.7432129757013503,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
@@ -190,6 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,Frost Sydney Metro and Cape Breton County,2026-02-16T04:38:00+00:00,Canada,0.6449246111565999,1,1,en,NEN,North-America
 'a860f19615',extremes,Snow&Ice,#d60d2b,wmo,Ice United Kingdom,2026-02-13T04:34:00+00:00,United Kingdom,0.6441941936868664,1,2,en,NEU,Europe
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-03-01T04:35:00+00:00,New Zealand,0.6440974294408115,1,2,en,NZ,Oceania
+'60cdf9fb44',extremes,Heat Wave,#c40202,wmo,Heat Wave India,2026-03-08T04:24:00+00:00,India,0.6436588027075281,1,2,en,SAS,Asia
 '6539cd4b6f',extremes,Precipitation,#d60d2b,wmo,Downpour Dunedin east of Pukerangi,2026-02-17T04:31:00+00:00,New Zealand,0.6432741416427156,1,1,en,NZ,Oceania
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,Rain Seychelles,2026-02-16T04:38:00+00:00,Seychelles,0.643132447039014,1,1,en,EIO,Africa
 '9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Seychelles,2026-03-07T04:12:00+00:00,Seychelles,0.6421694924912766,1,1,en,EIO,Africa
