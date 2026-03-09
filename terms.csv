@@ -111,6 +111,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-03-01T04:35:00+00:00,Canada,0.7258734579087479,0,1,en,NEN,North-America
 'ab09cf7c41',extremes,Flood,#030ba1,wmo,Flood Johnson IN,2026-03-06T04:21:00+00:00,United States,0.7254871057842028,0,1,en,CNA,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-02-25T04:32:00+00:00,Papua New Guinea,0.7253639762507709,0,1,en,EPO,Oceania
+'301f849155',extremes,Flood,#030ba1,wmo,Flooding Victoria Seven and Castle Creeks,2026-02-25T04:32:00+00:00,Australia,0.7253450868537903,0,1,en,CAU,Oceania
+'068cadc42f',extremes,Snow&Ice,#d60d2b,wmo,Frost Northern Lynn Canal,2026-02-17T04:31:00+00:00,United States,0.7251833204680586,0,1,en,CNA,North-America
+'6b15d60a15',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Western Uinta Mountains,2026-02-24T04:31:00+00:00,United States,0.7250928481626797,0,1,en,CNA,North-America
+'bd0d4df56c',extremes,Flood,#030ba1,wmo,Flooding Queensland Gilbert River,2026-02-23T04:37:00+00:00,Australia,0.725042294484749,0,1,en,CAU,Oceania
+'a7ada89307',extremes,Flood,#030ba1,wmo,Flashflood Bartholomew IN,2026-03-04T04:20:00+00:00,United States,0.7248337170371678,0,1,en,CNA,North-America
+'d02b1fa9c1',extremes,Flood,#030ba1,wmo,Flood Greene OH Warren OH,2026-03-07T04:12:00+00:00,United States,0.7247229678724724,0,1,en,CNA,North-America
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,North American Winter Storm New York,2026-01-31T04:17:00+00:00,United States,0.7242441704094061,1,2,en,ENA,North-America
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,warm spell South Australia,2026-01-28T03:57:00+00:00,Australia,0.7215358994353178,1,2,en,SAU,Oceania
 '0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-02-22T04:31:00+00:00,Kenya,0.719600397557349,1,2,en,SEAF,Africa
