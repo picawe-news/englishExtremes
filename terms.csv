@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd17278cca0',extremes,Fog,#d60d2b,wmo,Fog York Lancaster,2026-02-18T04:34:00+00:00,United States,0.8088869475176819,2,2,en,CNA,North-America
 '0e61953e38',extremes,Flood,#030ba1,wmo,Flood Victoria Maribyrnong River,2026-02-23T04:37:00+00:00,Australia,0.8075485968288787,2,2,en,CAU,Oceania
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
-'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-03-09T04:31:00+00:00,Australia,0.7896704171203119,0,1,en,EAU,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-01-18T03:57:00+00:00,New Zealand,0.7851163111082753,1,2,en,NZ,Oceania
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Chamoli district of Uttarakhand,2026-01-25T04:06:00+00:00,India,0.7819045852871087,1,2,en,SAS,Asia
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7792940460943101,1,3,en,CAU,Oceania
@@ -129,6 +128,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL Provinces,2026-01-29T04:19:00+00:00,Solomon Islands,0.7106564075328912,1,3,en,EPO,Oceania
 '06972a2776',extremes,Flood,#030ba1,acwe,flash flood New South Wales,2026-01-31T04:17:00+00:00,Australia,0.7104000759615607,1,1,en,EAU,Oceania
 '03c7ee6412',extremes,Wildfire,#d60d2b,wmo,Wildfire East Central Plains,2026-02-19T04:32:00+00:00,United States,0.70998340844871,1,2,en,CNA,North-America
+'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-03-09T04:31:00+00:00,Australia,0.7056491319206862,1,1,en,EAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2026-02-27T04:26:00+00:00,Australia,0.7055493574738457,1,2,en,NAU,Oceania
 '16067b43c4',extremes,Flood,#030ba1,wmo,Flood Queensland Gilbert River,2026-01-27T03:58:00+00:00,Australia,0.7039635544614586,1,2,en,CAU,Oceania
 'd5460f574c',extremes,Snow Avalanche,#deddd5,wmo,Avalanche West Glacier Region,2026-02-23T04:37:00+00:00,United States,0.7023533866700478,1,2,en,CNA,North-America
