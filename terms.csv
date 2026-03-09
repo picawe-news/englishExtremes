@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd17278cca0',extremes,Fog,#d60d2b,wmo,Fog York Lancaster,2026-02-18T04:34:00+00:00,United States,0.8088869475176819,2,2,en,CNA,North-America
 '0e61953e38',extremes,Flood,#030ba1,wmo,Flood Victoria Maribyrnong River,2026-02-23T04:37:00+00:00,Australia,0.8075485968288787,2,2,en,CAU,Oceania
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
-'ae657332f9',extremes,Wildfire,#d60d2b,acwe,fire ban New South Wales,2026-03-09T04:31:00+00:00,Australia,0.790239927702287,0,1,en,EAU,Oceania
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-03-09T04:31:00+00:00,Australia,0.7896704171203119,0,1,en,EAU,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-01-18T03:57:00+00:00,New Zealand,0.7851163111082753,1,2,en,NZ,Oceania
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Chamoli district of Uttarakhand,2026-01-25T04:06:00+00:00,India,0.7819045852871087,1,2,en,SAS,Asia
@@ -133,7 +132,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2026-02-27T04:26:00+00:00,Australia,0.7055493574738457,1,2,en,NAU,Oceania
 '16067b43c4',extremes,Flood,#030ba1,wmo,Flood Queensland Gilbert River,2026-01-27T03:58:00+00:00,Australia,0.7039635544614586,1,2,en,CAU,Oceania
 'd5460f574c',extremes,Snow Avalanche,#deddd5,wmo,Avalanche West Glacier Region,2026-02-23T04:37:00+00:00,United States,0.7023533866700478,1,2,en,CNA,North-America
-'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-01-15T10:56:00+00:00,United States,0.7012198328122808,2,3,en,CNA,North-America
 'a9a8d922d7',extremes,Flood,#030ba1,wmo,Flood Northern Ireland,2026-01-26T04:09:00+00:00,United Kingdom,0.6998503038386862,1,1,en,NEU,Europe
 '453697199c',extremes,Storm,#b3b2b1,wmo,Storm Ghana,2026-02-17T04:31:00+00:00,Ghana,0.6995368922342756,1,1,en,WAF,Africa
 '982ec95067',extremes,Wildfire,#d60d2b,wmo,Wildfire Victoria North East,2026-02-01T04:41:00+00:00,Australia,0.6985978272551013,1,1,en,CAU,Oceania
@@ -146,6 +144,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-01-26T04:09:00+00:00,United Kingdom,0.6785475227439411,2,3,en,NEU,Europe
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-02-05T04:28:00+00:00,Kenya,0.6772614054823953,2,1,en,SEAF,Africa
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2026-03-08T04:25:00+00:00,Australia,0.6725042102575348,1,1,en,EAU,Oceania
+'ae657332f9',extremes,Wildfire,#d60d2b,acwe,fire ban New South Wales,2026-03-09T04:31:00+00:00,Australia,0.672153983546944,1,1,en,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,warm spell Tasmania,2026-03-05T04:24:00+00:00,Australia,0.6716061114629979,1,1,en,SAU,Oceania
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-03-05T04:24:00+00:00,Australia,0.6708694711115503,1,1,en,SAU,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-01-29T04:19:00+00:00,Solomon Islands,0.6694798910529024,2,1,en,EPO,Oceania
