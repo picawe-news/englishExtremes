@@ -23,8 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-02-26T04:29:00+00:00,United States,0.749626848913432,0,1,en,CNA,North-America
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-02-25T04:32:00+00:00,Australia,0.7469519262637865,0,1,en,CAU,Oceania
-'6b1942f1fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Eswatini,2026-03-08T04:24:00+00:00,Eswatini,0.7437444017757995,0,1,en,ESAF,Africa
-'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-03-08T04:24:00+00:00,United States,0.7432129757013503,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-02-26T04:29:00+00:00,Canada,0.740652323540957,0,1,en,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-02-26T04:29:00+00:00,Canada,0.7400257125121428,0,1,en,NEN,North-America
@@ -240,6 +238,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01aa566f43',extremes,Storm,#b3b2b1,wmo,Storm Surge Westland and Grey districts,2026-02-03T04:27:00+00:00,New Zealand,0.636436686158599,1,1,en,NZ,Oceania
 'a8a211b5f7',extremes,Wildfire,#d60d2b,wmo,Wildfire Northeast Highlands,2026-02-16T04:38:00+00:00,United States,0.6363815860233302,1,1,en,CNA,North-America
 'cc87503cc8',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ulukhaktok,2026-02-21T04:18:00+00:00,Canada,0.6363316226383067,1,1,en,NEN,North-America
+'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-03-08T04:24:00+00:00,United States,0.6362319593461476,1,2,en,CNA,North-America
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-02-25T04:32:00+00:00,Australia,0.6361305754589551,1,1,en,CAU,Oceania
 'd2badc3801',extremes,Flood,#030ba1,wmo,Flashflood Lyon KS,2026-02-15T04:35:00+00:00,United States,0.6360381245225378,1,1,en,CNA,North-America
 '9d78e3f2f2',extremes,Flood,#030ba1,wmo,Flood Newaygo MI,2026-02-02T04:36:00+00:00,United States,0.6359471013976219,1,1,en,CNA,North-America
@@ -288,6 +287,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '868b77acf9',extremes,Storm,#b3b2b1,wmo,Storm Surge West Vancouver Island,2026-02-22T04:30:00+00:00,Canada,0.6324378490028644,1,1,en,NEN,North-America
 '6eb9d896b9',extremes,Flood,#030ba1,wmo,Flashflood Norfolk Portsmouth Chesapeake,2026-02-01T04:41:00+00:00,United States,0.6322716401304078,1,1,en,CNA,North-America
 '3ff6ad36d7',extremes,Flood,#030ba1,wmo,Flood Queensland Pioneer River,2026-02-17T04:31:00+00:00,Australia,0.6322128760521605,1,1,en,CAU,Oceania
+'6b1942f1fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Eswatini,2026-03-08T04:24:00+00:00,Eswatini,0.6321827415094295,1,1,en,ESAF,Africa
 '95eb0e5e86',extremes,Flood,#030ba1,wmo,Flashflood New Castle Salem,2026-02-23T04:37:00+00:00,United States,0.6321225427423786,1,1,en,CNA,North-America
 '279d701798',extremes,Flood,#030ba1,wmo,Flooding South Australia Cooper Creek,2026-02-22T04:30:00+00:00,Australia,0.6320997997119028,1,1,en,CAU,Oceania
 '0914b25ca9',extremes,Storm,#b3b2b1,wmo,Storm Surge Chatham Islands,2026-03-02T04:27:00+00:00,New Zealand,0.6320944395170092,1,1,en,NZ,Oceania
