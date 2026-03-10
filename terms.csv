@@ -113,9 +113,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '068cadc42f',extremes,Snow&Ice,#d60d2b,wmo,Frost Northern Lynn Canal,2026-02-17T04:31:00+00:00,United States,0.7251833204680586,0,1,en,CNA,North-America
 '6b15d60a15',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Western Uinta Mountains,2026-02-24T04:31:00+00:00,United States,0.7250928481626797,0,1,en,CNA,North-America
 'bd0d4df56c',extremes,Flood,#030ba1,wmo,Flooding Queensland Gilbert River,2026-02-23T04:37:00+00:00,Australia,0.725042294484749,0,1,en,CAU,Oceania
+'56ec713a70',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Marcia Queensland 2015,2026-03-09T04:31:00+00:00,Australia,0.7250110161339165,0,1,en,EAU,Oceania
 'a7ada89307',extremes,Flood,#030ba1,wmo,Flashflood Bartholomew IN,2026-03-04T04:20:00+00:00,United States,0.7248337170371678,0,1,en,CNA,North-America
 'd02b1fa9c1',extremes,Flood,#030ba1,wmo,Flood Greene OH Warren OH,2026-03-07T04:12:00+00:00,United States,0.7247229678724724,0,1,en,CNA,North-America
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,North American Winter Storm New York,2026-01-31T04:17:00+00:00,United States,0.7242441704094061,1,2,en,ENA,North-America
+'ce4931e51e',extremes,Flood,#030ba1,wmo,Flashflood South Australia Cooper Creek,2026-02-21T04:18:00+00:00,Australia,0.724182990634306,0,1,en,CAU,Oceania
+'3770c905da',extremes,Flood,#030ba1,wmo,Flashflood New South Wales Cooper Creek,2026-02-26T04:29:00+00:00,Australia,0.7240455282307889,0,1,en,CAU,Oceania
+'4c20e4d32b',extremes,Flood,#030ba1,wmo,Flooding Victoria Wimmera River,2026-03-01T04:35:00+00:00,Australia,0.7238937916288244,0,1,en,CAU,Oceania
+'846fa8fe30',extremes,Storm,#b3b2b1,wmo,Storm Surge Îles de la Madeleine,2026-02-24T04:31:00+00:00,Canada,0.7238181458945381,0,1,en,NEN,North-America
+'2293c26d43',extremes,Flood,#030ba1,wmo,Flashflood Hamilton OH,2026-03-06T04:21:00+00:00,United States,0.723651674426225,0,1,en,CNA,North-America
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,warm spell South Australia,2026-01-28T03:57:00+00:00,Australia,0.7215358994353178,1,2,en,SAU,Oceania
 '0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-02-22T04:31:00+00:00,Kenya,0.719600397557349,1,2,en,SEAF,Africa
 'bcd636d08e',extremes,Tsunami,#690191,usgs,Tsunami Puerto Rico,2026-02-20T04:27:00+00:00,Puerto Rico,0.7185142170022133,1,2,en,CAR,North-America
