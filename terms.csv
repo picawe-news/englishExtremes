@@ -23,16 +23,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-02-26T04:29:00+00:00,United States,0.749626848913432,0,1,en,CNA,North-America
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-02-25T04:32:00+00:00,Australia,0.7469519262637865,0,1,en,CAU,Oceania
-'f986239716',extremes,Wildfire,#d60d2b,wmo,Wildfire Gujarat,2026-03-09T04:31:00+00:00,India,0.7429052776134156,0,1,en,SAS,Asia
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-01-15T10:56:00+00:00,United States,0.7427403332469223,1,3,en,CNA,North-America
-'6648e1a39e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Cameroon,2026-03-09T04:31:00+00:00,Cameroon,0.7426827949004974,0,1,en,CAF,Africa
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-02-26T04:29:00+00:00,Canada,0.740652323540957,0,1,en,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-02-26T04:29:00+00:00,Canada,0.7400257125121428,0,1,en,NEN,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-01-15T10:56:00+00:00,United States,0.7386193169860586,1,3,en,CNA,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.7379274882053499,1,3,en,NZ,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7346344852411275,1,3,en,CAU,Oceania
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2026-01-27T03:58:00+00:00,India,0.7328390729190595,0,1,en,SAS,Asia
-'0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-01-30T04:21:00+00:00,Canada,0.7328151485361077,0,1,en,NEN,North-America
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-02-26T04:29:00+00:00,Australia,0.7327333458776513,0,1,en,EAU,Oceania
 '0d8bab83be',extremes,Drought,#edc291,edo,Lack of Rain Fiji,2026-02-15T04:35:00+00:00,Fiji,0.7323567390178684,0,1,en,,
 'ea6bb31003',extremes,Storm,#b3b2b1,wmo,Storm Surge Inverness County Mabou and north,2026-02-23T04:37:00+00:00,Canada,0.7320540690376203,0,1,en,NEN,North-America
@@ -299,6 +296,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66825f8cc1',extremes,Precipitation,#d60d2b,wmo,Rain Eswatini,2026-03-07T04:12:00+00:00,Eswatini,0.6319210029399295,1,1,en,ESAF,Africa
 'd15fd56319',extremes,Wildfire,#d60d2b,wmo,Wildfire Jones Lyman Buffalo,2026-02-15T04:35:00+00:00,United States,0.6315481377549691,1,1,en,CNA,North-America
 'd1cf9cc390',extremes,Snow&Ice,#d60d2b,wmo,Frost Kugaaruk,2026-02-12T04:37:00+00:00,Canada,0.6315266117726644,1,1,en,NEN,North-America
+'f986239716',extremes,Wildfire,#d60d2b,wmo,Wildfire Gujarat,2026-03-09T04:31:00+00:00,India,0.6314694859714033,1,1,en,SAS,Asia
+'6648e1a39e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Cameroon,2026-03-09T04:31:00+00:00,Cameroon,0.6312803756654227,1,1,en,CAF,Africa
 '806bea7c4e',extremes,Flood,#030ba1,wmo,Flood South Australia Lake Frome,2026-02-21T04:18:00+00:00,Australia,0.6311565900002826,1,1,en,CAU,Oceania
 '9c1d890674',extremes,Flood,#030ba1,wmo,Flashflood Victoria South Gippsland Rivers,2026-02-25T04:32:00+00:00,Australia,0.6310848207603003,1,1,en,CAU,Oceania
 'f68f62491e',extremes,Flood,#030ba1,wmo,Flooding Western Australia Avon River,2026-02-12T04:37:00+00:00,Australia,0.6309724413631074,1,1,en,CAU,Oceania
@@ -372,6 +371,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '08579e390c',extremes,Earthquake,#870007,usgs,Earthquake Yigo Village,2026-02-06T04:27:00+00:00,Guam,0.6241266867427584,1,1,en,NPO,Pacific Ocean
 'e84e180072',extremes,Flood,#030ba1,wmo,Flood Southern Queens Southern Nassau,2026-02-01T04:41:00+00:00,United States,0.6241250380095574,1,1,en,CNA,North-America
 'f1f9da76dd',extremes,Flood,#030ba1,wmo,Flashflood Victoria Avon River,2026-02-25T04:32:00+00:00,Australia,0.624120549871937,1,1,en,CAU,Oceania
+'0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-01-30T04:21:00+00:00,Canada,0.6240929962556916,1,1,en,NEN,North-America
 '7518798de4',extremes,Storm,#b3b2b1,wmo,Storm offshore Pedro Bank area,2026-02-19T04:32:00+00:00,Jamaica,0.6240340220353356,1,1,en,CAR,North-America
 'efe08ab82a',extremes,Flood,#030ba1,wmo,Flood Queensland Mitchell River,2026-02-23T04:37:00+00:00,Australia,0.623733313313108,1,1,en,CAU,Oceania
 '1d3a40b90b',extremes,Flood,#030ba1,wmo,Flashflood South Australia Warburton River,2026-02-20T04:27:00+00:00,Australia,0.6237008357255155,1,1,en,CAU,Oceania
