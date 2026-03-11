@@ -11,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-01-15T10:56:00+00:00,United States,0.7728832530248946,1,3,en,CNA,North-America
 '06daa69aff',extremes,Flood,#030ba1,wmo,Flooding South Australia Yorke Peninsula,2026-02-28T04:07:00+00:00,Australia,0.7725329287706643,1,2,en,CAU,Oceania
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-01-27T03:58:00+00:00,India,0.7722062933749227,1,2,en,SAS,Asia
+'c81174efde',extremes,Flood,#030ba1,wmo,Flood Queensland Black River,2026-02-18T04:34:00+00:00,Australia,0.7721237908397508,1,2,en,CAU,Oceania
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-02-08T04:43:00+00:00,Canada,0.7689399370939854,2,3,en,NEN,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-01-15T10:56:00+00:00,Australia,0.7671943670461134,1,3,en,CAU,Oceania
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-01-20T03:56:00+00:00,Ireland,0.7669932544713614,1,3,en,NEU,Europe
@@ -34,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab75c60aef',extremes,Flood,#030ba1,wmo,Flooding Queensland Lockhart River,2026-01-29T04:19:00+00:00,Australia,0.7320456297757272,0,1,en,CAU,Oceania
 '58d7ad728c',extremes,Storm,#b3b2b1,wmo,Storm Surge B.C. South Peace River,2026-02-26T04:29:00+00:00,Canada,0.7320430359938719,0,1,en,NEN,North-America
 'd107eefe16',extremes,Flood,#030ba1,wmo,Flooding Victoria Traralgon Creek,2026-02-24T04:31:00+00:00,Australia,0.7318045702761894,0,1,en,CAU,Oceania
-'c81174efde',extremes,Flood,#030ba1,wmo,Flood Queensland Black River,2026-02-18T04:34:00+00:00,Australia,0.7317338539291186,0,1,en,CAU,Oceania
 'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2026-01-30T04:21:00+00:00,Ireland,0.7316772300283081,0,1,en,NEU,Europe
 '99b4d7585f',extremes,Flood,#030ba1,wmo,Flood Ketchikan Gateway Borough,2026-02-04T04:21:00+00:00,United States,0.7316703451685487,0,1,en,CNA,North-America
 '209e41ae3e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Resolute Grise Fiord,2026-02-28T04:07:00+00:00,Canada,0.731422541476192,0,1,en,NEN,North-America
