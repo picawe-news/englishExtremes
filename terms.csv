@@ -119,6 +119,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c20e4d32b',extremes,Flood,#030ba1,wmo,Flooding Victoria Wimmera River,2026-03-01T04:35:00+00:00,Australia,0.7238937916288244,0,1,en,CAU,Oceania
 '846fa8fe30',extremes,Storm,#b3b2b1,wmo,Storm Surge Îles de la Madeleine,2026-02-24T04:31:00+00:00,Canada,0.7238181458945381,0,1,en,NEN,North-America
 '2293c26d43',extremes,Flood,#030ba1,wmo,Flashflood Hamilton OH,2026-03-06T04:21:00+00:00,United States,0.723651674426225,0,1,en,CNA,North-America
+'8866871f34',extremes,Flood,#030ba1,wmo,Flood Burke GA Emanuel GA Jenkins GA,2026-03-03T04:27:00+00:00,United States,0.7234403039765737,0,1,en,CNA,North-America
+'1a8d81c213',extremes,Flood,#030ba1,wmo,Flooding Queensland Mossman River,2026-03-03T04:27:00+00:00,Australia,0.722717993780773,0,1,en,CAU,Oceania
+'02aa67cb6a',extremes,Flood,#030ba1,wmo,Flood Victoria South Gippsland Rivers,2026-02-24T04:31:00+00:00,Australia,0.722668571553643,0,1,en,CAU,Oceania
+'71dc5934c5',extremes,Snow&Ice,#d60d2b,wmo,Frost Yellowhead,2026-02-27T04:26:00+00:00,Canada,0.7224778064907357,0,1,en,NEN,North-America
+'98d6f422a6',extremes,Flood,#030ba1,wmo,Flood New South Wales Paroo River NSW,2026-02-27T04:26:00+00:00,Australia,0.7223940899172554,0,1,en,CAU,Oceania
+'73a8ea1d9c',extremes,Flood,#030ba1,wmo,Flood Victoria Werribee River,2026-02-25T04:32:00+00:00,Australia,0.7222803499461246,0,1,en,CAU,Oceania
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,warm spell South Australia,2026-01-28T03:57:00+00:00,Australia,0.7215358994353178,1,2,en,SAU,Oceania
 '0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-02-22T04:31:00+00:00,Kenya,0.719600397557349,1,2,en,SEAF,Africa
 'bcd636d08e',extremes,Tsunami,#690191,usgs,Tsunami Puerto Rico,2026-02-20T04:27:00+00:00,Puerto Rico,0.7185142170022133,1,2,en,CAR,North-America
