@@ -2,11 +2,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d0d34d451',extremes,Flood,#030ba1,wmo,Flood Queensland Leichhardt River,2026-02-25T04:32:00+00:00,Australia,0.8166302381000367,2,2,en,CAU,Oceania
 'd17278cca0',extremes,Fog,#d60d2b,wmo,Fog York Lancaster,2026-02-18T04:34:00+00:00,United States,0.8088869475176819,2,2,en,CNA,North-America
 '0e61953e38',extremes,Flood,#030ba1,wmo,Flood Victoria Maribyrnong River,2026-02-23T04:37:00+00:00,Australia,0.8075485968288787,2,2,en,CAU,Oceania
-'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-01-15T10:56:00+00:00,Canada,0.7968128594166759,1,3,en,NEN,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-02-26T04:29:00+00:00,United States,0.7954871160240831,1,3,en,CNA,North-America
 '2eb7e98146',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Chamoli district of Uttarakhand,2026-01-25T04:06:00+00:00,India,0.7819045852871087,1,2,en,SAS,Asia
 '840da1491f',extremes,Storm,#b3b2b1,wmo,Storm Surge Far North District,2026-03-10T04:22:00+00:00,New Zealand,0.780206616437908,1,2,en,NZ,Oceania
-'83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-01-15T10:56:00+00:00,Australia,0.7792940460943101,1,3,en,CAU,Oceania
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Australia,2026-01-24T03:48:00+00:00,Australia,0.7744911233265848,1,3,en,CAU,Oceania
 'f4588f7cf3',extremes,Flood,#030ba1,wmo,Flooding South Australia River Murray in SA,2026-02-27T04:26:00+00:00,Australia,0.7731215448298182,1,2,en,CAU,Oceania
 '06daa69aff',extremes,Flood,#030ba1,wmo,Flooding South Australia Yorke Peninsula,2026-02-28T04:07:00+00:00,Australia,0.7725329287706643,1,2,en,CAU,Oceania
@@ -19,8 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-02-26T04:29:00+00:00,Australia,0.7537284834126318,1,3,en,CAU,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-02-25T04:32:00+00:00,Australia,0.7469519262637865,0,1,en,CAU,Oceania
-'d3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-02-28T04:07:00+00:00,United States,0.7463085406410612,0,1,en,CNA,North-America
-'108f090c01',extremes,Storm,#b3b2b1,wmo,Storm Surge Southern Chatham Strait,2026-03-13T04:25:00+00:00,United States,0.7438756817467138,0,1,en,CNA,North-America
 '0f23209d1b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Seychelles,2026-03-13T04:25:00+00:00,Seychelles,0.7417893875263196,0,1,en,EIO,Africa
 '4d215a9178',extremes,Storm,#b3b2b1,wmo,Storm Frederick Sound,2026-03-13T04:25:00+00:00,United States,0.7408007327157801,0,1,en,CNA,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-02-26T04:29:00+00:00,Canada,0.740652323540957,0,1,en,NEN,North-America
@@ -164,6 +160,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8ed721e08',extremes,Fog,#d60d2b,wmo,Fog India,2026-02-05T04:27:00+00:00,India,0.6590100363276729,1,2,en,SAS,Asia
 '93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,typhoon Australia,2026-02-05T04:28:00+00:00,Australia,0.6587294929724554,1,1,en,CAU,Oceania
 '38a585ebf8',extremes,Flood,#030ba1,wmo,Flood Queensland Diamantina River,2026-02-15T04:35:00+00:00,Australia,0.6587020918741632,1,1,en,CAU,Oceania
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-02-28T04:07:00+00:00,United States,0.6583709382545794,1,2,en,CNA,North-America
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-02-02T04:37:00+00:00,Australia,0.6573354485376904,1,1,en,EAU,Oceania
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-02-26T04:29:00+00:00,Australia,0.6570664111388608,1,1,en,EAU,Oceania
 '521b639732',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Oswald Queensland New South Wales 2013,2026-02-05T04:28:00+00:00,Australia,0.6570235576913078,1,1,en,NAU,Oceania
@@ -278,6 +275,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3cf1d049fc',extremes,Storm,#b3b2b1,wmo,Storm North Vancouver Island,2026-02-22T04:30:00+00:00,Canada,0.6325943119511763,2,1,en,NEN,North-America
 'fdca6c3d52',extremes,Flood,#030ba1,wmo,Flood Jackson AR Woodruff AR,2026-02-20T04:27:00+00:00,United States,0.6324620737046838,1,1,en,CNA,North-America
 '868b77acf9',extremes,Storm,#b3b2b1,wmo,Storm Surge West Vancouver Island,2026-02-22T04:30:00+00:00,Canada,0.6324378490028644,1,1,en,NEN,North-America
+'108f090c01',extremes,Storm,#b3b2b1,wmo,Storm Surge Southern Chatham Strait,2026-03-13T04:25:00+00:00,United States,0.6322943294847068,1,1,en,CNA,North-America
 '6eb9d896b9',extremes,Flood,#030ba1,wmo,Flashflood Norfolk Portsmouth Chesapeake,2026-02-01T04:41:00+00:00,United States,0.6322716401304078,1,1,en,CNA,North-America
 '3ff6ad36d7',extremes,Flood,#030ba1,wmo,Flood Queensland Pioneer River,2026-02-17T04:31:00+00:00,Australia,0.6322128760521605,1,1,en,CAU,Oceania
 '6b1942f1fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Eswatini,2026-03-08T04:24:00+00:00,Eswatini,0.6321827415094295,1,1,en,ESAF,Africa
