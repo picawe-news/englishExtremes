@@ -16,7 +16,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-02-26T04:29:00+00:00,Australia,0.7537284834126318,1,3,en,CAU,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
+'83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-02-25T04:32:00+00:00,Australia,0.7482302036894207,0,1,en,CAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-02-25T04:32:00+00:00,Australia,0.7469519262637865,0,1,en,CAU,Oceania
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-02-26T04:29:00+00:00,Canada,0.7442029500433341,0,1,en,NEN,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-02-26T04:29:00+00:00,Canada,0.740652323540957,0,1,en,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-02-26T04:29:00+00:00,Canada,0.7400257125121428,0,1,en,NEN,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.7379274882053499,1,3,en,NZ,Oceania
@@ -28,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2026-01-30T04:21:00+00:00,Ireland,0.7316772300283081,0,1,en,NEU,Europe
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-02-25T04:32:00+00:00,United States,0.7316736209169259,0,1,en,CNA,North-America
 'fecc5eb982',extremes,Wildfire,#d60d2b,wmo,Wildfire Rajasthan,2026-03-11T04:22:00+00:00,India,0.7312787759933612,0,1,en,SAS,Asia
+'c62fbce176',extremes,Wildfire,#d60d2b,wmo,Wildfire Himachal Pradesh,2026-03-11T04:22:00+00:00,India,0.7301097093852071,0,1,en,SAS,Asia
 'b206ff93f8',extremes,Flood,#030ba1,wmo,Flooding Victoria Loddon River,2026-03-01T04:35:00+00:00,Australia,0.7298586288059914,0,1,en,CAU,Oceania
 '1f6985108b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain United Kingdom,2026-03-12T04:26:00+00:00,United Kingdom,0.7297999395759847,0,1,en,NEU,Europe
 '505d2ce2be',extremes,Flood,#030ba1,wmo,Flashflood Warren OH,2026-03-04T04:20:00+00:00,United States,0.7297903020078418,0,1,en,CNA,North-America
@@ -87,10 +90,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '301f849155',extremes,Flood,#030ba1,wmo,Flooding Victoria Seven and Castle Creeks,2026-02-25T04:32:00+00:00,Australia,0.7253450868537903,0,1,en,CAU,Oceania
 '068cadc42f',extremes,Snow&Ice,#d60d2b,wmo,Frost Northern Lynn Canal,2026-02-17T04:31:00+00:00,United States,0.7251833204680586,0,1,en,CNA,North-America
 '6b15d60a15',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Western Uinta Mountains,2026-02-24T04:31:00+00:00,United States,0.7250928481626797,0,1,en,CNA,North-America
+'b875d9331f',extremes,Storm,#b3b2b1,wmo,Storm Surge Stephens Passage,2026-03-12T04:26:00+00:00,United States,0.7250773382283305,0,1,en,CNA,North-America
+'80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-02-25T04:32:00+00:00,United States,0.7250461618449701,0,1,en,CNA,North-America
 'bd0d4df56c',extremes,Flood,#030ba1,wmo,Flooding Queensland Gilbert River,2026-02-23T04:37:00+00:00,Australia,0.725042294484749,0,1,en,CAU,Oceania
 '56ec713a70',extremes,Tropical Cyclone,#4f4f4f,aidr,Cyclone Cyclone Marcia Queensland 2015,2026-03-09T04:31:00+00:00,Australia,0.7250110161339165,0,1,en,EAU,Oceania
 'a7ada89307',extremes,Flood,#030ba1,wmo,Flashflood Bartholomew IN,2026-03-04T04:20:00+00:00,United States,0.7248337170371678,0,1,en,CNA,North-America
 'd02b1fa9c1',extremes,Flood,#030ba1,wmo,Flood Greene OH Warren OH,2026-03-07T04:12:00+00:00,United States,0.7247229678724724,0,1,en,CNA,North-America
+'ecbcce771c',extremes,Fog,#d60d2b,wmo,Fog 15 districts of Andhra Pradesh,2026-03-13T04:25:00+00:00,India,0.7245448426370243,0,1,en,SAS,Asia
 '69614e98b2',extremes,Storm,#b3b2b1,wmo,Storm Surge Icy Strait,2026-03-10T04:22:00+00:00,United States,0.7245448060604901,0,1,en,CNA,North-America
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,North American Winter Storm New York,2026-01-31T04:17:00+00:00,United States,0.7242441704094061,1,2,en,ENA,North-America
 'ce4931e51e',extremes,Flood,#030ba1,wmo,Flashflood South Australia Cooper Creek,2026-02-21T04:18:00+00:00,Australia,0.724182990634306,0,1,en,CAU,Oceania
