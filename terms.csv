@@ -110,6 +110,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,warm spell South Australia,2026-01-28T03:57:00+00:00,Australia,0.7215358994353178,1,2,en,SAU,Oceania
 '58d0a418c4',extremes,Flood,#030ba1,wmo,Flashflood South Australia Fleurieu Peninsula,2026-02-28T04:07:00+00:00,Australia,0.7214817199823749,0,1,en,CAU,Oceania
 '54874d885e',extremes,Flood,#030ba1,wmo,Flood New South Wales Willandra Lakes,2026-03-05T04:24:00+00:00,Australia,0.7212231774257329,0,1,en,CAU,Oceania
+'b61327ecf4',extremes,Flood,#030ba1,wmo,Flood Victoria Seven and Castle Creeks,2026-02-24T04:31:00+00:00,Australia,0.7210685551564948,0,1,en,CAU,Oceania
+'d43f2c5c0b',extremes,Flood,#030ba1,wmo,Flashflood Daviess IN Greene IN Knox IN,2026-03-06T04:21:00+00:00,United States,0.7208247394793809,0,1,en,CNA,North-America
+'7dee76a437',extremes,Flood,#030ba1,wmo,Flashflood Queensland Pioneer River,2026-03-06T04:21:00+00:00,Australia,0.7206762440920972,0,1,en,CAU,Oceania
+'3a968c538f',extremes,Flood,#030ba1,wmo,Flood Queensland Haughton River,2026-03-06T04:21:00+00:00,Australia,0.7204960137031244,0,1,en,CAU,Oceania
+'ed5655acf2',extremes,Flood,#030ba1,wmo,Flood South Australia Warburton,2026-02-27T04:26:00+00:00,Australia,0.7204333956847286,0,1,en,CAU,Oceania
+'6d1bf17544',extremes,Snow&Ice,#d60d2b,wmo,Ice Waskaganish,2026-02-28T04:07:00+00:00,Canada,0.7203771476420054,0,1,en,NEN,North-America
 '0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-02-22T04:31:00+00:00,Kenya,0.719600397557349,1,2,en,SEAF,Africa
 'bcd636d08e',extremes,Tsunami,#690191,usgs,Tsunami Puerto Rico,2026-02-20T04:27:00+00:00,Puerto Rico,0.7185142170022133,1,2,en,CAR,North-America
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-02-26T04:29:00+00:00,Australia,0.7138584788546196,1,2,en,EAU,Oceania
