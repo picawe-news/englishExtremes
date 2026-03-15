@@ -19,14 +19,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-02-25T04:32:00+00:00,Australia,0.7469519262637865,0,1,en,CAU,Oceania
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-02-26T04:29:00+00:00,Canada,0.7442029500433341,0,1,en,NEN,North-America
-'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,Avalanche India,2026-03-09T04:31:00+00:00,India,0.7427815073612106,0,1,en,SAS,Asia
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-02-26T04:29:00+00:00,Canada,0.740652323540957,0,1,en,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-02-26T04:29:00+00:00,Canada,0.7400257125121428,0,1,en,NEN,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.7379274882053499,1,3,en,NZ,Oceania
 '047f353885',extremes,Heat Wave,#c40202,acwe,heatwave Western Australia,2026-03-11T04:23:00+00:00,Australia,0.7365427917828176,1,1,en,CAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7346344852411275,1,3,en,CAU,Oceania
 'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2026-01-30T04:21:00+00:00,Ireland,0.7316772300283081,0,1,en,NEU,Europe
-'b206ff93f8',extremes,Flood,#030ba1,wmo,Flooding Victoria Loddon River,2026-03-01T04:35:00+00:00,Australia,0.7298586288059914,0,1,en,CAU,Oceania
 '1f6985108b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain United Kingdom,2026-03-12T04:26:00+00:00,United Kingdom,0.7297999395759847,0,1,en,NEU,Europe
 '505d2ce2be',extremes,Flood,#030ba1,wmo,Flashflood Warren OH,2026-03-04T04:20:00+00:00,United States,0.7297903020078418,0,1,en,CNA,North-America
 '41258e761d',extremes,Flood,#030ba1,wmo,Flood Queensland Staaten River,2026-02-23T04:37:00+00:00,Australia,0.7297882498699584,0,1,en,CAU,Oceania
@@ -122,7 +120,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '628c910b11',extremes,Flood,#030ba1,aidr,Flood Flooding New South Wales 2022,2026-02-01T04:41:00+00:00,Australia,0.712466565211765,1,1,en,EAU,Oceania
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,bushfire South Australia,2026-01-27T03:59:00+00:00,Australia,0.711155623439048,1,2,en,SAU,Oceania
 '2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL Provinces,2026-01-29T04:19:00+00:00,Solomon Islands,0.7106564075328912,1,3,en,EPO,Oceania
-'06972a2776',extremes,Flood,#030ba1,acwe,flash flood New South Wales,2026-01-31T04:17:00+00:00,Australia,0.7104000759615607,1,1,en,EAU,Oceania
 '03c7ee6412',extremes,Wildfire,#d60d2b,wmo,Wildfire East Central Plains,2026-02-19T04:32:00+00:00,United States,0.70998340844871,1,2,en,CNA,North-America
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-03-09T04:31:00+00:00,Australia,0.7056491319206862,1,1,en,EAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2026-02-27T04:26:00+00:00,Australia,0.7055493574738457,1,2,en,NAU,Oceania
@@ -243,6 +240,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01aa566f43',extremes,Storm,#b3b2b1,wmo,Storm Surge Westland and Grey districts,2026-02-03T04:27:00+00:00,New Zealand,0.636436686158599,1,1,en,NZ,Oceania
 'a8a211b5f7',extremes,Wildfire,#d60d2b,wmo,Wildfire Northeast Highlands,2026-02-16T04:38:00+00:00,United States,0.6363815860233302,1,1,en,CNA,North-America
 'cc87503cc8',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ulukhaktok,2026-02-21T04:18:00+00:00,Canada,0.6363316226383067,1,1,en,NEN,North-America
+'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,Avalanche India,2026-03-09T04:31:00+00:00,India,0.636315286257029,1,2,en,SAS,Asia
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-03-08T04:24:00+00:00,United States,0.6362319593461476,1,2,en,CNA,North-America
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-02-25T04:32:00+00:00,Australia,0.6361305754589551,1,1,en,CAU,Oceania
 'd2badc3801',extremes,Flood,#030ba1,wmo,Flashflood Lyon KS,2026-02-15T04:35:00+00:00,United States,0.6360381245225378,1,1,en,CNA,North-America
@@ -273,7 +271,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bfcff1e60',extremes,Storm,#b3b2b1,wmo,Storm St. John's and vicinity,2026-02-22T04:30:00+00:00,Canada,0.6337205232302214,1,1,en,NEN,North-America
 'd577347130',extremes,Earthquake,#870007,usgs,Earthquake Kirakira,2026-02-22T04:30:00+00:00,Solomon Islands,0.6337186317954354,1,1,en,SPO,Pacific Ocean
 '6e9152e2c0',extremes,Storm,#b3b2b1,wmo,Storm Sumner Strait,2026-02-21T04:18:00+00:00,United States,0.6335691669855071,1,1,en,CNA,North-America
-'0dedeac327',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fiordland,2026-02-01T04:41:00+00:00,New Zealand,0.6332788507945707,1,1,en,NZ,Oceania
 'e4f47bad10',extremes,Flood,#030ba1,wmo,Flashflood Victoria Macalister River,2026-02-26T04:29:00+00:00,Australia,0.633275234325875,1,1,en,CAU,Oceania
 '3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2026-02-09T04:39:00+00:00,Kenya,0.6331133733864798,1,1,en,SEAF,Africa
 '49ddcc4606',extremes,Wildfire,#d60d2b,wmo,Wildfire Kit Carson County Cheyenne Dundy,2026-02-25T04:32:00+00:00,United States,0.6329709338693196,1,1,en,CNA,North-America
@@ -282,7 +279,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fdca6c3d52',extremes,Flood,#030ba1,wmo,Flood Jackson AR Woodruff AR,2026-02-20T04:27:00+00:00,United States,0.6324620737046838,1,1,en,CNA,North-America
 '868b77acf9',extremes,Storm,#b3b2b1,wmo,Storm Surge West Vancouver Island,2026-02-22T04:30:00+00:00,Canada,0.6324378490028644,1,1,en,NEN,North-America
 '108f090c01',extremes,Storm,#b3b2b1,wmo,Storm Surge Southern Chatham Strait,2026-03-13T04:25:00+00:00,United States,0.6322943294847068,1,1,en,CNA,North-America
-'6eb9d896b9',extremes,Flood,#030ba1,wmo,Flashflood Norfolk Portsmouth Chesapeake,2026-02-01T04:41:00+00:00,United States,0.6322716401304078,1,1,en,CNA,North-America
 '3ff6ad36d7',extremes,Flood,#030ba1,wmo,Flood Queensland Pioneer River,2026-02-17T04:31:00+00:00,Australia,0.6322128760521605,1,1,en,CAU,Oceania
 '6b1942f1fd',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Eswatini,2026-03-08T04:24:00+00:00,Eswatini,0.6321827415094295,1,1,en,ESAF,Africa
 '95eb0e5e86',extremes,Flood,#030ba1,wmo,Flashflood New Castle Salem,2026-02-23T04:37:00+00:00,United States,0.6321225427423786,1,1,en,CNA,North-America
@@ -387,7 +383,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea6bb31003',extremes,Storm,#b3b2b1,wmo,Storm Surge Inverness County Mabou and north,2026-02-23T04:37:00+00:00,Canada,0.6222459586819772,1,1,en,NEN,North-America
 '58d7ad728c',extremes,Storm,#b3b2b1,wmo,Storm Surge B.C. South Peace River,2026-02-26T04:29:00+00:00,Canada,0.622236580594791,1,1,en,NEN,North-America
 'b785cdd693',extremes,Precipitation,#d60d2b,wmo,Torrential Rain The ranges of the Westland District,2026-03-12T04:26:00+00:00,New Zealand,0.6221951210387902,1,1,en,NZ,Oceania
-'117f2e1e78',extremes,Flood,#030ba1,wmo,Flood Coastal Hancock Coastal Washington,2026-02-02T04:36:00+00:00,United States,0.6221556959264859,1,1,en,CNA,North-America
 '09cf006525',extremes,Flood,#030ba1,wmo,Flashflood New South Wales Lake Frome,2026-02-26T04:29:00+00:00,Australia,0.6221268199170474,1,1,en,CAU,Oceania
 'acb00d8daa',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Bay of Plenty west of Kawerau,2026-03-12T04:26:00+00:00,New Zealand,0.6221240726219537,1,1,en,NZ,Oceania
 'd107eefe16',extremes,Flood,#030ba1,wmo,Flooding Victoria Traralgon Creek,2026-02-24T04:31:00+00:00,Australia,0.622033884734761,1,1,en,CAU,Oceania
@@ -405,3 +400,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '028b7b4940',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Peninsula East,2026-02-25T04:32:00+00:00,Canada,0.6209418580229068,1,1,en,NEN,North-America
 'c62fbce176',extremes,Wildfire,#d60d2b,wmo,Wildfire Himachal Pradesh,2026-03-11T04:22:00+00:00,India,0.6207432679774261,1,1,en,SAS,Asia
 '56f66f6845',extremes,Flood,#030ba1,wmo,Flood Monroe IN Morgan IN Owen IN,2026-03-05T04:24:00+00:00,United States,0.6207050804779264,1,1,en,CNA,North-America
+'b206ff93f8',extremes,Flood,#030ba1,wmo,Flooding Victoria Loddon River,2026-03-01T04:35:00+00:00,Australia,0.6203798344850927,1,1,en,CAU,Oceania
