@@ -112,6 +112,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8608bf6521',extremes,Flood,#030ba1,wmo,Flood Lawrence IN Martin IN,2026-03-07T04:12:00+00:00,United States,0.7198178713067253,0,1,en,CNA,North-America
 '0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-02-22T04:31:00+00:00,Kenya,0.719600397557349,1,2,en,SEAF,Africa
 '9d5db1db16',extremes,Flood,#030ba1,wmo,Flashflood Bartholomew IN Jackson IN,2026-03-07T04:12:00+00:00,United States,0.7195306505405754,0,1,en,CNA,North-America
+'ccea2a6a3c',extremes,Snow&Ice,#d60d2b,wmo,Frost James Bay and La Grande River,2026-02-28T04:07:00+00:00,Canada,0.7194731946536168,0,1,en,NEN,North-America
+'87796e123c',extremes,Wildfire,#d60d2b,wmo,Wildfire Hamilton Stanton Morton,2026-03-05T04:24:00+00:00,United States,0.7193577101490971,0,1,en,CNA,North-America
+'9149abf0e5',extremes,Flood,#030ba1,wmo,Flashflood Queensland Watson River,2026-03-02T04:27:00+00:00,Australia,0.719260282811596,0,1,en,CAU,Oceania
+'56ec1d3897',extremes,Drought,#edc291,edo,Drought Uganda,2026-03-03T04:27:00+00:00,Uganda,0.7189320409752302,0,1,en,SEAF,Africa
+'b770b8010a',extremes,Flood,#030ba1,wmo,Flashflood Crawford MO,2026-03-06T04:21:00+00:00,United States,0.7188423542812232,0,1,en,CNA,North-America
+'2deed2a7cd',extremes,Flood,#030ba1,wmo,Flooding Victoria Maribyrnong River,2026-03-01T04:35:00+00:00,Australia,0.718682277398881,0,1,en,CAU,Oceania
 'bcd636d08e',extremes,Tsunami,#690191,usgs,Tsunami Puerto Rico,2026-02-20T04:27:00+00:00,Puerto Rico,0.7185142170022133,1,2,en,CAR,North-America
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-02-26T04:29:00+00:00,Australia,0.7138584788546196,1,2,en,EAU,Oceania
 '628c910b11',extremes,Flood,#030ba1,aidr,Flood Flooding New South Wales 2022,2026-02-01T04:41:00+00:00,Australia,0.712466565211765,1,1,en,EAU,Oceania
