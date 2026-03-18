@@ -17,20 +17,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-02-26T04:29:00+00:00,Australia,0.7537284834126318,1,3,en,CAU,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-02-25T04:32:00+00:00,Australia,0.7469519262637865,0,1,en,CAU,Oceania
-'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-03-18T04:36:00+00:00,Solomon Islands,0.7463913966897301,0,1,en,EPO,Oceania
-'f471382829',extremes,Heat Wave,#c40202,wmo,Heat Wave Santa Ana Mountains and Foothills,2026-03-14T04:22:00+00:00,United States,0.7442594850766036,0,1,en,CNA,North-America
-'73e6eaff5a',extremes,Heat Wave,#c40202,wmo,Heat Wave Riverside County Mountains,2026-03-18T04:36:00+00:00,United States,0.7441220910697279,0,1,en,CNA,North-America
-'4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,Rain Solomon Islands,2026-03-18T04:36:00+00:00,Solomon Islands,0.7431781857517793,0,1,en,EPO,Oceania
-'63d67b0640',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Coastal Areas,2026-03-18T04:36:00+00:00,United States,0.742246032946092,0,1,en,CNA,North-America
-'7b66a30559',extremes,Heat Wave,#c40202,wmo,Heat Wave San Gorgonio Pass Near Banning,2026-03-18T04:36:00+00:00,United States,0.7411343516669328,0,1,en,CNA,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-02-26T04:29:00+00:00,Canada,0.740652323540957,0,1,en,NEN,North-America
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-02-26T04:29:00+00:00,Canada,0.7400257125121428,0,1,en,NEN,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.7379274882053499,1,3,en,NZ,Oceania
 '047f353885',extremes,Heat Wave,#c40202,acwe,heatwave Western Australia,2026-03-11T04:23:00+00:00,Australia,0.7365427917828176,1,1,en,CAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7346344852411275,1,3,en,CAU,Oceania
-'56442a18a4',extremes,Flood,#030ba1,wmo,Flashflood Northern Territory Finniss River,2026-03-03T04:27:00+00:00,Australia,0.7277045748906449,0,1,en,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-02-05T04:28:00+00:00,Australia,0.7276246944451159,1,1,en,NAU,Oceania
-'281bc72436',extremes,Flood,#030ba1,wmo,Flood Queensland Weir River,2026-02-13T04:34:00+00:00,Australia,0.7276105545011055,0,1,en,CAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-02-25T04:32:00+00:00,Australia,0.727598657833526,1,3,en,CAU,Oceania
 '0b4464e5af',extremes,Flood,#030ba1,wmo,Flashflood South Australia Lake Frome,2026-02-23T04:37:00+00:00,Australia,0.7275452329005567,0,1,en,CAU,Oceania
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-02-06T04:28:00+00:00,Australia,0.7274431163234651,1,3,en,EAU,Oceania
@@ -253,6 +245,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd843ceedc6',extremes,Storm,#b3b2b1,wmo,Storm offshore Morant Bank area,2026-02-10T04:43:00+00:00,Jamaica,0.6346228657228072,1,1,en,CAR,North-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-02-22T04:30:00+00:00,Canada,0.6345694697862453,1,1,en,NEN,North-America
 'a00b1cbea7',extremes,Flood,#030ba1,wmo,Flooding Johnson IN,2026-03-04T04:20:00+00:00,United States,0.634450348766974,1,2,en,CNA,North-America
+'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-03-18T04:36:00+00:00,Solomon Islands,0.6344326871862705,1,1,en,EPO,Oceania
 'f78648bb34',extremes,Flood,#030ba1,wmo,Flooding Mendocino CA,2026-02-25T04:32:00+00:00,United States,0.6344292186901667,1,1,en,CNA,North-America
 '54898bb95f',extremes,Storm,#b3b2b1,wmo,Storm Surge Green Bay White Bay,2026-02-21T04:18:00+00:00,Canada,0.6341466372800068,1,1,en,NEN,North-America
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-02-07T04:19:00+00:00,Canada,0.6341081170389634,2,3,en,NEN,North-America
@@ -267,7 +260,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2026-02-09T04:39:00+00:00,Kenya,0.6331133733864798,1,1,en,SEAF,Africa
 '49ddcc4606',extremes,Wildfire,#d60d2b,wmo,Wildfire Kit Carson County Cheyenne Dundy,2026-02-25T04:32:00+00:00,United States,0.6329709338693196,1,1,en,CNA,North-America
 'b090a525b1',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Chatham Islands,2026-02-17T04:31:00+00:00,New Zealand,0.6328116209949167,1,1,en,NZ,Oceania
+'f471382829',extremes,Heat Wave,#c40202,wmo,Heat Wave Santa Ana Mountains and Foothills,2026-03-14T04:22:00+00:00,United States,0.632620562315113,1,1,en,CNA,North-America
 '3cf1d049fc',extremes,Storm,#b3b2b1,wmo,Storm North Vancouver Island,2026-02-22T04:30:00+00:00,Canada,0.6325943119511763,2,1,en,NEN,North-America
+'73e6eaff5a',extremes,Heat Wave,#c40202,wmo,Heat Wave Riverside County Mountains,2026-03-18T04:36:00+00:00,United States,0.6325037774092688,1,1,en,CNA,North-America
 'fdca6c3d52',extremes,Flood,#030ba1,wmo,Flood Jackson AR Woodruff AR,2026-02-20T04:27:00+00:00,United States,0.6324620737046838,1,1,en,CNA,North-America
 '868b77acf9',extremes,Storm,#b3b2b1,wmo,Storm Surge West Vancouver Island,2026-02-22T04:30:00+00:00,Canada,0.6324378490028644,1,1,en,NEN,North-America
 '108f090c01',extremes,Storm,#b3b2b1,wmo,Storm Surge Southern Chatham Strait,2026-03-13T04:25:00+00:00,United States,0.6322943294847068,1,1,en,CNA,North-America
@@ -279,6 +274,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11d653a06b',extremes,Flood,#030ba1,wmo,Flashflood Queensland Lower Brisbane River,2026-02-14T04:21:00+00:00,Australia,0.6320079114979686,1,1,en,CAU,Oceania
 '42a5dce9e6',extremes,Wildfire,#d60d2b,wmo,Wildfire Manipur,2026-03-11T04:22:00+00:00,India,0.6319989198865106,1,1,en,SAS,Asia
 '66825f8cc1',extremes,Precipitation,#d60d2b,wmo,Rain Eswatini,2026-03-07T04:12:00+00:00,Eswatini,0.6319210029399295,1,1,en,ESAF,Africa
+'4f6cb19be9',extremes,Precipitation,#d60d2b,wmo,Rain Solomon Islands,2026-03-18T04:36:00+00:00,Solomon Islands,0.6317014578890124,1,1,en,EPO,Oceania
 'd15fd56319',extremes,Wildfire,#d60d2b,wmo,Wildfire Jones Lyman Buffalo,2026-02-15T04:35:00+00:00,United States,0.6315481377549691,1,1,en,CNA,North-America
 'd1cf9cc390',extremes,Snow&Ice,#d60d2b,wmo,Frost Kugaaruk,2026-02-12T04:37:00+00:00,Canada,0.6315266117726644,1,1,en,NEN,North-America
 'f986239716',extremes,Wildfire,#d60d2b,wmo,Wildfire Gujarat,2026-03-09T04:31:00+00:00,India,0.6314694859714033,1,1,en,SAS,Asia
@@ -289,6 +285,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c1d890674',extremes,Flood,#030ba1,wmo,Flashflood Victoria South Gippsland Rivers,2026-02-25T04:32:00+00:00,Australia,0.6310848207603003,1,1,en,CAU,Oceania
 'f108280b3d',extremes,Wildfire,#d60d2b,wmo,Wildfire West Bengal,2026-03-11T04:22:00+00:00,India,0.6309843420727133,1,1,en,SAS,Asia
 'f68f62491e',extremes,Flood,#030ba1,wmo,Flooding Western Australia Avon River,2026-02-12T04:37:00+00:00,Australia,0.6309724413631074,1,1,en,CAU,Oceania
+'63d67b0640',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Coastal Areas,2026-03-18T04:36:00+00:00,United States,0.6309091430041782,1,1,en,CNA,North-America
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-03-07T04:12:00+00:00,New Zealand,0.6308349000373721,1,1,en,NZ,Oceania
 '4e9eda17a4',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Adams ID Idaho ID Valley ID,2026-02-25T04:32:00+00:00,United States,0.6308232726556134,1,1,en,CNA,North-America
 'b75f48af90',extremes,Flood,#030ba1,wmo,Flashflood Western Australia Sandy Desert,2026-02-18T04:34:00+00:00,Australia,0.6305997674350022,1,1,en,CAU,Oceania
@@ -298,6 +295,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79f3bcd2ec',extremes,Snow&Ice,#d60d2b,wmo,Frost Manning Skagit Valley,2026-02-23T04:37:00+00:00,Canada,0.6304530301456802,1,1,en,NEN,North-America
 '4d215a9178',extremes,Storm,#b3b2b1,wmo,Storm Frederick Sound,2026-03-13T04:25:00+00:00,United States,0.6301306678084131,1,1,en,CNA,North-America
 'a60f2d695c',extremes,Flood,#030ba1,wmo,Flooding Josephine OR,2026-02-25T04:32:00+00:00,United States,0.6300453507181021,1,1,en,CNA,North-America
+'7b66a30559',extremes,Heat Wave,#c40202,wmo,Heat Wave San Gorgonio Pass Near Banning,2026-03-18T04:36:00+00:00,United States,0.6299641989168928,1,1,en,CNA,North-America
 '8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Kargil district of Ladakh,2026-03-07T04:12:00+00:00,India,0.6299139430030489,1,1,en,SAS,Asia
 '433c40e193',extremes,Flood,#030ba1,aidr,Flood Warmun Kimberley 2011,2026-02-13T04:34:00+00:00,Australia,0.6298944728498874,1,1,en,NAU,Oceania
 '11064c7a71',extremes,Drought,#edc291,edo,Drought Falkland Islands,2026-03-04T04:21:00+00:00,Falkland Islands,0.6296288253384227,1,1,en,SSA,South-America
@@ -419,4 +417,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad41fee440',extremes,Earthquake,#870007,usgs,Earthquake Lata,2026-02-25T04:32:00+00:00,Solomon Islands,0.6187738097882648,1,1,en,SPO,Pacific Ocean
 '8dd553fc3b',extremes,Flood,#030ba1,wmo,Flashflood Queensland Balonne River,2026-02-14T04:21:00+00:00,Australia,0.6187115341339439,1,1,en,CAU,Oceania
 'a475a1c3f5',extremes,Flood,#030ba1,wmo,Flashflood Victoria Yarra River to Coldstream,2026-02-24T04:31:00+00:00,Australia,0.6186398780000852,1,1,en,CAU,Oceania
+'281bc72436',extremes,Flood,#030ba1,wmo,Flood Queensland Weir River,2026-02-13T04:34:00+00:00,Australia,0.6186189863259396,1,1,en,CAU,Oceania
 '7848abdd49',extremes,Flood,#030ba1,wmo,Flashflood Queensland Staaten River,2026-02-18T04:34:00+00:00,Australia,0.6185684819851647,1,1,en,CAU,Oceania
+'56442a18a4',extremes,Flood,#030ba1,wmo,Flashflood Northern Territory Finniss River,2026-03-03T04:27:00+00:00,Australia,0.6185488886570482,1,1,en,CAU,Oceania
