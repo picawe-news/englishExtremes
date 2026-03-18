@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Australia,2026-01-24T03:48:00+00:00,Australia,0.7744911233265848,1,3,en,CAU,Oceania
 'f4588f7cf3',extremes,Flood,#030ba1,wmo,Flooding South Australia River Murray in SA,2026-02-27T04:26:00+00:00,Australia,0.7731215448298182,1,2,en,CAU,Oceania
 '06daa69aff',extremes,Flood,#030ba1,wmo,Flooding South Australia Yorke Peninsula,2026-02-28T04:07:00+00:00,Australia,0.7725329287706643,1,2,en,CAU,Oceania
-'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-01-27T03:58:00+00:00,India,0.7722062933749227,1,2,en,SAS,Asia
 'c81174efde',extremes,Flood,#030ba1,wmo,Flood Queensland Black River,2026-02-18T04:34:00+00:00,Australia,0.7721237908397508,1,2,en,CAU,Oceania
 '14e5fa2281',extremes,Flood,#030ba1,wmo,Flood Queensland Upper Brisbane River,2026-02-11T04:41:00+00:00,Australia,0.7696463552959664,1,2,en,CAU,Oceania
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-02-08T04:43:00+00:00,Canada,0.7689399370939854,2,3,en,NEN,North-America
@@ -23,10 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.7379274882053499,1,3,en,NZ,Oceania
 '047f353885',extremes,Heat Wave,#c40202,acwe,heatwave Western Australia,2026-03-11T04:23:00+00:00,Australia,0.7365427917828176,1,1,en,CAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7346344852411275,1,3,en,CAU,Oceania
-'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-03-01T04:34:00+00:00,Solomon Islands,0.728906242717106,0,1,en,SPO,Pacific Ocean
-'8dd553fc3b',extremes,Flood,#030ba1,wmo,Flashflood Queensland Balonne River,2026-02-14T04:21:00+00:00,Australia,0.7278959225105223,0,1,en,CAU,Oceania
-'a475a1c3f5',extremes,Flood,#030ba1,wmo,Flashflood Victoria Yarra River to Coldstream,2026-02-24T04:31:00+00:00,Australia,0.7278116211765709,0,1,en,CAU,Oceania
-'c8dc109b8a',extremes,Flood,#030ba1,wmo,Flood South Australia Gawler River,2026-02-26T04:29:00+00:00,Australia,0.7278030523695131,0,1,en,CAU,Oceania
 'ad41fee440',extremes,Earthquake,#870007,usgs,Earthquake Lata,2026-02-25T04:32:00+00:00,Solomon Islands,0.7277926997508998,0,1,en,SPO,Pacific Ocean
 '7848abdd49',extremes,Flood,#030ba1,wmo,Flashflood Queensland Staaten River,2026-02-18T04:34:00+00:00,Australia,0.7277276258648996,0,1,en,CAU,Oceania
 '56442a18a4',extremes,Flood,#030ba1,wmo,Flashflood Northern Territory Finniss River,2026-03-03T04:27:00+00:00,Australia,0.7277045748906449,0,1,en,CAU,Oceania
@@ -88,7 +83,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0452bbb3d4',extremes,Flood,#030ba1,wmo,Flooding Queensland Staaten River,2026-02-27T04:26:00+00:00,Australia,0.7222693429981794,0,1,en,CAU,Oceania
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-03-12T04:26:00+00:00,United States,0.7216828413366995,0,1,en,CNA,North-America
 '0b8e917c24',extremes,Storm,#b3b2b1,wmo,Storm Surge Picton Sandbanks Park,2026-03-17T04:30:00+00:00,Canada,0.7216375311297387,0,1,en,NEN,North-America
-'3d4880a15e',extremes,Heat Wave,#c40202,acwe,warm spell South Australia,2026-01-28T03:57:00+00:00,Australia,0.7215358994353178,1,2,en,SAU,Oceania
 '58d0a418c4',extremes,Flood,#030ba1,wmo,Flashflood South Australia Fleurieu Peninsula,2026-02-28T04:07:00+00:00,Australia,0.7214817199823749,0,1,en,CAU,Oceania
 '54874d885e',extremes,Flood,#030ba1,wmo,Flood New South Wales Willandra Lakes,2026-03-05T04:24:00+00:00,Australia,0.7212231774257329,0,1,en,CAU,Oceania
 'd86c00e822',extremes,Flood,#030ba1,wmo,Flooding Northern Territory Barkly,2026-02-05T04:27:00+00:00,Australia,0.7210790009465154,1,2,en,CAU,Oceania
@@ -411,8 +405,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f015d53cc',extremes,Flood,#030ba1,wmo,Flood Queensland Warrego River QLD,2026-02-14T04:21:00+00:00,Australia,0.6197895875666004,1,1,en,CAU,Oceania
 'a22d1b5c5d',extremes,Flood,#030ba1,wmo,Flood Clay IL Richland IL,2026-03-06T04:21:00+00:00,United States,0.6197093341252368,1,1,en,CNA,North-America
 'e98bbbbe23',extremes,Drought,#edc291,edo,Drought British Indian Ocean Territory,2026-02-15T04:35:00+00:00,British Indian Ocean Territory,0.6195724992513989,1,1,en,EIO,Indian Ocean
+'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-03-01T04:34:00+00:00,Solomon Islands,0.6195703063095401,1,1,en,SPO,Pacific Ocean
 '2c544bc3cb',extremes,Flood,#030ba1,wmo,Flooding Daviess IN Greene IN Knox IN,2026-03-04T04:20:00+00:00,United States,0.6193958606847839,1,1,en,CNA,North-America
 '97e10345d1',extremes,Flood,#030ba1,wmo,Flashflood Queensland Logan and Albert Rivers,2026-02-13T04:34:00+00:00,Australia,0.6192854871561132,1,1,en,CAU,Oceania
 'a6c0ce7e4a',extremes,Flood,#030ba1,wmo,Flashflood New South Wales Richmond River,2026-02-14T04:21:00+00:00,Australia,0.6192513252770308,1,1,en,CAU,Oceania
 '3d84dbb72f',extremes,Storm,#b3b2b1,wmo,Storm Clarence Strait,2026-03-12T04:26:00+00:00,United States,0.6191854748045911,1,1,en,CNA,North-America
 '8b36be7a01',extremes,Flood,#030ba1,wmo,Flooding Lawrence IL,2026-03-06T04:21:00+00:00,United States,0.6189026978683931,1,1,en,CNA,North-America
+'c8dc109b8a',extremes,Flood,#030ba1,wmo,Flood South Australia Gawler River,2026-02-26T04:29:00+00:00,Australia,0.6187826095140861,1,1,en,CAU,Oceania
+'8dd553fc3b',extremes,Flood,#030ba1,wmo,Flashflood Queensland Balonne River,2026-02-14T04:21:00+00:00,Australia,0.6187115341339439,1,1,en,CAU,Oceania
+'a475a1c3f5',extremes,Flood,#030ba1,wmo,Flashflood Victoria Yarra River to Coldstream,2026-02-24T04:31:00+00:00,Australia,0.6186398780000852,1,1,en,CAU,Oceania
