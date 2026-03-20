@@ -26,11 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-02-25T04:32:00+00:00,Australia,0.727598657833526,1,3,en,CAU,Oceania
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-02-06T04:28:00+00:00,Australia,0.7274431163234651,1,3,en,EAU,Oceania
 'cf6542710b',extremes,Fog,#d60d2b,wmo,Fog Two Harbors to Duluth MN,2026-02-17T04:31:00+00:00,United States,0.7272727719643565,1,1,en,CNA,North-America
-'36903faa57',extremes,Flood,#030ba1,wmo,Flashflood Northern Territory Barkly,2026-02-19T04:32:00+00:00,Australia,0.7266442700590889,0,1,en,CAU,Oceania
-'c9ae36ff90',extremes,Flood,#030ba1,wmo,Flashflood Shelby IN,2026-03-06T04:21:00+00:00,United States,0.7266268489261017,0,1,en,CNA,North-America
-'1fca18bce1',extremes,Flood,#030ba1,wmo,Flashflood Queensland Tully River,2026-02-17T04:31:00+00:00,Australia,0.7266205546362285,0,1,en,CAU,Oceania
-'1923c16449',extremes,Flood,#030ba1,wmo,Flashflood Greene IN Monroe IN Owen IN,2026-03-07T04:12:00+00:00,United States,0.7266131365856495,0,1,en,CNA,North-America
-'2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-02-26T04:28:00+00:00,New Zealand,0.7266050247763597,0,1,en,NZ,Oceania
 'bf37dbf3d7',extremes,Thunderstorm,#53785a,wmo,Hail New Zealand,2026-02-14T04:21:00+00:00,New Zealand,0.7265661024599138,0,1,en,NZ,Oceania
 '197bb68e5e',extremes,Flood,#030ba1,wmo,Flood Greene IN Monroe IN Owen IN,2026-03-05T04:24:00+00:00,United States,0.7264783783533882,0,1,en,CNA,North-America
 '0a870c3511',extremes,Flood,#030ba1,wmo,Flooding Lawrence IN Martin IN,2026-03-07T04:12:00+00:00,United States,0.7263754959627169,0,1,en,CNA,North-America
@@ -312,6 +307,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-03-14T04:22:00+00:00,Seychelles,0.6292525989719675,1,1,en,EIO,Africa
 'ca71b12deb',extremes,Flood,#030ba1,wmo,Flashflood Guam Rota Tinian Saipan,2026-02-25T04:32:00+00:00,United States,0.6290791599333415,1,1,en,CNA,North-America
 '463a80336c',extremes,Flood,#030ba1,wmo,Flooding Queensland Barcoo River,2026-02-14T04:21:00+00:00,Australia,0.6290588445908784,1,1,en,CAU,Oceania
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-02-26T04:28:00+00:00,New Zealand,0.6289880554716705,1,1,en,NZ,Oceania
 '628c910b11',extremes,Flood,#030ba1,aidr,Flood Flooding New South Wales 2022,2026-03-15T04:45:00+00:00,Australia,0.6289280646514027,1,1,en,EAU,Oceania
 '810cb157e5',extremes,Snow&Ice,#d60d2b,wmo,Freezing Naujaat,2026-02-22T04:30:00+00:00,Canada,0.62889235960524,1,1,en,NEN,North-America
 '82e69a1846',extremes,Tsunami,#690191,usgs,Tsunami Meadow Lakes,2026-02-11T04:41:00+00:00,United States,0.6288162661508844,1,1,en,NWN,North-America
@@ -428,3 +424,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6285942e56',extremes,Flood,#030ba1,wmo,Flood South Australia Onkaparinga River,2026-02-26T04:29:00+00:00,Australia,0.6178845062846359,1,1,en,CAU,Oceania
 'f758520f0f',extremes,Wildfire,#d60d2b,wmo,Wildfire Kit Carson County Cheyenne,2026-03-04T04:20:00+00:00,United States,0.617870210585859,1,1,en,CNA,North-America
 'be0bca979b',extremes,Flood,#030ba1,wmo,Flooding New South Wales Lake Frome,2026-02-24T04:31:00+00:00,Australia,0.6177382530109177,1,1,en,CAU,Oceania
+'36903faa57',extremes,Flood,#030ba1,wmo,Flashflood Northern Territory Barkly,2026-02-19T04:32:00+00:00,Australia,0.6176476295502256,1,1,en,CAU,Oceania
+'c9ae36ff90',extremes,Flood,#030ba1,wmo,Flashflood Shelby IN,2026-03-06T04:21:00+00:00,United States,0.6176328215871865,1,1,en,CNA,North-America
+'1fca18bce1',extremes,Flood,#030ba1,wmo,Flashflood Queensland Tully River,2026-02-17T04:31:00+00:00,Australia,0.6176274714407942,1,1,en,CAU,Oceania
+'1923c16449',extremes,Flood,#030ba1,wmo,Flashflood Greene IN Monroe IN Owen IN,2026-03-07T04:12:00+00:00,United States,0.617621166097802,1,1,en,CNA,North-America
