@@ -111,7 +111,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '104394a0b0',extremes,Storm,#b3b2b1,wmo,Storm Grise Fiord,2026-02-28T04:07:00+00:00,Canada,0.7156093534220104,0,1,en,NEN,North-America
 'cff7fc564f',extremes,Flood,#030ba1,wmo,Flooding Gibson IN Knox IN,2026-03-08T04:24:00+00:00,United States,0.7155388537228129,0,1,en,CNA,North-America
 '5d48d7bd6f',extremes,Flood,#030ba1,wmo,Flashflood South Australia River Murray in SA,2026-02-28T04:07:00+00:00,Australia,0.7155174825024161,0,1,en,CAU,Oceania
+'c8055c728f',extremes,Flood,#030ba1,aidr,Flood Victoria 2012,2026-03-15T04:45:00+00:00,Australia,0.7148040483417659,0,1,en,SAU,Oceania
+'000f88797f',extremes,Flood,#030ba1,wmo,Flood Gibson IN,2026-03-08T04:24:00+00:00,United States,0.7147929006925392,0,1,en,CNA,North-America
+'ce49293b0b',extremes,Flood,#030ba1,wmo,Flashflood Victoria Avoca River,2026-03-03T04:27:00+00:00,Australia,0.7142681018941285,0,1,en,CAU,Oceania
+'79a70d20fa',extremes,Storm,#b3b2b1,wmo,Storm Surge Cross Sound,2026-03-03T04:27:00+00:00,United States,0.7141631494886675,0,1,en,CNA,North-America
+'86ad6c8636',extremes,Flood,#030ba1,wmo,Flashflood Queensland Jeannie River,2026-03-06T04:21:00+00:00,Australia,0.7141558516730082,0,1,en,CAU,Oceania
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-02-26T04:29:00+00:00,Australia,0.7138584788546196,1,2,en,EAU,Oceania
+'66ed778010',extremes,Wildfire,#d60d2b,wmo,Wildfire Jharkhand,2026-03-11T04:22:00+00:00,India,0.7130471744405111,0,1,en,SAS,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-02-26T04:29:00+00:00,Australia,0.7120177530749453,1,3,en,CAU,Oceania
 '2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL Provinces,2026-01-29T04:19:00+00:00,Solomon Islands,0.7106564075328912,1,3,en,EPO,Oceania
 '03c7ee6412',extremes,Wildfire,#d60d2b,wmo,Wildfire East Central Plains,2026-02-19T04:32:00+00:00,United States,0.70998340844871,1,2,en,CNA,North-America
