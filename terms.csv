@@ -88,6 +88,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c61faa181',extremes,Flood,#030ba1,wmo,Flashflood Marion IN,2026-03-06T04:21:00+00:00,United States,0.7182612134610025,0,1,en,CNA,North-America
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2026-03-13T04:25:00+00:00,India,0.7180391239848674,0,1,en,SAS,Asia
 'ac282e85c4',extremes,Earthquake,#870007,usgs,Earthquake Kavieng,2026-03-07T04:12:00+00:00,Papua New Guinea,0.7178552120362045,0,1,en,EPO,Pacific Ocean
+'8acbeed8e6',extremes,Wildfire,#d60d2b,wmo,Wildfire Tillman Wilbarger,2026-03-21T04:17:00+00:00,United States,0.717798730375889,0,1,en,CNA,North-America
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,Flooding South Australia Warburton,2026-03-04T04:20:00+00:00,Australia,0.7177242840208358,0,1,en,CAU,Oceania
 'ab48d44b11',extremes,Storm,#b3b2b1,wmo,Storm Surge Grise Fiord,2026-02-27T04:26:00+00:00,Canada,0.7172695509998306,0,1,en,NEN,North-America
 '55c434e29b',extremes,Snow&Ice,#d60d2b,wmo,Freezing Resurrection Bay,2026-02-26T04:29:00+00:00,United States,0.7172693247779265,0,1,en,CNA,North-America
@@ -110,7 +111,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '86ad6c8636',extremes,Flood,#030ba1,wmo,Flashflood Queensland Jeannie River,2026-03-06T04:21:00+00:00,Australia,0.7141558516730082,0,1,en,CAU,Oceania
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-02-26T04:29:00+00:00,Australia,0.7138584788546196,1,2,en,EAU,Oceania
 '66ed778010',extremes,Wildfire,#d60d2b,wmo,Wildfire Jharkhand,2026-03-11T04:22:00+00:00,India,0.7130471744405111,0,1,en,SAS,Asia
+'dd77b1ef9f',extremes,Flood,#030ba1,wmo,Flashflood Northern Territory Rosie River,2026-03-04T04:20:00+00:00,Australia,0.7127161713922086,0,1,en,CAU,Oceania
+'1189438cf7',extremes,Flood,#030ba1,wmo,Flood Victoria Portland Coast,2026-03-01T04:35:00+00:00,Australia,0.7123175247979862,0,1,en,CAU,Oceania
+'c5260711ba',extremes,Fog,#d60d2b,wmo,Fog Gatineau,2026-03-08T04:24:00+00:00,Canada,0.7120480899571262,0,1,en,NEN,North-America
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-02-26T04:29:00+00:00,Australia,0.7120177530749453,1,3,en,CAU,Oceania
+'dee30fe053',extremes,Flood,#030ba1,wmo,Flooding Noble IN,2026-03-20T04:26:00+00:00,United States,0.7114545355460742,0,1,en,CNA,North-America
+'39149f5cac',extremes,Snow&Ice,#d60d2b,wmo,Freezing Whistler,2026-03-16T05:05:00+00:00,Canada,0.7111764195660877,0,1,en,NEN,North-America
 '2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL Provinces,2026-01-29T04:19:00+00:00,Solomon Islands,0.7106564075328912,1,3,en,EPO,Oceania
 '03c7ee6412',extremes,Wildfire,#d60d2b,wmo,Wildfire East Central Plains,2026-02-19T04:32:00+00:00,United States,0.70998340844871,1,2,en,CNA,North-America
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-03-09T04:31:00+00:00,Australia,0.7056491319206862,1,1,en,EAU,Oceania
