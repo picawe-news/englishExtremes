@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e61953e38',extremes,Flood,#030ba1,wmo,Flood Victoria Maribyrnong River,2026-02-23T04:37:00+00:00,Australia,0.8075485968288787,2,2,en,CAU,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-02-26T04:29:00+00:00,United States,0.7954871160240831,1,3,en,CNA,North-America
 'c81174efde',extremes,Flood,#030ba1,wmo,Flood Queensland Black River,2026-02-18T04:34:00+00:00,Australia,0.7721237908397508,1,2,en,CAU,Oceania
+'9969e8e386',extremes,Flood,#030ba1,emdat,Flood Central region,2026-03-24T04:32:00+00:00,Kenya,0.7701979009450103,0,1,en,SEAF,Africa
 '14e5fa2281',extremes,Flood,#030ba1,wmo,Flood Queensland Upper Brisbane River,2026-02-11T04:41:00+00:00,Australia,0.7696463552959664,1,2,en,CAU,Oceania
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-02-08T04:43:00+00:00,Canada,0.7689399370939854,2,3,en,NEN,North-America
 '646c8fcbdf',extremes,Flood,#030ba1,wmo,Flood New South Wales Darling River,2026-02-25T04:32:00+00:00,Australia,0.7679342280824992,1,2,en,CAU,Oceania
@@ -14,8 +15,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-02-26T04:29:00+00:00,Australia,0.7537284834126318,1,3,en,CAU,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
+'586bd179b6',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Great Barrier Island,2026-03-24T04:31:00+00:00,New Zealand,0.7481344273955519,0,1,en,NZ,Oceania
+'37f2dd7de8',extremes,Precipitation,#d60d2b,wmo,Precipitation Bay of Plenty west of Whakatane,2026-03-24T04:31:00+00:00,New Zealand,0.7441171667001786,0,1,en,NZ,Oceania
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-02-26T04:29:00+00:00,Canada,0.7425568746649859,1,3,en,NEN,North-America
 '1208bd05da',extremes,Precipitation,#d60d2b,wmo,Rain Fiordland west of the Lakes,2026-03-16T05:05:00+00:00,New Zealand,0.742405177509347,2,2,en,NZ,Oceania
+'bd3d425160',extremes,Snow&Ice,#d60d2b,wmo,Ice Bering Sea Offshore East of 171W,2026-03-20T04:26:00+00:00,United States,0.741911927369838,0,1,en,CNA,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.7379274882053499,1,3,en,NZ,Oceania
 '047f353885',extremes,Heat Wave,#c40202,acwe,heatwave Western Australia,2026-03-11T04:23:00+00:00,Australia,0.7365427917828176,1,1,en,CAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7346344852411275,1,3,en,CAU,Oceania
@@ -60,7 +64,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccea2a6a3c',extremes,Snow&Ice,#d60d2b,wmo,Frost James Bay and La Grande River,2026-02-28T04:07:00+00:00,Canada,0.7194731946536168,0,1,en,NEN,North-America
 '87796e123c',extremes,Wildfire,#d60d2b,wmo,Wildfire Hamilton Stanton Morton,2026-03-05T04:24:00+00:00,United States,0.7193577101490971,0,1,en,CNA,North-America
 '9149abf0e5',extremes,Flood,#030ba1,wmo,Flashflood Queensland Watson River,2026-03-02T04:27:00+00:00,Australia,0.719260282811596,0,1,en,CAU,Oceania
+'aaa59dbd70',extremes,Flood,#030ba1,wmo,Flooding Wood WI,2026-03-24T04:31:00+00:00,United States,0.7190304016799525,0,1,en,CNA,North-America
 '56ec1d3897',extremes,Drought,#edc291,edo,Drought Uganda,2026-03-03T04:27:00+00:00,Uganda,0.7189320409752302,0,1,en,SEAF,Africa
+'13f6b2793d',extremes,Storm,#b3b2b1,wmo,Storm Highway 97 Pine Pass,2026-03-24T04:31:00+00:00,Canada,0.7188622437611446,0,1,en,NEN,North-America
 'b770b8010a',extremes,Flood,#030ba1,wmo,Flashflood Crawford MO,2026-03-06T04:21:00+00:00,United States,0.7188423542812232,0,1,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-03-17T04:30:00+00:00,United States,0.7186825486571372,0,1,en,CNA,North-America
 '2deed2a7cd',extremes,Flood,#030ba1,wmo,Flooding Victoria Maribyrnong River,2026-03-01T04:35:00+00:00,Australia,0.718682277398881,0,1,en,CAU,Oceania
