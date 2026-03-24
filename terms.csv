@@ -4,7 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e61953e38',extremes,Flood,#030ba1,wmo,Flood Victoria Maribyrnong River,2026-02-23T04:37:00+00:00,Australia,0.8075485968288787,2,2,en,CAU,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-02-26T04:29:00+00:00,United States,0.7954871160240831,1,3,en,CNA,North-America
 'c81174efde',extremes,Flood,#030ba1,wmo,Flood Queensland Black River,2026-02-18T04:34:00+00:00,Australia,0.7721237908397508,1,2,en,CAU,Oceania
-'9969e8e386',extremes,Flood,#030ba1,emdat,Flood Central region,2026-03-24T04:32:00+00:00,Kenya,0.7701979009450103,0,1,en,SEAF,Africa
 '14e5fa2281',extremes,Flood,#030ba1,wmo,Flood Queensland Upper Brisbane River,2026-02-11T04:41:00+00:00,Australia,0.7696463552959664,1,2,en,CAU,Oceania
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-02-08T04:43:00+00:00,Canada,0.7689399370939854,2,3,en,NEN,North-America
 '646c8fcbdf',extremes,Flood,#030ba1,wmo,Flood New South Wales Darling River,2026-02-25T04:32:00+00:00,Australia,0.7679342280824992,1,2,en,CAU,Oceania
@@ -138,6 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-02-25T04:32:00+00:00,Australia,0.6831091294209927,1,2,en,CAU,Oceania
 '8ea43c4eba',extremes,Flood,#030ba1,wmo,Flood South Australia Lake Eyre,2026-02-23T04:37:00+00:00,Australia,0.6801224301036913,1,1,en,CAU,Oceania
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,Storm Northland,2026-03-23T04:42:00+00:00,New Zealand,0.6775682137351388,1,1,en,NZ,Oceania
+'9969e8e386',extremes,Flood,#030ba1,emdat,Flood Central region,2026-03-24T04:32:00+00:00,Kenya,0.6735324408032587,1,2,en,SEAF,Africa
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2026-03-08T04:25:00+00:00,Australia,0.6725042102575348,1,1,en,EAU,Oceania
 'ae657332f9',extremes,Wildfire,#d60d2b,acwe,fire ban New South Wales,2026-03-09T04:31:00+00:00,Australia,0.672153983546944,1,1,en,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,warm spell Tasmania,2026-03-05T04:24:00+00:00,Australia,0.6716061114629979,1,1,en,SAU,Oceania
