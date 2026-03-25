@@ -24,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf6542710b',extremes,Fog,#d60d2b,wmo,Fog Two Harbors to Duluth MN,2026-02-17T04:31:00+00:00,United States,0.7272727719643565,1,1,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-02-25T04:32:00+00:00,United States,0.7250461618449701,0,1,en,CNA,North-America
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-03-15T04:45:00+00:00,India,0.7230001412392131,0,1,en,SAS,Asia
-'1a8d81c213',extremes,Flood,#030ba1,wmo,Flooding Queensland Mossman River,2026-03-03T04:27:00+00:00,Australia,0.722717993780773,0,1,en,CAU,Oceania
 '02aa67cb6a',extremes,Flood,#030ba1,wmo,Flood Victoria South Gippsland Rivers,2026-02-24T04:31:00+00:00,Australia,0.722668571553643,0,1,en,CAU,Oceania
 '71dc5934c5',extremes,Snow&Ice,#d60d2b,wmo,Frost Yellowhead,2026-02-27T04:26:00+00:00,Canada,0.7224778064907357,0,1,en,NEN,North-America
 '98d6f422a6',extremes,Flood,#030ba1,wmo,Flood New South Wales Paroo River NSW,2026-02-27T04:26:00+00:00,Australia,0.7223940899172554,0,1,en,CAU,Oceania
@@ -468,3 +467,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '846fa8fe30',extremes,Storm,#b3b2b1,wmo,Storm Surge Îles de la Madeleine,2026-02-24T04:31:00+00:00,Canada,0.6152454240103573,1,1,en,NEN,North-America
 '2293c26d43',extremes,Flood,#030ba1,wmo,Flashflood Hamilton OH,2026-03-06T04:21:00+00:00,United States,0.6151039232622912,1,1,en,CNA,North-America
 '8866871f34',extremes,Flood,#030ba1,wmo,Flood Burke GA Emanuel GA Jenkins GA,2026-03-03T04:27:00+00:00,United States,0.6149242583800876,1,1,en,CNA,North-America
+'1a8d81c213',extremes,Flood,#030ba1,wmo,Flooding Queensland Mossman River,2026-03-03T04:27:00+00:00,Australia,0.614760339713657,1,1,en,CAU,Oceania
