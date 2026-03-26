@@ -20,14 +20,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed16c91ca6',extremes,Storm,#b3b2b1,wmo,Storm Coromandel Peninsula and Waikato,2026-03-25T04:33:00+00:00,New Zealand,0.7477943280577343,0,1,en,NZ,Oceania
 'b1e4e07a7d',extremes,Precipitation,#d60d2b,wmo,Downpour Taranaki Maunga,2026-03-25T04:33:00+00:00,New Zealand,0.7474059616009713,0,1,en,NZ,Oceania
 '3ab04ce976',extremes,Precipitation,#d60d2b,wmo,Precipitation Great Barrier Island,2026-03-25T04:33:00+00:00,New Zealand,0.7458688525724901,0,1,en,NZ,Oceania
+'a905a2c4cf',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tasman west of Motueka,2026-03-25T04:33:00+00:00,New Zealand,0.7458386121960769,0,1,en,NZ,Oceania
+'ef64c13653',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Auckland south of Whangaparaoa,2026-03-25T04:33:00+00:00,New Zealand,0.7444301353628102,0,1,en,NZ,Oceania
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-02-26T04:29:00+00:00,Canada,0.7425568746649859,1,3,en,NEN,North-America
 '1208bd05da',extremes,Precipitation,#d60d2b,wmo,Rain Fiordland west of the Lakes,2026-03-16T05:05:00+00:00,New Zealand,0.742405177509347,2,2,en,NZ,Oceania
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.7379274882053499,1,3,en,NZ,Oceania
 '047f353885',extremes,Heat Wave,#c40202,acwe,heatwave Western Australia,2026-03-11T04:23:00+00:00,Australia,0.7365427917828176,1,1,en,CAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7346344852411275,1,3,en,CAU,Oceania
+'2540c92e89',extremes,Drought,#edc291,edo,Dryness Zambia,2026-03-10T04:22:00+00:00,Zambia,0.7344823291748884,0,1,en,ESAF,Africa
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-03-11T04:22:00+00:00,India,0.7335804120801557,0,1,en,SAS,Asia
+'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-03-19T04:35:00+00:00,Kenya,0.7319834174727283,0,1,en,SEAF,Africa
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-02-25T04:32:00+00:00,Australia,0.727598657833526,1,3,en,CAU,Oceania
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-02-06T04:28:00+00:00,Australia,0.7274431163234651,1,3,en,EAU,Oceania
 'cf6542710b',extremes,Fog,#d60d2b,wmo,Fog Two Harbors to Duluth MN,2026-02-17T04:31:00+00:00,United States,0.7272727719643565,1,1,en,CNA,North-America
+'8bb788b602',extremes,Wildfire,#d60d2b,wmo,Wildfire Assam,2026-03-11T04:22:00+00:00,India,0.7272142196255735,0,1,en,SAS,Asia
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-02-25T04:32:00+00:00,United States,0.7250461618449701,0,1,en,CNA,North-America
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-03-15T04:45:00+00:00,India,0.7230001412392131,0,1,en,SAS,Asia
 '71dc5934c5',extremes,Snow&Ice,#d60d2b,wmo,Frost Yellowhead,2026-02-27T04:26:00+00:00,Canada,0.7224778064907357,0,1,en,NEN,North-America
