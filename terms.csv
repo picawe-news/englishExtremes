@@ -18,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-02-26T04:29:00+00:00,Australia,0.7537284834126318,1,3,en,CAU,Oceania
 '81df6f3074',extremes,Storm,#b3b2b1,wmo,Storm Taupo and Taumarunui,2026-03-26T04:56:00+00:00,New Zealand,0.7506458899510449,0,1,en,NZ,Oceania
+'c0c49a9063',extremes,Wildfire,#d60d2b,wmo,Wildfire Kerala,2026-03-29T05:00:00+00:00,India,0.7492203428944074,0,1,en,SAS,Asia
 '0e378c6670',extremes,Precipitation,#d60d2b,wmo,Precipitation Taranaki Maunga,2026-03-26T04:56:00+00:00,New Zealand,0.7485023802271932,0,1,en,NZ,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-02-13T04:34:00+00:00,New Zealand,0.7482503778200132,1,2,en,NZ,Oceania
 'cb94a0fa32',extremes,Storm,#b3b2b1,wmo,Storm Coastal Dunedin,2026-03-26T04:56:00+00:00,New Zealand,0.7479048822931372,0,1,en,NZ,Oceania
@@ -50,6 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf6542710b',extremes,Fog,#d60d2b,wmo,Fog Two Harbors to Duluth MN,2026-02-17T04:31:00+00:00,United States,0.7272727719643565,1,1,en,CNA,North-America
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,Wildfire Assam,2026-03-11T04:22:00+00:00,India,0.7272142196255735,0,1,en,SAS,Asia
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-03-26T04:56:00+00:00,Australia,0.7262671639801314,0,1,en,CAU,Oceania
+'e83c91c507',extremes,Flood,#030ba1,wmo,Flashflood Coshocton OH,2026-03-29T05:00:00+00:00,United States,0.7262226477346533,0,1,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-02-25T04:32:00+00:00,United States,0.7250461618449701,0,1,en,CNA,North-America
 'd2f4c24db3',extremes,Flood,#030ba1,wmo,Flashflood Yakima WA,2026-03-21T04:17:00+00:00,United States,0.7236918773066884,0,1,en,CNA,North-America
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-03-15T04:45:00+00:00,India,0.7230001412392131,0,1,en,SAS,Asia
@@ -166,6 +168,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22dd120904',extremes,Storm,#b3b2b1,wmo,Storm Surge Avalon Peninsula North,2026-03-25T04:33:00+00:00,Canada,0.7042140323493954,0,1,en,NEN,North-America
 '9d230a1c12',extremes,Snow&Ice,#d60d2b,wmo,Ice India,2026-03-13T04:25:00+00:00,India,0.7035775035620366,0,1,en,SAS,Asia
 'f7c7d2541f',extremes,Flood,#030ba1,wmo,Flooding Kent MI,2026-03-19T04:35:00+00:00,United States,0.7033578982970597,0,1,en,CNA,North-America
+'05a0b46093',extremes,Wildfire,#d60d2b,wmo,Wildfire Eastern Beaverhead National Forest,2026-03-24T04:31:00+00:00,United States,0.7032686518359932,0,1,en,CNA,North-America
+'8b533aa307',extremes,Thunderstorm,#53785a,wmo,Severe Weather United States,2026-03-11T04:22:00+00:00,United States,0.7028684566995969,0,1,en,CNA,North-America
+'845c95a334',extremes,Flood,#030ba1,wmo,Flood Jackson WI,2026-03-23T04:42:00+00:00,United States,0.7027042915218104,0,1,en,CNA,North-America
+'f8cbd4a8f0',extremes,Flood,#030ba1,wmo,Flood La Crosse WI Trempealeau WI,2026-03-25T04:33:00+00:00,United States,0.7025248946267255,0,1,en,CNA,North-America
 'd5460f574c',extremes,Snow Avalanche,#deddd5,wmo,Avalanche West Glacier Region,2026-02-23T04:37:00+00:00,United States,0.7023533866700478,1,2,en,CNA,North-America
 '453697199c',extremes,Storm,#b3b2b1,wmo,Storm Ghana,2026-02-17T04:31:00+00:00,Ghana,0.6995368922342756,1,1,en,WAF,Africa
 '160f0acdd5',extremes,Flood,#030ba1,wmo,Flooding Queensland Noosa River,2026-02-15T04:35:00+00:00,Australia,0.6961254895237208,1,2,en,CAU,Oceania
