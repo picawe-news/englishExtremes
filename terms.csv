@@ -117,6 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dbbb6176e',extremes,Earthquake,#870007,usgs,Earthquake Rabaul,2026-03-08T04:24:00+00:00,Papua New Guinea,0.7153088070269068,0,1,en,EPO,Pacific Ocean
 '42d371f2ef',extremes,Storm,#b3b2b1,wmo,Storm Surge Cartwright to Black Tickle,2026-03-27T04:57:00+00:00,Canada,0.7152356473446432,0,1,en,NEN,North-America
 '9c28bd8698',extremes,Drought,#edc291,edo,Dry Spell South Sudan,2026-03-25T04:33:00+00:00,South Sudan,0.7152122244362453,0,1,en,NEAF,Africa
+'2c3316363e',extremes,Flood,#030ba1,wmo,Flashflood Monroe NY,2026-03-28T04:33:00+00:00,United States,0.7151470616592694,0,1,en,CNA,North-America
 'c8055c728f',extremes,Flood,#030ba1,aidr,Flood Victoria 2012,2026-03-15T04:45:00+00:00,Australia,0.7148040483417659,0,1,en,SAU,Oceania
 '000f88797f',extremes,Flood,#030ba1,wmo,Flood Gibson IN,2026-03-08T04:24:00+00:00,United States,0.7147929006925392,0,1,en,CNA,North-America
 'ce49293b0b',extremes,Flood,#030ba1,wmo,Flashflood Victoria Avoca River,2026-03-03T04:27:00+00:00,Australia,0.7142681018941285,0,1,en,CAU,Oceania
@@ -158,8 +159,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77732553a6',extremes,Storm,#b3b2b1,wmo,Storm Sea to Sky Squamish to Whistler,2026-03-18T04:36:00+00:00,Canada,0.7075246676661844,0,1,en,NEN,North-America
 'bfbe9cf805',extremes,Flood,#030ba1,wmo,Flooding St. Landry LA,2026-03-08T04:24:00+00:00,United States,0.7072747605272638,0,1,en,CNA,North-America
 '8cb8e6003e',extremes,Drought,#edc291,edo,Lack of Rain Saint Helena,2026-03-08T04:24:00+00:00,Saint Helena,0.7072544340201425,0,1,en,SAO,Atlantic Ocean
+'e2b5681a84',extremes,Drought,#edc291,edo,Drought Micronesia,2026-03-24T04:32:00+00:00,Micronesia,0.7069275287496296,0,1,en,NPO,Pacific Ocean
+'a732d30f34',extremes,Storm,#b3b2b1,wmo,Storm Yakutat Bay,2026-03-20T04:26:00+00:00,United States,0.7068635851867631,0,1,en,CNA,North-America
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-03-09T04:31:00+00:00,Australia,0.7056491319206862,1,1,en,EAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2026-02-27T04:26:00+00:00,Australia,0.7055493574738457,1,2,en,NAU,Oceania
+'22dd120904',extremes,Storm,#b3b2b1,wmo,Storm Surge Avalon Peninsula North,2026-03-25T04:33:00+00:00,Canada,0.7042140323493954,0,1,en,NEN,North-America
+'9d230a1c12',extremes,Snow&Ice,#d60d2b,wmo,Ice India,2026-03-13T04:25:00+00:00,India,0.7035775035620366,0,1,en,SAS,Asia
+'f7c7d2541f',extremes,Flood,#030ba1,wmo,Flooding Kent MI,2026-03-19T04:35:00+00:00,United States,0.7033578982970597,0,1,en,CNA,North-America
 'd5460f574c',extremes,Snow Avalanche,#deddd5,wmo,Avalanche West Glacier Region,2026-02-23T04:37:00+00:00,United States,0.7023533866700478,1,2,en,CNA,North-America
 '453697199c',extremes,Storm,#b3b2b1,wmo,Storm Ghana,2026-02-17T04:31:00+00:00,Ghana,0.6995368922342756,1,1,en,WAF,Africa
 '160f0acdd5',extremes,Flood,#030ba1,wmo,Flooding Queensland Noosa River,2026-02-15T04:35:00+00:00,Australia,0.6961254895237208,1,2,en,CAU,Oceania
