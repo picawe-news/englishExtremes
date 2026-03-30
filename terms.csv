@@ -173,7 +173,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '845c95a334',extremes,Flood,#030ba1,wmo,Flood Jackson WI,2026-03-23T04:42:00+00:00,United States,0.7027042915218104,0,1,en,CNA,North-America
 'f8cbd4a8f0',extremes,Flood,#030ba1,wmo,Flood La Crosse WI Trempealeau WI,2026-03-25T04:33:00+00:00,United States,0.7025248946267255,0,1,en,CNA,North-America
 'd5460f574c',extremes,Snow Avalanche,#deddd5,wmo,Avalanche West Glacier Region,2026-02-23T04:37:00+00:00,United States,0.7023533866700478,1,2,en,CNA,North-America
+'99da4710d4',extremes,Flood,#030ba1,wmo,Flashflood Kittson MN,2026-03-26T04:56:00+00:00,United States,0.7019265411480528,0,1,en,CNA,North-America
+'7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,Snow Australia,2026-03-26T04:56:00+00:00,Australia,0.7014278674035856,0,1,en,CAU,Oceania
+'0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-03-17T04:30:00+00:00,Australia,0.7011293821595794,0,1,en,CAU,Oceania
+'f47bbe218c',extremes,Flood,#030ba1,wmo,Flooding Juneau WI,2026-03-25T04:33:00+00:00,United States,0.7010694024749563,0,1,en,CNA,North-America
+'f1ffcdc5d3',extremes,Flood,#030ba1,wmo,Flood King WA,2026-03-19T04:35:00+00:00,United States,0.6996324523668305,0,1,en,CNA,North-America
 '453697199c',extremes,Storm,#b3b2b1,wmo,Storm Ghana,2026-02-17T04:31:00+00:00,Ghana,0.6995368922342756,1,1,en,WAF,Africa
+'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-03-14T04:22:00+00:00,India,0.699132937146722,0,1,en,SAS,Asia
 '160f0acdd5',extremes,Flood,#030ba1,wmo,Flooding Queensland Noosa River,2026-02-15T04:35:00+00:00,Australia,0.6961254895237208,1,2,en,CAU,Oceania
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-02-05T04:27:00+00:00,United States,0.6958661168159083,1,2,en,CNA,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-03-06T04:21:00+00:00,Canada,0.6902125677602436,1,2,en,NEN,North-America
