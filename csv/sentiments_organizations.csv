@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
-IMD,IMD,ORG,0.08745155038759693,0.5423934108527133,en,8.599999999999998
+IMD,IMD,ORG,0.08000886524822698,0.4962322695035461,en,9.399999999999999
+Environment Canada,Environment Canada,ORG,0.0895753937420604,0.2878166586499919,en,6.000000000000001
 Trump,Trump,ORG,-0.006003430531732419,0.5764246235944349,en,5.3
-Environment Canada,Environment Canada,ORG,0.12408384690993386,0.3464275257753518,en,4.6000000000000005
 Status Yellow,Status Yellow,ORG,0.17105263157894737,0.19736842105263158,en,3.8
 Greenland,Greenland,ORG,0.07526881720430109,0.5591397849462366,en,3.0999999999999996
 Avalanche Canada,Avalanche Canada,ORG,0.275974025974026,0.3246753246753247,en,2.8
@@ -10,135 +10,139 @@ VanEck,VanEck,ORG,0.13039044289044288,0.28846153846153844,en,2.6
 Chadster,Chadster,ORG,-0.14393939393939387,1.0555555555555554,en,2.2
 NSW,NSW,ORG,-0.02976190476190476,0.47619047619047616,en,2.1
 Team USA,Team USA,ORG,0.24939874939874937,0.42568542568542567,en,2.1
-EU,EU,ORG,0.540340909090909,0.546969696969697,en,2.0
+National Weather Service,National Weather Service,ORG,-0.08333333333333333,0.0,en,2.0
 the India Meteorological Department,the India Meteorological Department,ORG,0.17916666666666667,0.4979166666666667,en,2.0
 House,House,ORG,0.0,0.0,en,2.0
-National Weather Service,National Weather Service,ORG,-0.08333333333333333,0.0,en,2.0
+EU,EU,ORG,0.540340909090909,0.546969696969697,en,2.0
 UTMB,UTMB,ORG,0.6973684210526316,0.19298245614035087,en,1.9000000000000001
+Mercury,Mercury,ORG,0.07177033492822965,0.23923444976076552,en,1.9000000000000001
 TikTok,TikTok,ORG,0.12250322776638566,0.3796612743981165,en,1.9000000000000001
 Aedes,Aedes,ORG,-0.043859649122807015,0.34210526315789475,en,1.9000000000000001
-Mercury,Mercury,ORG,0.07177033492822965,0.23923444976076552,en,1.9000000000000001
-AVAX ETF,AVAX ETF,ORG,0.04945286195286196,0.23148148148148145,en,1.8
-SA,SA,ORG,0.0,0.0,en,1.8
-Pitt,Pitt,ORG,0.0,0.037037037037037035,en,1.8
-AVAX,AVAX,ORG,-0.11574074074074073,0.2361111111111111,en,1.8
-UBS,UBS,ORG,-0.006944444444444446,0.21296296296296294,en,1.8
-Infosys,Infosys,ORG,0.0,0.18518518518518517,en,1.8
 Juice,Juice,ORG,0.17676767676767677,0.3207070707070707,en,1.8
+AVAX,AVAX,ORG,-0.11574074074074073,0.2361111111111111,en,1.8
+SA,SA,ORG,0.0,0.0,en,1.8
+AVAX ETF,AVAX ETF,ORG,0.04945286195286196,0.23148148148148145,en,1.8
 Weekly Climate and Energy News Roundup,Weekly Climate and Energy News Roundup,ORG,0.0,0.0,en,1.8
-US Airlines Brace,US Airlines Brace,ORG,0.11213235294117646,0.29901960784313725,en,1.7
+UBS,UBS,ORG,-0.006944444444444446,0.21296296296296294,en,1.8
+Pitt,Pitt,ORG,0.0,0.037037037037037035,en,1.8
+Infosys,Infosys,ORG,0.0,0.18518518518518517,en,1.8
 The Bureau of Meteorology,The Bureau of Meteorology,ORG,0.11029411764705882,0.20915032679738563,en,1.7
 Pixel Weather,Pixel Weather,ORG,-0.2034313725490196,0.4117647058823529,en,1.7
-Toyota,Toyota,ORG,0.010504201680672273,0.1400560224089636,en,1.7
-Kashechewan First Nation,Kashechewan First Nation,ORG,0.22058823529411764,0.19607843137254902,en,1.7
 Barkly,Barkly,ORG,0.10784313725490197,0.2573529411764706,en,1.7
-AEW,AEW,ORG,0.5659722222222222,1.034722222222222,en,1.6
-Tarawera,Tarawera,ORG,0.8281250000000001,0.22916666666666669,en,1.6
-Google,Google,ORG,0.3125,0.0,en,1.6
-NHL,NHL,ORG,0.27343749999999994,0.22916666666666669,en,1.6
-NBA,NBA,ORG,0.0,0.0,en,1.6
-Metal Injection,Metal Injection,ORG,0.43773674242424243,0.47206439393939387,en,1.6
-the Met Office,the Met Office,ORG,0.21874999999999997,0.9375,en,1.6
-No Reserve,No Reserve,ORG,0.0,0.0,en,1.6
+Kashechewan First Nation,Kashechewan First Nation,ORG,0.22058823529411764,0.19607843137254902,en,1.7
+India News,India News,ORG,0.09803921568627452,0.5035650623885918,en,1.7
+US Airlines Brace,US Airlines Brace,ORG,0.11213235294117646,0.29901960784313725,en,1.7
+Toyota,Toyota,ORG,0.010504201680672273,0.1400560224089636,en,1.7
+WA,WA,ORG,-0.5294117647058824,0.5882352941176471,en,1.7
 Hockey Hall of Fame,Hockey Hall of Fame,ORG,0.34375,0.46875,en,1.6
+No Reserve,No Reserve,ORG,0.0,0.0,en,1.6
+NHL,NHL,ORG,0.27343749999999994,0.22916666666666669,en,1.6
+Tarawera,Tarawera,ORG,0.8281250000000001,0.22916666666666669,en,1.6
+NBA,NBA,ORG,0.0,0.0,en,1.6
+AEW,AEW,ORG,0.5659722222222222,1.034722222222222,en,1.6
+Google,Google,ORG,0.3125,0.0,en,1.6
+the Met Office,the Met Office,ORG,0.21874999999999997,0.9375,en,1.6
+Metal Injection,Metal Injection,ORG,0.43773674242424243,0.47206439393939387,en,1.6
 NRL,NRL,ORG,-0.3545454545454545,0.9333333333333332,en,1.5
-AGR,AGR,ORG,0.037037037037037035,0.18518518518518515,en,1.5
 NWS,NWS,ORG,0.0,0.0,en,1.5
+AGR,AGR,ORG,0.037037037037037035,0.18518518518518515,en,1.5
 NFL,NFL,ORG,-0.18939393939393945,0.5909090909090909,en,1.4
-The Motley Fool Australia,The Motley Fool Australia,ORG,0.5576923076923077,0.4444444444444445,en,1.3
-Interior,Interior,ORG,0.019230769230769235,0.0,en,1.3
-Fed,Fed,ORG,-0.038461538461538464,0.4230769230769231,en,1.3
-LSD,LSD,ORG,0.0,0.1923076923076923,en,1.3
-Science New Research,Science New Research,ORG,-0.27972027972027974,0.36713286713286714,en,1.3
-Preface,Preface,ORG,0.0,0.0,en,1.3
-Noida,Noida,ORG,-0.04807692307692307,0.14423076923076922,en,1.3
-Ghaziabad,Ghaziabad,ORG,0.0,0.0,en,1.3
-MPBSE,MPBSE,ORG,-0.23076923076923075,0.23076923076923075,en,1.3
-Pixel,Pixel,ORG,0.038461538461538464,0.3717948717948718,en,1.3
-Daily Press Briefing,Daily Press Briefing,ORG,0.0,0.0,en,1.3
-The Cheat Sheet,The Cheat Sheet,ORG,0.0,0.0,en,1.3
-Porsche,Porsche,ORG,0.07692307692307693,0.23076923076923075,en,1.3
-India News,India News,ORG,0.28554778554778554,0.34965034965034963,en,1.3
-Wests Tigers,Wests Tigers,ORG,-0.23076923076923075,0.0,en,1.3
-Glentoran,Glentoran,ORG,-0.15384615384615385,0.15384615384615385,en,1.3
-the Office of the Spokesperson,the Office of the Spokesperson,ORG,0.0,0.0,en,1.3
-Canada Soccer,Canada Soccer,ORG,0.10489510489510488,0.0,en,1.3
 UPSC Mains,UPSC Mains,ORG,0.07692307692307693,0.0,en,1.3
-DMI,DMI,ORG,0.1923076923076923,0.28846153846153844,en,1.3
+LSD,LSD,ORG,0.0,0.1923076923076923,en,1.3
+Noida,Noida,ORG,-0.04807692307692307,0.14423076923076922,en,1.3
+Preface,Preface,ORG,0.0,0.0,en,1.3
+the Office of the Spokesperson,the Office of the Spokesperson,ORG,0.0,0.0,en,1.3
+Daily Press Briefing,Daily Press Briefing,ORG,0.0,0.0,en,1.3
+Fed,Fed,ORG,-0.038461538461538464,0.4230769230769231,en,1.3
+MPBSE,MPBSE,ORG,-0.23076923076923075,0.23076923076923075,en,1.3
+Porsche,Porsche,ORG,0.07692307692307693,0.23076923076923075,en,1.3
+Ghaziabad,Ghaziabad,ORG,0.0,0.0,en,1.3
+Glentoran,Glentoran,ORG,-0.15384615384615385,0.15384615384615385,en,1.3
 NASA,NASA,ORG,0.1923076923076923,0.1923076923076923,en,1.3
+DMI,DMI,ORG,0.1923076923076923,0.28846153846153844,en,1.3
+Pixel,Pixel,ORG,0.038461538461538464,0.3717948717948718,en,1.3
+The Cheat Sheet,The Cheat Sheet,ORG,0.0,0.0,en,1.3
+Interior,Interior,ORG,0.019230769230769235,0.0,en,1.3
+Wests Tigers,Wests Tigers,ORG,-0.23076923076923075,0.0,en,1.3
+Canada Soccer,Canada Soccer,ORG,0.10489510489510488,0.0,en,1.3
+The Motley Fool Australia,The Motley Fool Australia,ORG,0.5576923076923077,0.4444444444444445,en,1.3
+Science New Research,Science New Research,ORG,-0.27972027972027974,0.36713286713286714,en,1.3
 NT,NT,ORG,0.0,0.0,en,1.2
-Target,Target,ORG,0.1388888888888889,0.1527777777777778,en,1.2
-AFP,AFP,ORG,-0.10416666666666671,0.5416666666666667,en,1.2
-Milan-Cortina 2026,Milan-Cortina 2026,ORG,0.0,0.0,en,1.2
-DVLA,DVLA,ORG,-0.6666666666666667,0.5277777777777778,en,1.2
-MetService,MetService,ORG,0.20833333333333334,0.0,en,1.2
-Lancia,Lancia,ORG,0.0,0.04166666666666667,en,1.2
 Super Bowl,Super Bowl,ORG,-0.032638888888888835,0.5555555555555556,en,1.2
-Pentagon,Pentagon,ORG,0.125,0.6041666666666667,en,1.2
-Bad Bunny,Bad Bunny,ORG,-0.30555555555555547,0.5555555555555556,en,1.2
+Milan-Cortina 2026,Milan-Cortina 2026,ORG,0.0,0.0,en,1.2
+Lancia,Lancia,ORG,0.0,0.04166666666666667,en,1.2
+Congress,Congress,ORG,0.03787878787878787,0.12626262626262627,en,1.2
 COVID,COVID,ORG,0.11904761904761904,0.4642857142857143,en,1.2
-The Fabric Modern Data Platform,The Fabric Modern Data Platform,ORG,0.16818181818181818,0.0,en,1.0
-the Breitbart Fight Club,the Breitbart Fight Club,ORG,0.1392857142857143,0.0,en,1.0
-UKHSA,UKHSA,ORG,-0.15,0.0,en,1.0
-Grok,Grok,ORG,0.06818181818181818,0.0,en,1.0
-Team World,Team World,ORG,0.0,0.0,en,1.0
-Elon Musk,Elon Musk,ORG,0.0,0.0,en,1.0
+Bad Bunny,Bad Bunny,ORG,-0.30555555555555547,0.5555555555555556,en,1.2
+DVLA,DVLA,ORG,-0.6666666666666667,0.5277777777777778,en,1.2
+Pentagon,Pentagon,ORG,0.125,0.6041666666666667,en,1.2
+MetService,MetService,ORG,0.20833333333333334,0.0,en,1.2
+AFP,AFP,ORG,-0.10416666666666671,0.5416666666666667,en,1.2
+Target,Target,ORG,0.1388888888888889,0.1527777777777778,en,1.2
+Bad Luck,Bad Luck,ORG,-0.6999999999999998,0.0,en,1.0
+Coheed,Coheed,ORG,0.032467532467532464,0.0,en,1.0
+Shinedown,Shinedown,ORG,0.032467532467532464,0.0,en,1.0
 the Data Protection Commission,the Data Protection Commission,ORG,0.0,0.0,en,1.0
-Barrick Reports,Barrick Reports,ORG,0.175,0.0,en,1.0
+Environment and Climate Change Canada,Environment and Climate Change Canada,ORG,0.35714285714285715,0.0,en,1.0
+ECCC,ECCC,ORG,0.35714285714285715,0.0,en,1.0
+Check Noida,Check Noida,ORG,0.0,0.0,en,1.0
+Octo,Octo,ORG,0.0,0.0,en,1.0
+Yellow,Yellow,ORG,0.0,0.0,en,1.0
+The India Meteorological Department,The India Meteorological Department,ORG,0.2,0.0,en,1.0
+Super 8s,Super 8s,ORG,0.23484848484848483,0.0,en,1.0
 MAVS,MAVS,ORG,0.0,0.0,en,1.0
 SHINEDOWN,SHINEDOWN,ORG,0.34545454545454546,0.0,en,1.0
-Yellow,Yellow,ORG,0.0,0.0,en,1.0
-Shinedown,Shinedown,ORG,0.032467532467532464,0.0,en,1.0
-Octo,Octo,ORG,0.0,0.0,en,1.0
-Modi,Modi,ORG,-0.5,0.0,en,1.0
-Coheed,Coheed,ORG,0.032467532467532464,0.0,en,1.0
+Delhi Weather,Delhi Weather,ORG,0.2,0.0,en,1.0
 Wolfram,Wolfram,ORG,-0.10166666666666668,0.0,en,1.0
-Environment and Climate Change Canada,Environment and Climate Change Canada,ORG,0.35714285714285715,0.0,en,1.0
-Twin Cities Rapid Response Fund,Twin Cities Rapid Response Fund,ORG,0.0,0.0,en,1.0
-ECCC,ECCC,ORG,0.35714285714285715,0.0,en,1.0
-Bad Luck,Bad Luck,ORG,-0.6999999999999998,0.0,en,1.0
-Super 8s,Super 8s,ORG,0.23484848484848483,0.0,en,1.0
-AAPIP,AAPIP,ORG,0.0,0.0,en,1.0
-BBC Sport,BBC Sport,ORG,0.0,0.0,en,1.0
-the National Emergency Co-ordination Group,the National Emergency Co-ordination Group,ORG,-0.2,0.0,en,1.0
-Electric Cabin Heating:,Electric Cabin Heating:,ORG,-0.1,0.0,en,1.0
-CIA,CIA,ORG,-0.015151515151515152,0.0,en,1.0
-Central NY,Central NY,ORG,0.0,0.0,en,1.0
+the United Nations,the United Nations,ORG,-0.05833333333333333,0.0,en,1.0
+Elon Musk,Elon Musk,ORG,0.0,0.0,en,1.0
 The Central Bank of Kenya,The Central Bank of Kenya,ORG,0.03333333333333333,0.0,en,1.0
-Check Noida,Check Noida,ORG,0.0,0.0,en,1.0
-the Press Information Bureau,the Press Information Bureau,ORG,0.0,0.0,en,1.0
-Bar Council of India,Bar Council of India,ORG,0.5,0.0,en,1.0
-El Presidente,El Presidente,ORG,-0.015151515151515152,0.0,en,1.0
-the Office for the Coordination of Humanitarian Affairs,the Office for the Coordination of Humanitarian Affairs,ORG,-0.1,0.0,en,1.0
-INCOIS,INCOIS,ORG,0.0,0.0,en,1.0
-Indian National Centre for Ocean Information and Services,Indian National Centre for Ocean Information and Services,ORG,0.0,0.0,en,1.0
-PREDAZZO,PREDAZZO,ORG,0.033333333333333326,0.0,en,1.0
-AEW Dynamite Review,AEW Dynamite Review,ORG,-0.33181818181818185,0.0,en,1.0
-Great Synagogue,Great Synagogue,ORG,0.42500000000000004,0.0,en,1.0
-The Met Office,The Met Office,ORG,0.19999999999999998,0.0,en,1.0
-Comprehensive Strategic Partnership,Comprehensive Strategic Partnership,ORG,0.5,0.0,en,1.0
-European Allies,European Allies,ORG,0.06818181818181818,0.0,en,1.0
 Paradox Singapore,Paradox Singapore,ORG,-0.125,0.0,en,1.0
+European Allies,European Allies,ORG,0.06818181818181818,0.0,en,1.0
+the Breitbart Fight Club,the Breitbart Fight Club,ORG,0.1392857142857143,0.0,en,1.0
+Comprehensive Strategic Partnership,Comprehensive Strategic Partnership,ORG,0.5,0.0,en,1.0
+The Met Office,The Met Office,ORG,0.19999999999999998,0.0,en,1.0
+PREDAZZO,PREDAZZO,ORG,0.033333333333333326,0.0,en,1.0
+Indian National Centre for Ocean Information and Services,Indian National Centre for Ocean Information and Services,ORG,0.0,0.0,en,1.0
+INCOIS,INCOIS,ORG,0.0,0.0,en,1.0
+the Office for the Coordination of Humanitarian Affairs,the Office for the Coordination of Humanitarian Affairs,ORG,-0.1,0.0,en,1.0
+Bar Council of India,Bar Council of India,ORG,0.5,0.0,en,1.0
+the Press Information Bureau,the Press Information Bureau,ORG,0.0,0.0,en,1.0
+the National Emergency Co-ordination Group,the National Emergency Co-ordination Group,ORG,-0.2,0.0,en,1.0
+Team World,Team World,ORG,0.0,0.0,en,1.0
+"Food, Agriculture, Biodiversity, Land Use","Food, Agriculture, Biodiversity, Land Use",ORG,0.0,0.0,en,1.0
+The Fabric Modern Data Platform,The Fabric Modern Data Platform,ORG,0.16818181818181818,0.0,en,1.0
+Grok,Grok,ORG,0.06818181818181818,0.0,en,1.0
+Central NY,Central NY,ORG,0.0,0.0,en,1.0
+The National Weather Service,The National Weather Service,ORG,-0.1,0.0,en,1.0
+Smithsonian,Smithsonian,ORG,0.08333333333333333,0.0,en,1.0
 LSDV,LSDV,ORG,0.0,0.0,en,1.0
+Great Synagogue,Great Synagogue,ORG,0.42500000000000004,0.0,en,1.0
+AEW Dynamite Review,AEW Dynamite Review,ORG,-0.33181818181818185,0.0,en,1.0
+El Presidente,El Presidente,ORG,-0.015151515151515152,0.0,en,1.0
+CIA,CIA,ORG,-0.015151515151515152,0.0,en,1.0
+the Environment Agency,the Environment Agency,ORG,0.0,0.0,en,1.0
+Barrick Reports,Barrick Reports,ORG,0.175,0.0,en,1.0
 eastern Cape Breton,eastern Cape Breton,ORG,0.0,0.0,en,1.0
 The Environment Agency,The Environment Agency,ORG,0.033333333333333326,0.0,en,1.0
-the Environment Agency,the Environment Agency,ORG,0.0,0.0,en,1.0
-The National Weather Service,The National Weather Service,ORG,-0.1,0.0,en,1.0
-the United Nations,the United Nations,ORG,-0.05833333333333333,0.0,en,1.0
-"Food, Agriculture, Biodiversity, Land Use","Food, Agriculture, Biodiversity, Land Use",ORG,0.0,0.0,en,1.0
-Cyclone Fina,Cyclone Fina,ORG,0.0,0.0,en,1.0
-Delhi Weather,Delhi Weather,ORG,0.2,0.0,en,1.0
-Activist Watchlist,Activist Watchlist,ORG,0.0,0.0,en,1.0
+Electric Cabin Heating:,Electric Cabin Heating:,ORG,-0.1,0.0,en,1.0
+UKHSA,UKHSA,ORG,-0.15,0.0,en,1.0
+the African American Museum,the African American Museum,ORG,0.08333333333333333,0.0,en,1.0
+Mike & Nick & Nick & Alice,Mike & Nick & Nick & Alice,ORG,0.11904761904761905,0.0,en,1.0
+the Minneapolis City Council,the Minneapolis City Council,ORG,0.04166666666666667,0.0,en,1.0
+postharvest food,postharvest food,ORG,0.0,0.0,en,1.0
+Nike,Nike,ORG,-0.015151515151515152,0.0,en,1.0
 Canada Players ',Canada Players ',ORG,0.0,0.0,en,1.0
 Marsch,Marsch,ORG,0.0,0.0,en,1.0
 Grand Marshal,Grand Marshal,ORG,-0.08333333333333333,0.0,en,1.0
+Ahvaz,Ahvaz,ORG,0.09,0.0,en,1.0
 the Most Magical Place on Earth,the Most Magical Place on Earth,ORG,0.1625,0.0,en,1.0
 Disney Fans Sell Out Costly Magic Kingdom Park Option,Disney Fans Sell Out Costly Magic Kingdom Park Option,ORG,0.5,0.0,en,1.0
 Nightmare,Nightmare,ORG,-0.875,0.0,en,1.0
 Netflix,Netflix,ORG,0.125,0.0,en,1.0
 Diligent Market Intelligence,Diligent Market Intelligence,ORG,0.125,0.0,en,1.0
+Activist Watchlist,Activist Watchlist,ORG,0.0,0.0,en,1.0
 Fox News,Fox News,ORG,-0.1,0.0,en,1.0
-Pens Points,Pens Points,ORG,-0.3,0.0,en,1.0
 Cr,Cr,ORG,0.0,0.0,en,1.0
 Dhurandhar The Revenge Box Office,Dhurandhar The Revenge Box Office,ORG,-0.25,0.0,en,1.0
 the Department of War,the Department of War,ORG,0.01666666666666668,0.0,en,1.0
@@ -146,21 +150,21 @@ the National Security State,the National Security State,ORG,0.01666666666666668,
 The Man Behind Trump,The Man Behind Trump,ORG,-0.4,0.0,en,1.0
 Washington Monthly,Washington Monthly,ORG,0.1,0.0,en,1.0
 Woodstock,Woodstock,ORG,0.075,0.0,en,1.0
-El Niño,El Niño,ORG,0.06727272727272726,0.0,en,1.0
-Nike,Nike,ORG,-0.015151515151515152,0.0,en,1.0
+Pens Points,Pens Points,ORG,-0.3,0.0,en,1.0
 Ottawa Hospital,Ottawa Hospital,ORG,0.2,0.0,en,1.0
-The India Meteorological Department,The India Meteorological Department,ORG,0.2,0.0,en,1.0
-Dot's,Dot's,ORG,0.4,0.0,en,1.0
+The Ottawa Hospital,The Ottawa Hospital,ORG,-0.25,0.0,en,1.0
+Maple Leafs,Maple Leafs,ORG,0.0,0.0,en,1.0
 Cyclone Hits Northern Australia,Cyclone Hits Northern Australia,ORG,0.0,0.0,en,1.0
 Rio Shuts Bauxite Mines,Rio Shuts Bauxite Mines,ORG,0.0,0.0,en,1.0
 The Government of Canada,The Government of Canada,ORG,0.16666666666666666,0.0,en,1.0
+MGNREGA,MGNREGA,ORG,0.0,0.0,en,1.0
 bulls---,bulls---,ORG,0.0,0.0,en,1.0
 Hughes,Hughes,ORG,0.0,0.0,en,1.0
 the Team USA,the Team USA,ORG,0.0,0.0,en,1.0
 FIFA,FIFA,ORG,0.08928571428571429,0.0,en,1.0
-Maple Leafs,Maple Leafs,ORG,0.0,0.0,en,1.0
+Dot's,Dot's,ORG,0.4,0.0,en,1.0
+DMEM,DMEM,ORG,0.0,0.0,en,1.0
 Hormel,Hormel,ORG,0.6,0.0,en,1.0
-The Ottawa Hospital,The Ottawa Hospital,ORG,-0.25,0.0,en,1.0
 Kroger,Kroger,ORG,0.17045454545454544,0.0,en,1.0
 Kroger Weekly,Kroger Weekly,ORG,0.0,0.0,en,1.0
 Sports,Sports,ORG,0.03333333333333334,0.0,en,1.0
@@ -168,21 +172,24 @@ The European Union,The European Union,ORG,0.03333333333333334,0.0,en,1.0
 Infantino-Trump,Infantino-Trump,ORG,0.0,0.0,en,1.0
 Leptospira,Leptospira,ORG,0.0,0.0,en,1.0
 EMEM,EMEM,ORG,0.0,0.0,en,1.0
-DMEM,DMEM,ORG,0.0,0.0,en,1.0
+El Niño,El Niño,ORG,0.06727272727272726,0.0,en,1.0
 State,State,ORG,-0.10416666666666667,0.0,en,1.0
 Lancer,Lancer,ORG,0.0,0.0,en,1.0
-RAF Fairford,RAF Fairford,ORG,-0.16666666666666666,0.0,en,1.0
-Union,Union,ORG,0.13636363636363635,0.0,en,1.0
+QMRA,QMRA,ORG,0.0,0.0,en,1.0
+WOMADelaide,WOMADelaide,ORG,0.25,0.0,en,1.0
+Central Australia,Central Australia,ORG,0.0,0.0,en,1.0
+51pc,51pc,ORG,0.0,0.0,en,1.0
 Bhubaneswar,Bhubaneswar,ORG,0.0,0.0,en,1.0
 TCS,TCS,ORG,0.015740740740740732,0.0,en,1.0
 Tata Consultancy Services,Tata Consultancy Services,ORG,0.015740740740740732,0.0,en,1.0
-Mike & Nick & Nick & Alice,Mike & Nick & Nick & Alice,ORG,0.11904761904761905,0.0,en,1.0
+Twin Cities Rapid Response Fund,Twin Cities Rapid Response Fund,ORG,0.0,0.0,en,1.0
 Disney,Disney,ORG,0.35,0.0,en,1.0
-QMRA,QMRA,ORG,0.0,0.0,en,1.0
 El Nino watch,El Nino watch,ORG,-0.2,0.0,en,1.0
+AltaLink,AltaLink,ORG,-0.05833333333333335,0.0,en,1.0
 APCC,APCC,ORG,-0.2,0.0,en,1.0
+APEC Climate Centre,APEC Climate Centre,ORG,0.0,0.0,en,1.0
+Union,Union,ORG,0.13636363636363635,0.0,en,1.0
 AI Summit,AI Summit,ORG,0.13636363636363635,0.0,en,1.0
-Purim,Purim,ORG,0.0,0.0,en,1.0
 "Popular Communication
 
 ","Popular Communication
@@ -191,20 +198,20 @@ Purim,Purim,ORG,0.0,0.0,en,1.0
 Henderson & Pallett,Henderson & Pallett,ORG,0.375,0.0,en,1.0
 Rescues,Rescues,ORG,0.0,0.0,en,1.0
 AI,AI,ORG,-0.09999999999999999,0.0,en,1.0
-postharvest food,postharvest food,ORG,0.0,0.0,en,1.0
-the Minneapolis City Council,the Minneapolis City Council,ORG,0.04166666666666667,0.0,en,1.0
-Smithsonian,Smithsonian,ORG,0.08333333333333333,0.0,en,1.0
-the African American Museum,the African American Museum,ORG,0.08333333333333333,0.0,en,1.0
-51pc,51pc,ORG,0.0,0.0,en,1.0
-Central Australia,Central Australia,ORG,0.0,0.0,en,1.0
-WOMADelaide,WOMADelaide,ORG,0.25,0.0,en,1.0
 Lake Eyre,Lake Eyre,ORG,0.375,0.0,en,1.0
+Roast Battle Canada S05E08,Roast Battle Canada S05E08,ORG,0.0,0.0,en,1.0
+RAF Fairford,RAF Fairford,ORG,-0.16666666666666666,0.0,en,1.0
+Lomax,Lomax,ORG,0.06818181818181818,0.0,en,1.0
+Purim,Purim,ORG,0.0,0.0,en,1.0
 Clásico,Clásico,ORG,0.16666666666666666,0.0,en,1.0
 Medellín,Medellín,ORG,0.16666666666666666,0.0,en,1.0
 Gonzo Dispatch,Gonzo Dispatch,ORG,0.16666666666666666,0.0,en,1.0
 WBC,WBC,ORG,0.03333333333333333,0.0,en,1.0
+Java,Java,ORG,0.0,0.0,en,1.0
+Traversal,Traversal,ORG,0.0,0.0,en,1.0
 Rabbitohs,Rabbitohs,ORG,0.13636363636363635,0.0,en,1.0
-Lomax,Lomax,ORG,0.06818181818181818,0.0,en,1.0
+Ind AS,Ind AS,ORG,0.0,0.0,en,1.0
+HOMEPAGE,HOMEPAGE,ORG,0.0,0.0,en,1.0
 The National Shrine of Our Lady of Champion,The National Shrine of Our Lady of Champion,ORG,0.35833333333333334,0.0,en,1.0
 The Woman in the Trees,The Woman in the Trees,ORG,0.8,0.0,en,1.0
 The Great Peshtigo Fire,The Great Peshtigo Fire,ORG,0.8,0.0,en,1.0
@@ -213,21 +220,20 @@ The Gulf Stream,The Gulf Stream,ORG,-0.0625,0.0,en,1.0
 Communications Earth & Environment,Communications Earth & Environment,ORG,-0.0625,0.0,en,1.0
 van Westen & Dijkstra,van Westen & Dijkstra,ORG,-0.0625,0.0,en,1.0
 the Atlantic Meridional Overturning Circulation,the Atlantic Meridional Overturning Circulation,ORG,-0.0625,0.0,en,1.0
-HOMEPAGE,HOMEPAGE,ORG,0.0,0.0,en,1.0
-Roast Battle Canada S05E08,Roast Battle Canada S05E08,ORG,0.0,0.0,en,1.0
-AltaLink,AltaLink,ORG,-0.05833333333333335,0.0,en,1.0
-APEC Climate Centre,APEC Climate Centre,ORG,0.0,0.0,en,1.0
-Tropopause Uncertainty Reconnaissance Experiment,Tropopause Uncertainty Reconnaissance Experiment,ORG,0.0,0.0,en,1.0
-G/O Media,G/O Media,ORG,0.1590909090909091,0.0,en,1.0
+Modi,Modi,ORG,-0.5,0.0,en,1.0
+Cyclone Fina,Cyclone Fina,ORG,0.0,0.0,en,1.0
+AAPIP,AAPIP,ORG,0.0,0.0,en,1.0
+MT,MT,ORG,0.0,0.0,en,1.0
 Plantation Course,Plantation Course,ORG,0.25,0.0,en,1.0
+the PGA Tour's,the PGA Tour's,ORG,0.25,0.0,en,1.0
 PGA Tour's,PGA Tour's,ORG,0.0,0.0,en,1.0
 GS,GS,ORG,0.0,0.0,en,1.0
 Storm 'Elli',Storm 'Elli',ORG,0.25,0.0,en,1.0
 bushplane travel,bushplane travel,ORG,0.1,0.0,en,1.0
 AMR,AMR,ORG,-0.2,0.0,en,1.0
 CRISPR,CRISPR,ORG,-0.2,0.0,en,1.0
-MT,MT,ORG,0.0,0.0,en,1.0
 Lyfius-Qule's,Lyfius-Qule's,ORG,0.0,0.0,en,1.0
+BBC Sport,BBC Sport,ORG,0.0,0.0,en,1.0
 Asia-Pacific's,Asia-Pacific's,ORG,0.0,0.0,en,1.0
 Asia Pacific Penicillin G,Asia Pacific Penicillin G,ORG,0.55,0.0,en,1.0
 bison,bison,ORG,0.225,0.0,en,1.0
@@ -236,11 +242,12 @@ USDA,USDA,ORG,-0.125,0.0,en,1.0
 the U.S. Department of Agriculture,the U.S. Department of Agriculture,ORG,-0.125,0.0,en,1.0
 National,National,ORG,0.0,0.0,en,1.0
 NBW,NBW,ORG,-0.02121212121212122,0.0,en,1.0
-FASLA,FASLA,ORG,-0.02121212121212122,0.0,en,1.0
-the PGA Tour's,the PGA Tour's,ORG,0.25,0.0,en,1.0
 CDATA,CDATA,ORG,0.2147159090909091,0.0,en,1.0
-UPSC,UPSC,ORG,0.2681818181818182,0.0,en,1.0
 Heatwave Bakes Australia,Heatwave Bakes Australia,ORG,-0.6,0.0,en,1.0
+Koji,Koji,ORG,-0.4,0.0,en,1.0
+Vodafone,Vodafone,ORG,0.0,0.0,en,1.0
+Porsche Oakville Centre,Porsche Oakville Centre,ORG,0.1,0.0,en,1.0
+Campaign Bear,Campaign Bear,ORG,-0.1,0.0,en,1.0
 BLUETTI,BLUETTI,ORG,0.4000000000000001,0.0,en,1.0
 No Lights,No Lights,ORG,0.0,0.0,en,1.0
 Frozen Pipes,Frozen Pipes,ORG,0.0,0.0,en,1.0
@@ -249,18 +256,16 @@ mpox,mpox,ORG,0.0,0.0,en,1.0
 Caltrans,Caltrans,ORG,-0.1,0.0,en,1.0
 Popular Science,Popular Science,ORG,0.48750000000000004,0.0,en,1.0
 Makar Sankr,Makar Sankr,ORG,0.13636363636363635,0.0,en,1.0
-TheWrap,TheWrap,ORG,0.31666666666666665,0.0,en,1.0
 First Wave of 2026 Film and TV Lineup,First Wave of 2026 Film and TV Lineup,ORG,0.25,0.0,en,1.0
+TheWrap,TheWrap,ORG,0.31666666666666665,0.0,en,1.0
 Lightning,Lightning,ORG,0.0,0.0,en,1.0
 DW,DW,ORG,-0.018333333333333326,0.0,en,1.0
 Marathi,Marathi,ORG,0.0,0.0,en,1.0
 The Madhya Pradesh Board of Secondary Education,The Madhya Pradesh Board of Secondary Education,ORG,-0.3,0.0,en,1.0
 the Environmental Weather Service,the Environmental Weather Service,ORG,-0.25,0.0,en,1.0
-Vodafone,Vodafone,ORG,0.0,0.0,en,1.0
-Koji,Koji,ORG,-0.4,0.0,en,1.0
+FASLA,FASLA,ORG,-0.02121212121212122,0.0,en,1.0
 Paris Agreement,Paris Agreement,ORG,0.05555555555555555,0.0,en,1.0
-CBAM,CBAM,ORG,0.04545454545454545,0.0,en,1.0
-Deadspin,Deadspin,ORG,0.1590909090909091,0.0,en,1.0
+UPSC,UPSC,ORG,0.2681818181818182,0.0,en,1.0
 London Fog,London Fog,ORG,0.0,0.0,en,1.0
 Guest Post,Guest Post,ORG,0.0,0.0,en,1.0
 Lower Mainland,Lower Mainland,ORG,0.0,0.0,en,1.0
@@ -281,13 +286,13 @@ Blackwood for Olympic Glory,Blackwood for Olympic Glory,ORG,0.0,0.0,en,1.0
 Woman's,Woman's,ORG,0.1,0.0,en,1.0
 Skating Under The Ice,Skating Under The Ice,ORG,0.0,0.0,en,1.0
 Giant Snowman,Giant Snowman,ORG,0.0,0.0,en,1.0
-UPSC Key,UPSC Key,ORG,0.04545454545454545,0.0,en,1.0
+CBAM,CBAM,ORG,0.04545454545454545,0.0,en,1.0
 KIRO,KIRO,ORG,0.03333333333333333,0.0,en,1.0
+UPSC Key,UPSC Key,ORG,0.04545454545454545,0.0,en,1.0
 the Bay Area Telegraph,the Bay Area Telegraph,ORG,0.0,0.0,en,1.0
 the Supreme Court,the Supreme Court,ORG,0.0,0.0,en,1.0
 Voda Idea,Voda Idea,ORG,0.0,0.0,en,1.0
 Govt,Govt,ORG,0.0,0.0,en,1.0
-WA,WA,ORG,-1.0,0.0,en,1.0
 QBE Insurance Group,QBE Insurance Group,ORG,0.057575757575757565,0.0,en,1.0
 QBE,QBE,ORG,0.0,0.0,en,1.0
 Geoscience Australia,Geoscience Australia,ORG,-0.1,0.0,en,1.0
@@ -300,10 +305,13 @@ Lakurawa,Lakurawa,ORG,0.0,0.0,en,1.0
 Snow Approach,Snow Approach,ORG,0.0,0.0,en,1.0
 National Weather Service Issues ',National Weather Service Issues ',ORG,0.0,0.0,en,1.0
 State Route 2,State Route 2,ORG,0.03333333333333333,0.0,en,1.0
-Campaign Bear,Campaign Bear,ORG,-0.1,0.0,en,1.0
-Porsche Oakville Centre,Porsche Oakville Centre,ORG,0.1,0.0,en,1.0
 Silent Hill,Silent Hill,ORG,0.0,0.0,en,1.0
+Union Home,Union Home,ORG,0.012121212121212125,0.0,en,1.0
+Stormy,Stormy,ORG,0.0,0.0,en,1.0
+Ridge Meadows Search,Ridge Meadows Search,ORG,0.0,0.0,en,1.0
+Hikers Stranded on Mountain During Storm,Hikers Stranded on Mountain During Storm,ORG,0.0,0.0,en,1.0
 Avalanche,Avalanche,ORG,0.19318181818181818,0.0,en,1.0
+Avalanche ETF,Avalanche ETF,ORG,0.25,0.0,en,1.0
 N-W India,N-W India,ORG,-0.5333333333333333,0.0,en,1.0
 Global Iron Oxide Pigments Market size &,Global Iron Oxide Pigments Market size &,ORG,-6.938893903907228e-18,0.0,en,1.0
 Custom Market Insights,Custom Market Insights,ORG,-6.938893903907228e-18,0.0,en,1.0
@@ -318,13 +326,12 @@ Nvidia Corp.,Nvidia Corp.,ORG,0.1282828282828283,0.0,en,1.0
 Nvidia,Nvidia,ORG,0.0,0.0,en,1.0
 the Driver and Vehicle,the Driver and Vehicle,ORG,-0.3,0.0,en,1.0
 Apple,Apple,ORG,-0.05,0.0,en,1.0
-Big Tech,Big Tech,ORG,0.0,0.0,en,1.0
-Nasdaq,Nasdaq,ORG,0.0,0.0,en,1.0
-Dow,Dow,ORG,0.0,0.0,en,1.0
-Avalanche ETF,Avalanche ETF,ORG,0.25,0.0,en,1.0
-Hikers Stranded on Mountain During Storm,Hikers Stranded on Mountain During Storm,ORG,0.0,0.0,en,1.0
-Union Home,Union Home,ORG,0.012121212121212125,0.0,en,1.0
 Avalanche Threat,Avalanche Threat,ORG,-0.5,0.0,en,1.0
+Tropopause Uncertainty Reconnaissance Experiment,Tropopause Uncertainty Reconnaissance Experiment,ORG,0.0,0.0,en,1.0
+Nasdaq,Nasdaq,ORG,0.0,0.0,en,1.0
+Western Disturbance,Western Disturbance,ORG,0.09375,0.0,en,1.0
+G/O Media,G/O Media,ORG,0.1590909090909091,0.0,en,1.0
+Deadspin,Deadspin,ORG,0.1590909090909091,0.0,en,1.0
 Tamron,Tamron,ORG,1.0,0.0,en,1.0
 Tamron Americas,Tamron Americas,ORG,0.0,0.0,en,1.0
 Horsegirl,Horsegirl,ORG,0.0,0.0,en,1.0
@@ -339,13 +346,13 @@ https://punchng.com/severe-snowstorm-disrupts-travel-across-southern-us/,https:/
 Heatwaves,Heatwaves,ORG,0.28125,0.0,en,1.0
 Senate,Senate,ORG,0.0,0.0,en,1.0
 the Yitzhak Bloom Senior Curator of Modernist Paintings,the Yitzhak Bloom Senior Curator of Modernist Paintings,ORG,-0.07777777777777779,0.0,en,1.0
-Western Disturbance,Western Disturbance,ORG,0.09375,0.0,en,1.0
 Reuters,Reuters,ORG,-0.3,0.0,en,1.0
-Ridge Meadows Search,Ridge Meadows Search,ORG,0.0,0.0,en,1.0
-Concerned Importers of Vehicles,Concerned Importers of Vehicles,ORG,0.0,0.0,en,1.0
-Jubilee House,Jubilee House,ORG,-0.1,0.0,en,1.0
-Atlas Network,Atlas Network,ORG,0.28106060606060607,0.0,en,1.0
-Android,Android,ORG,0.1541666666666667,0.0,en,1.0
+Big Tech,Big Tech,ORG,0.0,0.0,en,1.0
+Dow,Dow,ORG,0.0,0.0,en,1.0
+AccuWeather,AccuWeather,ORG,-0.1625,0.0,en,1.0
+First Contact Physiotherapy Services,First Contact Physiotherapy Services,ORG,0.09693877551020409,0.0,en,1.0
+Meanwhil,Meanwhil,ORG,0.0,0.0,en,1.0
+Delhi Rain News,Delhi Rain News,ORG,-0.1,0.0,en,1.0
 Stewart Brand – Maintenance,Stewart Brand – Maintenance,ORG,0.0,0.0,en,1.0
 un,un,ORG,0.0,0.0,en,1.0
 Jensen,Jensen,ORG,0.0,0.0,en,1.0
@@ -361,12 +368,13 @@ Times,Times,ORG,0.0,0.0,en,1.0
 Disney World,Disney World,ORG,0.0,0.0,en,1.0
 Bad News,Bad News,ORG,5.551115123125783e-17,0.0,en,1.0
 Hamas,Hamas,ORG,0.0,0.0,en,1.0
-AccuWeather,AccuWeather,ORG,-0.1625,0.0,en,1.0
-Stormy,Stormy,ORG,0.0,0.0,en,1.0
-Delhi Rain News,Delhi Rain News,ORG,-0.1,0.0,en,1.0
-Meanwhil,Meanwhil,ORG,0.0,0.0,en,1.0
 upda,upda,ORG,0.0,0.0,en,1.0
-Country Director Oceania & Indonesia,Country Director Oceania & Indonesia,ORG,0.0,0.0,en,1.0
+MSK,MSK,ORG,0.09693877551020409,0.0,en,1.0
+Concerned Importers of Vehicles,Concerned Importers of Vehicles,ORG,0.0,0.0,en,1.0
+Alamo Embraces Phones,Alamo Embraces Phones,ORG,0.0,0.0,en,1.0
+Jubilee House,Jubilee House,ORG,-0.1,0.0,en,1.0
+Atlas Network,Atlas Network,ORG,0.28106060606060607,0.0,en,1.0
+Android,Android,ORG,0.1541666666666667,0.0,en,1.0
 Big Pharma’s,Big Pharma’s,ORG,0.024999999999999994,0.0,en,1.0
 Irish Premiership,Irish Premiership,ORG,-0.2,0.0,en,1.0
 the Economics of Gulo Gulo,the Economics of Gulo Gulo,ORG,0.10625000000000001,0.0,en,1.0
@@ -374,13 +382,11 @@ the San Diego Zoo Safari Park,the San Diego Zoo Safari Park,ORG,0.30000000000000
 UN,UN,ORG,0.3,0.0,en,1.0
 Chic Swiss Department Store,Chic Swiss Department Store,ORG,0.1125,0.0,en,1.0
 Enterprise Director SE Asia,Enterprise Director SE Asia,ORG,0.0,0.0,en,1.0
+Country Director Oceania & Indonesia,Country Director Oceania & Indonesia,ORG,0.0,0.0,en,1.0
 EMEA,EMEA,ORG,0.0,0.0,en,1.0
-First Contact Physiotherapy Services,First Contact Physiotherapy Services,ORG,0.09693877551020409,0.0,en,1.0
 ICE,ICE,ORG,0.5,0.0,en,1.0
 NATO,NATO,ORG,0.05000000000000002,0.0,en,1.0
 Eastern Canada,Eastern Canada,ORG,0.06547619047619047,0.0,en,1.0
 Free People,Free People,ORG,0.26666666666666666,0.0,en,1.0
 Haight-Ashbury,Haight-Ashbury,ORG,0.175,0.0,en,1.0
-Alamo Embraces Phones,Alamo Embraces Phones,ORG,0.0,0.0,en,1.0
-MSK,MSK,ORG,0.09693877551020409,0.0,en,1.0
 Rio Tinto Group,Rio Tinto Group,ORG,-0.3666666666666667,0.0,en,1.0
