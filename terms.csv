@@ -9,6 +9,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,dry spell New South Wales,2026-03-19T04:36:00+00:00,Australia,0.7904345891429652,0,1,en,EAU,Oceania
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,cold weather South Australia,2026-03-30T05:12:00+00:00,Australia,0.7903710516152923,0,1,en,CAU,Oceania
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,cold spell Australia,2026-03-30T05:12:00+00:00,Australia,0.7870212645198974,0,1,en,CAU,Oceania
+'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave New South Wales,2026-03-31T05:00:00+00:00,Australia,0.778663823273634,0,1,en,EAU,Oceania
+'91377cc2a9',extremes,Drought,#edc291,acwe,drought South Australia,2026-03-31T05:00:00+00:00,Australia,0.778063352988013,0,1,en,SAU,Oceania
+'6a814a5817',extremes,Drought,#edc291,acwe,low water level New South Wales,2026-03-25T04:34:00+00:00,Australia,0.777617449773088,0,1,en,EAU,Oceania
+'79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,icy temperatures South Australia,2026-03-31T05:00:00+00:00,Australia,0.7775206931549471,0,1,en,SAU,Oceania
+'75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,cold spell Northern Territory,2026-03-31T05:00:00+00:00,Australia,0.7762784323260485,0,1,en,NAU,Oceania
+'b6c613d063',extremes,Drought,#edc291,acwe,lack of rain Queensland,2026-03-28T04:34:00+00:00,Australia,0.7743904106614208,0,1,en,CAU,Oceania
 '39670c8999',extremes,Drought,#edc291,acwe,lack of rain South Australia,2026-03-25T04:34:00+00:00,Australia,0.7743578207499862,0,1,en,CAU,Oceania
 'db9244a045',extremes,Drought,#edc291,acwe,dry spell Victoria,2026-03-29T05:01:00+00:00,Australia,0.7730942315426924,0,1,en,SAU,Oceania
 '14e5fa2281',extremes,Flood,#030ba1,wmo,Flood Queensland Upper Brisbane River,2026-02-11T04:41:00+00:00,Australia,0.7696463552959664,1,2,en,CAU,Oceania
