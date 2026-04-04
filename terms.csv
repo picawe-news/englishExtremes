@@ -71,8 +71,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71b43badc3',extremes,Precipitation,#d60d2b,wmo,Precipitation Ranges of the Westland District,2026-03-26T04:56:00+00:00,New Zealand,0.7415665077794762,0,1,en,NZ,Oceania
 '6303656ade',extremes,Wildfire,#d60d2b,wmo,Wildfire Phillips Rooks Franklin,2026-03-27T04:57:00+00:00,United States,0.7415486300364986,0,1,en,CNA,North-America
 '9ef0236c6e',extremes,Flood,#030ba1,wmo,Flood Chelan WA,2026-03-18T04:36:00+00:00,United States,0.7414973481996253,0,1,en,CNA,North-America
+'482e116bd4',extremes,Flood,#030ba1,wmo,Flood Labette KS Neosho KS,2026-04-03T04:43:00+00:00,United States,0.7411485065671122,0,1,en,CNA,North-America
+'1c59489eb7',extremes,Flood,#030ba1,wmo,Flooding Seneca OH,2026-04-02T04:42:00+00:00,United States,0.7409487734604873,0,1,en,CNA,North-America
 'dd958e4b6d',extremes,Flood,#030ba1,wmo,Flooding Lawrence PA Mercer PA,2026-04-01T05:12:00+00:00,United States,0.7407373065175548,0,1,en,CNA,North-America
+'ea6e7d843a',extremes,Flood,#030ba1,wmo,Flood Pulaski IN,2026-04-03T04:43:00+00:00,United States,0.7405513791445009,0,1,en,CNA,North-America
 'd85a303050',extremes,Flood,#030ba1,wmo,Flood Cass MO Henry MO Johnson MO,2026-04-02T04:42:00+00:00,United States,0.7405136287110985,0,1,en,CNA,North-America
+'58aec69d5b',extremes,Flood,#030ba1,wmo,Flood Vernon MO,2026-04-03T04:43:00+00:00,United States,0.7403844932103153,0,1,en,CNA,North-America
+'1ac5c279b7',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Ireland,2026-04-03T04:43:00+00:00,United Kingdom,0.7403734222593655,0,1,en,NEU,Europe
+'e3fd3edd10',extremes,Flood,#030ba1,wmo,Flood Parke IN Vermillion IN Vigo IN,2026-04-03T04:43:00+00:00,United States,0.7395597461504901,0,1,en,CNA,North-America
 '5ab988d035',extremes,Flood,#030ba1,wmo,Flood Williams OH,2026-03-14T04:22:00+00:00,United States,0.7384388339504752,0,1,en,CNA,North-America
 '45dfc56491',extremes,Drought,#edc291,edo,Drought Bahamas,2026-04-01T05:12:00+00:00,Bahamas,0.7379682560481128,0,1,en,CAR,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.7379274882053499,1,3,en,NZ,Oceania
