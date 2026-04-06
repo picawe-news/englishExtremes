@@ -36,8 +36,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-02-10T04:43:00+00:00,United States,0.7585474437690954,1,3,en,CNA,North-America
 '4508d0e7cc',extremes,Drought,#edc291,acwe,low water level Australia,2026-03-26T04:57:00+00:00,Australia,0.758516888782237,0,1,en,CAU,Oceania
 'def935ddfc',extremes,Snow&Ice,#d60d2b,wmo,Snow Lake Manitoba,2026-02-17T04:31:00+00:00,Canada,0.7573424206826036,1,2,en,NEN,North-America
+'b9df18cf46',extremes,Storm,#b3b2b1,wmo,Storm Surge inshore areas of north coast,2026-04-06T05:11:00+00:00,Jamaica,0.7559348657630729,0,1,en,CAR,North-America
 'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,Heat Wave 53 Mandals,2026-04-03T04:43:00+00:00,India,0.7541391272645411,0,1,en,SAS,Asia
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-02-26T04:29:00+00:00,Australia,0.7537284834126318,1,3,en,CAU,Oceania
+'8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Western Isabel and Choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.752791973070683,0,1,en,EPO,Oceania
 '97cf231a2f',extremes,Wildfire,#d60d2b,wmo,Wildfire Odisha,2026-04-03T04:43:00+00:00,India,0.7509545992725042,0,1,en,SAS,Asia
 '81df6f3074',extremes,Storm,#b3b2b1,wmo,Storm Taupo and Taumarunui,2026-03-26T04:56:00+00:00,New Zealand,0.7506458899510449,0,1,en,NZ,Oceania
 '8180415a6e',extremes,Storm,#b3b2b1,wmo,Storm Surge Solapur,2026-04-03T04:43:00+00:00,India,0.7506156395503143,0,1,en,SAS,Asia
@@ -73,12 +75,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'efebeb49c2',extremes,Flood,#030ba1,wmo,Flood Herkimer NY Oneida NY,2026-04-03T04:43:00+00:00,United States,0.7439639998809926,0,1,en,CNA,North-America
 'a024802e1b',extremes,Flood,#030ba1,wmo,Flood Hunt TX,2026-04-05T05:01:00+00:00,United States,0.7437148693996256,0,1,en,CNA,North-America
 '40449785d4',extremes,Snow&Ice,#d60d2b,wmo,Ice Highway 97 Pine Pass,2026-03-16T05:05:00+00:00,Canada,0.7436199696578797,0,1,en,NEN,North-America
+'b5401c5bf9',extremes,Precipitation,#d60d2b,wmo,Downpour Northland,2026-04-06T05:11:00+00:00,New Zealand,0.7436040182398731,0,1,en,NZ,Oceania
+'8aa8e605da',extremes,Flood,#030ba1,wmo,Flashflood Midland MI Saginaw MI,2026-04-06T05:11:00+00:00,United States,0.7435915874865371,0,1,en,CNA,North-America
 'f96d822508',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Pedro Bank area,2026-04-04T04:30:00+00:00,Jamaica,0.7435583791065535,0,1,en,CAR,North-America
 '2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL provinces,2026-04-02T04:42:00+00:00,Solomon Islands,0.7432452353861352,0,1,en,EPO,Oceania
+'772d689ea1',extremes,Flood,#030ba1,wmo,Flood Lucas OH Wood OH,2026-04-06T05:11:00+00:00,United States,0.7431539136098297,0,1,en,CNA,North-America
 '8d73f8d2d3',extremes,Flood,#030ba1,wmo,Flooding Midland MI Saginaw MI,2026-04-05T05:01:00+00:00,United States,0.7429703367796863,0,1,en,CNA,North-America
 '1451039273',extremes,Flood,#030ba1,wmo,Flashflood Tompkins NY,2026-04-05T05:01:00+00:00,United States,0.7426332802575136,0,1,en,CNA,North-America
 '8fc1f3469c',extremes,Flood,#030ba1,wmo,Flashflood Richland WI Vernon WI,2026-04-05T05:01:00+00:00,United States,0.7425780014321712,0,1,en,CNA,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-02-26T04:29:00+00:00,Canada,0.7425568746649859,1,3,en,NEN,North-America
+'509082d6c7',extremes,Flood,#030ba1,wmo,Flood Sauk WI,2026-04-06T05:11:00+00:00,United States,0.742490231685299,0,1,en,CNA,North-America
 '0157ddda4e',extremes,Flood,#030ba1,wmo,Flood Wood WI,2026-04-05T05:01:00+00:00,United States,0.7424157573951015,0,1,en,CNA,North-America
 '1208bd05da',extremes,Precipitation,#d60d2b,wmo,Rain Fiordland west of the Lakes,2026-03-16T05:05:00+00:00,New Zealand,0.742405177509347,2,2,en,NZ,Oceania
 'd05330b7d1',extremes,Flood,#030ba1,wmo,Flood Ingham MI,2026-04-05T05:01:00+00:00,United States,0.742151638535843,0,1,en,CNA,North-America
