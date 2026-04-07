@@ -89,20 +89,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1208bd05da',extremes,Precipitation,#d60d2b,wmo,Rain Fiordland west of the Lakes,2026-03-16T05:05:00+00:00,New Zealand,0.742405177509347,2,2,en,NZ,Oceania
 'd05330b7d1',extremes,Flood,#030ba1,wmo,Flood Ingham MI,2026-04-05T05:01:00+00:00,United States,0.742151638535843,0,1,en,CNA,North-America
 '9417fcfd3e',extremes,Flood,#030ba1,wmo,Flashflood Genesee NY Monroe NY,2026-04-03T04:43:00+00:00,United States,0.7421046220883778,0,1,en,CNA,North-America
+'33770059e6',extremes,Flood,#030ba1,wmo,Flashflood Williams OH,2026-04-06T05:11:00+00:00,United States,0.742099659859244,0,1,en,CNA,North-America
 'a34c471fb7',extremes,Flood,#030ba1,wmo,Flood Arenac MI,2026-04-05T05:01:00+00:00,United States,0.7417216807032002,0,1,en,CNA,North-America
 '69fc2693ee',extremes,Flood,#030ba1,wmo,Flooding Waupaca WI,2026-04-05T05:01:00+00:00,United States,0.7416113459998395,0,1,en,CNA,North-America
 '71b43badc3',extremes,Precipitation,#d60d2b,wmo,Precipitation Ranges of the Westland District,2026-03-26T04:56:00+00:00,New Zealand,0.7415665077794762,0,1,en,NZ,Oceania
 '6303656ade',extremes,Wildfire,#d60d2b,wmo,Wildfire Phillips Rooks Franklin,2026-03-27T04:57:00+00:00,United States,0.7415486300364986,0,1,en,CNA,North-America
 '7f85b509dc',extremes,Flood,#030ba1,wmo,Flooding Clayton IA,2026-04-05T05:01:00+00:00,United States,0.7415101487591107,0,1,en,CNA,North-America
 '9ef0236c6e',extremes,Flood,#030ba1,wmo,Flood Chelan WA,2026-03-18T04:36:00+00:00,United States,0.7414973481996253,0,1,en,CNA,North-America
+'3e79e9ce59',extremes,Flood,#030ba1,wmo,Flood Genesee MI,2026-04-05T05:01:00+00:00,United States,0.7414405605690949,0,1,en,CNA,North-America
 '33db57a1ea',extremes,Flood,#030ba1,wmo,Flashflood Erie NY Niagara NY,2026-04-03T04:43:00+00:00,United States,0.7413260287238217,0,1,en,CNA,North-America
 '482e116bd4',extremes,Flood,#030ba1,wmo,Flood Labette KS Neosho KS,2026-04-03T04:43:00+00:00,United States,0.7411485065671122,0,1,en,CNA,North-America
 '1c59489eb7',extremes,Flood,#030ba1,wmo,Flooding Seneca OH,2026-04-02T04:42:00+00:00,United States,0.7409487734604873,0,1,en,CNA,North-America
 'f09570b6b3',extremes,Flood,#030ba1,wmo,Flood Hancock IL McDonough IL,2026-04-04T04:30:00+00:00,United States,0.7408582209482238,0,1,en,CNA,North-America
+'bdc2b626fd',extremes,Flood,#030ba1,wmo,Flooding Boone IL Winnebago IL,2026-04-05T05:01:00+00:00,United States,0.7408323772993761,0,1,en,CNA,North-America
 '5e6b06ff50',extremes,Flood,#030ba1,wmo,Flooding Lucas OH Wood OH,2026-04-04T04:30:00+00:00,United States,0.7408234851233918,0,1,en,CNA,North-America
 'dd958e4b6d',extremes,Flood,#030ba1,wmo,Flooding Lawrence PA Mercer PA,2026-04-01T05:12:00+00:00,United States,0.7407373065175548,0,1,en,CNA,North-America
+'3f21782c88',extremes,Flood,#030ba1,wmo,Flooding Crawford WI,2026-04-06T05:11:00+00:00,United States,0.7406454400112757,0,1,en,CNA,North-America
 'ea6e7d843a',extremes,Flood,#030ba1,wmo,Flood Pulaski IN,2026-04-03T04:43:00+00:00,United States,0.7405513791445009,0,1,en,CNA,North-America
+'f595423c06',extremes,Precipitation,#d60d2b,wmo,Precipitation Coromandel Peninsula,2026-04-06T05:11:00+00:00,New Zealand,0.7405389066599989,0,1,en,NZ,Oceania
 'd85a303050',extremes,Flood,#030ba1,wmo,Flood Cass MO Henry MO Johnson MO,2026-04-02T04:42:00+00:00,United States,0.7405136287110985,0,1,en,CNA,North-America
+'cdd6f16109',extremes,Flood,#030ba1,wmo,Flashflood Sauk WI,2026-04-05T05:01:00+00:00,United States,0.7404465114697959,0,1,en,CNA,North-America
 '58aec69d5b',extremes,Flood,#030ba1,wmo,Flood Vernon MO,2026-04-03T04:43:00+00:00,United States,0.7403844932103153,0,1,en,CNA,North-America
 '1ac5c279b7',extremes,Storm,#b3b2b1,wmo,Storm Surge Northern Ireland,2026-04-03T04:43:00+00:00,United Kingdom,0.7403734222593655,0,1,en,NEU,Europe
 'e3fd3edd10',extremes,Flood,#030ba1,wmo,Flood Parke IN Vermillion IN Vigo IN,2026-04-03T04:43:00+00:00,United States,0.7395597461504901,0,1,en,CNA,North-America
