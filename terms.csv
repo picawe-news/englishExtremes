@@ -44,7 +44,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '81df6f3074',extremes,Storm,#b3b2b1,wmo,Storm Taupo and Taumarunui,2026-03-26T04:56:00+00:00,New Zealand,0.7506458899510449,0,1,en,NZ,Oceania
 '8180415a6e',extremes,Storm,#b3b2b1,wmo,Storm Surge Solapur,2026-04-03T04:43:00+00:00,India,0.7506156395503143,0,1,en,SAS,Asia
 '604b1e160a',extremes,Heat Wave,#c40202,wmo,Heat Wave 33 Mandals,2026-04-04T04:30:00+00:00,India,0.7502600288923619,0,1,en,SAS,Asia
+'9865ee96b6',extremes,Thunderstorm,#53785a,wmo,Hail Middle and Transition,2026-04-08T05:01:00+00:00,Ghana,0.7495820956740147,0,1,en,WAF,Africa
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,Storm Surge Yakutat Bay,2026-03-31T04:59:00+00:00,United States,0.7494984796764218,0,1,en,CNA,North-America
+'0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,Ice Nakina Aroland Pagwa,2026-04-08T05:01:00+00:00,Canada,0.7492485006676133,0,1,en,NEN,North-America
 'c0c49a9063',extremes,Wildfire,#d60d2b,wmo,Wildfire Kerala,2026-03-29T05:00:00+00:00,India,0.7492203428944074,0,1,en,SAS,Asia
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,Flashflood Erie OH,2026-04-02T04:42:00+00:00,United States,0.7487530552214537,0,1,en,CNA,North-America
 '0e378c6670',extremes,Precipitation,#d60d2b,wmo,Precipitation Taranaki Maunga,2026-03-26T04:56:00+00:00,New Zealand,0.7485023802271932,0,1,en,NZ,Oceania
@@ -101,6 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e79e9ce59',extremes,Flood,#030ba1,wmo,Flood Genesee MI,2026-04-05T05:01:00+00:00,United States,0.7414405605690949,0,1,en,CNA,North-America
 '33db57a1ea',extremes,Flood,#030ba1,wmo,Flashflood Erie NY Niagara NY,2026-04-03T04:43:00+00:00,United States,0.7413260287238217,0,1,en,CNA,North-America
 '482e116bd4',extremes,Flood,#030ba1,wmo,Flood Labette KS Neosho KS,2026-04-03T04:43:00+00:00,United States,0.7411485065671122,0,1,en,CNA,North-America
+'3247b165df',extremes,Snow&Ice,#d60d2b,wmo,Freezing Prince Albert Nat. Park,2026-04-08T05:01:00+00:00,Canada,0.7409579415889245,0,1,en,NEN,North-America
 '1c59489eb7',extremes,Flood,#030ba1,wmo,Flooding Seneca OH,2026-04-02T04:42:00+00:00,United States,0.7409487734604873,0,1,en,CNA,North-America
 'f09570b6b3',extremes,Flood,#030ba1,wmo,Flood Hancock IL McDonough IL,2026-04-04T04:30:00+00:00,United States,0.7408582209482238,0,1,en,CNA,North-America
 'bdc2b626fd',extremes,Flood,#030ba1,wmo,Flooding Boone IL Winnebago IL,2026-04-05T05:01:00+00:00,United States,0.7408323772993761,0,1,en,CNA,North-America
@@ -126,7 +129,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edae2e55ce',extremes,Flood,#030ba1,wmo,Flashflood Caddo OK Kiowa OK Washita OK,2026-04-04T04:30:00+00:00,United States,0.7393963353428974,0,1,en,CNA,North-America
 '0159f45ee7',extremes,Flood,#030ba1,wmo,Flood Defiance OH Henry OH,2026-04-04T04:30:00+00:00,United States,0.7393458204696202,0,1,en,CNA,North-America
 '02ef1fed03',extremes,Flood,#030ba1,wmo,Flooding Cass MO Henry MO Johnson MO,2026-04-03T04:43:00+00:00,United States,0.7392266581223109,0,1,en,CNA,North-America
+'aa1a2b2faf',extremes,Flood,#030ba1,wmo,Flashflood Benton IA Iowa IA,2026-04-05T05:01:00+00:00,United States,0.73921079483573,0,1,en,CNA,North-America
 '6e7d1e39a2',extremes,Flood,#030ba1,wmo,Flashflood La Salle IL,2026-04-05T05:01:00+00:00,United States,0.7391885635408769,0,1,en,CNA,North-America
+'012592e775',extremes,Flood,#030ba1,wmo,Flooding Jasper IN Porter IN,2026-04-07T04:59:00+00:00,United States,0.7391722405096118,0,1,en,CNA,North-America
+'d864d2635e',extremes,Flood,#030ba1,wmo,Flooding Angelina TX Nacogdoches TX,2026-04-08T05:01:00+00:00,United States,0.738919499459169,0,1,en,CNA,North-America
 '5ab988d035',extremes,Flood,#030ba1,wmo,Flood Williams OH,2026-03-14T04:22:00+00:00,United States,0.7384388339504752,0,1,en,CNA,North-America
 '45dfc56491',extremes,Drought,#edc291,edo,Drought Bahamas,2026-04-01T05:12:00+00:00,Bahamas,0.7379682560481128,0,1,en,CAR,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-02-12T04:37:00+00:00,New Zealand,0.7379274882053499,1,3,en,NZ,Oceania
