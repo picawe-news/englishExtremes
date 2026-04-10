@@ -148,6 +148,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2f2ee735b',extremes,Flood,#030ba1,wmo,Flashflood Cass IL Fulton IL Mason IL,2026-04-06T05:11:00+00:00,United States,0.7379134629940708,0,1,en,CNA,North-America
 '246c6472b4',extremes,Flood,#030ba1,wmo,Flood Columbia WI Sauk WI,2026-04-06T05:11:00+00:00,United States,0.7376166144710821,0,1,en,CNA,North-America
 '01a9374297',extremes,Flood,#030ba1,wmo,Flooding Newaygo MI,2026-04-08T05:01:00+00:00,United States,0.7373853748788158,0,1,en,CNA,North-America
+'6810a2a47a',extremes,Flood,#030ba1,wmo,Flood Kent MI,2026-04-06T05:11:00+00:00,United States,0.7373155047653228,0,1,en,CNA,North-America
+'15ea46f64a',extremes,Flood,#030ba1,wmo,Flashflood Macomb MI,2026-04-06T05:11:00+00:00,United States,0.7373116648675926,0,1,en,CNA,North-America
+'0f9abeb76e',extremes,Flood,#030ba1,wmo,Flood Tompkins NY,2026-04-01T05:12:00+00:00,United States,0.7371509234008156,0,1,en,CNA,North-America
+'b2eae4a5eb',extremes,Flood,#030ba1,wmo,Flooding Lake IN Newton IN,2026-04-06T05:11:00+00:00,United States,0.7370790121210172,0,1,en,CNA,North-America
+'5478987fda',extremes,Flood,#030ba1,wmo,Flood Bay MI Saginaw MI,2026-04-05T05:01:00+00:00,United States,0.7369199642448604,0,1,en,CNA,North-America
+'34d9932453',extremes,Storm,#b3b2b1,wmo,Storm Surge Orkney Shetland,2026-04-05T05:01:00+00:00,United Kingdom,0.7368621296318291,0,1,en,NEU,Europe
 'c3ac668169',extremes,Flood,#030ba1,wmo,Flooding Hamilton NY,2026-04-01T05:12:00+00:00,United States,0.736604664279435,0,1,en,CNA,North-America
 '047f353885',extremes,Heat Wave,#c40202,acwe,heatwave Western Australia,2026-03-11T04:23:00+00:00,Australia,0.7365427917828176,1,1,en,CAU,Oceania
 'a8d53a8f02',extremes,Flood,#030ba1,wmo,Flooding Tuscarawas OH,2026-03-28T04:33:00+00:00,United States,0.7347067054108184,0,1,en,CNA,North-America
