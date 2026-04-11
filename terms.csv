@@ -161,7 +161,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5478987fda',extremes,Flood,#030ba1,wmo,Flood Bay MI Saginaw MI,2026-04-05T05:01:00+00:00,United States,0.7369199642448604,0,1,en,CNA,North-America
 '34d9932453',extremes,Storm,#b3b2b1,wmo,Storm Surge Orkney Shetland,2026-04-05T05:01:00+00:00,United Kingdom,0.7368621296318291,0,1,en,NEU,Europe
 'c3ac668169',extremes,Flood,#030ba1,wmo,Flooding Hamilton NY,2026-04-01T05:12:00+00:00,United States,0.736604664279435,0,1,en,CNA,North-America
+'6526451879',extremes,Flood,#030ba1,wmo,Flood Barry MI,2026-04-10T05:13:00+00:00,United States,0.7365920429670447,0,1,en,CNA,North-America
 '047f353885',extremes,Heat Wave,#c40202,acwe,heatwave Western Australia,2026-03-11T04:23:00+00:00,Australia,0.7365427917828176,1,1,en,CAU,Oceania
+'45243db777',extremes,Flood,#030ba1,wmo,Flood Coshocton OH,2026-04-09T04:58:00+00:00,United States,0.7365038074312801,0,1,en,CNA,North-America
+'e3b5ebd857',extremes,Flood,#030ba1,wmo,Flashflood Barry MI,2026-04-08T05:01:00+00:00,United States,0.7364810712595584,0,1,en,CNA,North-America
+'b0e0775f7b',extremes,Flood,#030ba1,wmo,Flood Henry OH,2026-04-03T04:43:00+00:00,United States,0.7363498025929965,0,1,en,CNA,North-America
+'df5771653a',extremes,Flood,#030ba1,wmo,Flashflood Lake IL Kenosha WI,2026-04-08T05:01:00+00:00,United States,0.7360746848320384,0,1,en,CNA,North-America
+'6074c22f0c',extremes,Flood,#030ba1,wmo,Flood Tuscarawas OH,2026-04-05T05:01:00+00:00,United States,0.7360630388006922,0,1,en,CNA,North-America
 'a8d53a8f02',extremes,Flood,#030ba1,wmo,Flooding Tuscarawas OH,2026-03-28T04:33:00+00:00,United States,0.7347067054108184,0,1,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-01-29T04:19:00+00:00,Australia,0.7346344852411275,1,3,en,CAU,Oceania
 '2540c92e89',extremes,Drought,#edc291,edo,Dryness Zambia,2026-03-10T04:22:00+00:00,Zambia,0.7344823291748884,0,1,en,ESAF,Africa
