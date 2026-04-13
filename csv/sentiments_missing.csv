@@ -53,10 +53,10 @@ Thousands,Thousands,CARDINAL,,,en,2.0
 night,night,TIME,,,en,2.0
 weeks,weeks,DATE,,,en,2.0
 this year,this year,DATE,,,en,2.0
-dozens,dozens,CARDINAL,,,en,1.9000000000000001
+hundreds,hundreds,CARDINAL,,,en,1.9000000000000001
 Marauder,Marauder,PRODUCT,,,en,1.9000000000000001
 2003,2003,DATE,,,en,1.9000000000000001
-hundreds,hundreds,CARDINAL,,,en,1.9000000000000001
+dozens,dozens,CARDINAL,,,en,1.9000000000000001
 1,1,CARDINAL,,,en,1.9000000000000001
 45C,45C,FAC,,,en,1.9
 One,One,CARDINAL,,,en,1.9
@@ -65,202 +65,202 @@ the summer of 2019,the summer of 2019,DATE,,,en,1.9
 2020,2020,DATE,,,en,1.9
 40 degrees Celsius,40 degrees Celsius,QUANTITY,,,en,1.9
 40C,40C,CARDINAL,,,en,1.8
-next year,next year,DATE,,,en,1.8
+season,season,DATE,,,en,1.8
 the year,the year,DATE,,,en,1.8
 season 2,season 2,DATE,,,en,1.8
 4m,4m,QUANTITY,,,en,1.8
 45%,45%,PERCENT,,,en,1.8
 March 21,March 21,DATE,,,en,1.8
-season,season,DATE,,,en,1.8
 11,11,CARDINAL,,,en,1.8
-next month,next month,DATE,,,en,1.7
-Americans,Americans,NORP,,,en,1.7
-2021,2021,DATE,,,en,1.7
+next year,next year,DATE,,,en,1.8
 14,14,CARDINAL,,,en,1.7
+next month,next month,DATE,,,en,1.7
+5 years,5 years,DATE,,,en,1.7
+2021,2021,DATE,,,en,1.7
+last-minute,last-minute,TIME,,,en,1.7
 17,17,CARDINAL,,,en,1.7
 February 16,February 16,DATE,,,en,1.7
 zero,zero,CARDINAL,,,en,1.7
-5 years,5 years,DATE,,,en,1.7
+Americans,Americans,NORP,,,en,1.7
 day,day,DATE,,,en,1.7
-50C,50C,CARDINAL,,,en,1.7
-40 degrees,40 degrees,QUANTITY,,,en,1.7
 Mexican,Mexican,NORP,,,en,1.7
 Eight,Eight,CARDINAL,,,en,1.7
-2,2,CARDINAL,,,en,1.6
+40 degrees,40 degrees,QUANTITY,,,en,1.7
+50C,50C,CARDINAL,,,en,1.7
 Olympics,Olympics,EVENT,,,en,1.6
-Islanders,Islanders,NORP,,,en,1.6
-Hundreds,Hundreds,CARDINAL,,,en,1.6
+2,2,CARDINAL,,,en,1.6
 American,American,NORP,,,en,1.6
 Israeli,Israeli,NORP,,,en,1.6
+Islanders,Islanders,NORP,,,en,1.6
+Hundreds,Hundreds,CARDINAL,,,en,1.6
 Super Bowl,Super Bowl,EVENT,,,en,1.5999999999999999
 Three,Three,CARDINAL,,,en,1.5999999999999999
 this season,this season,DATE,,,en,1.5
-yesterday,yesterday,DATE,,,en,1.5
 four,four,CARDINAL,,,en,1.5
-coming days,coming days,DATE,,,en,1.4
-Iranian,Iranian,NORP,,,en,1.4
+yesterday,yesterday,DATE,,,en,1.5
 five,five,CARDINAL,,,en,1.4
-1964,1964,CARDINAL,,,en,1.3
-2035,2035,DATE,,,en,1.3
-last year,last year,DATE,,,en,1.3
-1967,1967,DATE,,,en,1.3
-the World Cup,the World Cup,EVENT,,,en,1.3
-10 a.m.,10 a.m.,TIME,,,en,1.3
-every day of the year,every day of the year,DATE,,,en,1.3
-Pixel 10a,Pixel 10a,PRODUCT,,,en,1.3
-2004,2004,CARDINAL,,,en,1.3
-the Hockey Hall of Fame,the Hockey Hall of Fame,FAC,,,en,1.3
-a stormy January,a stormy January,DATE,,,en,1.3
-millions,millions,CARDINAL,,,en,1.3
-quarterly,quarterly,DATE,,,en,1.3
-3/18,3/18,CARDINAL,,,en,1.3
-300,300,MONEY,,,en,1.3
-a year,a year,DATE,,,en,1.3
+Iranian,Iranian,NORP,,,en,1.4
+coming days,coming days,DATE,,,en,1.4
+afternoon,afternoon,TIME,,,en,1.3
 360,360,CARDINAL,,,en,1.3
 40,40,CARDINAL,,,en,1.3
-2022,2022,DATE,,,en,1.3
 4th,4th,ORDINAL,,,en,1.3
-Ready or Not 2,Ready or Not 2,WORK_OF_ART,,,en,1.3
-Power Ballad,Power Ballad,WORK_OF_ART,,,en,1.3
 South Australian,South Australian,NORP,,,en,1.3
 Christmas Day,Christmas Day,DATE,,,en,1.3
-5%,5%,PERCENT,,,en,1.3
-Each year,Each year,DATE,,,en,1.3
 Weekend,Weekend,DATE,,,en,1.3
+5%,5%,PERCENT,,,en,1.3
+300,300,MONEY,,,en,1.3
 50%,50%,PERCENT,,,en,1.3
-2024,2024,DATE,,,en,1.3
-81,81,CARDINAL,,,en,1.3
+a stormy January,a stormy January,DATE,,,en,1.3
+millions,millions,CARDINAL,,,en,1.3
+every day of the year,every day of the year,DATE,,,en,1.3
+the World Cup,the World Cup,EVENT,,,en,1.3
+last year,last year,DATE,,,en,1.3
 8 p.m.,8 p.m.,TIME,,,en,1.3
-Exit From Rock The Country Festival,Exit From Rock The Country Festival,WORK_OF_ART,,,en,1.3
-Dark Charcoal,Dark Charcoal,PRODUCT,,,en,1.3
+a year,a year,DATE,,,en,1.3
+3/18,3/18,CARDINAL,,,en,1.3
+2035,2035,DATE,,,en,1.3
+quarterly,quarterly,DATE,,,en,1.3
 one day,one day,DATE,,,en,1.3
-Haitians,Haitians,NORP,,,en,1.3
 weekly,weekly,DATE,,,en,1.3
-several days,several days,DATE,,,en,1.3
-afternoon,afternoon,TIME,,,en,1.3
-spring,spring,DATE,,,en,1.3
-months,months,DATE,,,en,1.3
-Ayodhya,Ayodhya,NORP,,,en,1.3
-200,200,CARDINAL,,,en,1.3
 Echinococcus,Echinococcus,NORP,,,en,1.3
-the week,the week,DATE,,,en,1.3
+months,months,DATE,,,en,1.3
+Dark Charcoal,Dark Charcoal,PRODUCT,,,en,1.3
 Week,Week,DATE,,,en,1.3
-61,61,CARDINAL,,,en,1.2
-25,25,CARDINAL,,,en,1.2
-World Baseball Classic,World Baseball Classic,EVENT,,,en,1.2
-European,European,NORP,,,en,1.2
-last-minute,last-minute,TIME,,,en,1.2
-the Great Barrier Reef,the Great Barrier Reef,EVENT,,,en,1.2
+Exit From Rock The Country Festival,Exit From Rock The Country Festival,WORK_OF_ART,,,en,1.3
+1967,1967,DATE,,,en,1.3
+Pixel 10a,Pixel 10a,PRODUCT,,,en,1.3
+2004,2004,CARDINAL,,,en,1.3
+1964,1964,CARDINAL,,,en,1.3
+81,81,CARDINAL,,,en,1.3
+Each year,Each year,DATE,,,en,1.3
+Power Ballad,Power Ballad,WORK_OF_ART,,,en,1.3
+Ready or Not 2,Ready or Not 2,WORK_OF_ART,,,en,1.3
+2022,2022,DATE,,,en,1.3
+several days,several days,DATE,,,en,1.3
+10 a.m.,10 a.m.,TIME,,,en,1.3
+the Hockey Hall of Fame,the Hockey Hall of Fame,FAC,,,en,1.3
+2024,2024,DATE,,,en,1.3
+the week,the week,DATE,,,en,1.3
+Haitians,Haitians,NORP,,,en,1.3
+200,200,CARDINAL,,,en,1.3
+Ayodhya,Ayodhya,NORP,,,en,1.3
+spring,spring,DATE,,,en,1.3
 annual,annual,DATE,,,en,1.2
-Stratofortress,Stratofortress,PRODUCT,,,en,1.2
-the New Year,the New Year,DATE,,,en,1.2
 4,4,CARDINAL,,,en,1.2
-1976,1976,DATE,,,en,1.2
-Absolute Healing,Absolute Healing,WORK_OF_ART,,,en,1.2
-the Year,the Year,DATE,,,en,1.2
+25,25,CARDINAL,,,en,1.2
 sixth,sixth,ORDINAL,,,en,1.2
-fifth,fifth,ORDINAL,,,en,1.2
-Christmas Eve,Christmas Eve,DATE,,,en,1.2
-nine,nine,CARDINAL,,,en,1.2
-February 2026,February 2026,DATE,,,en,1.2
-up to,up to,QUANTITY,,,en,1.2
 Tomahawk,Tomahawk,PRODUCT,,,en,1.2
+Stratofortress,Stratofortress,PRODUCT,,,en,1.2
 10th,10th,ORDINAL,,,en,1.2
-20th Anniversary,20th Anniversary,DATE,,,en,1.0
-Before It Melts,Before It Melts,WORK_OF_ART,,,en,1.0
-Victorian,Victorian,NORP,,,en,1.0
-2 am,2 am,MONEY,,,en,1.0
-Red Center,Red Center,FAC,,,en,1.0
-2028,2028,DATE,,,en,1.0
-wettest month in decades,wettest month in decades,DATE,,,en,1.0
-a few years,a few years,DATE,,,en,1.0
-eighth,eighth,ORDINAL,,,en,1.0
-the Bruce Highway,the Bruce Highway,FAC,,,en,1.0
-March 5,March 5,DATE,,,en,1.0
-just 10 days,just 10 days,DATE,,,en,1.0
-3C,3C,CARDINAL,,,en,1.0
-"Feb 17, 2026","Feb 17, 2026",DATE,,,en,1.0
-Later that month,Later that month,DATE,,,en,1.0
-the day,the day,DATE,,,en,1.0
-Transwoman,Transwoman,NORP,,,en,1.0
-2017,2017,DATE,,,en,1.0
-We Had Whistles,We Had Whistles,WORK_OF_ART,,,en,1.0
-three-day,three-day,DATE,,,en,1.0
-February 20,February 20,DATE,,,en,1.0
-tens of thousands,tens of thousands,CARDINAL,,,en,1.0
-fourth,fourth,ORDINAL,,,en,1.0
-Saturn,Saturn,PRODUCT,,,en,1.0
-the second season,the second season,DATE,,,en,1.0
-Pixel 9a,Pixel 9a,PRODUCT,,,en,1.0
-the Qinghai–Tibet Plateau,the Qinghai–Tibet Plateau,FAC,,,en,1.0
+nine,nine,CARDINAL,,,en,1.2
+World Baseball Classic,World Baseball Classic,EVENT,,,en,1.2
+the New Year,the New Year,DATE,,,en,1.2
+up to,up to,QUANTITY,,,en,1.2
+Absolute Healing,Absolute Healing,WORK_OF_ART,,,en,1.2
+European,European,NORP,,,en,1.2
+February 2026,February 2026,DATE,,,en,1.2
+the Great Barrier Reef,the Great Barrier Reef,EVENT,,,en,1.2
+1976,1976,DATE,,,en,1.2
+fifth,fifth,ORDINAL,,,en,1.2
+the Year,the Year,DATE,,,en,1.2
+61,61,CARDINAL,,,en,1.2
+Christmas Eve,Christmas Eve,DATE,,,en,1.2
 just 500 kilometers,just 500 kilometers,QUANTITY,,,en,1.0
-the Qinghai-Tibet Plateau,the Qinghai-Tibet Plateau,FAC,,,en,1.0
+Slovenian,Slovenian,NORP,,,en,1.0
+We Had Whistles,We Had Whistles,WORK_OF_ART,,,en,1.0
+2017,2017,DATE,,,en,1.0
+March 5,March 5,DATE,,,en,1.0
 about 6.5,about 6.5,CARDINAL,,,en,1.0
 30.9°C,30.9°C,MONEY,,,en,1.0
-March 2026,March 2026,DATE,,,en,1.0
-The Art Of Snow,The Art Of Snow,WORK_OF_ART,,,en,1.0
+Transwoman,Transwoman,NORP,,,en,1.0
+Dolomites,Dolomites,NORP,,,en,1.0
+2 am,2 am,MONEY,,,en,1.0
+2 million,2 million,CARDINAL,,,en,1.0
+fourth,fourth,ORDINAL,,,en,1.0
+Saturn,Saturn,PRODUCT,,,en,1.0
+Winter Olympics Speed Skating 2026,Winter Olympics Speed Skating 2026,EVENT,,,en,1.0
+Spanish,Spanish,NORP,,,en,1.0
+Pixel 9a,Pixel 9a,PRODUCT,,,en,1.0
+more than 200,more than 200,CARDINAL,,,en,1.0
+2028,2028,DATE,,,en,1.0
+a few years,a few years,DATE,,,en,1.0
+wettest month in decades,wettest month in decades,DATE,,,en,1.0
+Victorian,Victorian,NORP,,,en,1.0
 the next seven days,the next seven days,DATE,,,en,1.0
-more than a season,more than a season,DATE,,,en,1.0
-The Clearing,The Clearing,WORK_OF_ART,,,en,1.0
-last year's,last year's,DATE,,,en,1.0
+20th Anniversary,20th Anniversary,DATE,,,en,1.0
+the second season,the second season,DATE,,,en,1.0
+March 2026,March 2026,DATE,,,en,1.0
+the Qinghai-Tibet Plateau,the Qinghai-Tibet Plateau,FAC,,,en,1.0
+the Qinghai–Tibet Plateau,the Qinghai–Tibet Plateau,FAC,,,en,1.0
+Fri,Fri,DATE,,,en,1.0
+11 million,11 million,CARDINAL,,,en,1.0
+the day,the day,DATE,,,en,1.0
+February 20,February 20,DATE,,,en,1.0
+three-day,three-day,DATE,,,en,1.0
+"Feb 17, 2026","Feb 17, 2026",DATE,,,en,1.0
+Chocolonely,Chocolonely,WORK_OF_ART,,,en,1.0
+Winter Olympics 2026 Free,Winter Olympics 2026 Free,EVENT,,,en,1.0
+Later that month,Later that month,DATE,,,en,1.0
+the Bruce Highway,the Bruce Highway,FAC,,,en,1.0
+eighth,eighth,ORDINAL,,,en,1.0
+the last four weeks,the last four weeks,DATE,,,en,1.0
+Red Center,Red Center,FAC,,,en,1.0
+The Art Of Snow,The Art Of Snow,WORK_OF_ART,,,en,1.0
+3C,3C,CARDINAL,,,en,1.0
+2-6 inches,2-6 inches,QUANTITY,,,en,1.0
+up to 200 millimetres,up to 200 millimetres,QUANTITY,,,en,1.0
+seventeen,seventeen,CARDINAL,,,en,1.0
+as much as 90 percent,as much as 90 percent,PERCENT,,,en,1.0
+Dozens,Dozens,CARDINAL,,,en,1.0
 February 6,February 6,DATE,,,en,1.0
 at least 36,at least 36,CARDINAL,,,en,1.0
-"20,000","20,000",CARDINAL,,,en,1.0
-178,178,CARDINAL,,,en,1.0
-15 years,15 years,DATE,,,en,1.0
-31 January,31 January,DATE,,,en,1.0
-Seedance 2.0,Seedance 2.0,FAC,,,en,1.0
-ByteDance,ByteDance,PRODUCT,,,en,1.0
-September,September,DATE,,,en,1.0
-Slovenian,Slovenian,NORP,,,en,1.0
-Dolomites,Dolomites,NORP,,,en,1.0
-2 million,2 million,CARDINAL,,,en,1.0
-Spanish,Spanish,NORP,,,en,1.0
-the last four weeks,the last four weeks,DATE,,,en,1.0
-Chocolonely,Chocolonely,WORK_OF_ART,,,en,1.0
-11 million,11 million,CARDINAL,,,en,1.0
-Fri,Fri,DATE,,,en,1.0
-more than 200,more than 200,CARDINAL,,,en,1.0
-Slavic,Slavic,NORP,,,en,1.0
-early today,early today,TIME,,,en,1.0
-the Week Ahead,the Week Ahead,DATE,,,en,1.0
-every day of 2026,every day of 2026,DATE,,,en,1.0
-Dozens,Dozens,CARDINAL,,,en,1.0
-Winter Olympics Speed Skating 2026,Winter Olympics Speed Skating 2026,EVENT,,,en,1.0
-Winter Olympics 2026 Free,Winter Olympics 2026 Free,EVENT,,,en,1.0
-Over 80,Over 80,CARDINAL,,,en,1.0
+last year's,last year's,DATE,,,en,1.0
+the Great Synagogue,the Great Synagogue,FAC,,,en,1.0
+this upcoming weekend,this upcoming weekend,DATE,,,en,1.0
 Mercury Prize,Mercury Prize,WORK_OF_ART,,,en,1.0
+arboviruses,arboviruses,PRODUCT,,,en,1.0
+6 inches,6 inches,QUANTITY,,,en,1.0
+just 10 days,just 10 days,DATE,,,en,1.0
+the Week Ahead,the Week Ahead,DATE,,,en,1.0
+The Clearing,The Clearing,WORK_OF_ART,,,en,1.0
 summer festival,summer festival,EVENT,,,en,1.0
-early Friday,early Friday,TIME,,,en,1.0
+Tropical,Tropical,PRODUCT,,,en,1.0
+119,119,CARDINAL,,,en,1.0
+seasonal,seasonal,DATE,,,en,1.0
+every day of 2026,every day of 2026,DATE,,,en,1.0
+a decade,a decade,DATE,,,en,1.0
+year-round,year-round,DATE,,,en,1.0
 The Rooftop at Pier 17,The Rooftop at Pier 17,WORK_OF_ART,,,en,1.0
+Great Barrier Reef,Great Barrier Reef,FAC,,,en,1.0
+Over 80,Over 80,CARDINAL,,,en,1.0
+the next four days,the next four days,DATE,,,en,1.0
+overnight,overnight,TIME,,,en,1.0
+September,September,DATE,,,en,1.0
+ByteDance,ByteDance,PRODUCT,,,en,1.0
+Seedance 2.0,Seedance 2.0,FAC,,,en,1.0
+Before It Melts,Before It Melts,WORK_OF_ART,,,en,1.0
+the Great Barrier Reef Can,the Great Barrier Reef Can,EVENT,,,en,1.0
+tens of thousands,tens of thousands,CARDINAL,,,en,1.0
+more than a season,more than a season,DATE,,,en,1.0
+early Friday,early Friday,TIME,,,en,1.0
 "871,000","871,000",CARDINAL,,,en,1.0
 Lake Louise,Lake Louise,FAC,,,en,1.0
+31 January,31 January,DATE,,,en,1.0
 "Feb. 15, 2026","Feb. 15, 2026",DATE,,,en,1.0
 Face the Nation,Face the Nation,WORK_OF_ART,,,en,1.0
+15 years,15 years,DATE,,,en,1.0
 last night,last night,TIME,,,en,1.0
+Slavic,Slavic,NORP,,,en,1.0
+178,178,CARDINAL,,,en,1.0
 Holocene,Holocene,PRODUCT,,,en,1.0
 2000TREES 2026,2000TREES 2026,DATE,,,en,1.0
 13 years,13 years,DATE,,,en,1.0
 Blockbuster Video,Blockbuster Video,WORK_OF_ART,,,en,1.0
+"20,000","20,000",CARDINAL,,,en,1.0
 summertime,summertime,DATE,,,en,1.0
+early today,early today,TIME,,,en,1.0
 mid-April,mid-April,DATE,,,en,1.0
-overnight,overnight,TIME,,,en,1.0
-the next four days,the next four days,DATE,,,en,1.0
-seventeen,seventeen,CARDINAL,,,en,1.0
-as much as 90 percent,as much as 90 percent,PERCENT,,,en,1.0
-the Great Synagogue,the Great Synagogue,FAC,,,en,1.0
-this upcoming weekend,this upcoming weekend,DATE,,,en,1.0
-arboviruses,arboviruses,PRODUCT,,,en,1.0
-2-6 inches,2-6 inches,QUANTITY,,,en,1.0
-6 inches,6 inches,QUANTITY,,,en,1.0
-119,119,CARDINAL,,,en,1.0
-seasonal,seasonal,DATE,,,en,1.0
-Tropical,Tropical,PRODUCT,,,en,1.0
-a decade,a decade,DATE,,,en,1.0
-year-round,year-round,DATE,,,en,1.0
-the Great Barrier Reef Can,the Great Barrier Reef Can,EVENT,,,en,1.0
-Great Barrier Reef,Great Barrier Reef,FAC,,,en,1.0
-up to 200 millimetres,up to 200 millimetres,QUANTITY,,,en,1.0
 Alison Flood,Alison Flood,WORK_OF_ART,,,en,1.0
 | Weekend 9,| Weekend 9,DATE,,,en,1.0
 April Premiere Set,April Premiere Set,EVENT,,,en,1.0
@@ -453,11 +453,11 @@ Cold War,Cold War,EVENT,,,en,1.0
 Danish,Danish,NORP,,,en,1.0
 Boots Riley,Boots Riley,WORK_OF_ART,,,en,1.0
 Got Money Troubles,Got Money Troubles,WORK_OF_ART,,,en,1.0
+Margo's Got Money Troubles,Margo's Got Money Troubles,WORK_OF_ART,,,en,1.0
+I Love Boosters,I Love Boosters,WORK_OF_ART,,,en,1.0
 33rd,33rd,ORDINAL,,,en,1.0
 March 12-18,March 12-18,DATE,,,en,1.0
 SXSW 2026 Film,SXSW 2026 Film,EVENT,,,en,1.0
-Margo's Got Money Troubles,Margo's Got Money Troubles,WORK_OF_ART,,,en,1.0
-I Love Boosters,I Love Boosters,WORK_OF_ART,,,en,1.0
 101,101,CARDINAL,,,en,1.0
 Weeks,Weeks,DATE,,,en,1.0
 Great Ocean Road,Great Ocean Road,FAC,,,en,1.0
