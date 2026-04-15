@@ -26,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-03-26T04:56:00+00:00,New Zealand,0.7576182646084249,0,1,en,NZ,Oceania
 '4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2026-04-02T04:42:00+00:00,India,0.7575603879661429,0,1,en,SAS,Asia
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-03-26T04:56:00+00:00,New Zealand,0.7566981770326486,0,1,en,NZ,Oceania
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-04-08T05:01:00+00:00,Canada,0.7565951829421846,0,1,en,NEN,North-America
 'b9df18cf46',extremes,Storm,#b3b2b1,wmo,Storm Surge inshore areas of north coast,2026-04-06T05:11:00+00:00,Jamaica,0.7559348657630729,0,1,en,CAR,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-03-31T04:59:00+00:00,Canada,0.7558419994197126,0,1,en,NEN,North-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,Severe Weather Canada,2026-04-14T05:11:00+00:00,Canada,0.7552233325896525,0,1,en,NEN,North-America
@@ -41,8 +42,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-04-14T05:11:00+00:00,Jamaica,0.7526635208016161,0,1,en,CAR,North-America
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-03-30T05:12:00+00:00,Jamaica,0.7522668186613755,0,1,en,CAR,North-America
 '1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Solomon Islands,2026-04-10T05:13:00+00:00,Solomon Islands,0.7522152748880702,0,1,en,EPO,Oceania
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-04-09T04:58:00+00:00,Canada,0.7520965045142914,0,1,en,NEN,North-America
+'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,Ice Pickle Lake Cat Lake,2026-04-09T04:58:00+00:00,Canada,0.7520753868557511,0,1,en,NEN,North-America
 '1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,Storm Surge Great Barrier Island,2026-04-12T05:12:00+00:00,New Zealand,0.7519487777948857,0,1,en,NZ,Oceania
+'ce4931e51e',extremes,Flood,#030ba1,wmo,Flashflood South Australia Cooper Creek,2026-04-06T05:11:00+00:00,Australia,0.751508903326726,0,1,en,CAU,Oceania
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,Hail Botswana,2026-04-13T05:28:00+00:00,Botswana,0.7514382538898324,0,1,en,WSAF,Africa
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2026-04-03T04:43:00+00:00,India,0.7512765847112973,0,1,en,SAS,Asia
 '4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Solomon Islands,2026-04-05T05:01:00+00:00,Solomon Islands,0.7510732020380657,0,1,en,EPO,Oceania
 '97cf231a2f',extremes,Wildfire,#d60d2b,wmo,Wildfire Odisha,2026-04-03T04:43:00+00:00,India,0.7509545992725042,0,1,en,SAS,Asia
 '6e5947027b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Waikato,2026-04-11T04:34:00+00:00,New Zealand,0.7508958615394965,0,1,en,NZ,Oceania
@@ -50,6 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8180415a6e',extremes,Storm,#b3b2b1,wmo,Storm Surge Solapur,2026-04-03T04:43:00+00:00,India,0.7506156395503143,0,1,en,SAS,Asia
 'a574def091',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Central and Eastern Regions,2026-04-09T04:58:00+00:00,Solomon Islands,0.7504912993308112,0,1,en,EPO,Oceania
 'afd06422c3',extremes,Storm,#b3b2b1,wmo,Storm Wellington,2026-04-12T05:12:00+00:00,New Zealand,0.7504045205498672,0,1,en,NZ,Oceania
+'3c35edb296',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Botswana,2026-04-14T05:11:00+00:00,Botswana,0.7503479898840087,0,1,en,WSAF,Africa
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-04-11T04:34:00+00:00,United States,0.7502681796928315,0,1,en,CNA,North-America
 '604b1e160a',extremes,Heat Wave,#c40202,wmo,Heat Wave 33 Mandals,2026-04-04T04:30:00+00:00,India,0.7502600288923619,0,1,en,SAS,Asia
 '2e88ab8e95',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Western Isabel and Choiseul,2026-04-09T04:58:00+00:00,Solomon Islands,0.7498645995746347,0,1,en,EPO,Oceania
