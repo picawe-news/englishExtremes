@@ -33,11 +33,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9df18cf46',extremes,Storm,#b3b2b1,wmo,Storm Surge inshore areas of north coast,2026-04-06T05:11:00+00:00,Jamaica,0.7559348657630729,0,1,en,CAR,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-03-31T04:59:00+00:00,Canada,0.7558419994197126,0,1,en,NEN,North-America
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,Severe Weather Canada,2026-04-14T05:11:00+00:00,Canada,0.7552233325896525,0,1,en,NEN,North-America
+'6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,Wildfire Telangana,2026-03-29T05:00:00+00:00,India,0.7547207215202901,0,1,en,SAS,Asia
+'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-04-06T05:11:00+00:00,New Zealand,0.7545362993245988,0,1,en,NZ,Oceania
 'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,Heat Wave 53 Mandals,2026-04-03T04:43:00+00:00,India,0.7541391272645411,0,1,en,SAS,Asia
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-02-26T04:29:00+00:00,Australia,0.7537284834126318,1,3,en,CAU,Oceania
+'84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-03-28T04:33:00+00:00,Australia,0.7529743185711609,0,1,en,CAU,Oceania
 'a015920a8d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kaweka and Ruahine Ranges,2026-04-11T04:34:00+00:00,New Zealand,0.7529408597949894,0,1,en,NZ,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,Earthquake Port Mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.7529042406327437,0,1,en,SIO,Indian Ocean
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,Wildfire India,2026-04-03T04:43:00+00:00,India,0.7528057052189157,0,1,en,SAS,Asia
 '8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Western Isabel and Choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.752791973070683,0,1,en,EPO,Oceania
+'829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-04-14T05:11:00+00:00,Jamaica,0.7526635208016161,0,1,en,CAR,North-America
+'7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-03-30T05:12:00+00:00,Jamaica,0.7522668186613755,0,1,en,CAR,North-America
 '1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Solomon Islands,2026-04-10T05:13:00+00:00,Solomon Islands,0.7522152748880702,0,1,en,EPO,Oceania
 '1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,Storm Surge Great Barrier Island,2026-04-12T05:12:00+00:00,New Zealand,0.7519487777948857,0,1,en,NZ,Oceania
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,Hail Botswana,2026-04-13T05:28:00+00:00,Botswana,0.7514382538898324,0,1,en,WSAF,Africa
