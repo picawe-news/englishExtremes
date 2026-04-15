@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,cold spell New South Wales,2026-03-30T05:12:00+00:00,Australia,0.8220424025477415,1,2,en,EAU,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-02-26T04:29:00+00:00,United States,0.7954871160240831,1,3,en,CNA,North-America
-'6a814a5817',extremes,Drought,#edc291,acwe,low water level New South Wales,2026-03-25T04:34:00+00:00,Australia,0.777617449773088,0,1,en,EAU,Oceania
+'6a814a5817',extremes,Drought,#edc291,acwe,low water level New South Wales,2026-03-25T04:34:00+00:00,Australia,0.7934249523071247,1,2,en,EAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,icy temperatures South Australia,2026-03-31T05:00:00+00:00,Australia,0.7775206931549471,0,1,en,SAU,Oceania
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,cold spell Northern Territory,2026-03-31T05:00:00+00:00,Australia,0.7762784323260485,0,1,en,NAU,Oceania
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,Tornado Murray River Townships Victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.776128317274911,0,1,en,SAU,Oceania
