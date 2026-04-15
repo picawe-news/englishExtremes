@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,cold spell New South Wales,2026-03-30T05:12:00+00:00,Australia,0.8220424025477415,1,2,en,EAU,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-02-26T04:29:00+00:00,United States,0.7954871160240831,1,3,en,CNA,North-America
-'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave New South Wales,2026-03-31T05:00:00+00:00,Australia,0.778663823273634,0,1,en,EAU,Oceania
-'91377cc2a9',extremes,Drought,#edc291,acwe,drought South Australia,2026-03-31T05:00:00+00:00,Australia,0.778063352988013,0,1,en,SAU,Oceania
 '6a814a5817',extremes,Drought,#edc291,acwe,low water level New South Wales,2026-03-25T04:34:00+00:00,Australia,0.777617449773088,0,1,en,EAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,icy temperatures South Australia,2026-03-31T05:00:00+00:00,Australia,0.7775206931549471,0,1,en,SAU,Oceania
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,cold spell Northern Territory,2026-03-31T05:00:00+00:00,Australia,0.7762784323260485,0,1,en,NAU,Oceania
@@ -203,6 +201,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c4aebae8b',extremes,Flood,#030ba1,wmo,Flashflood Clinton MI,2026-04-11T04:34:00+00:00,United States,0.73583337034959,0,1,en,CNA,North-America
 'e621e477de',extremes,Wildfire,#d60d2b,wmo,Wildfire Harper Woods Ellis Woodward,2026-04-13T05:28:00+00:00,United States,0.7352622460096931,0,1,en,CNA,North-America
 'a8d53a8f02',extremes,Flood,#030ba1,wmo,Flooding Tuscarawas OH,2026-03-28T04:33:00+00:00,United States,0.7347067054108184,0,1,en,CNA,North-America
+'91377cc2a9',extremes,Drought,#edc291,acwe,drought South Australia,2026-03-31T05:00:00+00:00,Australia,0.7344864932216293,1,2,en,SAU,Oceania
 '2540c92e89',extremes,Drought,#edc291,edo,Dryness Zambia,2026-03-10T04:22:00+00:00,Zambia,0.7344823291748884,0,1,en,ESAF,Africa
 'fdf41d6f21',extremes,Flood,#030ba1,wmo,Flood Juneau WI,2026-03-27T04:57:00+00:00,United States,0.7342782005970857,0,1,en,CNA,North-America
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-03-11T04:22:00+00:00,India,0.7335804120801557,0,1,en,SAS,Asia
@@ -348,6 +347,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-03-01T04:35:00+00:00,New Zealand,0.6661436703160041,1,2,en,NZ,Oceania
 '840da1491f',extremes,Storm,#b3b2b1,wmo,Storm Surge Far North District,2026-03-10T04:22:00+00:00,New Zealand,0.6636256689722217,2,2,en,NZ,Oceania
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-03-13T04:25:00+00:00,India,0.662644001147481,1,2,en,SAS,Asia
+'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave New South Wales,2026-03-31T05:00:00+00:00,Australia,0.661864249782589,1,1,en,EAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-02-28T04:07:00+00:00,United States,0.6583709382545794,1,2,en,CNA,North-America
 'aa611870f3',extremes,Earthquake,#870007,usgs,Earthquake The Valley,2026-03-22T04:33:00+00:00,Anguilla,0.6537243093741951,1,2,en,NAO,Atlantic Ocean
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-03-01T04:35:00+00:00,Canada,0.6514966092224357,1,2,en,NEN,North-America
