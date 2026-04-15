@@ -2,7 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,cold spell New South Wales,2026-03-30T05:12:00+00:00,Australia,0.8220424025477415,1,2,en,EAU,Oceania
 '8d0d34d451',extremes,Flood,#030ba1,wmo,Flood Queensland Leichhardt River,2026-02-25T04:32:00+00:00,Australia,0.8166302381000367,2,2,en,CAU,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-02-26T04:29:00+00:00,United States,0.7954871160240831,1,3,en,CNA,North-America
-'77611cd126',extremes,Cold Wave,#a7e9fa,acwe,cold weather South Australia,2026-03-30T05:12:00+00:00,Australia,0.7903710516152923,0,1,en,CAU,Oceania
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,cold spell Australia,2026-03-30T05:12:00+00:00,Australia,0.7870212645198974,0,1,en,CAU,Oceania
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave New South Wales,2026-03-31T05:00:00+00:00,Australia,0.778663823273634,0,1,en,EAU,Oceania
 '91377cc2a9',extremes,Drought,#edc291,acwe,drought South Australia,2026-03-31T05:00:00+00:00,Australia,0.778063352988013,0,1,en,SAU,Oceania
@@ -124,6 +123,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ef0236c6e',extremes,Flood,#030ba1,wmo,Flood Chelan WA,2026-03-18T04:36:00+00:00,United States,0.7414973481996253,0,1,en,CNA,North-America
 '3e79e9ce59',extremes,Flood,#030ba1,wmo,Flood Genesee MI,2026-04-05T05:01:00+00:00,United States,0.7414405605690949,0,1,en,CNA,North-America
 '33db57a1ea',extremes,Flood,#030ba1,wmo,Flashflood Erie NY Niagara NY,2026-04-03T04:43:00+00:00,United States,0.7413260287238217,0,1,en,CNA,North-America
+'77611cd126',extremes,Cold Wave,#a7e9fa,acwe,cold weather South Australia,2026-03-30T05:12:00+00:00,Australia,0.7413158738729985,1,2,en,CAU,Oceania
 '9e21bacc56',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Pike MO,2026-04-11T04:34:00+00:00,United States,0.7411636135614058,0,1,en,CNA,North-America
 '482e116bd4',extremes,Flood,#030ba1,wmo,Flood Labette KS Neosho KS,2026-04-03T04:43:00+00:00,United States,0.7411485065671122,0,1,en,CNA,North-America
 '3247b165df',extremes,Snow&Ice,#d60d2b,wmo,Freezing Prince Albert Nat. Park,2026-04-08T05:01:00+00:00,Canada,0.7409579415889245,0,1,en,NEN,North-America
