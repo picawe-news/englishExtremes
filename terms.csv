@@ -56,15 +56,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c35edb296',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Botswana,2026-04-14T05:11:00+00:00,Botswana,0.7503479898840087,0,1,en,WSAF,Africa
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-04-11T04:34:00+00:00,United States,0.7502681796928315,0,1,en,CNA,North-America
 '604b1e160a',extremes,Heat Wave,#c40202,wmo,Heat Wave 33 Mandals,2026-04-04T04:30:00+00:00,India,0.7502600288923619,0,1,en,SAS,Asia
+'0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-04-06T05:11:00+00:00,Canada,0.7502360158016591,0,1,en,NEN,North-America
+'dad4b2a07f',extremes,Snow&Ice,#d60d2b,wmo,Ice Salluit,2026-04-14T05:11:00+00:00,Canada,0.7502104695849652,0,1,en,NEN,North-America
 '2e88ab8e95',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Western Isabel and Choiseul,2026-04-09T04:58:00+00:00,Solomon Islands,0.7498645995746347,0,1,en,EPO,Oceania
 '9865ee96b6',extremes,Thunderstorm,#53785a,wmo,Hail Middle and Transition,2026-04-08T05:01:00+00:00,Ghana,0.7495820956740147,0,1,en,WAF,Africa
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-04-12T05:12:00+00:00,United States,0.7494990475222357,0,1,en,CNA,North-America
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,Storm Surge Yakutat Bay,2026-03-31T04:59:00+00:00,United States,0.7494984796764218,0,1,en,CNA,North-America
 '0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,Ice Nakina Aroland Pagwa,2026-04-08T05:01:00+00:00,Canada,0.7492485006676133,0,1,en,NEN,North-America
 'c0c49a9063',extremes,Wildfire,#d60d2b,wmo,Wildfire Kerala,2026-03-29T05:00:00+00:00,India,0.7492203428944074,0,1,en,SAS,Asia
+'8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-04-06T05:11:00+00:00,Australia,0.7490175762296051,0,1,en,CAU,Oceania
+'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-04-12T05:12:00+00:00,United States,0.7488910167437657,0,1,en,CNA,North-America
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,Flashflood Erie OH,2026-04-02T04:42:00+00:00,United States,0.7487530552214537,0,1,en,CNA,North-America
+'279d701798',extremes,Flood,#030ba1,wmo,Flooding South Australia Cooper Creek,2026-04-08T05:01:00+00:00,Australia,0.7487352601310248,0,1,en,CAU,Oceania
 '0e378c6670',extremes,Precipitation,#d60d2b,wmo,Precipitation Taranaki Maunga,2026-03-26T04:56:00+00:00,New Zealand,0.7485023802271932,0,1,en,NZ,Oceania
 '356d25c0ef',extremes,Flood,#030ba1,wmo,Flooding Hancock OH,2026-04-02T04:42:00+00:00,United States,0.7483759734081236,0,1,en,CNA,North-America
+'38fb523e0e',extremes,Flood,#030ba1,wmo,Flashflood Botswana,2026-04-15T05:12:00+00:00,Botswana,0.7483590297812673,0,1,en,WSAF,Africa
 'cb94a0fa32',extremes,Storm,#b3b2b1,wmo,Storm Coastal Dunedin,2026-03-26T04:56:00+00:00,New Zealand,0.7479048822931372,0,1,en,NZ,Oceania
 'ed16c91ca6',extremes,Storm,#b3b2b1,wmo,Storm Coromandel Peninsula and Waikato,2026-03-25T04:33:00+00:00,New Zealand,0.7477943280577343,0,1,en,NZ,Oceania
 '111d00b3ed',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Taupo,2026-03-26T04:56:00+00:00,New Zealand,0.7477337971499394,0,1,en,NZ,Oceania
