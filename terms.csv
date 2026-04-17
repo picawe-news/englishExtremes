@@ -11,7 +11,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6c613d063',extremes,Drought,#edc291,acwe,lack of rain Queensland,2026-03-28T04:34:00+00:00,Australia,0.7640281979083615,1,2,en,CAU,Oceania
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-04-08T05:01:00+00:00,Australia,0.7624490399575179,0,1,en,CAU,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-02-25T04:32:00+00:00,Australia,0.7604983581360076,1,3,en,CAU,Oceania
-'a28c8ef428',extremes,Storm,#b3b2b1,wmo,Storm United Kingdom,2026-04-03T04:43:00+00:00,United Kingdom,0.7600994124453396,0,1,en,NEU,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-03-25T04:33:00+00:00,Ireland,0.75962202648326,0,1,en,NEU,Europe
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ireland,2026-03-25T04:33:00+00:00,Ireland,0.7595872652799003,0,1,en,NEU,Europe
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2026-04-08T05:01:00+00:00,Australia,0.7590771684849529,0,1,en,SAU,Oceania
@@ -357,6 +356,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-03-13T04:25:00+00:00,India,0.662644001147481,1,2,en,SAS,Asia
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave New South Wales,2026-03-31T05:00:00+00:00,Australia,0.661864249782589,1,1,en,EAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,icy temperatures South Australia,2026-03-31T05:00:00+00:00,Australia,0.660892589181705,1,1,en,SAU,Oceania
+'a28c8ef428',extremes,Storm,#b3b2b1,wmo,Storm United Kingdom,2026-04-03T04:43:00+00:00,United Kingdom,0.6601261446694477,1,2,en,NEU,Europe
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,cold spell Northern Territory,2026-03-31T05:00:00+00:00,Australia,0.6599866824771412,1,1,en,NAU,Oceania
 '6fde59a3a9',extremes,Drought,#edc291,acwe,dryness Queensland,2026-03-20T04:27:00+00:00,Australia,0.6553109664413047,1,1,en,CAU,Oceania
 '136998b302',extremes,Cold Wave,#a7e9fa,acwe,cold weather Queensland,2026-03-31T05:00:00+00:00,Australia,0.6544765220337837,1,1,en,CAU,Oceania
