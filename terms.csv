@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,cold weather Australia,2026-03-31T05:00:00+00:00,Australia,0.771474048919276,0,1,en,CAU,Oceania
 '9ca1eb0a20',extremes,Drought,#edc291,edo,Drought Australia,2026-03-20T04:26:00+00:00,Australia,0.7686405615790312,0,1,en,SAU,Oceania
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2026-03-11T04:22:00+00:00,United Kingdom,0.767830413937949,1,2,en,NEU,Europe
-'ab5d1234a0',extremes,Flood,#030ba1,aidr,Flood Hobart flash flooding Tasmania 2018,2026-04-18T04:57:00+00:00,Australia,0.7669760800203866,0,1,en,SAU,Oceania
 'b6c613d063',extremes,Drought,#edc291,acwe,lack of rain Queensland,2026-03-28T04:34:00+00:00,Australia,0.7640281979083615,1,2,en,CAU,Oceania
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall Australia,2026-04-08T05:01:00+00:00,Australia,0.7624490399575179,0,1,en,CAU,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-02-25T04:32:00+00:00,Australia,0.7604983581360076,1,3,en,CAU,Oceania
@@ -28,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,Heat Wave 53 Mandals,2026-04-03T04:43:00+00:00,India,0.7541391272645411,0,1,en,SAS,Asia
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-02-26T04:29:00+00:00,Australia,0.7537284834126318,1,3,en,CAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,Earthquake Port Mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.7529042406327437,0,1,en,SIO,Indian Ocean
-'854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-04-03T04:43:00+00:00,Canada,0.7528644878002396,0,1,en,NEN,North-America
 'f986239716',extremes,Wildfire,#d60d2b,wmo,Wildfire Gujarat,2026-04-03T04:43:00+00:00,India,0.7524223264213744,0,1,en,SAS,Asia
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-03-30T05:12:00+00:00,Jamaica,0.7522668186613755,0,1,en,CAR,North-America
 '1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Solomon Islands,2026-04-10T05:13:00+00:00,Solomon Islands,0.7522152748880702,0,1,en,EPO,Oceania
@@ -360,8 +358,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,cold spell Northern Territory,2026-03-31T05:00:00+00:00,Australia,0.6599866824771412,1,1,en,NAU,Oceania
 '6fde59a3a9',extremes,Drought,#edc291,acwe,dryness Queensland,2026-03-20T04:27:00+00:00,Australia,0.6553109664413047,1,1,en,CAU,Oceania
 '136998b302',extremes,Cold Wave,#a7e9fa,acwe,cold weather Queensland,2026-03-31T05:00:00+00:00,Australia,0.6544765220337837,1,1,en,CAU,Oceania
+'854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-04-03T04:43:00+00:00,Canada,0.6541108946302037,1,2,en,NEN,North-America
 'aa611870f3',extremes,Earthquake,#870007,usgs,Earthquake The Valley,2026-03-22T04:33:00+00:00,Anguilla,0.6537243093741951,1,2,en,NAO,Atlantic Ocean
 '62dc5cf511',extremes,Storm,#b3b2b1,aidr,Storm Severe Storm Melbourne Victoria 2010,2026-03-25T04:34:00+00:00,Australia,0.6535367829218924,1,1,en,SAU,Oceania
+'ab5d1234a0',extremes,Flood,#030ba1,aidr,Flood Hobart flash flooding Tasmania 2018,2026-04-18T04:57:00+00:00,Australia,0.6519296680173287,1,1,en,SAU,Oceania
 '37d08d7316',extremes,Precipitation,#d60d2b,acwe,wet spell South Australia,2026-04-12T05:12:00+00:00,Australia,0.6516392298904651,1,1,en,SAU,Oceania
 '93134788d8',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Australia,2026-03-18T04:36:00+00:00,Australia,0.6496858994977066,1,1,en,CAU,Oceania
 '0a64ea35d9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Australia,2026-03-17T04:30:00+00:00,Australia,0.647273974670498,1,2,en,CAU,Oceania
