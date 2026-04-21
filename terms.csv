@@ -47,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,Flooding South Australia Warburton,2026-04-13T05:28:00+00:00,Australia,0.7485502148587763,0,1,en,CAU,Oceania
 '38fb523e0e',extremes,Flood,#030ba1,wmo,Flashflood Botswana,2026-04-15T05:12:00+00:00,Botswana,0.7483590297812673,0,1,en,WSAF,Africa
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-04-07T04:58:00+00:00,United States,0.7479819253774631,0,1,en,ENA,North-America
-'ed16c91ca6',extremes,Storm,#b3b2b1,wmo,Storm Coromandel Peninsula and Waikato,2026-03-25T04:33:00+00:00,New Zealand,0.7477943280577343,0,1,en,NZ,Oceania
 '111d00b3ed',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Taupo,2026-03-26T04:56:00+00:00,New Zealand,0.7477337971499394,0,1,en,NZ,Oceania
 '9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,Downpour The Nelson City Region,2026-04-12T05:12:00+00:00,New Zealand,0.7477290221287818,0,1,en,NZ,Oceania
 'efde745e9a',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Bay of Plenty west of Whakatane,2026-03-26T04:56:00+00:00,New Zealand,0.747655940051663,0,1,en,NZ,Oceania
@@ -202,6 +201,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6526451879',extremes,Flood,#030ba1,wmo,Flood Barry MI,2026-04-10T05:13:00+00:00,United States,0.7365920429670447,0,1,en,CNA,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-04-16T05:17:00+00:00,New Zealand,0.7365477910986501,0,1,en,NZ,Oceania
 '047f353885',extremes,Heat Wave,#c40202,acwe,heatwave Western Australia,2026-03-11T04:23:00+00:00,Australia,0.7365427917828176,1,1,en,CAU,Oceania
+'ed16c91ca6',extremes,Storm,#b3b2b1,wmo,Storm Coromandel Peninsula and Waikato,2026-03-25T04:33:00+00:00,New Zealand,0.7365252688490741,1,2,en,NZ,Oceania
 '2bbbb034cd',extremes,Wildfire,#d60d2b,wmo,Wildfire Greeley Wichita,2026-04-12T05:12:00+00:00,United States,0.736510730152213,0,1,en,CNA,North-America
 '45243db777',extremes,Flood,#030ba1,wmo,Flood Coshocton OH,2026-04-09T04:58:00+00:00,United States,0.7365038074312801,0,1,en,CNA,North-America
 'e3b5ebd857',extremes,Flood,#030ba1,wmo,Flashflood Barry MI,2026-04-08T05:01:00+00:00,United States,0.7364810712595584,0,1,en,CNA,North-America
