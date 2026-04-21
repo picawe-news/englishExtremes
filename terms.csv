@@ -39,7 +39,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-04-11T04:34:00+00:00,United States,0.7502681796928315,0,1,en,CNA,North-America
 'dad4b2a07f',extremes,Snow&Ice,#d60d2b,wmo,Ice Salluit,2026-04-14T05:11:00+00:00,Canada,0.7502104695849652,0,1,en,NEN,North-America
 '2e88ab8e95',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Western Isabel and Choiseul,2026-04-09T04:58:00+00:00,Solomon Islands,0.7498645995746347,0,1,en,EPO,Oceania
-'9865ee96b6',extremes,Thunderstorm,#53785a,wmo,Hail Middle and Transition,2026-04-08T05:01:00+00:00,Ghana,0.7495820956740147,0,1,en,WAF,Africa
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-04-12T05:12:00+00:00,United States,0.7494990475222357,0,1,en,CNA,North-America
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,Storm Surge Yakutat Bay,2026-03-31T04:59:00+00:00,United States,0.7494984796764218,0,1,en,CNA,North-America
 '0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,Ice Nakina Aroland Pagwa,2026-04-08T05:01:00+00:00,Canada,0.7492485006676133,0,1,en,NEN,North-America
@@ -264,6 +263,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2f4c24db3',extremes,Flood,#030ba1,wmo,Flashflood Yakima WA,2026-03-21T04:17:00+00:00,United States,0.7236918773066884,0,1,en,CNA,North-America
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-03-15T04:45:00+00:00,India,0.7230001412392131,0,1,en,SAS,Asia
 '01038989c1',extremes,Flood,#030ba1,wmo,Flooding Chelan WA,2026-03-13T04:25:00+00:00,United States,0.7222499865636266,0,1,en,CNA,North-America
+'9865ee96b6',extremes,Thunderstorm,#53785a,wmo,Hail Middle and Transition,2026-04-08T05:01:00+00:00,Ghana,0.7218282496562457,1,2,en,WAF,Africa
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-03-12T04:26:00+00:00,United States,0.7216828413366995,0,1,en,CNA,North-America
 '0b8e917c24',extremes,Storm,#b3b2b1,wmo,Storm Surge Picton Sandbanks Park,2026-03-17T04:30:00+00:00,Canada,0.7216375311297387,0,1,en,NEN,North-America
 'b9c91ecf29',extremes,Snow&Ice,#d60d2b,wmo,Snow Central Coast inland sections,2026-03-25T04:33:00+00:00,Canada,0.7210433798795278,0,1,en,NEN,North-America
