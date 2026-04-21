@@ -6,6 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-02-26T04:29:00+00:00,United States,0.7954871160240831,1,3,en,CNA,North-America
 '6a814a5817',extremes,Drought,#edc291,acwe,low water level New South Wales,2026-03-25T04:34:00+00:00,Australia,0.7934249523071247,1,2,en,EAU,Oceania
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,Hail Botswana,2026-04-13T05:28:00+00:00,Botswana,0.7890225608063575,1,2,en,WSAF,Africa
+'111d00b3ed',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Taupo,2026-03-26T04:56:00+00:00,New Zealand,0.7857237425774485,1,2,en,NZ,Oceania
 '4508d0e7cc',extremes,Drought,#edc291,acwe,low water level Australia,2026-03-26T04:57:00+00:00,Australia,0.780036181755224,1,3,en,CAU,Oceania
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,Tornado Murray River Townships Victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.776128317274911,0,1,en,SAU,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-03-31T04:59:00+00:00,Canada,0.7720872480781843,1,2,en,NEN,North-America
@@ -47,7 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,Flooding South Australia Warburton,2026-04-13T05:28:00+00:00,Australia,0.7485502148587763,0,1,en,CAU,Oceania
 '38fb523e0e',extremes,Flood,#030ba1,wmo,Flashflood Botswana,2026-04-15T05:12:00+00:00,Botswana,0.7483590297812673,0,1,en,WSAF,Africa
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-04-07T04:58:00+00:00,United States,0.7479819253774631,0,1,en,ENA,North-America
-'111d00b3ed',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Taupo,2026-03-26T04:56:00+00:00,New Zealand,0.7477337971499394,0,1,en,NZ,Oceania
 '9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,Downpour The Nelson City Region,2026-04-12T05:12:00+00:00,New Zealand,0.7477290221287818,0,1,en,NZ,Oceania
 'efde745e9a',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Bay of Plenty west of Whakatane,2026-03-26T04:56:00+00:00,New Zealand,0.747655940051663,0,1,en,NZ,Oceania
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-04-11T04:34:00+00:00,Canada,0.7475273354054054,0,1,en,NEN,North-America
