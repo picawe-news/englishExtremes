@@ -239,8 +239,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a9270bae8f',extremes,Flood,#030ba1,wmo,Flood Elkhart IN Noble IN,2026-04-06T05:11:00+00:00,United States,0.7339333200290158,0,1,en,CNA,North-America
 '6ed4cdc0dd',extremes,Flood,#030ba1,wmo,Flood Chippewa MI,2026-04-14T05:11:00+00:00,United States,0.733914170434071,0,1,en,CNA,North-America
 '467645b271',extremes,Flood,#030ba1,wmo,Flashflood Winnebago,2026-04-03T04:43:00+00:00,United States,0.7338939075214053,0,1,en,CNA,North-America
+'e6d511d535',extremes,Flood,#030ba1,wmo,Flood Oconto WI,2026-04-13T05:28:00+00:00,United States,0.733814004422073,0,1,en,CNA,North-America
+'7ac6ad111e',extremes,Flood,#030ba1,wmo,Flooding Manistee MI,2026-04-13T05:28:00+00:00,United States,0.7337878786097565,0,1,en,CNA,North-America
+'fc3fd3f0e7',extremes,Flood,#030ba1,wmo,Flood Menominee MI Marinette WI,2026-04-14T05:11:00+00:00,United States,0.7335942358642659,0,1,en,CNA,North-America
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-03-11T04:22:00+00:00,India,0.7335804120801557,0,1,en,SAS,Asia
 'ccc8d90e4a',extremes,Wildfire,#d60d2b,wmo,Wildfire Osage Washington Pawnee Creek,2026-03-26T04:56:00+00:00,United States,0.7335400068214619,0,1,en,CNA,North-America
+'7be8c4dc8a',extremes,Flood,#030ba1,wmo,Flood Lake IL Kenosha WI,2026-04-06T05:11:00+00:00,United States,0.733497379090908,0,1,en,CNA,North-America
+'d865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-04-09T04:58:00+00:00,Australia,0.7333467416203885,0,1,en,NAU,Oceania
+'db2315827d',extremes,Flood,#030ba1,wmo,Flashflood Clay KS,2026-04-12T05:12:00+00:00,United States,0.7333098916769137,0,1,en,CNA,North-America
 '7e40fc6e30',extremes,Drought,#edc291,edo,Lack of Rain Mauritius,2026-03-18T04:36:00+00:00,Mauritius,0.7332028153201168,0,1,en,SIO,Indian Ocean
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Canada,2026-03-31T04:59:00+00:00,Canada,0.7328313939479484,0,1,en,NEN,North-America
 '4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Solomon Islands,2026-04-05T05:01:00+00:00,Solomon Islands,0.7326701240400482,1,2,en,EPO,Oceania
