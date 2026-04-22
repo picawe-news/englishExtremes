@@ -51,7 +51,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-04-11T04:34:00+00:00,Canada,0.7475273354054054,0,1,en,NEN,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-04-09T04:58:00+00:00,United States,0.7472912934525835,0,1,en,CNA,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-04-06T05:11:00+00:00,United States,0.747281141759407,0,1,en,CNA,North-America
-'1e31928c5b',extremes,Storm,#b3b2b1,wmo,Storm Surge Northland,2026-04-11T04:34:00+00:00,New Zealand,0.7471686124427053,0,1,en,NZ,Oceania
 '4eb2182ddc',extremes,Snow&Ice,#d60d2b,wmo,Snow Fort Hope Lansdowne House Ogoki,2026-04-09T04:58:00+00:00,Canada,0.747046877015882,0,1,en,NEN,North-America
 '6d73764800',extremes,Earthquake,#870007,usgs,Earthquake Silver Springs,2026-04-14T05:10:00+00:00,United States,0.7470108048238251,0,1,en,WNA,North-America
 '111942eccf',extremes,Storm,#b3b2b1,wmo,Storm Auckland,2026-04-10T05:13:00+00:00,New Zealand,0.7469580755341273,0,1,en,NZ,Oceania
@@ -392,6 +391,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'efde745e9a',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Bay of Plenty west of Whakatane,2026-03-26T04:56:00+00:00,New Zealand,0.6356575640439136,1,1,en,NZ,Oceania
 '9ede3b1c93',extremes,Heat Wave,#c40202,wmo,Heat Wave Orange County Coastal,2026-03-20T04:26:00+00:00,United States,0.6354291371284075,1,1,en,CNA,North-America
 'b1e4e07a7d',extremes,Precipitation,#d60d2b,wmo,Downpour Taranaki Maunga,2026-03-25T04:33:00+00:00,New Zealand,0.6352950673608255,1,1,en,NZ,Oceania
+'1e31928c5b',extremes,Storm,#b3b2b1,wmo,Storm Surge Northland,2026-04-11T04:34:00+00:00,New Zealand,0.6352433355762994,1,1,en,NZ,Oceania
 'debdbdb81a',extremes,Flood,#030ba1,wmo,Flood Mahoning OH Trumbull OH,2026-04-02T04:42:00+00:00,United States,0.6351602534175478,1,1,en,CNA,North-America
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-03-21T04:17:00+00:00,Solomon Islands,0.6346027379001893,1,1,en,EPO,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-03-21T04:17:00+00:00,Solomon Islands,0.6344474755669305,1,1,en,EPO,Oceania
