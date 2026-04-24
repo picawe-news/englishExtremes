@@ -53,7 +53,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-04-11T04:34:00+00:00,Canada,0.7475273354054054,0,1,en,NEN,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-04-09T04:58:00+00:00,United States,0.7472912934525835,0,1,en,CNA,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-04-06T05:11:00+00:00,United States,0.747281141759407,0,1,en,CNA,North-America
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-04-11T04:34:00+00:00,United States,0.7471271555833573,0,1,en,CNA,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-04-06T05:11:00+00:00,Australia,0.7469659331055695,0,1,en,CAU,Oceania
 'c3d3dc91ba',extremes,Fog,#d60d2b,wmo,Fog Seul Choix Point to Point Detour MI,2026-04-24T05:22:00+00:00,United States,0.7462184383661788,0,1,en,CNA,North-America
 'a905a2c4cf',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tasman west of Motueka,2026-03-25T04:33:00+00:00,New Zealand,0.7458386121960769,0,1,en,NZ,Oceania
@@ -375,6 +374,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6dbe18bed3',extremes,Wildfire,#d60d2b,wmo,Wildfire Telangana,2026-03-29T05:00:00+00:00,India,0.6415126132922466,1,1,en,SAS,Asia
 'a015920a8d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kaweka and Ruahine Ranges,2026-04-11T04:34:00+00:00,New Zealand,0.6399997308257409,1,1,en,NZ,Oceania
 '8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Western Isabel and Choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.6398731771100805,1,1,en,EPO,Oceania
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-04-11T04:34:00+00:00,United States,0.6398599872458537,1,2,en,CNA,North-America
 '1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,Storm Surge Great Barrier Island,2026-04-12T05:12:00+00:00,New Zealand,0.6394564911256528,1,1,en,NZ,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-04-03T04:43:00+00:00,New Zealand,0.6393641685674827,1,1,en,NZ,Oceania
 'ce4931e51e',extremes,Flood,#030ba1,wmo,Flashflood South Australia Cooper Creek,2026-04-06T05:11:00+00:00,Australia,0.6387825678277171,1,1,en,CAU,Oceania
