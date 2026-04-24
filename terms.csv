@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,Hail Botswana,2026-04-13T05:28:00+00:00,Botswana,0.7890225608063575,1,2,en,WSAF,Africa
 '111d00b3ed',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Taupo,2026-03-26T04:56:00+00:00,New Zealand,0.7857237425774485,1,2,en,NZ,Oceania
 '4508d0e7cc',extremes,Drought,#edc291,acwe,low water level Australia,2026-03-26T04:57:00+00:00,Australia,0.780036181755224,1,3,en,CAU,Oceania
-'0c9a570bb1',extremes,Storm,#b3b2b1,aidr,Tornado Murray River Townships Victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.776128317274911,0,1,en,SAU,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-04-08T05:01:00+00:00,Australia,0.772915951128285,1,3,en,NAU,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-03-31T04:59:00+00:00,Canada,0.7720872480781843,1,2,en,NEN,North-America
 'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,cold weather Australia,2026-03-31T05:00:00+00:00,Australia,0.771474048919276,0,1,en,CAU,Oceania
@@ -56,10 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-04-09T04:58:00+00:00,United States,0.7472912934525835,0,1,en,CNA,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-04-06T05:11:00+00:00,United States,0.747281141759407,0,1,en,CNA,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-04-06T05:11:00+00:00,Australia,0.7469659331055695,0,1,en,CAU,Oceania
-'3ab04ce976',extremes,Precipitation,#d60d2b,wmo,Precipitation Great Barrier Island,2026-03-25T04:33:00+00:00,New Zealand,0.7458688525724901,0,1,en,NZ,Oceania
 'a905a2c4cf',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tasman west of Motueka,2026-03-25T04:33:00+00:00,New Zealand,0.7458386121960769,0,1,en,NZ,Oceania
-'e67e09eb5d',extremes,Flood,#030ba1,wmo,Flood Saginaw MI Shiawassee MI,2026-04-05T05:01:00+00:00,United States,0.7457895651747796,0,1,en,CNA,North-America
-'8c5b347857',extremes,Storm,#b3b2b1,wmo,Storm Surge Coromandel Peninsula,2026-04-12T05:12:00+00:00,New Zealand,0.745620670209994,0,1,en,NZ,Oceania
 '5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,Frost United Kingdom,2026-04-04T04:30:00+00:00,United Kingdom,0.7456105251841023,1,2,en,NEU,Europe
 '26c75cc7f3',extremes,Storm,#b3b2b1,wmo,Storm Surge Bay of Plenty and Rotorua,2026-04-11T04:34:00+00:00,New Zealand,0.745368114420178,0,1,en,NZ,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-04-01T05:12:00+00:00,Canada,0.7450777839016205,0,1,en,NEN,North-America
@@ -354,6 +350,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,icy temperatures South Australia,2026-03-31T05:00:00+00:00,Australia,0.660892589181705,1,1,en,SAU,Oceania
 'a28c8ef428',extremes,Storm,#b3b2b1,wmo,Storm United Kingdom,2026-04-03T04:43:00+00:00,United Kingdom,0.6601261446694477,1,2,en,NEU,Europe
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,cold spell Northern Territory,2026-03-31T05:00:00+00:00,Australia,0.6599866824771412,1,1,en,NAU,Oceania
+'0c9a570bb1',extremes,Storm,#b3b2b1,aidr,Tornado Murray River Townships Victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.6597090696836744,1,1,en,SAU,Oceania
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,Snow New Zealand,2026-04-19T05:16:00+00:00,New Zealand,0.6582569145176076,1,2,en,NZ,Oceania
 '6fde59a3a9',extremes,Drought,#edc291,acwe,dryness Queensland,2026-03-20T04:27:00+00:00,Australia,0.6553109664413047,1,1,en,CAU,Oceania
 '136998b302',extremes,Cold Wave,#a7e9fa,acwe,cold weather Queensland,2026-03-31T05:00:00+00:00,Australia,0.6544765220337837,1,1,en,CAU,Oceania
@@ -403,9 +400,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-03-21T04:17:00+00:00,Solomon Islands,0.6346027379001893,1,1,en,EPO,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-03-21T04:17:00+00:00,Solomon Islands,0.6344474755669305,1,1,en,EPO,Oceania
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-03-18T04:36:00+00:00,Solomon Islands,0.6344326871862705,1,1,en,EPO,Oceania
+'8c5b347857',extremes,Storm,#b3b2b1,wmo,Storm Surge Coromandel Peninsula,2026-04-12T05:12:00+00:00,New Zealand,0.6343776296784949,1,1,en,NZ,Oceania
 '68c777ad04',extremes,Heat Wave,#c40202,wmo,Heat Wave Yavapai County Valleys and Basins,2026-03-19T04:35:00+00:00,United States,0.6341527058777697,1,1,en,CNA,North-America
 '816f369677',extremes,Heat Wave,#c40202,wmo,Heat Wave Catalina and Santa Barbara Islands,2026-03-20T04:26:00+00:00,United States,0.6340897448461292,1,1,en,CNA,North-America
+'3ab04ce976',extremes,Precipitation,#d60d2b,wmo,Precipitation Great Barrier Island,2026-03-25T04:33:00+00:00,New Zealand,0.6339885246866166,1,1,en,NZ,Oceania
 '9fc62ce49b',extremes,Earthquake,#870007,usgs,Earthquake Anguilla,2026-03-20T04:26:00+00:00,Anguilla,0.6339634654792732,1,1,en,NAO,Atlantic Ocean
+'e67e09eb5d',extremes,Flood,#030ba1,wmo,Flood Saginaw MI Shiawassee MI,2026-04-05T05:01:00+00:00,United States,0.6339211303985626,1,1,en,CNA,North-America
 '23e1a35af5',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Beagle Bay to Kuri Bay.,2026-03-23T04:42:00+00:00,Australia,0.633644264501942,1,1,en,CAU,Oceania
 'f471382829',extremes,Heat Wave,#c40202,wmo,Heat Wave Santa Ana Mountains and Foothills,2026-03-14T04:22:00+00:00,United States,0.632620562315113,1,1,en,CNA,North-America
 '73e6eaff5a',extremes,Heat Wave,#c40202,wmo,Heat Wave Riverside County Mountains,2026-03-18T04:36:00+00:00,United States,0.6325037774092688,1,1,en,CNA,North-America
