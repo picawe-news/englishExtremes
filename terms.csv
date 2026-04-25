@@ -51,7 +51,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38fb523e0e',extremes,Flood,#030ba1,wmo,Flashflood Botswana,2026-04-15T05:12:00+00:00,Botswana,0.7483590297812673,0,1,en,WSAF,Africa
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-04-07T04:58:00+00:00,United States,0.7479819253774631,0,1,en,ENA,North-America
 '9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,Downpour The Nelson City Region,2026-04-12T05:12:00+00:00,New Zealand,0.7477290221287818,0,1,en,NZ,Oceania
-'1a787f170e',extremes,Fog,#d60d2b,wmo,Fog United Kingdom,2026-04-25T05:00:00+00:00,United Kingdom,0.7475566605893372,0,1,en,NEU,Europe
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-04-11T04:34:00+00:00,Canada,0.7475273354054054,0,1,en,NEN,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-04-09T04:58:00+00:00,United States,0.7472912934525835,0,1,en,CNA,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-04-06T05:11:00+00:00,United States,0.747281141759407,0,1,en,CNA,North-America
@@ -296,6 +295,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2026-03-21T04:17:00+00:00,Fiji,0.709435057308578,0,1,en,SPO,Pacific Ocean
 '43a3482d04',extremes,Flood,#030ba1,wmo,Flashflood Angelina TX Nacogdoches TX,2026-03-14T04:22:00+00:00,United States,0.7091569053795109,0,1,en,CNA,North-America
 'ec05e0c08b',extremes,Flood,#030ba1,wmo,Flooding Queensland Mackenzie River,2026-03-14T04:22:00+00:00,Australia,0.7089734984959298,0,1,en,CAU,Oceania
+'1a787f170e',extremes,Fog,#d60d2b,wmo,Fog United Kingdom,2026-04-25T05:00:00+00:00,United Kingdom,0.7085616817950542,1,1,en,NEU,Europe
 'ca02bc4e99',extremes,Snow&Ice,#d60d2b,wmo,Freezing Cambridge Bay Kugluktuk,2026-03-21T04:17:00+00:00,Canada,0.7082291438237713,0,1,en,NEN,North-America
 'db9244a045',extremes,Drought,#edc291,acwe,dry spell Victoria,2026-03-29T05:01:00+00:00,Australia,0.7075801418112886,1,1,en,SAU,Oceania
 '9293b0f660',extremes,Wildfire,#d60d2b,wmo,Wildfire Karnataka,2026-03-11T04:22:00+00:00,India,0.7075393943387913,0,1,en,SAS,Asia
