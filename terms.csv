@@ -49,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '279d701798',extremes,Flood,#030ba1,wmo,Flooding South Australia Cooper Creek,2026-04-08T05:01:00+00:00,Australia,0.7487352601310248,0,1,en,CAU,Oceania
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,Flooding South Australia Warburton,2026-04-13T05:28:00+00:00,Australia,0.7485502148587763,0,1,en,CAU,Oceania
 '38fb523e0e',extremes,Flood,#030ba1,wmo,Flashflood Botswana,2026-04-15T05:12:00+00:00,Botswana,0.7483590297812673,0,1,en,WSAF,Africa
+'af6965c814',extremes,Thunderstorm,#53785a,wmo,Severe Weather Seychelles,2026-04-27T05:40:00+00:00,Seychelles,0.7480094987388862,0,1,en,EIO,Africa
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-04-07T04:58:00+00:00,United States,0.7479819253774631,0,1,en,ENA,North-America
 '9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,Downpour The Nelson City Region,2026-04-12T05:12:00+00:00,New Zealand,0.7477290221287818,0,1,en,NZ,Oceania
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-04-11T04:34:00+00:00,Canada,0.7475273354054054,0,1,en,NEN,North-America
@@ -58,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a905a2c4cf',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tasman west of Motueka,2026-03-25T04:33:00+00:00,New Zealand,0.7458386121960769,0,1,en,NZ,Oceania
 '5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,Frost United Kingdom,2026-04-04T04:30:00+00:00,United Kingdom,0.7456105251841023,1,2,en,NEU,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-04-01T05:12:00+00:00,Canada,0.7450777839016205,0,1,en,NEN,North-America
+'24e7169f97',extremes,Storm,#b3b2b1,wmo,Storm Trinidad and Tobago,2026-04-27T05:40:00+00:00,Trinidad and Tobago,0.7448135687883735,0,1,en,NSA,North-America
 '1428632393',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Rota Tinian Saipan,2026-04-15T05:12:00+00:00,United States,0.7447790623016222,0,1,en,CNA,North-America
 'dd1125f00f',extremes,Flood,#030ba1,wmo,Flashflood Oconto WI,2026-04-04T04:30:00+00:00,United States,0.744765467909278,0,1,en,CNA,North-America
 '5cbf8c478c',extremes,Flood,#030ba1,wmo,Flashflood Cooper MO,2026-04-02T04:42:00+00:00,United States,0.7446745794785549,0,1,en,CNA,North-America
@@ -75,6 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2026-04-06T05:12:00+00:00,Australia,0.7434313443507629,0,1,en,CAU,Oceania
 'f3f150047a',extremes,Storm,#b3b2b1,wmo,Storm Surge The Tararua District,2026-04-11T04:34:00+00:00,New Zealand,0.7433254063159631,0,1,en,NZ,Oceania
 '2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL provinces,2026-04-02T04:42:00+00:00,Solomon Islands,0.7432452353861352,0,1,en,EPO,Oceania
+'a30d27ed65',extremes,Flood,#030ba1,wmo,Flooding Roaring River Minitonas area,2026-04-27T05:40:00+00:00,Canada,0.7432311282577061,0,1,en,NEN,North-America
 '772d689ea1',extremes,Flood,#030ba1,wmo,Flood Lucas OH Wood OH,2026-04-06T05:11:00+00:00,United States,0.7431539136098297,0,1,en,CNA,North-America
 '8d73f8d2d3',extremes,Flood,#030ba1,wmo,Flooding Midland MI Saginaw MI,2026-04-05T05:01:00+00:00,United States,0.7429703367796863,0,1,en,CNA,North-America
 '8fc1f3469c',extremes,Flood,#030ba1,wmo,Flashflood Richland WI Vernon WI,2026-04-05T05:01:00+00:00,United States,0.7425780014321712,0,1,en,CNA,North-America
@@ -84,6 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-04-15T05:12:00+00:00,United States,0.7422909151536463,0,1,en,CNA,North-America
 '9417fcfd3e',extremes,Flood,#030ba1,wmo,Flashflood Genesee NY Monroe NY,2026-04-03T04:43:00+00:00,United States,0.7421046220883778,0,1,en,CNA,North-America
 '69fc2693ee',extremes,Flood,#030ba1,wmo,Flooding Waupaca WI,2026-04-05T05:01:00+00:00,United States,0.7416113459998395,0,1,en,CNA,North-America
+'290dcf50e4',extremes,Storm,#b3b2b1,wmo,Storm Surge Southern Lynn Canal,2026-04-21T05:15:00+00:00,United States,0.7415441628032368,0,1,en,CNA,North-America
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,cold weather South Australia,2026-03-30T05:12:00+00:00,Australia,0.7413158738729985,1,2,en,CAU,Oceania
 '9e21bacc56',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Pike MO,2026-04-11T04:34:00+00:00,United States,0.7411636135614058,0,1,en,CNA,North-America
 '482e116bd4',extremes,Flood,#030ba1,wmo,Flood Labette KS Neosho KS,2026-04-03T04:43:00+00:00,United States,0.7411485065671122,0,1,en,CNA,North-America
@@ -115,6 +119,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd864d2635e',extremes,Flood,#030ba1,wmo,Flooding Angelina TX Nacogdoches TX,2026-04-08T05:01:00+00:00,United States,0.738919499459169,0,1,en,CNA,North-America
 '4e3ce59b1d',extremes,Snow&Ice,#d60d2b,wmo,Frost Gjoa Haven,2026-04-14T05:11:00+00:00,Canada,0.7388276921715955,0,1,en,NEN,North-America
 'b38b71a6df',extremes,Flood,#030ba1,wmo,Flashflood Poweshiek IA Tama IA,2026-04-07T04:59:00+00:00,United States,0.7388196585279448,0,1,en,CNA,North-America
+'541f3fa0f3',extremes,Storm,#b3b2b1,wmo,Storm Cross Sound,2026-04-21T05:15:00+00:00,United States,0.7386231420471548,0,1,en,CNA,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-04-22T05:13:00+00:00,Canada,0.7385530223175673,1,2,en,NEN,North-America
 '08d45746fe',extremes,Flood,#030ba1,wmo,Flashflood Hancock IL McDonough IL,2026-04-03T04:43:00+00:00,United States,0.7384403551053874,0,1,en,CNA,North-America
 'bdeb0fe4a5',extremes,Flood,#030ba1,wmo,Flooding Wexford MI,2026-04-13T05:28:00+00:00,United States,0.7383866952159173,0,1,en,CNA,North-America
@@ -180,6 +185,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Canada,2026-03-31T04:59:00+00:00,Canada,0.7328313939479484,0,1,en,NEN,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-04-12T05:12:00+00:00,United States,0.7327276207579002,0,1,en,CNA,North-America
 '4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Solomon Islands,2026-04-05T05:01:00+00:00,Solomon Islands,0.7326701240400482,1,2,en,EPO,Oceania
+'8d8f42fcdf',extremes,Flood,#030ba1,wmo,Flooding Henry IL Rock Island IL,2026-04-19T05:16:00+00:00,United States,0.7326440435986864,0,1,en,CNA,North-America
 '8fe63f3b39',extremes,Flood,#030ba1,wmo,Flooding Johnson KS Miami KS Cass MO,2026-04-14T05:11:00+00:00,United States,0.7325078233731491,0,1,en,CNA,North-America
 '3ea5ebedb2',extremes,Flood,#030ba1,wmo,Flood Wexford MI,2026-04-03T04:43:00+00:00,United States,0.7324157816002677,0,1,en,CNA,North-America
 '517e4b4a9e',extremes,Storm,#b3b2b1,wmo,Storm Northern Lynn Canal,2026-04-11T04:34:00+00:00,United States,0.7323936944119654,0,1,en,CNA,North-America
