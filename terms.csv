@@ -142,7 +142,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6074c22f0c',extremes,Flood,#030ba1,wmo,Flood Tuscarawas OH,2026-04-05T05:01:00+00:00,United States,0.7360630388006922,0,1,en,CNA,North-America
 '9c4aebae8b',extremes,Flood,#030ba1,wmo,Flashflood Clinton MI,2026-04-11T04:34:00+00:00,United States,0.73583337034959,0,1,en,CNA,North-America
 '2d2b7e6123',extremes,Flood,#030ba1,wmo,Flood Washington KS,2026-04-12T05:12:00+00:00,United States,0.7350578256625211,0,1,en,CNA,North-America
-'0b4bf0afc3',extremes,Wildfire,#d60d2b,wmo,Wildfire Bihar,2026-04-17T05:16:00+00:00,India,0.734897112139113,0,1,en,SAS,Asia
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,2019 Cyclone WA Severe tropical cyclone Veronica,2026-04-11T04:35:00+00:00,Australia,0.734848160972402,0,1,en,CAU,Oceania
 '0852c25b03',extremes,Flood,#030ba1,wmo,Flooding Kauai HI,2026-04-10T05:13:00+00:00,United States,0.734837640546271,0,1,en,CNA,North-America
 'a8d53a8f02',extremes,Flood,#030ba1,wmo,Flooding Tuscarawas OH,2026-03-28T04:33:00+00:00,United States,0.7347067054108184,0,1,en,CNA,North-America
@@ -448,4 +447,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42a5dce9e6',extremes,Wildfire,#d60d2b,wmo,Wildfire Manipur,2026-04-24T05:22:00+00:00,India,0.6257535472932573,1,1,en,SAS,Asia
 'df5771653a',extremes,Flood,#030ba1,wmo,Flashflood Lake IL Kenosha WI,2026-04-08T05:01:00+00:00,United States,0.6256634821072327,1,1,en,CNA,North-America
 'e621e477de',extremes,Wildfire,#d60d2b,wmo,Wildfire Harper Woods Ellis Woodward,2026-04-13T05:28:00+00:00,United States,0.6249729091082391,1,1,en,CNA,North-America
+'0b4bf0afc3',extremes,Wildfire,#d60d2b,wmo,Wildfire Bihar,2026-04-17T05:16:00+00:00,India,0.6248125603182461,1,1,en,SAS,Asia
 '9da5df2f4e',extremes,Snow&Ice,#d60d2b,wmo,Snow United Kingdom,2026-03-13T04:25:00+00:00,United Kingdom,0.6199497164853732,1,2,en,NEU,Europe
