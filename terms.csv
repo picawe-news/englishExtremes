@@ -224,7 +224,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8631c5c415',extremes,Flood,#030ba1,wmo,Flood Marinette WI,2026-04-15T05:12:00+00:00,United States,0.7294095870245099,0,1,en,CNA,North-America
 '516cca4753',extremes,Storm,#b3b2b1,wmo,Storm Surge Canterbury High Country,2026-04-17T05:16:00+00:00,New Zealand,0.7292287666997493,0,1,en,NZ,Oceania
 '0f3c8da430',extremes,Flood,#030ba1,wmo,Flood Henry IL Rock Island IL,2026-04-07T04:59:00+00:00,United States,0.7289185346795445,0,1,en,CNA,North-America
+'8f23bbe775',extremes,Flood,#030ba1,wmo,Flooding Runnels TX Taylor TX,2026-04-12T05:12:00+00:00,United States,0.7287461525302573,0,1,en,CNA,North-America
+'8658774dc9',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Lincoln MO,2026-04-14T05:11:00+00:00,United States,0.7285807493966036,0,1,en,CNA,North-America
+'f68d2aad73',extremes,Flood,#030ba1,wmo,Flashflood Juneau WI,2026-04-14T05:11:00+00:00,United States,0.7284714764576863,0,1,en,CNA,North-America
+'1cf829c10e',extremes,Flood,#030ba1,wmo,Flood Adams WI Juneau WI,2026-04-15T05:12:00+00:00,United States,0.7284358922707608,0,1,en,CNA,North-America
+'ea6bb31003',extremes,Storm,#b3b2b1,wmo,Storm Surge Inverness County Mabou and north,2026-04-20T05:27:00+00:00,Canada,0.7284026306272702,0,1,en,NEN,North-America
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-03-17T04:30:00+00:00,United States,0.7283394360615073,0,1,en,CNA,North-America
+'c2168ef322',extremes,Flood,#030ba1,wmo,Flooding Maui HI,2026-04-08T05:01:00+00:00,United States,0.7283211142209794,0,1,en,CNA,North-America
 '946710d148',extremes,Fog,#d60d2b,wmo,Fog Paulatuk,2026-04-01T05:12:00+00:00,Canada,0.728318180242912,0,1,en,NEN,North-America
 '5e777062e4',extremes,Storm,#b3b2b1,wmo,Storm East UP,2026-04-01T05:12:00+00:00,India,0.7266265323162472,0,1,en,SAS,Asia
 '3626c8a74b',extremes,Flood,#030ba1,wmo,Flooding Northern Oneida Southern Oneida,2026-04-01T05:12:00+00:00,United States,0.7266193031013547,0,1,en,CNA,North-America
