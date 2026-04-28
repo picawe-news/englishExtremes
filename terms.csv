@@ -148,7 +148,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82987d1805',extremes,Storm,#b3b2b1,wmo,Storm Surge Attawapiskat,2026-04-17T05:16:00+00:00,Canada,0.7340411083852588,0,1,en,NEN,North-America
 'fc3fd3f0e7',extremes,Flood,#030ba1,wmo,Flood Menominee MI Marinette WI,2026-04-14T05:11:00+00:00,United States,0.7335942358642659,0,1,en,CNA,North-America
 '7be8c4dc8a',extremes,Flood,#030ba1,wmo,Flood Lake IL Kenosha WI,2026-04-06T05:11:00+00:00,United States,0.733497379090908,0,1,en,CNA,North-America
-'79a70d20fa',extremes,Storm,#b3b2b1,wmo,Storm Surge Cross Sound,2026-04-21T05:15:00+00:00,United States,0.7334828049933879,0,1,en,CNA,North-America
 'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2026-04-22T05:13:00+00:00,Fiji,0.7334456861141972,0,1,en,,
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-04-09T04:58:00+00:00,Australia,0.7333467416203885,0,1,en,NAU,Oceania
 'db2315827d',extremes,Flood,#030ba1,wmo,Flashflood Clay KS,2026-04-12T05:12:00+00:00,United States,0.7333098916769137,0,1,en,CNA,North-America
@@ -439,6 +438,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6a5660764',extremes,Flood,#030ba1,wmo,Flooding Marshall KS Washington KS,2026-04-13T05:28:00+00:00,United States,0.6242775471510368,1,1,en,CNA,North-America
 'db607e599a',extremes,Flood,#030ba1,wmo,Flood Holmes OH Wayne OH,2026-04-07T04:59:00+00:00,United States,0.6241396117135293,1,1,en,CNA,North-America
 '4fbc948189',extremes,Flood,#030ba1,wmo,Flooding Oscoda MI,2026-04-14T05:11:00+00:00,United States,0.6240987158081243,1,1,en,CNA,North-America
+'79a70d20fa',extremes,Storm,#b3b2b1,wmo,Storm Surge Cross Sound,2026-04-21T05:15:00+00:00,United States,0.6240604442443797,1,1,en,CNA,North-America
 '4e6c184a03',extremes,Flood,#030ba1,wmo,Flood Maui HI,2026-04-13T05:28:00+00:00,United States,0.6240155704826568,1,1,en,CNA,North-America
 '91e4bfad02',extremes,Wildfire,#d60d2b,wmo,Wildfire Haryana,2026-04-17T05:16:00+00:00,India,0.623876008769109,1,1,en,SAS,Asia
 '447c6a47e5',extremes,Flood,#030ba1,wmo,Flashflood Wood WI,2026-04-14T05:11:00+00:00,United States,0.6238730818935397,1,1,en,CNA,North-America
