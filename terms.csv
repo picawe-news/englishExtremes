@@ -148,7 +148,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82987d1805',extremes,Storm,#b3b2b1,wmo,Storm Surge Attawapiskat,2026-04-17T05:16:00+00:00,Canada,0.7340411083852588,0,1,en,NEN,North-America
 'fc3fd3f0e7',extremes,Flood,#030ba1,wmo,Flood Menominee MI Marinette WI,2026-04-14T05:11:00+00:00,United States,0.7335942358642659,0,1,en,CNA,North-America
 '7be8c4dc8a',extremes,Flood,#030ba1,wmo,Flood Lake IL Kenosha WI,2026-04-06T05:11:00+00:00,United States,0.733497379090908,0,1,en,CNA,North-America
-'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2026-04-22T05:13:00+00:00,Fiji,0.7334456861141972,0,1,en,,
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-04-09T04:58:00+00:00,Australia,0.7333467416203885,0,1,en,NAU,Oceania
 'db2315827d',extremes,Flood,#030ba1,wmo,Flashflood Clay KS,2026-04-12T05:12:00+00:00,United States,0.7333098916769137,0,1,en,CNA,North-America
 '7e40fc6e30',extremes,Drought,#edc291,edo,Lack of Rain Mauritius,2026-03-18T04:36:00+00:00,Mauritius,0.7332028153201168,0,1,en,SIO,Indian Ocean
@@ -270,6 +269,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-03-17T04:30:00+00:00,Australia,0.7011293821595794,0,1,en,CAU,Oceania
 'f47bbe218c',extremes,Flood,#030ba1,wmo,Flooding Juneau WI,2026-03-25T04:33:00+00:00,United States,0.7010694024749563,0,1,en,CNA,North-America
 'f1ffcdc5d3',extremes,Flood,#030ba1,wmo,Flood King WA,2026-03-19T04:35:00+00:00,United States,0.6996324523668305,0,1,en,CNA,North-America
+'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2026-04-22T05:13:00+00:00,Fiji,0.6990288931970676,1,2,en,,
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,cold spell Australia,2026-03-30T05:12:00+00:00,Australia,0.6948681948419128,1,1,en,CAU,Oceania
 'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,cold weather Victoria,2026-03-30T05:12:00+00:00,Australia,0.6930373389513039,1,1,en,SAU,Oceania
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,Severe Weather Botswana,2026-03-23T04:42:00+00:00,Botswana,0.6901841520024312,1,1,en,WSAF,Africa
