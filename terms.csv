@@ -24,9 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,Heat Wave 53 Mandals,2026-04-03T04:43:00+00:00,India,0.7541391272645411,0,1,en,SAS,Asia
 '6852666385',extremes,Earthquake,#870007,usgs,Earthquake Port Mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.7529042406327437,0,1,en,SIO,Indian Ocean
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,bushfire Tasmania,2026-04-29T05:41:00+00:00,Australia,0.7527729913925136,1,2,en,SAU,Oceania
-'271200cbb0',extremes,Wildfire,#d60d2b,wmo,Wildfire Andhra Pradesh,2026-04-03T04:43:00+00:00,India,0.7525421181811017,0,1,en,SAS,Asia
 'f986239716',extremes,Wildfire,#d60d2b,wmo,Wildfire Gujarat,2026-04-03T04:43:00+00:00,India,0.7524223264213744,0,1,en,SAS,Asia
-'7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-03-30T05:12:00+00:00,Jamaica,0.7522668186613755,0,1,en,CAR,North-America
 '1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Solomon Islands,2026-04-10T05:13:00+00:00,Solomon Islands,0.7522152748880702,0,1,en,EPO,Oceania
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-04-09T04:58:00+00:00,Canada,0.7520965045142914,0,1,en,NEN,North-America
 'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,Ice Pickle Lake Cat Lake,2026-04-09T04:58:00+00:00,Canada,0.7520753868557511,0,1,en,NEN,North-America
@@ -144,7 +142,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc3fd3f0e7',extremes,Flood,#030ba1,wmo,Flood Menominee MI Marinette WI,2026-04-14T05:11:00+00:00,United States,0.7335942358642659,0,1,en,CNA,North-America
 '7be8c4dc8a',extremes,Flood,#030ba1,wmo,Flood Lake IL Kenosha WI,2026-04-06T05:11:00+00:00,United States,0.733497379090908,0,1,en,CNA,North-America
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-04-09T04:58:00+00:00,Australia,0.7333467416203885,0,1,en,NAU,Oceania
-'db2315827d',extremes,Flood,#030ba1,wmo,Flashflood Clay KS,2026-04-12T05:12:00+00:00,United States,0.7333098916769137,0,1,en,CNA,North-America
 '7e40fc6e30',extremes,Drought,#edc291,edo,Lack of Rain Mauritius,2026-03-18T04:36:00+00:00,Mauritius,0.7332028153201168,0,1,en,SIO,Indian Ocean
 '2fb48b83de',extremes,Flood,#030ba1,wmo,Flooding Kalamazoo MI,2026-04-14T05:11:00+00:00,United States,0.7331977154281423,0,1,en,CNA,North-America
 'b30ec87deb',extremes,Flood,#030ba1,wmo,Flood Florence WI,2026-04-13T05:28:00+00:00,United States,0.733190780732003,0,1,en,CNA,North-America
@@ -313,6 +310,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a015920a8d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Kaweka and Ruahine Ranges,2026-04-11T04:34:00+00:00,New Zealand,0.6399997308257409,1,1,en,NZ,Oceania
 '8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Western Isabel and Choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.6398731771100805,1,1,en,EPO,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-04-11T04:34:00+00:00,United States,0.6398599872458537,1,2,en,CNA,North-America
+'7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-03-30T05:12:00+00:00,Jamaica,0.6397268258621691,1,1,en,CAR,North-America
+'271200cbb0',extremes,Wildfire,#d60d2b,wmo,Wildfire Andhra Pradesh,2026-04-03T04:43:00+00:00,India,0.6396608004539365,1,1,en,SAS,Asia
 '1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,Storm Surge Great Barrier Island,2026-04-12T05:12:00+00:00,New Zealand,0.6394564911256528,1,1,en,NZ,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-04-03T04:43:00+00:00,New Zealand,0.6393641685674827,1,1,en,NZ,Oceania
 'ce4931e51e',extremes,Flood,#030ba1,wmo,Flashflood South Australia Cooper Creek,2026-04-06T05:11:00+00:00,Australia,0.6387825678277171,1,1,en,CAU,Oceania
@@ -450,3 +449,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6d511d535',extremes,Flood,#030ba1,wmo,Flood Oconto WI,2026-04-13T05:28:00+00:00,United States,0.623741903758762,1,1,en,CNA,North-America
 '7ac6ad111e',extremes,Flood,#030ba1,wmo,Flooding Manistee MI,2026-04-13T05:28:00+00:00,United States,0.623719696818293,1,1,en,CNA,North-America
 'ccc8d90e4a',extremes,Wildfire,#d60d2b,wmo,Wildfire Osage Washington Pawnee Creek,2026-03-26T04:56:00+00:00,United States,0.6235090057982426,1,1,en,CNA,North-America
+'db2315827d',extremes,Flood,#030ba1,wmo,Flashflood Clay KS,2026-04-12T05:12:00+00:00,United States,0.6233134079253767,1,1,en,CNA,North-America
