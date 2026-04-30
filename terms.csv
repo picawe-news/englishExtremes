@@ -24,13 +24,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,Heat Wave 53 Mandals,2026-04-03T04:43:00+00:00,India,0.7541391272645411,0,1,en,SAS,Asia
 '6852666385',extremes,Earthquake,#870007,usgs,Earthquake Port Mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.7529042406327437,0,1,en,SIO,Indian Ocean
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,bushfire Tasmania,2026-04-29T05:41:00+00:00,Australia,0.7527729913925136,1,2,en,SAU,Oceania
+'afd06422c3',extremes,Storm,#b3b2b1,wmo,Storm Wellington,2026-04-12T05:12:00+00:00,New Zealand,0.7527440824673871,1,2,en,NZ,Oceania
 'f986239716',extremes,Wildfire,#d60d2b,wmo,Wildfire Gujarat,2026-04-03T04:43:00+00:00,India,0.7524223264213744,0,1,en,SAS,Asia
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-04-09T04:58:00+00:00,Canada,0.7520965045142914,0,1,en,NEN,North-America
 'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,Ice Pickle Lake Cat Lake,2026-04-09T04:58:00+00:00,Canada,0.7520753868557511,0,1,en,NEN,North-America
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2026-04-03T04:43:00+00:00,India,0.7512765847112973,0,1,en,SAS,Asia
 '8180415a6e',extremes,Storm,#b3b2b1,wmo,Storm Surge Solapur,2026-04-03T04:43:00+00:00,India,0.7506156395503143,0,1,en,SAS,Asia
-'151e85aca0',extremes,Precipitation,#d60d2b,wmo,Precipitation Otago Headwaters,2026-04-16T05:17:00+00:00,New Zealand,0.7505935105345108,0,1,en,NZ,Oceania
-'afd06422c3',extremes,Storm,#b3b2b1,wmo,Storm Wellington,2026-04-12T05:12:00+00:00,New Zealand,0.7504045205498672,0,1,en,NZ,Oceania
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-04-11T04:34:00+00:00,United States,0.7502681796928315,0,1,en,CNA,North-America
 'dad4b2a07f',extremes,Snow&Ice,#d60d2b,wmo,Ice Salluit,2026-04-14T05:11:00+00:00,Canada,0.7502104695849652,0,1,en,NEN,North-America
 '2e88ab8e95',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Western Isabel and Choiseul,2026-04-09T04:58:00+00:00,Solomon Islands,0.7498645995746347,0,1,en,EPO,Oceania
@@ -143,7 +142,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7be8c4dc8a',extremes,Flood,#030ba1,wmo,Flood Lake IL Kenosha WI,2026-04-06T05:11:00+00:00,United States,0.733497379090908,0,1,en,CNA,North-America
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-04-09T04:58:00+00:00,Australia,0.7333467416203885,0,1,en,NAU,Oceania
 '2fb48b83de',extremes,Flood,#030ba1,wmo,Flooding Kalamazoo MI,2026-04-14T05:11:00+00:00,United States,0.7331977154281423,0,1,en,CNA,North-America
-'b30ec87deb',extremes,Flood,#030ba1,wmo,Flood Florence WI,2026-04-13T05:28:00+00:00,United States,0.733190780732003,0,1,en,CNA,North-America
 'c605f8759a',extremes,Earthquake,#870007,usgs,Earthquake Guam,2026-04-06T05:11:00+00:00,Guam,0.7331490977934221,0,1,en,NPO,Pacific Ocean
 '6c435b8785',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Morant Bank area,2026-04-13T05:28:00+00:00,Jamaica,0.7330338418092897,0,1,en,CAR,North-America
 '33a7e3dbd3',extremes,Flood,#030ba1,wmo,Flooding Gasconade MO Montgomery MO,2026-04-28T05:45:00+00:00,United States,0.7328951108557218,0,1,en,CNA,North-America
@@ -327,6 +325,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a574def091',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Central and Eastern Regions,2026-04-09T04:58:00+00:00,Solomon Islands,0.6383676494311895,1,1,en,EPO,Oceania
 '97cf231a2f',extremes,Wildfire,#d60d2b,wmo,Wildfire Odisha,2026-04-03T04:43:00+00:00,India,0.6383114093816286,1,1,en,SAS,Asia
 '81df6f3074',extremes,Storm,#b3b2b1,wmo,Storm Taupo and Taumarunui,2026-03-26T04:56:00+00:00,New Zealand,0.6380490064583881,1,1,en,NZ,Oceania
+'151e85aca0',extremes,Precipitation,#d60d2b,wmo,Precipitation Otago Headwaters,2026-04-16T05:17:00+00:00,New Zealand,0.6380044839543342,1,1,en,NZ,Oceania
 '4fe34cb23e',extremes,Precipitation,#d60d2b,wmo,Downpour Ranges of the Westland District,2026-04-17T05:16:00+00:00,New Zealand,0.6379145030358204,1,1,en,NZ,Oceania
 '3c35edb296',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Botswana,2026-04-14T05:11:00+00:00,Botswana,0.6377957914014074,1,1,en,WSAF,Africa
 '604b1e160a',extremes,Heat Wave,#c40202,wmo,Heat Wave 33 Mandals,2026-04-04T04:30:00+00:00,India,0.6377210245585075,1,1,en,SAS,Asia
@@ -455,3 +454,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7ac6ad111e',extremes,Flood,#030ba1,wmo,Flooding Manistee MI,2026-04-13T05:28:00+00:00,United States,0.623719696818293,1,1,en,CNA,North-America
 'ccc8d90e4a',extremes,Wildfire,#d60d2b,wmo,Wildfire Osage Washington Pawnee Creek,2026-03-26T04:56:00+00:00,United States,0.6235090057982426,1,1,en,CNA,North-America
 'db2315827d',extremes,Flood,#030ba1,wmo,Flashflood Clay KS,2026-04-12T05:12:00+00:00,United States,0.6233134079253767,1,1,en,CNA,North-America
+'b30ec87deb',extremes,Flood,#030ba1,wmo,Flood Florence WI,2026-04-13T05:28:00+00:00,United States,0.6232121636222024,1,1,en,CNA,North-America
