@@ -216,6 +216,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2168ef322',extremes,Flood,#030ba1,wmo,Flooding Maui HI,2026-04-08T05:01:00+00:00,United States,0.7283211142209794,0,1,en,CNA,North-America
 '946710d148',extremes,Fog,#d60d2b,wmo,Fog Paulatuk,2026-04-01T05:12:00+00:00,Canada,0.728318180242912,0,1,en,NEN,North-America
 'f4c51e9de6',extremes,Flood,#030ba1,wmo,Flooding Winnebago IL,2026-04-17T05:16:00+00:00,United States,0.7283032714875431,0,1,en,CNA,North-America
+'3dbb852940',extremes,Flood,#030ba1,wmo,Flood Fayette IL,2026-04-28T05:45:00+00:00,United States,0.7281556556164152,0,1,en,CNA,North-America
+'25f591e641',extremes,Storm,#b3b2b1,wmo,Storm Surge Iqaluit,2026-04-14T05:11:00+00:00,Canada,0.728088931102489,0,1,en,NEN,North-America
+'41f32bfcb3',extremes,Flood,#030ba1,wmo,Flashflood Cooper MO Saline MO,2026-04-27T05:40:00+00:00,United States,0.7280359535151556,0,1,en,CNA,North-America
+'3915f79390',extremes,Wildfire,#d60d2b,wmo,Wildfire Delhi,2026-04-17T05:16:00+00:00,India,0.7279394036179458,0,1,en,SAS,Asia
+'2749394a54',extremes,Snow&Ice,#d60d2b,wmo,Ice Peawanuck,2026-04-16T05:17:00+00:00,Canada,0.7279348807786228,0,1,en,NEN,North-America
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-04-24T05:22:00+00:00,India,0.7277726335325087,0,1,en,SAS,Asia
 '5e777062e4',extremes,Storm,#b3b2b1,wmo,Storm East UP,2026-04-01T05:12:00+00:00,India,0.7266265323162472,0,1,en,SAS,Asia
 '3626c8a74b',extremes,Flood,#030ba1,wmo,Flooding Northern Oneida Southern Oneida,2026-04-01T05:12:00+00:00,United States,0.7266193031013547,0,1,en,CNA,North-America
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-03-26T04:56:00+00:00,Australia,0.7262671639801314,0,1,en,CAU,Oceania
