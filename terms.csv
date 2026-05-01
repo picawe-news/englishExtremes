@@ -216,6 +216,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3915f79390',extremes,Wildfire,#d60d2b,wmo,Wildfire Delhi,2026-04-17T05:16:00+00:00,India,0.7279394036179458,0,1,en,SAS,Asia
 '2749394a54',extremes,Snow&Ice,#d60d2b,wmo,Ice Peawanuck,2026-04-16T05:17:00+00:00,Canada,0.7279348807786228,0,1,en,NEN,North-America
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-04-24T05:22:00+00:00,India,0.7277726335325087,0,1,en,SAS,Asia
+'7005f7903c',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Marion MO,2026-04-13T05:28:00+00:00,United States,0.727739309545776,0,1,en,CNA,North-America
+'0f2e2a1043',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Greene IL Jersey IL,2026-04-21T05:15:00+00:00,United States,0.7275968714049262,0,1,en,CNA,North-America
+'3a1ebe96bf',extremes,Snow&Ice,#d60d2b,wmo,Freezing Kangirsuk Aupaluk,2026-04-30T05:46:00+00:00,Canada,0.7275246877838929,0,1,en,NEN,North-America
+'7c667338b3',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Pike MO,2026-04-14T05:11:00+00:00,United States,0.7274542969529372,0,1,en,CNA,North-America
+'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-04-26T05:25:00+00:00,Papua New Guinea,0.727365545931961,0,1,en,EPO,Pacific Ocean
+'58670f8693',extremes,Flood,#030ba1,wmo,Flashflood Linn KS,2026-04-28T05:45:00+00:00,United States,0.727101643961555,0,1,en,CNA,North-America
 '5e777062e4',extremes,Storm,#b3b2b1,wmo,Storm East UP,2026-04-01T05:12:00+00:00,India,0.7266265323162472,0,1,en,SAS,Asia
 '3626c8a74b',extremes,Flood,#030ba1,wmo,Flooding Northern Oneida Southern Oneida,2026-04-01T05:12:00+00:00,United States,0.7266193031013547,0,1,en,CNA,North-America
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-03-26T04:56:00+00:00,Australia,0.7262671639801314,0,1,en,CAU,Oceania
