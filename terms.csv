@@ -30,7 +30,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd2a31b00c',extremes,Snow&Ice,#d60d2b,wmo,Ice Pickle Lake Cat Lake,2026-04-09T04:58:00+00:00,Canada,0.7520753868557511,0,1,en,NEN,North-America
 '8b022b84c7',extremes,Wildfire,#d60d2b,wmo,Wildfire Madhya Pradesh,2026-04-03T04:43:00+00:00,India,0.7512765847112973,0,1,en,SAS,Asia
 '8180415a6e',extremes,Storm,#b3b2b1,wmo,Storm Surge Solapur,2026-04-03T04:43:00+00:00,India,0.7506156395503143,0,1,en,SAS,Asia
-'70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-04-11T04:34:00+00:00,United States,0.7502681796928315,0,1,en,CNA,North-America
 'dad4b2a07f',extremes,Snow&Ice,#d60d2b,wmo,Ice Salluit,2026-04-14T05:11:00+00:00,Canada,0.7502104695849652,0,1,en,NEN,North-America
 '2e88ab8e95',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Western Isabel and Choiseul,2026-04-09T04:58:00+00:00,Solomon Islands,0.7498645995746347,0,1,en,EPO,Oceania
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-04-12T05:12:00+00:00,United States,0.7494990475222357,0,1,en,CNA,North-America
@@ -143,7 +142,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-04-09T04:58:00+00:00,Australia,0.7333467416203885,0,1,en,NAU,Oceania
 '2fb48b83de',extremes,Flood,#030ba1,wmo,Flooding Kalamazoo MI,2026-04-14T05:11:00+00:00,United States,0.7331977154281423,0,1,en,CNA,North-America
 'c605f8759a',extremes,Earthquake,#870007,usgs,Earthquake Guam,2026-04-06T05:11:00+00:00,Guam,0.7331490977934221,0,1,en,NPO,Pacific Ocean
-'6c435b8785',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Morant Bank area,2026-04-13T05:28:00+00:00,Jamaica,0.7330338418092897,0,1,en,CAR,North-America
 '33a7e3dbd3',extremes,Flood,#030ba1,wmo,Flooding Gasconade MO Montgomery MO,2026-04-28T05:45:00+00:00,United States,0.7328951108557218,0,1,en,CNA,North-America
 '6605b112bf',extremes,Flood,#030ba1,wmo,Flood Marathon WI,2026-04-14T05:11:00+00:00,United States,0.7328508617719431,0,1,en,CNA,North-America
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Canada,2026-03-31T04:59:00+00:00,Canada,0.7328313939479484,0,1,en,NEN,North-America
@@ -318,6 +316,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,Storm Surge Great Barrier Island,2026-04-12T05:12:00+00:00,New Zealand,0.6394564911256528,1,1,en,NZ,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-04-03T04:43:00+00:00,New Zealand,0.6393641685674827,1,1,en,NZ,Oceania
 'ce4931e51e',extremes,Flood,#030ba1,wmo,Flashflood South Australia Cooper Creek,2026-04-06T05:11:00+00:00,Australia,0.6387825678277171,1,1,en,CAU,Oceania
+'70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-04-11T04:34:00+00:00,United States,0.6387780577389068,1,1,en,CNA,North-America
 '6e5947027b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Waikato,2026-04-11T04:34:00+00:00,New Zealand,0.6387115273085721,1,1,en,NZ,Oceania
 'af081911d9',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Wellington excluding Porirua,2026-04-20T05:27:00+00:00,New Zealand,0.6387003623756167,1,1,en,NZ,Oceania
 '1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttar Pradesh,2026-04-03T04:43:00+00:00,India,0.63859124636546,1,1,en,SAS,Asia
@@ -455,3 +454,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccc8d90e4a',extremes,Wildfire,#d60d2b,wmo,Wildfire Osage Washington Pawnee Creek,2026-03-26T04:56:00+00:00,United States,0.6235090057982426,1,1,en,CNA,North-America
 'db2315827d',extremes,Flood,#030ba1,wmo,Flashflood Clay KS,2026-04-12T05:12:00+00:00,United States,0.6233134079253767,1,1,en,CNA,North-America
 'b30ec87deb',extremes,Flood,#030ba1,wmo,Flood Florence WI,2026-04-13T05:28:00+00:00,United States,0.6232121636222024,1,1,en,CNA,North-America
+'6c435b8785',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Morant Bank area,2026-04-13T05:28:00+00:00,Jamaica,0.6230787655378962,1,1,en,CAR,North-America
