@@ -134,7 +134,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-04-09T04:58:00+00:00,Australia,0.7333467416203885,0,1,en,NAU,Oceania
 '2fb48b83de',extremes,Flood,#030ba1,wmo,Flooding Kalamazoo MI,2026-04-14T05:11:00+00:00,United States,0.7331977154281423,0,1,en,CNA,North-America
 'c605f8759a',extremes,Earthquake,#870007,usgs,Earthquake Guam,2026-04-06T05:11:00+00:00,Guam,0.7331490977934221,0,1,en,NPO,Pacific Ocean
-'f44890a60b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Canada,2026-03-31T04:59:00+00:00,Canada,0.7328313939479484,0,1,en,NEN,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-04-12T05:12:00+00:00,United States,0.7327276207579002,0,1,en,CNA,North-America
 '4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Solomon Islands,2026-04-05T05:01:00+00:00,Solomon Islands,0.7326701240400482,1,2,en,EPO,Oceania
 '8d8f42fcdf',extremes,Flood,#030ba1,wmo,Flooding Henry IL Rock Island IL,2026-04-19T05:16:00+00:00,United States,0.7326440435986864,0,1,en,CNA,North-America
@@ -443,6 +442,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4fbc948189',extremes,Flood,#030ba1,wmo,Flooding Oscoda MI,2026-04-14T05:11:00+00:00,United States,0.6240987158081243,1,1,en,CNA,North-America
 '79a70d20fa',extremes,Storm,#b3b2b1,wmo,Storm Surge Cross Sound,2026-04-21T05:15:00+00:00,United States,0.6240604442443797,1,1,en,CNA,North-America
 '4e6c184a03',extremes,Flood,#030ba1,wmo,Flood Maui HI,2026-04-13T05:28:00+00:00,United States,0.6240155704826568,1,1,en,CNA,North-America
+'f44890a60b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Canada,2026-03-31T04:59:00+00:00,Canada,0.6239567898557561,1,1,en,NEN,North-America
 '91e4bfad02',extremes,Wildfire,#d60d2b,wmo,Wildfire Haryana,2026-04-17T05:16:00+00:00,India,0.623876008769109,1,1,en,SAS,Asia
 '447c6a47e5',extremes,Flood,#030ba1,wmo,Flashflood Wood WI,2026-04-14T05:11:00+00:00,United States,0.6238730818935397,1,1,en,CNA,North-America
 'd890ddfc5c',extremes,Snow&Ice,#d60d2b,wmo,Snow Akulivik Puvirnituq,2026-04-20T05:27:00+00:00,Canada,0.6238622901159293,1,1,en,NEN,North-America
