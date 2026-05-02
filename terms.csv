@@ -35,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38fb523e0e',extremes,Flood,#030ba1,wmo,Flashflood Botswana,2026-04-15T05:12:00+00:00,Botswana,0.7483590297812673,0,1,en,WSAF,Africa
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-04-09T04:58:00+00:00,United States,0.7472912934525835,0,1,en,CNA,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-04-06T05:11:00+00:00,United States,0.747281141759407,0,1,en,CNA,North-America
-'44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-04-06T05:11:00+00:00,Australia,0.7469659331055695,0,1,en,CAU,Oceania
 'a905a2c4cf',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tasman west of Motueka,2026-03-25T04:33:00+00:00,New Zealand,0.7458386121960769,0,1,en,NZ,Oceania
 '5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,Frost United Kingdom,2026-04-04T04:30:00+00:00,United Kingdom,0.7456105251841023,1,2,en,NEU,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-04-01T05:12:00+00:00,Canada,0.7450777839016205,0,1,en,NEN,North-America
@@ -61,7 +60,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d73f8d2d3',extremes,Flood,#030ba1,wmo,Flooding Midland MI Saginaw MI,2026-04-05T05:01:00+00:00,United States,0.7429703367796863,0,1,en,CNA,North-America
 '8fc1f3469c',extremes,Flood,#030ba1,wmo,Flashflood Richland WI Vernon WI,2026-04-05T05:01:00+00:00,United States,0.7425780014321712,0,1,en,CNA,North-America
 '331c67a68a',extremes,Precipitation,#d60d2b,wmo,Precipitation Northland,2026-04-07T04:59:00+00:00,New Zealand,0.7425154123307537,0,1,en,NZ,Oceania
-'1208bd05da',extremes,Precipitation,#d60d2b,wmo,Rain Fiordland west of the Lakes,2026-03-16T05:05:00+00:00,New Zealand,0.742405177509347,2,2,en,NZ,Oceania
 'dc39054d90',extremes,Precipitation,#d60d2b,wmo,Precipitation Auckland and Great Barrier Island,2026-04-07T04:59:00+00:00,New Zealand,0.7423481442993453,0,1,en,NZ,Oceania
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-04-15T05:12:00+00:00,United States,0.7422909151536463,0,1,en,CNA,North-America
 '9417fcfd3e',extremes,Flood,#030ba1,wmo,Flashflood Genesee NY Monroe NY,2026-04-03T04:43:00+00:00,United States,0.7421046220883778,0,1,en,CNA,North-America
@@ -135,7 +133,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c605f8759a',extremes,Earthquake,#870007,usgs,Earthquake Guam,2026-04-06T05:11:00+00:00,Guam,0.7331490977934221,0,1,en,NPO,Pacific Ocean
 '4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Solomon Islands,2026-04-05T05:01:00+00:00,Solomon Islands,0.7326701240400482,1,2,en,EPO,Oceania
 '8d8f42fcdf',extremes,Flood,#030ba1,wmo,Flooding Henry IL Rock Island IL,2026-04-19T05:16:00+00:00,United States,0.7326440435986864,0,1,en,CNA,North-America
-'8fe63f3b39',extremes,Flood,#030ba1,wmo,Flooding Johnson KS Miami KS Cass MO,2026-04-14T05:11:00+00:00,United States,0.7325078233731491,0,1,en,CNA,North-America
 '3ea5ebedb2',extremes,Flood,#030ba1,wmo,Flood Wexford MI,2026-04-03T04:43:00+00:00,United States,0.7324157816002677,0,1,en,CNA,North-America
 '517e4b4a9e',extremes,Storm,#b3b2b1,wmo,Storm Northern Lynn Canal,2026-04-11T04:34:00+00:00,United States,0.7323936944119654,0,1,en,CNA,North-America
 '6f9d1ae43d',extremes,Flood,#030ba1,wmo,Flashflood Jefferson WI,2026-04-19T05:16:00+00:00,United States,0.732377724116865,0,1,en,CNA,North-America
@@ -198,7 +195,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f68d2aad73',extremes,Flood,#030ba1,wmo,Flashflood Juneau WI,2026-04-14T05:11:00+00:00,United States,0.7284714764576863,0,1,en,CNA,North-America
 '1cf829c10e',extremes,Flood,#030ba1,wmo,Flood Adams WI Juneau WI,2026-04-15T05:12:00+00:00,United States,0.7284358922707608,0,1,en,CNA,North-America
 'ea6bb31003',extremes,Storm,#b3b2b1,wmo,Storm Surge Inverness County Mabou and north,2026-04-20T05:27:00+00:00,Canada,0.7284026306272702,0,1,en,NEN,North-America
-'0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-03-17T04:30:00+00:00,United States,0.7283394360615073,0,1,en,CNA,North-America
 'c2168ef322',extremes,Flood,#030ba1,wmo,Flooding Maui HI,2026-04-08T05:01:00+00:00,United States,0.7283211142209794,0,1,en,CNA,North-America
 '946710d148',extremes,Fog,#d60d2b,wmo,Fog Paulatuk,2026-04-01T05:12:00+00:00,Canada,0.728318180242912,0,1,en,NEN,North-America
 'f4c51e9de6',extremes,Flood,#030ba1,wmo,Flooding Winnebago IL,2026-04-17T05:16:00+00:00,United States,0.7283032714875431,0,1,en,CNA,North-America
@@ -228,15 +224,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2f4c24db3',extremes,Flood,#030ba1,wmo,Flashflood Yakima WA,2026-03-21T04:17:00+00:00,United States,0.7236918773066884,0,1,en,CNA,North-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-04-17T05:16:00+00:00,Canada,0.7223263507546769,1,3,en,NEN,North-America
 '9865ee96b6',extremes,Thunderstorm,#53785a,wmo,Hail Middle and Transition,2026-04-08T05:01:00+00:00,Ghana,0.7218282496562457,1,2,en,WAF,Africa
-'0b8e917c24',extremes,Storm,#b3b2b1,wmo,Storm Surge Picton Sandbanks Park,2026-03-17T04:30:00+00:00,Canada,0.7216375311297387,0,1,en,NEN,North-America
 'b9c91ecf29',extremes,Snow&Ice,#d60d2b,wmo,Snow Central Coast inland sections,2026-03-25T04:33:00+00:00,Canada,0.7210433798795278,0,1,en,NEN,North-America
 '1a8ff73ad3',extremes,Flood,#030ba1,wmo,Flashflood Washington OH,2026-03-28T04:33:00+00:00,United States,0.7208843317840558,0,1,en,CNA,North-America
 'aaa59dbd70',extremes,Flood,#030ba1,wmo,Flooding Wood WI,2026-03-24T04:31:00+00:00,United States,0.7190304016799525,0,1,en,CNA,North-America
 '13f6b2793d',extremes,Storm,#b3b2b1,wmo,Storm Highway 97 Pine Pass,2026-03-24T04:31:00+00:00,Canada,0.7188622437611446,0,1,en,NEN,North-America
-'60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-03-17T04:30:00+00:00,United States,0.7186825486571372,0,1,en,CNA,North-America
 '8acbeed8e6',extremes,Wildfire,#d60d2b,wmo,Wildfire Tillman Wilbarger,2026-03-21T04:17:00+00:00,United States,0.717798730375889,0,1,en,CNA,North-America
 '2708243992',extremes,Wildfire,#d60d2b,wmo,Wildfire Dundy Hitchcock Red Willow,2026-03-24T04:31:00+00:00,United States,0.7171104098175471,0,1,en,CNA,North-America
-'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-03-17T04:30:00+00:00,United States,0.7164391580735461,0,1,en,CNA,North-America
+'44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-04-06T05:11:00+00:00,Australia,0.7169916579784438,1,3,en,CAU,Oceania
 '39670c8999',extremes,Drought,#edc291,acwe,lack of rain South Australia,2026-03-25T04:34:00+00:00,Australia,0.716317620532225,1,1,en,CAU,Oceania
 'da981f1496',extremes,Flood,#030ba1,wmo,Flashflood Benton WA,2026-03-21T04:17:00+00:00,United States,0.7158062554298342,0,1,en,CNA,North-America
 '0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,Storm Barren Islands East,2026-03-22T04:33:00+00:00,United States,0.7153575749682127,0,1,en,CNA,North-America
@@ -271,7 +265,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-03-18T04:36:00+00:00,Australia,0.7022290007498189,0,1,en,EAU,Oceania
 '99da4710d4',extremes,Flood,#030ba1,wmo,Flashflood Kittson MN,2026-03-26T04:56:00+00:00,United States,0.7019265411480528,0,1,en,CNA,North-America
 '7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,Snow Australia,2026-03-26T04:56:00+00:00,Australia,0.7014278674035856,0,1,en,CAU,Oceania
-'0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-03-17T04:30:00+00:00,Australia,0.7011293821595794,0,1,en,CAU,Oceania
 'f47bbe218c',extremes,Flood,#030ba1,wmo,Flooding Juneau WI,2026-03-25T04:33:00+00:00,United States,0.7010694024749563,0,1,en,CNA,North-America
 'f1ffcdc5d3',extremes,Flood,#030ba1,wmo,Flood King WA,2026-03-19T04:35:00+00:00,United States,0.6996324523668305,0,1,en,CNA,North-America
 'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2026-04-22T05:13:00+00:00,Fiji,0.6990288931970676,1,2,en,,
@@ -322,7 +315,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6e5947027b',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Waikato,2026-04-11T04:34:00+00:00,New Zealand,0.6387115273085721,1,1,en,NZ,Oceania
 'af081911d9',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Wellington excluding Porirua,2026-04-20T05:27:00+00:00,New Zealand,0.6387003623756167,1,1,en,NZ,Oceania
 '1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttar Pradesh,2026-04-03T04:43:00+00:00,India,0.63859124636546,1,1,en,SAS,Asia
-'bd5d88d4fc',extremes,Flood,#030ba1,wmo,Flood Botswana,2026-03-21T04:17:00+00:00,Botswana,0.6383734976108525,1,1,en,WSAF,Africa
 'a574def091',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Central and Eastern Regions,2026-04-09T04:58:00+00:00,Solomon Islands,0.6383676494311895,1,1,en,EPO,Oceania
 '97cf231a2f',extremes,Wildfire,#d60d2b,wmo,Wildfire Odisha,2026-04-03T04:43:00+00:00,India,0.6383114093816286,1,1,en,SAS,Asia
 '81df6f3074',extremes,Storm,#b3b2b1,wmo,Storm Taupo and Taumarunui,2026-03-26T04:56:00+00:00,New Zealand,0.6380490064583881,1,1,en,NZ,Oceania
@@ -350,8 +342,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e31928c5b',extremes,Storm,#b3b2b1,wmo,Storm Surge Northland,2026-04-11T04:34:00+00:00,New Zealand,0.6352433355762994,1,1,en,NZ,Oceania
 'debdbdb81a',extremes,Flood,#030ba1,wmo,Flood Mahoning OH Trumbull OH,2026-04-02T04:42:00+00:00,United States,0.6351602534175478,1,1,en,CNA,North-America
 '4eb2182ddc',extremes,Snow&Ice,#d60d2b,wmo,Snow Fort Hope Lansdowne House Ogoki,2026-04-09T04:58:00+00:00,Canada,0.6349898454634997,1,1,en,NEN,North-America
-'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-03-21T04:17:00+00:00,Solomon Islands,0.6346027379001893,1,1,en,EPO,Oceania
-'27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-03-21T04:17:00+00:00,Solomon Islands,0.6344474755669305,1,1,en,EPO,Oceania
 '8c5b347857',extremes,Storm,#b3b2b1,wmo,Storm Surge Coromandel Peninsula,2026-04-12T05:12:00+00:00,New Zealand,0.6343776296784949,1,1,en,NZ,Oceania
 'c3d3dc91ba',extremes,Fog,#d60d2b,wmo,Fog Seul Choix Point to Point Detour MI,2026-04-24T05:22:00+00:00,United States,0.634285672611252,1,1,en,CNA,North-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-04-05T05:01:00+00:00,United States,0.6341917659733488,1,2,en,WNA,North-America
@@ -402,10 +392,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea6e7d843a',extremes,Flood,#030ba1,wmo,Flood Pulaski IN,2026-04-03T04:43:00+00:00,United States,0.6296186872728258,1,1,en,CNA,North-America
 '3f21782c88',extremes,Flood,#030ba1,wmo,Flooding Crawford WI,2026-04-06T05:11:00+00:00,United States,0.6295486240095843,1,1,en,CNA,North-America
 'f595423c06',extremes,Precipitation,#d60d2b,wmo,Precipitation Coromandel Peninsula,2026-04-06T05:11:00+00:00,New Zealand,0.629458070660999,1,1,en,NZ,Oceania
-'4f73c4762a',extremes,Snow&Ice,#d60d2b,wmo,Snow Sachs Harbour,2026-03-21T04:17:00+00:00,Canada,0.6294195260224835,1,1,en,NEN,North-America
 'cdd6f16109',extremes,Flood,#030ba1,wmo,Flashflood Sauk WI,2026-04-05T05:01:00+00:00,United States,0.6293795347493265,1,1,en,CNA,North-America
 '58aec69d5b',extremes,Flood,#030ba1,wmo,Flood Vernon MO,2026-04-03T04:43:00+00:00,United States,0.629326819228768,1,1,en,CNA,North-America
-'efc657afac',extremes,Precipitation,#d60d2b,wmo,Torrential Rain ALL provinces,2026-03-21T04:17:00+00:00,Solomon Islands,0.6290877966564078,1,1,en,EPO,Oceania
 'efd8233243',extremes,Flood,#030ba1,wmo,Flooding Tompkins NY,2026-04-03T04:43:00+00:00,United States,0.6290481114998111,1,1,en,CNA,North-America
 '99a7dc685f',extremes,Flood,#030ba1,wmo,Flooding Cooper MO Saline MO,2026-04-07T04:59:00+00:00,United States,0.6288790586294226,1,1,en,CNA,North-America
 '053e5d4f2c',extremes,Flood,#030ba1,wmo,Flood Kalamazoo MI,2026-04-06T05:11:00+00:00,United States,0.6288137843265634,1,1,en,CNA,North-America
@@ -463,3 +451,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33a7e3dbd3',extremes,Flood,#030ba1,wmo,Flooding Gasconade MO Montgomery MO,2026-04-28T05:45:00+00:00,United States,0.6229608442273635,1,1,en,CNA,North-America
 '6605b112bf',extremes,Flood,#030ba1,wmo,Flood Marathon WI,2026-04-14T05:11:00+00:00,United States,0.6229232325061517,1,1,en,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-04-12T05:12:00+00:00,United States,0.6228184776442152,1,1,en,CNA,North-America
+'8fe63f3b39',extremes,Flood,#030ba1,wmo,Flooding Johnson KS Miami KS Cass MO,2026-04-14T05:11:00+00:00,United States,0.6226316498671768,1,1,en,CNA,North-America
