@@ -23,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-04-08T05:01:00+00:00,Canada,0.7565951829421846,0,1,en,NEN,North-America
 '6d73764800',extremes,Earthquake,#870007,usgs,Earthquake Silver Springs,2026-04-14T05:10:00+00:00,United States,0.7557092891002513,1,2,en,WNA,North-America
 'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,Heat Wave 53 Mandals,2026-04-03T04:43:00+00:00,India,0.7541391272645411,0,1,en,SAS,Asia
+'bf242fe474',extremes,Drought,#edc291,edo,Drought Zambia,2026-03-19T04:35:00+00:00,Zambia,0.7534716595554198,1,2,en,ESAF,Africa
 '6852666385',extremes,Earthquake,#870007,usgs,Earthquake Port Mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.7529042406327437,0,1,en,SIO,Indian Ocean
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,bushfire Tasmania,2026-04-29T05:41:00+00:00,Australia,0.7527729913925136,1,2,en,SAU,Oceania
 'afd06422c3',extremes,Storm,#b3b2b1,wmo,Storm Wellington,2026-04-12T05:12:00+00:00,New Zealand,0.7527440824673871,1,2,en,NZ,Oceania
@@ -42,7 +43,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1428632393',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Rota Tinian Saipan,2026-04-15T05:12:00+00:00,United States,0.7447790623016222,0,1,en,CNA,North-America
 '612ef3a548',extremes,Wildfire,#d60d2b,wmo,Wildfire Maharashtra,2026-04-10T05:13:00+00:00,India,0.7445662285488398,0,1,en,SAS,Asia
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-05-02T05:24:00+00:00,United States,0.7444461772476113,0,1,en,CNA,North-America
-'bf242fe474',extremes,Drought,#edc291,edo,Drought Zambia,2026-03-19T04:35:00+00:00,Zambia,0.7443783347710822,0,1,en,ESAF,Africa
 '1e26e20d27',extremes,Storm,#b3b2b1,wmo,Storm Surge Manawatu and Kapiti Coast,2026-04-12T05:12:00+00:00,New Zealand,0.7441676979849404,0,1,en,NZ,Oceania
 'fa762f5750',extremes,Drought,#edc291,edo,Lack of Rain Lesotho,2026-04-22T05:13:00+00:00,Lesotho,0.7440832104796691,0,1,en,ESAF,Africa
 'b2bc2d0c7f',extremes,Snow Avalanche,#deddd5,wmo,Avalanche India,2026-04-19T05:16:00+00:00,India,0.7440296502060068,0,1,en,SAS,Asia
@@ -54,7 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2026-04-06T05:12:00+00:00,Australia,0.7434313443507629,0,1,en,CAU,Oceania
 'f3f150047a',extremes,Storm,#b3b2b1,wmo,Storm Surge The Tararua District,2026-04-11T04:34:00+00:00,New Zealand,0.7433254063159631,0,1,en,NZ,Oceania
 '2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL provinces,2026-04-02T04:42:00+00:00,Solomon Islands,0.7432452353861352,0,1,en,EPO,Oceania
-'a258bc8dc2',extremes,Heat Wave,#c40202,wmo,Heat Wave Tualatin Valley,2026-05-02T05:24:00+00:00,United States,0.7431697624795877,0,1,en,CNA,North-America
 '772d689ea1',extremes,Flood,#030ba1,wmo,Flood Lucas OH Wood OH,2026-04-06T05:11:00+00:00,United States,0.7431539136098297,0,1,en,CNA,North-America
 '8d73f8d2d3',extremes,Flood,#030ba1,wmo,Flooding Midland MI Saginaw MI,2026-04-05T05:01:00+00:00,United States,0.7429703367796863,0,1,en,CNA,North-America
 '8fc1f3469c',extremes,Flood,#030ba1,wmo,Flashflood Richland WI Vernon WI,2026-04-05T05:01:00+00:00,United States,0.7425780014321712,0,1,en,CNA,North-America
@@ -373,6 +372,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e83a7feab',extremes,Storm,#b3b2b1,wmo,Storm Surge Iqaluit Kimmirut Kinngait,2026-04-12T05:12:00+00:00,Canada,0.6318878912388919,1,1,en,NEN,North-America
 'eb4722c8bc',extremes,Snow&Ice,#d60d2b,wmo,Ice Chevery Blanc Sablon,2026-04-12T05:12:00+00:00,Canada,0.6318004308381566,1,1,en,NEN,North-America
 'a30d27ed65',extremes,Flood,#030ba1,wmo,Flooding Roaring River Minitonas area,2026-04-27T05:40:00+00:00,Canada,0.6317464590190501,1,1,en,NEN,North-America
+'a258bc8dc2',extremes,Heat Wave,#c40202,wmo,Heat Wave Tualatin Valley,2026-05-02T05:24:00+00:00,United States,0.6316942981076495,1,1,en,CNA,North-America
 '200915a12f',extremes,Drought,#edc291,edo,Drought Namibia,2026-04-22T05:13:00+00:00,Namibia,0.6314136003343355,1,1,en,WSAF,Africa
 '1451039273',extremes,Flood,#030ba1,wmo,Flashflood Tompkins NY,2026-04-05T05:01:00+00:00,United States,0.6312382882188866,1,1,en,CNA,North-America
 '509082d6c7',extremes,Flood,#030ba1,wmo,Flood Sauk WI,2026-04-06T05:11:00+00:00,United States,0.6311166969325042,1,1,en,CNA,North-America
