@@ -188,6 +188,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb2e52d1fa',extremes,Flood,#030ba1,wmo,Flashflood Lawrence IN Martin IN,2026-04-30T05:46:00+00:00,United States,0.7287537385664239,0,1,en,CNA,North-America
 '8f23bbe775',extremes,Flood,#030ba1,wmo,Flooding Runnels TX Taylor TX,2026-04-12T05:12:00+00:00,United States,0.7287461525302573,0,1,en,CNA,North-America
 '8658774dc9',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Lincoln MO,2026-04-14T05:11:00+00:00,United States,0.7285807493966036,0,1,en,CNA,North-America
+'cefc732161',extremes,Flood,#030ba1,wmo,Flooding Rock WI,2026-04-21T05:15:00+00:00,United States,0.7285488208494006,0,1,en,CNA,North-America
 'f68d2aad73',extremes,Flood,#030ba1,wmo,Flashflood Juneau WI,2026-04-14T05:11:00+00:00,United States,0.7284714764576863,0,1,en,CNA,North-America
 '1cf829c10e',extremes,Flood,#030ba1,wmo,Flood Adams WI Juneau WI,2026-04-15T05:12:00+00:00,United States,0.7284358922707608,0,1,en,CNA,North-America
 'ea6bb31003',extremes,Storm,#b3b2b1,wmo,Storm Surge Inverness County Mabou and north,2026-04-20T05:27:00+00:00,Canada,0.7284026306272702,0,1,en,NEN,North-America
@@ -202,9 +203,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-04-24T05:22:00+00:00,India,0.7277726335325087,0,1,en,SAS,Asia
 '7005f7903c',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Marion MO,2026-04-13T05:28:00+00:00,United States,0.727739309545776,0,1,en,CNA,North-America
 '0f2e2a1043',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Greene IL Jersey IL,2026-04-21T05:15:00+00:00,United States,0.7275968714049262,0,1,en,CNA,North-America
+'8627a826e3',extremes,Flood,#030ba1,wmo,Flashflood Madison IL St. Charles MO,2026-04-30T05:46:00+00:00,United States,0.7275482109364441,0,1,en,CNA,North-America
 '3a1ebe96bf',extremes,Snow&Ice,#d60d2b,wmo,Freezing Kangirsuk Aupaluk,2026-04-30T05:46:00+00:00,Canada,0.7275246877838929,0,1,en,NEN,North-America
 '7c667338b3',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Pike MO,2026-04-14T05:11:00+00:00,United States,0.7274542969529372,0,1,en,CNA,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-04-26T05:25:00+00:00,Papua New Guinea,0.727365545931961,0,1,en,EPO,Pacific Ocean
+'b7bb4e2cb6',extremes,Flood,#030ba1,wmo,Flashflood Calhoun IL Lincoln MO,2026-04-16T05:17:00+00:00,United States,0.7271407534211748,0,1,en,CNA,North-America
 '58670f8693',extremes,Flood,#030ba1,wmo,Flashflood Linn KS,2026-04-28T05:45:00+00:00,United States,0.727101643961555,0,1,en,CNA,North-America
 'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-04-14T05:10:00+00:00,Solomon Islands,0.7269621629029916,0,1,en,SPO,Pacific Ocean
 '820a43af96',extremes,Snow&Ice,#d60d2b,wmo,Freezing Salluit,2026-04-15T05:12:00+00:00,Canada,0.7268665032910181,0,1,en,NEN,North-America
@@ -215,6 +218,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3626c8a74b',extremes,Flood,#030ba1,wmo,Flooding Northern Oneida Southern Oneida,2026-04-01T05:12:00+00:00,United States,0.7266193031013547,0,1,en,CNA,North-America
 '41c5278b81',extremes,Flood,#030ba1,wmo,Flood Bates MO Cass MO Henry MO,2026-04-27T05:40:00+00:00,United States,0.7265996308304228,0,1,en,CNA,North-America
 'fdca6c3d52',extremes,Flood,#030ba1,wmo,Flood Jackson AR Woodruff AR,2026-04-30T05:46:00+00:00,United States,0.7264975497258608,0,1,en,CNA,North-America
+'8608bf6521',extremes,Flood,#030ba1,wmo,Flood Lawrence IN Martin IN,2026-04-29T05:40:00+00:00,United States,0.7264848430324307,0,1,en,CNA,North-America
+'c4d3c3bf17',extremes,Precipitation,#d60d2b,wmo,Rain Chibougamau Manic 5 area,2026-04-30T05:46:00+00:00,Canada,0.7263695806357872,0,1,en,NEN,North-America
+'d0fa0ccdfc',extremes,Flood,#030ba1,wmo,Flooding Jasper MO Newton MO,2026-04-27T05:40:00+00:00,United States,0.7262876255582937,0,1,en,CNA,North-America
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-03-26T04:56:00+00:00,Australia,0.7262671639801314,0,1,en,CAU,Oceania
 'e83c91c507',extremes,Flood,#030ba1,wmo,Flashflood Coshocton OH,2026-03-29T05:00:00+00:00,United States,0.7262226477346533,0,1,en,CNA,North-America
 'd2f4c24db3',extremes,Flood,#030ba1,wmo,Flashflood Yakima WA,2026-03-21T04:17:00+00:00,United States,0.7236918773066884,0,1,en,CNA,North-America
