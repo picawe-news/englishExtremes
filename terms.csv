@@ -116,6 +116,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d2b7e6123',extremes,Flood,#030ba1,wmo,Flood Washington KS,2026-04-12T05:12:00+00:00,United States,0.7350578256625211,0,1,en,CNA,North-America
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,2019 Cyclone WA Severe tropical cyclone Veronica,2026-04-11T04:35:00+00:00,Australia,0.734848160972402,0,1,en,CAU,Oceania
 '91377cc2a9',extremes,Drought,#edc291,acwe,drought South Australia,2026-03-31T05:00:00+00:00,Australia,0.7344864932216293,1,2,en,SAU,Oceania
+'ed12635a22',extremes,Flood,#030ba1,wmo,Flood Victoria TX,2026-05-02T05:24:00+00:00,United States,0.7344155757001262,0,1,en,CNA,North-America
 'e62ffa3524',extremes,Flood,#030ba1,wmo,Flood Noble IN,2026-04-10T05:13:00+00:00,United States,0.7343050639873812,0,1,en,CNA,North-America
 'fdf41d6f21',extremes,Flood,#030ba1,wmo,Flood Juneau WI,2026-03-27T04:57:00+00:00,United States,0.7342782005970857,0,1,en,CNA,North-America
 '82987d1805',extremes,Storm,#b3b2b1,wmo,Storm Surge Attawapiskat,2026-04-17T05:16:00+00:00,Canada,0.7340411083852588,0,1,en,NEN,North-America
@@ -158,6 +159,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbc9f3fe89',extremes,Flood,#030ba1,wmo,Flashflood Louisa IA,2026-04-10T05:13:00+00:00,United States,0.7305797663942655,0,1,en,CNA,North-America
 '1335513c95',extremes,Flood,#030ba1,wmo,Flood Daviess IN Greene IN Knox IN,2026-04-30T05:46:00+00:00,United States,0.7305733698991793,0,1,en,CNA,North-America
 '9f73d9f36d',extremes,Flood,#030ba1,wmo,Flooding Pike IL Pike MO,2026-04-15T05:12:00+00:00,United States,0.7305359824848524,0,1,en,CNA,North-America
+'f321a6eca2',extremes,Flood,#030ba1,wmo,Flood Gibson IN Knox IN,2026-05-03T05:44:00+00:00,United States,0.7304951938510921,0,1,en,CNA,North-America
 '1b499f1d11',extremes,Flood,#030ba1,wmo,Flashflood Gasconade MO Montgomery MO,2026-04-29T05:40:00+00:00,United States,0.7304503189151247,0,1,en,CNA,North-America
 '08737d8c4b',extremes,Flood,#030ba1,wmo,Flooding Shawano WI Waupaca WI,2026-04-14T05:11:00+00:00,United States,0.7304169551108531,0,1,en,CNA,North-America
 '30b5e288fa',extremes,Flood,#030ba1,wmo,Flood Val Verde TX,2026-04-12T05:12:00+00:00,United States,0.7303895262596416,0,1,en,CNA,North-America
@@ -180,6 +182,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '516cca4753',extremes,Storm,#b3b2b1,wmo,Storm Surge Canterbury High Country,2026-04-17T05:16:00+00:00,New Zealand,0.7292287666997493,0,1,en,NZ,Oceania
 '62ed767f26',extremes,Flood,#030ba1,wmo,Flooding Dodge WI,2026-04-15T05:12:00+00:00,United States,0.7291660155775093,0,1,en,CNA,North-America
 '450b6181bf',extremes,Flood,#030ba1,wmo,Flood Tangipahoa LA,2026-05-01T05:54:00+00:00,United States,0.7289364267063491,0,1,en,CNA,North-America
+'6fc80610c3',extremes,Flood,#030ba1,wmo,Flood Jefferson MO St. Louis MO,2026-04-28T05:45:00+00:00,United States,0.728936400622607,0,1,en,CNA,North-America
 '0f3c8da430',extremes,Flood,#030ba1,wmo,Flood Henry IL Rock Island IL,2026-04-07T04:59:00+00:00,United States,0.7289185346795445,0,1,en,CNA,North-America
 'fb2e52d1fa',extremes,Flood,#030ba1,wmo,Flashflood Lawrence IN Martin IN,2026-04-30T05:46:00+00:00,United States,0.7287537385664239,0,1,en,CNA,North-America
 '8f23bbe775',extremes,Flood,#030ba1,wmo,Flooding Runnels TX Taylor TX,2026-04-12T05:12:00+00:00,United States,0.7287461525302573,0,1,en,CNA,North-America
@@ -201,6 +204,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f2e2a1043',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Greene IL Jersey IL,2026-04-21T05:15:00+00:00,United States,0.7275968714049262,0,1,en,CNA,North-America
 '8627a826e3',extremes,Flood,#030ba1,wmo,Flashflood Madison IL St. Charles MO,2026-04-30T05:46:00+00:00,United States,0.7275482109364441,0,1,en,CNA,North-America
 '3a1ebe96bf',extremes,Snow&Ice,#d60d2b,wmo,Freezing Kangirsuk Aupaluk,2026-04-30T05:46:00+00:00,Canada,0.7275246877838929,0,1,en,NEN,North-America
+'43a3482d04',extremes,Flood,#030ba1,wmo,Flashflood Angelina TX Nacogdoches TX,2026-05-03T05:44:00+00:00,United States,0.7274550192192074,0,1,en,CNA,North-America
 '7c667338b3',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Pike MO,2026-04-14T05:11:00+00:00,United States,0.7274542969529372,0,1,en,CNA,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-04-26T05:25:00+00:00,Papua New Guinea,0.727365545931961,0,1,en,EPO,Pacific Ocean
 'b7bb4e2cb6',extremes,Flood,#030ba1,wmo,Flashflood Calhoun IL Lincoln MO,2026-04-16T05:17:00+00:00,United States,0.7271407534211748,0,1,en,CNA,North-America
@@ -218,7 +222,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4d3c3bf17',extremes,Precipitation,#d60d2b,wmo,Rain Chibougamau Manic 5 area,2026-04-30T05:46:00+00:00,Canada,0.7263695806357872,0,1,en,NEN,North-America
 'd0fa0ccdfc',extremes,Flood,#030ba1,wmo,Flooding Jasper MO Newton MO,2026-04-27T05:40:00+00:00,United States,0.7262876255582937,0,1,en,CNA,North-America
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-03-26T04:56:00+00:00,Australia,0.7262671639801314,0,1,en,CAU,Oceania
+'1fdbedffc8',extremes,Flood,#030ba1,wmo,Flood Jefferson WI Rock WI,2026-04-19T05:16:00+00:00,United States,0.7262323001640342,0,1,en,CNA,North-America
 'e83c91c507',extremes,Flood,#030ba1,wmo,Flashflood Coshocton OH,2026-03-29T05:00:00+00:00,United States,0.7262226477346533,0,1,en,CNA,North-America
+'463ebb9eba',extremes,Flood,#030ba1,wmo,Flooding Iron MI,2026-04-15T05:12:00+00:00,United States,0.7261676424475988,0,1,en,CNA,North-America
 'd2f4c24db3',extremes,Flood,#030ba1,wmo,Flashflood Yakima WA,2026-03-21T04:17:00+00:00,United States,0.7236918773066884,0,1,en,CNA,North-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-04-17T05:16:00+00:00,Canada,0.7223263507546769,1,3,en,NEN,North-America
 '9865ee96b6',extremes,Thunderstorm,#53785a,wmo,Hail Middle and Transition,2026-04-08T05:01:00+00:00,Ghana,0.7218282496562457,1,2,en,WAF,Africa
