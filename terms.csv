@@ -7,6 +7,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-05-04T05:50:00+00:00,Australia,0.7906241502034796,0,1,en,SAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-05-04T05:50:00+00:00,Australia,0.7906222012362185,0,1,en,CAU,Oceania
 'd0ad361cd5',extremes,Precipitation,#d60d2b,acwe,wet spell Victoria,2026-05-04T05:50:00+00:00,Australia,0.790600377108921,0,1,en,SAU,Oceania
+'9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2026-05-04T05:50:00+00:00,Australia,0.7905828080083446,0,1,en,CAU,Oceania
+'a0fea22150',extremes,Heat Wave,#c40202,acwe,heatwave New South Wales,2026-05-04T05:50:00+00:00,Australia,0.7905705637140876,0,1,en,EAU,Oceania
+'83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2026-05-04T05:50:00+00:00,Australia,0.7905633528018515,0,1,en,EAU,Oceania
+'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,warm spell Australia,2026-05-04T05:50:00+00:00,Australia,0.7901664290895504,0,1,en,CAU,Oceania
+'2595e5c49a',extremes,Flood,#030ba1,acwe,high water level Australia,2026-05-04T05:50:00+00:00,Australia,0.7896742599033,0,1,en,CAU,Oceania
+'248cc444aa',extremes,Heat Wave,#c40202,acwe,mild winter Western Australia,2026-05-04T05:50:00+00:00,Australia,0.7895049842568873,0,1,en,CAU,Oceania
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,Hail Botswana,2026-04-13T05:28:00+00:00,Botswana,0.7890225608063575,1,2,en,WSAF,Africa
 '111d00b3ed',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Taupo,2026-03-26T04:56:00+00:00,New Zealand,0.7857237425774485,1,2,en,NZ,Oceania
 'b9e7537e34',extremes,Snow&Ice,#d60d2b,wmo,Ice Dempster,2026-04-12T05:12:00+00:00,Canada,0.7824150951171311,1,2,en,NEN,North-America
