@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,Storm Auckland and Great Barrier Island,2026-03-26T04:56:00+00:00,New Zealand,0.796900179544704,1,2,en,NZ,Oceania
 '6a814a5817',extremes,Drought,#edc291,acwe,low water level New South Wales,2026-03-25T04:34:00+00:00,Australia,0.7934249523071247,1,2,en,EAU,Oceania
 'd0ad361cd5',extremes,Precipitation,#d60d2b,acwe,wet spell Victoria,2026-05-04T05:50:00+00:00,Australia,0.790600377108921,0,1,en,SAU,Oceania
-'9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2026-05-04T05:50:00+00:00,Australia,0.7905828080083446,0,1,en,CAU,Oceania
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,heatwave New South Wales,2026-05-04T05:50:00+00:00,Australia,0.7905705637140876,0,1,en,EAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2026-05-04T05:50:00+00:00,Australia,0.7905633528018515,0,1,en,EAU,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,warm spell Australia,2026-05-04T05:50:00+00:00,Australia,0.7901664290895504,0,1,en,CAU,Oceania
@@ -256,6 +255,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,Wildfire Clay counties Florida,2026-05-05T05:29:00+00:00,United States,0.6735624966041206,1,1,en,WNA,North-America
 '9969e8e386',extremes,Flood,#030ba1,emdat,Flood Central region,2026-03-24T04:32:00+00:00,Kenya,0.6735324408032587,1,2,en,SEAF,Africa
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-05-04T05:50:00+00:00,Australia,0.6723305576729577,1,1,en,SAU,Oceania
+'9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2026-05-04T05:50:00+00:00,Australia,0.6721454018070929,1,1,en,CAU,Oceania
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-04-08T05:01:00+00:00,Canada,0.6632622564664069,1,2,en,NEN,North-America
 '152914913d',extremes,Heat Wave,#c40202,acwe,heat wave Tasmania,2026-04-28T05:45:00+00:00,Australia,0.6625538726760843,1,1,en,SAU,Oceania
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave New South Wales,2026-03-31T05:00:00+00:00,Australia,0.661864249782589,1,1,en,EAU,Oceania
