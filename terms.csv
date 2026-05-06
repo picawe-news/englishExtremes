@@ -12,14 +12,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2595e5c49a',extremes,Flood,#030ba1,acwe,high water level Australia,2026-05-04T05:50:00+00:00,Australia,0.7896742599033,0,1,en,CAU,Oceania
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,mild winter Western Australia,2026-05-04T05:50:00+00:00,Australia,0.7895049842568873,0,1,en,CAU,Oceania
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,Hail Botswana,2026-04-13T05:28:00+00:00,Botswana,0.7890225608063575,1,2,en,WSAF,Africa
+'d53ef05f64',extremes,Precipitation,#d60d2b,acwe,wet spell Western Australia,2026-05-04T05:50:00+00:00,Australia,0.7870161578677981,0,1,en,CAU,Oceania
+'ffcf460c48',extremes,Heat Wave,#c40202,acwe,heatwave Queensland,2026-05-04T05:50:00+00:00,Australia,0.7869812986144286,0,1,en,CAU,Oceania
 '111d00b3ed',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Taupo,2026-03-26T04:56:00+00:00,New Zealand,0.7857237425774485,1,2,en,NZ,Oceania
 'b9e7537e34',extremes,Snow&Ice,#d60d2b,wmo,Ice Dempster,2026-04-12T05:12:00+00:00,Canada,0.7824150951171311,1,2,en,NEN,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-04-06T05:11:00+00:00,United States,0.7801648661406573,1,3,en,CNA,North-America
 '4508d0e7cc',extremes,Drought,#edc291,acwe,low water level Australia,2026-03-26T04:57:00+00:00,Australia,0.780036181755224,1,3,en,CAU,Oceania
 'd85a303050',extremes,Flood,#030ba1,wmo,Flood Cass MO Henry MO Johnson MO,2026-04-02T04:42:00+00:00,United States,0.7795865994044338,1,2,en,CNA,North-America
+'0646039361',extremes,Drought,#edc291,acwe,lack of rain Tasmania,2026-04-21T05:15:00+00:00,Australia,0.778704333622875,0,1,en,SAU,Oceania
+'42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-05-06T05:43:00+00:00,Australia,0.7759016178894558,0,1,en,EAU,Oceania
 '2d2b7e6123',extremes,Flood,#030ba1,wmo,Flood Washington KS,2026-04-12T05:12:00+00:00,United States,0.774949166813143,1,2,en,CNA,North-America
+'ec51ecb5d3',extremes,Flood,#030ba1,acwe,flash flood Tasmania,2026-05-05T05:29:00+00:00,Australia,0.7731291262965776,0,1,en,SAU,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-04-08T05:01:00+00:00,Australia,0.772915951128285,1,3,en,NAU,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-03-31T04:59:00+00:00,Canada,0.7720872480781843,1,2,en,NEN,North-America
+'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-05-05T05:29:00+00:00,Australia,0.7716585555223187,0,1,en,EAU,Oceania
 '11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,Tropical Cyclone Guam,2026-05-05T05:29:00+00:00,Guam,0.7643195536074713,1,2,en,NPO,Oceania
 'b6c613d063',extremes,Drought,#edc291,acwe,lack of rain Queensland,2026-03-28T04:34:00+00:00,Australia,0.7640281979083615,1,2,en,CAU,Oceania
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-04-08T05:01:00+00:00,Australia,0.7628544006356763,0,1,en,EAU,Oceania
