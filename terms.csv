@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,Storm Auckland and Great Barrier Island,2026-03-26T04:56:00+00:00,New Zealand,0.796900179544704,1,2,en,NZ,Oceania
 '6a814a5817',extremes,Drought,#edc291,acwe,low water level New South Wales,2026-03-25T04:34:00+00:00,Australia,0.7934249523071247,1,2,en,EAU,Oceania
 'd0ad361cd5',extremes,Precipitation,#d60d2b,acwe,wet spell Victoria,2026-05-04T05:50:00+00:00,Australia,0.790600377108921,0,1,en,SAU,Oceania
-'2595e5c49a',extremes,Flood,#030ba1,acwe,high water level Australia,2026-05-04T05:50:00+00:00,Australia,0.7896742599033,0,1,en,CAU,Oceania
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,mild winter Western Australia,2026-05-04T05:50:00+00:00,Australia,0.7895049842568873,0,1,en,CAU,Oceania
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,Hail Botswana,2026-04-13T05:28:00+00:00,Botswana,0.7890225608063575,1,2,en,WSAF,Africa
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,wet spell Western Australia,2026-05-04T05:50:00+00:00,Australia,0.7870161578677981,0,1,en,CAU,Oceania
@@ -41,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-04-14T05:11:00+00:00,Jamaica,0.7570988030659891,1,2,en,CAR,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-03-26T04:56:00+00:00,New Zealand,0.7566981770326486,0,1,en,NZ,Oceania
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-04-08T05:01:00+00:00,Canada,0.7565951829421846,0,1,en,NEN,North-America
+'2595e5c49a',extremes,Flood,#030ba1,acwe,high water level Australia,2026-05-04T05:50:00+00:00,Australia,0.755725205917805,1,3,en,CAU,Oceania
 '6d73764800',extremes,Earthquake,#870007,usgs,Earthquake Silver Springs,2026-04-14T05:10:00+00:00,United States,0.7557092891002513,1,2,en,WNA,North-America
 'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,Heat Wave 53 Mandals,2026-04-03T04:43:00+00:00,India,0.7541391272645411,0,1,en,SAS,Asia
 'bf242fe474',extremes,Drought,#edc291,edo,Drought Zambia,2026-03-19T04:35:00+00:00,Zambia,0.7534716595554198,1,2,en,ESAF,Africa
