@@ -80,7 +80,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01a9374297',extremes,Flood,#030ba1,wmo,Flooding Newaygo MI,2026-04-08T05:01:00+00:00,United States,0.7373853748788158,0,1,en,CNA,North-America
 '6810a2a47a',extremes,Flood,#030ba1,wmo,Flood Kent MI,2026-04-06T05:11:00+00:00,United States,0.7373155047653228,0,1,en,CNA,North-America
 '15ea46f64a',extremes,Flood,#030ba1,wmo,Flashflood Macomb MI,2026-04-06T05:11:00+00:00,United States,0.7373116648675926,0,1,en,CNA,North-America
-'657496cac5',extremes,Flood,#030ba1,wmo,Flood Washington LA Pearl River MS,2026-05-11T06:14:00+00:00,United States,0.7372236680305412,0,1,en,CNA,North-America
 '2a51d80fd0',extremes,Flood,#030ba1,wmo,Flood Clinton IA Scott IA,2026-04-07T04:59:00+00:00,United States,0.7370729382154785,1,1,en,CNA,North-America
 '6ba0d506ee',extremes,Flood,#030ba1,wmo,Flood Lafayette LA Vermilion LA,2026-05-11T06:14:00+00:00,United States,0.7369552162257004,0,1,en,CNA,North-America
 '5478987fda',extremes,Flood,#030ba1,wmo,Flood Bay MI Saginaw MI,2026-04-05T05:01:00+00:00,United States,0.7369199642448604,0,1,en,CNA,North-America
@@ -416,6 +415,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1bb90c275',extremes,Flood,#030ba1,wmo,Flashflood Noble IN,2026-04-09T04:58:00+00:00,United States,0.6269140612373139,1,1,en,CNA,North-America
 '18de840f5b',extremes,Storm,#b3b2b1,wmo,Storm Iqaluit Kimmirut Kinngait,2026-04-13T05:28:00+00:00,Canada,0.6268822045736613,1,1,en,NEN,North-America
 '08a54d7720',extremes,Flood,#030ba1,wmo,Flooding Kane IL Lake IL McHenry IL,2026-04-14T05:11:00+00:00,United States,0.6268101905002611,1,1,en,CNA,North-America
+'657496cac5',extremes,Flood,#030ba1,wmo,Flood Washington LA Pearl River MS,2026-05-11T06:14:00+00:00,United States,0.62679013282596,1,1,en,CNA,North-America
 '12b15b4460',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ivujivik Akulivik,2026-04-14T05:11:00+00:00,Canada,0.6267208143219425,1,1,en,NEN,North-America
 'cff7fc564f',extremes,Flood,#030ba1,wmo,Flooding Gibson IN Knox IN,2026-05-05T05:29:00+00:00,United States,0.6267162342160574,1,1,en,CNA,North-America
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,Wildfire Assam,2026-04-24T05:22:00+00:00,India,0.626709214786982,1,1,en,SAS,Asia
