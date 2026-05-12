@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,Wildfire India,2026-04-03T04:43:00+00:00,India,0.7591698698206937,1,3,en,SAS,Asia
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,Storm Minnesota,2026-05-05T05:29:00+00:00,United States,0.757181974078496,1,3,en,WNA,North-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-04-14T05:11:00+00:00,Jamaica,0.7570988030659891,1,2,en,CAR,North-America
-'52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-03-26T04:56:00+00:00,New Zealand,0.7566981770326486,0,1,en,NZ,Oceania
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-04-08T05:01:00+00:00,Canada,0.7565951829421846,0,1,en,NEN,North-America
 '2595e5c49a',extremes,Flood,#030ba1,acwe,high water level Australia,2026-05-04T05:50:00+00:00,Australia,0.755725205917805,1,3,en,CAU,Oceania
 '6d73764800',extremes,Earthquake,#870007,usgs,Earthquake Silver Springs,2026-04-14T05:10:00+00:00,United States,0.7557092891002513,1,2,en,WNA,North-America
@@ -74,7 +73,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd864d2635e',extremes,Flood,#030ba1,wmo,Flooding Angelina TX Nacogdoches TX,2026-04-08T05:01:00+00:00,United States,0.738919499459169,0,1,en,CNA,North-America
 '4e3ce59b1d',extremes,Snow&Ice,#d60d2b,wmo,Frost Gjoa Haven,2026-04-14T05:11:00+00:00,Canada,0.7388276921715955,0,1,en,NEN,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-04-22T05:13:00+00:00,Canada,0.7385530223175673,1,2,en,NEN,North-America
-'4f08e7e227',extremes,Flood,#030ba1,wmo,Flashflood George MS Greene MS,2026-05-07T05:46:00+00:00,United States,0.7384312669585019,0,1,en,CNA,North-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-04-06T05:11:00+00:00,Canada,0.7381506584314103,1,2,en,NEN,North-America
 '45dfc56491',extremes,Drought,#edc291,edo,Drought Bahamas,2026-04-01T05:12:00+00:00,Bahamas,0.7379682560481128,0,1,en,CAR,North-America
 '6a308addf9',extremes,Storm,#b3b2b1,wmo,Storm Taranaki and Wanganui,2026-04-12T05:12:00+00:00,New Zealand,0.7377661080554274,0,1,en,NZ,Oceania
@@ -208,7 +206,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ffcf460c48',extremes,Heat Wave,#c40202,acwe,heatwave Queensland,2026-05-04T05:50:00+00:00,Australia,0.7193841488222643,1,1,en,CAU,Oceania
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-04-26T05:25:00+00:00,United States,0.7193560156660881,1,3,en,CNA,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-04-06T05:11:00+00:00,Australia,0.7169916579784438,1,3,en,CAU,Oceania
-'42d371f2ef',extremes,Storm,#b3b2b1,wmo,Storm Surge Cartwright to Black Tickle,2026-03-27T04:57:00+00:00,Canada,0.7152356473446432,0,1,en,NEN,North-America
 '2c3316363e',extremes,Flood,#030ba1,wmo,Flashflood Monroe NY,2026-03-28T04:33:00+00:00,United States,0.7151470616592694,0,1,en,CNA,North-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-04-12T05:12:00+00:00,United States,0.7121874853939003,1,3,en,CNA,North-America
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,mild winter Western Australia,2026-05-04T05:50:00+00:00,Australia,0.7091792966183542,1,1,en,CAU,Oceania
@@ -218,14 +215,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '519c58c063',extremes,Flood,#030ba1,wmo,Flood India,2026-03-26T04:56:00+00:00,India,0.7046857045553749,1,2,en,SAS,Asia
 '3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2026-03-30T05:11:00+00:00,Saint Helena,0.7039494984544458,0,1,en,SAO,Atlantic Ocean
 'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2026-04-22T05:13:00+00:00,Fiji,0.6990288931970676,1,2,en,,
-'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,cold spell Australia,2026-03-30T05:12:00+00:00,Australia,0.6948681948419128,1,1,en,CAU,Oceania
-'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,cold weather Victoria,2026-03-30T05:12:00+00:00,Australia,0.6930373389513039,1,1,en,SAU,Oceania
 '1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Solomon Islands,2026-04-10T05:13:00+00:00,Solomon Islands,0.6898330286548595,1,1,en,EPO,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-05-05T05:29:00+00:00,Australia,0.6881599971939708,1,1,en,EAU,Oceania
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-04-30T05:46:00+00:00,United Kingdom,0.6778544585033206,1,2,en,NEU,Europe
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-04-26T05:25:00+00:00,Canada,0.6778318706858313,1,2,en,NEN,North-America
 '4844b80c63',extremes,Precipitation,#d60d2b,wmo,Rain Buller District,2026-05-08T05:16:00+00:00,New Zealand,0.6773559681068355,1,1,en,NZ,Oceania
 'b0e0775f7b',extremes,Flood,#030ba1,wmo,Flood Henry OH,2026-04-03T04:43:00+00:00,United States,0.676797422204047,1,1,en,CNA,North-America
+'52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-03-26T04:56:00+00:00,New Zealand,0.6761196354777513,1,2,en,NZ,Oceania
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-03-28T04:33:00+00:00,Australia,0.6737108938500029,1,2,en,CAU,Oceania
 '0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,Wildfire Clay counties Florida,2026-05-05T05:29:00+00:00,United States,0.6735624966041206,1,1,en,WNA,North-America
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-05-04T05:50:00+00:00,Australia,0.6723305576729577,1,1,en,SAU,Oceania
@@ -235,13 +231,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-04-08T05:01:00+00:00,Canada,0.6632622564664069,1,2,en,NEN,North-America
 '152914913d',extremes,Heat Wave,#c40202,acwe,heat wave Tasmania,2026-04-28T05:45:00+00:00,Australia,0.6625538726760843,1,1,en,SAU,Oceania
 '0646039361',extremes,Drought,#edc291,acwe,lack of rain Tasmania,2026-04-21T05:15:00+00:00,Australia,0.6621987135794437,1,1,en,SAU,Oceania
-'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave New South Wales,2026-03-31T05:00:00+00:00,Australia,0.661864249782589,1,1,en,EAU,Oceania
-'79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,icy temperatures South Australia,2026-03-31T05:00:00+00:00,Australia,0.660892589181705,1,1,en,SAU,Oceania
 'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,cold weather Australia,2026-03-31T05:00:00+00:00,Australia,0.6607038265813845,1,2,en,CAU,Oceania
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,Severe Weather Canada,2026-04-14T05:11:00+00:00,Canada,0.6605270963375682,1,2,en,NEN,North-America
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-04-29T05:41:00+00:00,Australia,0.6602262508369682,1,1,en,SAU,Oceania
 'a28c8ef428',extremes,Storm,#b3b2b1,wmo,Storm United Kingdom,2026-04-03T04:43:00+00:00,United Kingdom,0.6601261446694477,1,2,en,NEU,Europe
-'75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,cold spell Northern Territory,2026-03-31T05:00:00+00:00,Australia,0.6599866824771412,1,1,en,NAU,Oceania
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-05-06T05:43:00+00:00,Australia,0.6598164202060374,1,1,en,EAU,Oceania
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,Tornado Murray River Townships Victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.6597090696836744,1,1,en,SAU,Oceania
 '60cdf9fb44',extremes,Heat Wave,#c40202,wmo,Heat Wave India,2026-04-24T05:22:00+00:00,India,0.6591222907235672,1,2,en,SAS,Asia
@@ -250,7 +243,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,flash flood Tasmania,2026-05-05T05:29:00+00:00,Australia,0.657159757352091,1,1,en,SAU,Oceania
 'f6774fb5b2',extremes,Drought,#edc291,acwe,lack of rain Victoria,2026-05-04T05:50:00+00:00,Australia,0.6563572144841675,1,1,en,SAU,Oceania
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-04-12T05:12:00+00:00,Canada,0.6562652606576794,1,2,en,NEN,North-America
-'136998b302',extremes,Cold Wave,#a7e9fa,acwe,cold weather Queensland,2026-03-31T05:00:00+00:00,Australia,0.6544765220337837,1,1,en,CAU,Oceania
 '4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2026-04-02T04:42:00+00:00,India,0.6542195019140786,1,2,en,SAS,Asia
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-04-03T04:43:00+00:00,Canada,0.6541108946302037,1,2,en,NEN,North-America
 '111942eccf',extremes,Storm,#b3b2b1,wmo,Storm Auckland,2026-04-10T05:13:00+00:00,New Zealand,0.6537773892040082,1,2,en,NZ,Oceania
@@ -290,7 +282,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,Storm Surge Taranaki,2026-05-07T05:46:00+00:00,New Zealand,0.6376489885456313,1,1,en,NZ,Oceania
 '3d0fc9cdaf',extremes,Storm,#b3b2b1,wmo,Storm Renbel Makira Temotu waters .,2026-05-08T05:16:00+00:00,Solomon Islands,0.6374371899192377,1,1,en,EPO,Oceania
 '2e88ab8e95',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Western Isabel and Choiseul,2026-04-09T04:58:00+00:00,Solomon Islands,0.6373849096384395,1,1,en,EPO,Oceania
-'56b0f39c90',extremes,Storm,#b3b2b1,wmo,Storm Surge Yakutat Bay,2026-03-31T04:59:00+00:00,United States,0.6370737077249585,1,1,en,CNA,North-America
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,Rain Seychelles,2026-05-07T05:46:00+00:00,Seychelles,0.6369035731991031,1,1,en,EIO,Africa
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-04-15T05:12:00+00:00,New Zealand,0.6368905800505482,1,2,en,NZ,Oceania
 '0a84ababc1',extremes,Snow&Ice,#d60d2b,wmo,Ice Nakina Aroland Pagwa,2026-04-08T05:01:00+00:00,Canada,0.6368612255674713,1,1,en,NEN,North-America
@@ -412,6 +403,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b38b71a6df',extremes,Flood,#030ba1,wmo,Flashflood Poweshiek IA Tama IA,2026-04-07T04:59:00+00:00,United States,0.6279967097487531,1,1,en,CNA,North-America
 '5bff331a17',extremes,Flood,#030ba1,wmo,Flashflood Genesee MI,2026-04-06T05:11:00+00:00,United States,0.627943109493384,1,1,en,CNA,North-America
 '08d45746fe',extremes,Flood,#030ba1,wmo,Flashflood Hancock IL McDonough IL,2026-04-03T04:43:00+00:00,United States,0.6276743018395793,1,1,en,CNA,North-America
+'4f08e7e227',extremes,Flood,#030ba1,wmo,Flashflood George MS Greene MS,2026-05-07T05:46:00+00:00,United States,0.6276665769147266,1,1,en,CNA,North-America
 'bdeb0fe4a5',extremes,Flood,#030ba1,wmo,Flooding Wexford MI,2026-04-13T05:28:00+00:00,United States,0.6276286909335297,1,1,en,CNA,North-America
 'b904b77281',extremes,Storm,#b3b2b1,wmo,Storm Taranaki,2026-05-08T05:16:00+00:00,New Zealand,0.627592559142641,1,1,en,NZ,Oceania
 'a736f6d73e',extremes,Flood,#030ba1,wmo,Flood Racine WI,2026-04-05T05:01:00+00:00,United States,0.6275746102959576,1,1,en,CNA,North-America
