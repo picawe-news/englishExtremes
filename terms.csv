@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,Wildfire India,2026-04-03T04:43:00+00:00,India,0.7591698698206937,1,3,en,SAS,Asia
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,Storm Minnesota,2026-05-05T05:29:00+00:00,United States,0.757181974078496,1,3,en,WNA,North-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-04-14T05:11:00+00:00,Jamaica,0.7570988030659891,1,2,en,CAR,North-America
-'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-04-08T05:01:00+00:00,Canada,0.7565951829421846,0,1,en,NEN,North-America
 '2595e5c49a',extremes,Flood,#030ba1,acwe,high water level Australia,2026-05-04T05:50:00+00:00,Australia,0.755725205917805,1,3,en,CAU,Oceania
 '6d73764800',extremes,Earthquake,#870007,usgs,Earthquake Silver Springs,2026-04-14T05:10:00+00:00,United States,0.7557092891002513,1,2,en,WNA,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-04-09T04:58:00+00:00,United States,0.7537877280710596,1,3,en,CNA,North-America
@@ -72,7 +71,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ed5dc6a3c',extremes,Flood,#030ba1,wmo,Flood Gratiot MI,2026-04-05T05:01:00+00:00,United States,0.7313574293450549,0,1,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,storm Australia,2026-04-06T05:12:00+00:00,Australia,0.731108985721643,0,1,en,SAU,Oceania
 '7e9bc3f2b1',extremes,Flood,#030ba1,wmo,Flashflood Oswego Jefferson Lewis,2026-04-01T05:12:00+00:00,United States,0.7307142353142485,0,1,en,CNA,North-America
-'a3b2bd78bf',extremes,Flood,#030ba1,wmo,Flood Chatanika River Valley,2026-05-08T05:16:00+00:00,United States,0.7303854127176646,0,1,en,CNA,North-America
 '5e0c447e93',extremes,Flood,#030ba1,wmo,Flashflood Chelan WA,2026-04-30T05:46:00+00:00,United States,0.7302673662725315,0,1,en,CNA,North-America
 '2d5f8327ac',extremes,Flood,#030ba1,wmo,Flood Kittson MN,2026-04-15T05:12:00+00:00,United States,0.7302529037894033,0,1,en,CNA,North-America
 '53c6a76a0d',extremes,Flood,#030ba1,wmo,Flashflood La Crosse WI Trempealeau WI,2026-04-15T05:12:00+00:00,United States,0.7302197325045894,0,1,en,CNA,North-America
@@ -191,6 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-04-08T05:01:00+00:00,Canada,0.6632622564664069,1,2,en,NEN,North-America
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,Flood Tasmania June July 2016,2026-05-12T05:53:00+00:00,Australia,0.6625932527099816,1,1,en,SAU,Oceania
 '152914913d',extremes,Heat Wave,#c40202,acwe,heat wave Tasmania,2026-04-28T05:45:00+00:00,Australia,0.6625538726760843,1,1,en,SAU,Oceania
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-04-08T05:01:00+00:00,Canada,0.6622740595331149,1,2,en,NEN,North-America
 '0646039361',extremes,Drought,#edc291,acwe,lack of rain Tasmania,2026-04-21T05:15:00+00:00,Australia,0.6621987135794437,1,1,en,SAU,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-04-01T05:12:00+00:00,Canada,0.6609959990436501,1,2,en,NEN,North-America
 'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,cold weather Australia,2026-03-31T05:00:00+00:00,Australia,0.6607038265813845,1,2,en,CAU,Oceania
@@ -469,3 +468,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1b499f1d11',extremes,Flood,#030ba1,wmo,Flashflood Gasconade MO Montgomery MO,2026-04-29T05:40:00+00:00,United States,0.6208827710778559,1,1,en,CNA,North-America
 '08737d8c4b',extremes,Flood,#030ba1,wmo,Flooding Shawano WI Waupaca WI,2026-04-14T05:11:00+00:00,United States,0.6208544118442252,1,1,en,CNA,North-America
 '30b5e288fa',extremes,Flood,#030ba1,wmo,Flood Val Verde TX,2026-04-12T05:12:00+00:00,United States,0.6208310973206953,1,1,en,CNA,North-America
+'a3b2bd78bf',extremes,Flood,#030ba1,wmo,Flood Chatanika River Valley,2026-05-08T05:16:00+00:00,United States,0.6208276008100149,1,1,en,CNA,North-America
