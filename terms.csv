@@ -72,25 +72,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-04-07T04:58:00+00:00,United States,0.7323716954418114,1,3,en,ENA,North-America
 'd769050824',extremes,Flood,#030ba1,wmo,Flooding Pulaski IN,2026-04-07T04:59:00+00:00,United States,0.7323009640590314,0,1,en,CNA,North-America
 'e62ffa3524',extremes,Flood,#030ba1,wmo,Flood Noble IN,2026-04-10T05:13:00+00:00,United States,0.7321596043892739,1,2,en,CNA,North-America
-'58166aaa17',extremes,Flood,#030ba1,wmo,Flashflood Cuyahoga OH Summit OH,2026-04-02T04:42:00+00:00,United States,0.7315442094912499,0,1,en,CNA,North-America
-'2fe52c9c34',extremes,Flood,#030ba1,wmo,Flood Louisa IA Mercer IL,2026-04-21T05:15:00+00:00,United States,0.7314174887462247,0,1,en,CNA,North-America
 '6ed5dc6a3c',extremes,Flood,#030ba1,wmo,Flood Gratiot MI,2026-04-05T05:01:00+00:00,United States,0.7313574293450549,0,1,en,CNA,North-America
-'a3e561bc24',extremes,Flood,#030ba1,wmo,Flood Erie NY Wyoming NY,2026-04-01T05:12:00+00:00,United States,0.7311804248726508,0,1,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,storm Australia,2026-04-06T05:12:00+00:00,Australia,0.731108985721643,0,1,en,SAU,Oceania
-'025e01e73c',extremes,Flood,#030ba1,wmo,Flooding Brown WI Outagamie WI,2026-04-15T05:12:00+00:00,United States,0.7309913306476541,0,1,en,CNA,North-America
-'8aad3dab67',extremes,Flood,#030ba1,wmo,Flood Saginaw MI Tuscola MI,2026-04-07T04:59:00+00:00,United States,0.7309138780283488,0,1,en,CNA,North-America
-'5cf10ef4a1',extremes,Flood,#030ba1,wmo,Flood Cheboygan MI,2026-04-15T05:12:00+00:00,United States,0.7308967321239942,0,1,en,CNA,North-America
-'c73622041e',extremes,Flood,#030ba1,wmo,Flashflood Adams IL Marion MO,2026-04-28T05:45:00+00:00,United States,0.7308785597742062,0,1,en,CNA,North-America
-'8119b55ee1',extremes,Storm,#b3b2b1,wmo,Storm Surge Brown WI Outagamie WI,2026-03-31T04:59:00+00:00,United States,0.7307730826129045,0,1,en,CNA,North-America
 '7e9bc3f2b1',extremes,Flood,#030ba1,wmo,Flashflood Oswego Jefferson Lewis,2026-04-01T05:12:00+00:00,United States,0.7307142353142485,0,1,en,CNA,North-America
-'03c4bd98f6',extremes,Flood,#030ba1,wmo,Flashflood Fayette IL,2026-04-28T05:45:00+00:00,United States,0.7306914982128241,0,1,en,CNA,North-America
-'cb316cfd24',extremes,Flood,#030ba1,wmo,Flooding Alcona MI Oscoda MI,2026-04-13T05:28:00+00:00,United States,0.7306406350631391,0,1,en,CNA,North-America
-'fbc9f3fe89',extremes,Flood,#030ba1,wmo,Flashflood Louisa IA,2026-04-10T05:13:00+00:00,United States,0.7305797663942655,0,1,en,CNA,North-America
-'1335513c95',extremes,Flood,#030ba1,wmo,Flood Daviess IN Greene IN Knox IN,2026-04-30T05:46:00+00:00,United States,0.7305733698991793,0,1,en,CNA,North-America
-'9f73d9f36d',extremes,Flood,#030ba1,wmo,Flooding Pike IL Pike MO,2026-04-15T05:12:00+00:00,United States,0.7305359824848524,0,1,en,CNA,North-America
-'f321a6eca2',extremes,Flood,#030ba1,wmo,Flood Gibson IN Knox IN,2026-05-03T05:44:00+00:00,United States,0.7304951938510921,0,1,en,CNA,North-America
-'1b499f1d11',extremes,Flood,#030ba1,wmo,Flashflood Gasconade MO Montgomery MO,2026-04-29T05:40:00+00:00,United States,0.7304503189151247,0,1,en,CNA,North-America
-'08737d8c4b',extremes,Flood,#030ba1,wmo,Flooding Shawano WI Waupaca WI,2026-04-14T05:11:00+00:00,United States,0.7304169551108531,0,1,en,CNA,North-America
 '30b5e288fa',extremes,Flood,#030ba1,wmo,Flood Val Verde TX,2026-04-12T05:12:00+00:00,United States,0.7303895262596416,0,1,en,CNA,North-America
 'a3b2bd78bf',extremes,Flood,#030ba1,wmo,Flood Chatanika River Valley,2026-05-08T05:16:00+00:00,United States,0.7303854127176646,0,1,en,CNA,North-America
 '5e0c447e93',extremes,Flood,#030ba1,wmo,Flashflood Chelan WA,2026-04-30T05:46:00+00:00,United States,0.7302673662725315,0,1,en,CNA,North-America
@@ -477,7 +461,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad29dda84e',extremes,Flood,#030ba1,wmo,Flashflood Vernon MO,2026-04-19T05:16:00+00:00,United States,0.6218475968783818,1,1,en,CNA,North-America
 '4d0f30500e',extremes,Flood,#030ba1,wmo,Flood Winnebago IL Rock WI,2026-04-29T05:40:00+00:00,United States,0.6217573358187947,1,1,en,CNA,North-America
 'ccdf0565fd',extremes,Flood,#030ba1,wmo,Flood Lower Koyukuk Valley,2026-05-12T05:52:00+00:00,United States,0.621739856590899,1,1,en,CNA,North-America
+'2fe52c9c34',extremes,Flood,#030ba1,wmo,Flood Louisa IA Mercer IL,2026-04-21T05:15:00+00:00,United States,0.6217048654342909,1,1,en,CNA,North-America
 '311e54f52c',extremes,Flood,#030ba1,wmo,Flooding Benton IA Iowa IA,2026-04-07T04:59:00+00:00,United States,0.6215502603956198,1,1,en,CNA,North-America
 'e283e0bafd',extremes,Flood,#030ba1,wmo,Flashflood Cass MO Henry MO Johnson MO,2026-04-15T05:12:00+00:00,United States,0.6215060663465414,1,1,en,CNA,North-America
 '881b2c67bc',extremes,Wildfire,#d60d2b,wmo,Wildfire Corson Dewey,2026-05-14T06:02:00+00:00,United States,0.6214582905044591,1,1,en,CNA,North-America
 '425b8664f8',extremes,Flood,#030ba1,wmo,Flashflood Baraga MI Houghton MI,2026-04-19T05:16:00+00:00,United States,0.6214354369364018,1,1,en,CNA,North-America
+'025e01e73c',extremes,Flood,#030ba1,wmo,Flooding Brown WI Outagamie WI,2026-04-15T05:12:00+00:00,United States,0.6213426310505059,1,1,en,CNA,North-America
+'8aad3dab67',extremes,Flood,#030ba1,wmo,Flood Saginaw MI Tuscola MI,2026-04-07T04:59:00+00:00,United States,0.6212767963240965,1,1,en,CNA,North-America
+'5cf10ef4a1',extremes,Flood,#030ba1,wmo,Flood Cheboygan MI,2026-04-15T05:12:00+00:00,United States,0.6212622223053951,1,1,en,CNA,North-America
+'c73622041e',extremes,Flood,#030ba1,wmo,Flashflood Adams IL Marion MO,2026-04-28T05:45:00+00:00,United States,0.6212467758080753,1,1,en,CNA,North-America
+'03c4bd98f6',extremes,Flood,#030ba1,wmo,Flashflood Fayette IL,2026-04-28T05:45:00+00:00,United States,0.6210877734809005,1,1,en,CNA,North-America
+'cb316cfd24',extremes,Flood,#030ba1,wmo,Flooding Alcona MI Oscoda MI,2026-04-13T05:28:00+00:00,United States,0.6210445398036682,1,1,en,CNA,North-America
+'fbc9f3fe89',extremes,Flood,#030ba1,wmo,Flashflood Louisa IA,2026-04-10T05:13:00+00:00,United States,0.6209928014351256,1,1,en,CNA,North-America
+'1335513c95',extremes,Flood,#030ba1,wmo,Flood Daviess IN Greene IN Knox IN,2026-04-30T05:46:00+00:00,United States,0.6209873644143024,1,1,en,CNA,North-America
+'9f73d9f36d',extremes,Flood,#030ba1,wmo,Flooding Pike IL Pike MO,2026-04-15T05:12:00+00:00,United States,0.6209555851121246,1,1,en,CNA,North-America
+'f321a6eca2',extremes,Flood,#030ba1,wmo,Flood Gibson IN Knox IN,2026-05-03T05:44:00+00:00,United States,0.6209209147734283,1,1,en,CNA,North-America
+'1b499f1d11',extremes,Flood,#030ba1,wmo,Flashflood Gasconade MO Montgomery MO,2026-04-29T05:40:00+00:00,United States,0.6208827710778559,1,1,en,CNA,North-America
+'08737d8c4b',extremes,Flood,#030ba1,wmo,Flooding Shawano WI Waupaca WI,2026-04-14T05:11:00+00:00,United States,0.6208544118442252,1,1,en,CNA,North-America
