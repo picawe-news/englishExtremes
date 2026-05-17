@@ -26,6 +26,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-04-14T05:11:00+00:00,Jamaica,0.7570988030659891,1,2,en,CAR,North-America
 '2595e5c49a',extremes,Flood,#030ba1,acwe,high water level Australia,2026-05-04T05:50:00+00:00,Australia,0.755725205917805,1,3,en,CAU,Oceania
 '6d73764800',extremes,Earthquake,#870007,usgs,Earthquake Silver Springs,2026-04-14T05:10:00+00:00,United States,0.7557092891002513,1,2,en,WNA,North-America
+'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Puvirnituq Inukjuak,2026-05-17T06:01:00+00:00,Canada,0.7548432571069744,0,1,en,NEN,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-04-09T04:58:00+00:00,United States,0.7537877280710596,1,3,en,CNA,North-America
 '563b781620',extremes,Thunderstorm,#53785a,wmo,Severe Weather Nigeria,2026-05-08T05:16:00+00:00,Nigeria,0.7533794973345932,1,2,en,WAF,Africa
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,bushfire Tasmania,2026-04-29T05:41:00+00:00,Australia,0.7527729913925136,1,2,en,SAU,Oceania
@@ -36,6 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-05-04T05:50:00+00:00,Australia,0.7488290510507857,1,2,en,CAU,Oceania
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-05-01T05:54:00+00:00,United States,0.748506733443909,1,3,en,CNA,North-America
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-04-20T05:27:00+00:00,New Zealand,0.7483626118305385,1,2,en,NZ,Oceania
+'7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-05-17T06:01:00+00:00,Jamaica,0.7460473726340896,0,1,en,CAR,North-America
 '5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,Frost United Kingdom,2026-04-04T04:30:00+00:00,United Kingdom,0.7456105251841023,1,2,en,NEU,Europe
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-04-09T04:58:00+00:00,Canada,0.7455457720629541,1,3,en,NEN,North-America
 '1428632393',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Rota Tinian Saipan,2026-04-15T05:12:00+00:00,United States,0.7447790623016222,0,1,en,CNA,North-America
@@ -45,6 +47,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c8ab498e2',extremes,Precipitation,#d60d2b,wmo,Rain ALL provinces,2026-04-02T04:42:00+00:00,Solomon Islands,0.7432452353861352,0,1,en,EPO,Oceania
 '331c67a68a',extremes,Precipitation,#d60d2b,wmo,Precipitation Northland,2026-04-07T04:59:00+00:00,New Zealand,0.7425154123307537,0,1,en,NZ,Oceania
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-04-15T05:12:00+00:00,United States,0.7422909151536463,0,1,en,CNA,North-America
+'b0a627b1e6',extremes,Earthquake,#870007,usgs,Earthquake Antigua and Barbuda,2026-05-17T06:01:00+00:00,Antigua and Barbuda,0.7422539489546427,0,1,en,NAO,Atlantic Ocean
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,cold weather South Australia,2026-03-30T05:12:00+00:00,Australia,0.7413158738729985,1,2,en,CAU,Oceania
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-04-06T05:11:00+00:00,United States,0.7411196682993436,0,1,en,CNA,North-America
 'e3fd3edd10',extremes,Flood,#030ba1,wmo,Flood Parke IN Vermillion IN Vigo IN,2026-04-03T04:43:00+00:00,United States,0.7395597461504901,0,1,en,CNA,North-America
@@ -59,9 +62,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bbbb034cd',extremes,Wildfire,#d60d2b,wmo,Wildfire Greeley Wichita,2026-04-12T05:12:00+00:00,United States,0.736510730152213,0,1,en,CNA,North-America
 '45243db777',extremes,Flood,#030ba1,wmo,Flood Coshocton OH,2026-04-09T04:58:00+00:00,United States,0.7365038074312801,0,1,en,CNA,North-America
 '03d2f3becb',extremes,Flood,#030ba1,wmo,Flood Iron MI,2026-04-10T05:13:00+00:00,United States,0.7363637918930047,0,1,en,CNA,North-America
+'1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-05-16T05:40:00+00:00,United States,0.7356327167189928,0,1,en,CNA,North-America
+'778d256165',extremes,Flood,#030ba1,wmo,Flashflood India,2026-05-17T06:01:00+00:00,India,0.7356041287779154,0,1,en,SAS,Asia
 '91377cc2a9',extremes,Drought,#edc291,acwe,drought South Australia,2026-03-31T05:00:00+00:00,Australia,0.7344864932216293,1,2,en,SAU,Oceania
 '7be8c4dc8a',extremes,Flood,#030ba1,wmo,Flood Lake IL Kenosha WI,2026-04-06T05:11:00+00:00,United States,0.733497379090908,0,1,en,CNA,North-America
 'd865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-04-09T04:58:00+00:00,Australia,0.7333467416203885,0,1,en,NAU,Oceania
+'4081260650',extremes,Flood,#030ba1,wmo,Flooding Lafayette LA Vermilion LA,2026-05-17T06:01:00+00:00,United States,0.732783346170498,0,1,en,CNA,North-America
 '4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Solomon Islands,2026-04-05T05:01:00+00:00,Solomon Islands,0.7326701240400482,1,2,en,EPO,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-04-07T04:58:00+00:00,United States,0.7323716954418114,1,3,en,ENA,North-America
 'd769050824',extremes,Flood,#030ba1,wmo,Flooding Pulaski IN,2026-04-07T04:59:00+00:00,United States,0.7323009640590314,0,1,en,CNA,North-America
