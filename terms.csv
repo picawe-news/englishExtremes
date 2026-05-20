@@ -35,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-05-04T05:50:00+00:00,Australia,0.7488290510507857,1,2,en,CAU,Oceania
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-05-01T05:54:00+00:00,United States,0.748506733443909,1,3,en,CNA,North-America
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-04-20T05:27:00+00:00,New Zealand,0.7483626118305385,1,2,en,NZ,Oceania
-'95b5264574',extremes,Heat Wave,#c40202,wmo,Heat Wave Canada,2026-05-18T06:38:00+00:00,Canada,0.747524958323083,0,1,en,NEN,North-America
 '5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,Frost United Kingdom,2026-04-04T04:30:00+00:00,United Kingdom,0.7456105251841023,1,2,en,NEU,Europe
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-04-09T04:58:00+00:00,Canada,0.7455457720629541,1,3,en,NEN,North-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-05-10T05:51:00+00:00,Canada,0.7455447293894442,0,1,en,NEN,North-America
@@ -192,6 +191,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '111942eccf',extremes,Storm,#b3b2b1,wmo,Storm Auckland,2026-04-10T05:13:00+00:00,New Zealand,0.6537773892040082,1,2,en,NZ,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,Flood Hobart flash flooding Tasmania 2018,2026-04-18T04:57:00+00:00,Australia,0.6519296680173287,1,1,en,SAU,Oceania
 '37d08d7316',extremes,Precipitation,#d60d2b,acwe,wet spell South Australia,2026-04-12T05:12:00+00:00,Australia,0.6516392298904651,1,1,en,SAU,Oceania
+'95b5264574',extremes,Heat Wave,#c40202,wmo,Heat Wave Canada,2026-05-18T06:38:00+00:00,Canada,0.6495718295746205,1,2,en,NEN,North-America
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,warm spell South Australia,2026-05-05T05:29:00+00:00,Australia,0.6481274554745633,1,1,en,SAU,Oceania
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-05-06T05:43:00+00:00,New Zealand,0.6475295720248931,1,1,en,NZ,Oceania
 'b2edd21efd',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Westland District,2026-05-06T05:43:00+00:00,New Zealand,0.6457095400484223,1,1,en,NZ,Oceania
