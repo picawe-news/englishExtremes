@@ -2,11 +2,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,Unknown Orlando,2026-04-17T05:16:00+00:00,United States,0.8222598910953549,1,3,en,ENA,North-America
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2026-05-04T05:50:00+00:00,Australia,0.8221288648815738,1,2,en,EAU,Oceania
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,wet spell Western Australia,2026-05-04T05:50:00+00:00,Australia,0.8192637791876283,1,2,en,CAU,Oceania
+'1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-05-16T05:40:00+00:00,United States,0.8086819222385631,2,3,en,CNA,North-America
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,Unknown United States,2026-04-19T05:17:00+00:00,United States,0.8062146784381002,1,3,en,ENA,North-America
 'b9e7537e34',extremes,Snow&Ice,#d60d2b,wmo,Ice Dempster,2026-04-12T05:12:00+00:00,Canada,0.7824150951171311,1,2,en,NEN,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-04-06T05:11:00+00:00,United States,0.7801648661406573,1,3,en,CNA,North-America
 'ae304a8e0c',extremes,Storm,#b3b2b1,wmo,Storm The Chatham Islands,2026-04-11T04:34:00+00:00,New Zealand,0.7799566591871354,1,2,en,NZ,Oceania
-'1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-05-16T05:40:00+00:00,United States,0.7797895192111438,1,3,en,CNA,North-America
 'd85a303050',extremes,Flood,#030ba1,wmo,Flood Cass MO Henry MO Johnson MO,2026-04-02T04:42:00+00:00,United States,0.7795865994044338,1,2,en,CNA,North-America
 '014cc5ada0',extremes,Fog,#d60d2b,wmo,Fog Delta,2026-05-19T06:33:00+00:00,United States,0.776940290890529,1,2,en,CNA,North-America
 '6810a2a47a',extremes,Flood,#030ba1,wmo,Flood Kent MI,2026-04-06T05:11:00+00:00,United States,0.7768681940505244,1,2,en,CNA,North-America
@@ -49,7 +49,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '450b6181bf',extremes,Flood,#030ba1,wmo,Flood Tangipahoa LA,2026-05-01T05:54:00+00:00,United States,0.7289364267063491,0,1,en,CNA,North-America
 '6fc80610c3',extremes,Flood,#030ba1,wmo,Flood Jefferson MO St. Louis MO,2026-04-28T05:45:00+00:00,United States,0.728936400622607,0,1,en,CNA,North-America
 '0f3c8da430',extremes,Flood,#030ba1,wmo,Flood Henry IL Rock Island IL,2026-04-07T04:59:00+00:00,United States,0.7289185346795445,0,1,en,CNA,North-America
-'fb2e52d1fa',extremes,Flood,#030ba1,wmo,Flashflood Lawrence IN Martin IN,2026-04-30T05:46:00+00:00,United States,0.7287537385664239,0,1,en,CNA,North-America
 '8f23bbe775',extremes,Flood,#030ba1,wmo,Flooding Runnels TX Taylor TX,2026-04-12T05:12:00+00:00,United States,0.7287461525302573,0,1,en,CNA,North-America
 '8658774dc9',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Lincoln MO,2026-04-14T05:11:00+00:00,United States,0.7285807493966036,0,1,en,CNA,North-America
 'cefc732161',extremes,Flood,#030ba1,wmo,Flooding Rock WI,2026-04-21T05:15:00+00:00,United States,0.7285488208494006,0,1,en,CNA,North-America
@@ -429,3 +428,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b02953adc6',extremes,Flood,#030ba1,wmo,Flood Winnebago WI,2026-04-23T05:16:00+00:00,United States,0.6198679284664396,1,1,en,CNA,North-America
 '516cca4753',extremes,Storm,#b3b2b1,wmo,Storm Surge Canterbury High Country,2026-04-17T05:16:00+00:00,New Zealand,0.619844451694787,1,1,en,NZ,Oceania
 '62ed767f26',extremes,Flood,#030ba1,wmo,Flooding Dodge WI,2026-04-15T05:12:00+00:00,United States,0.6197911132408829,1,1,en,CNA,North-America
+'fb2e52d1fa',extremes,Flood,#030ba1,wmo,Flashflood Lawrence IN Martin IN,2026-04-30T05:46:00+00:00,United States,0.6194406777814603,1,1,en,CNA,North-America
