@@ -42,7 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-04-08T05:01:00+00:00,Australia,0.7306494628130521,1,3,en,EAU,Oceania
 'd85a303050',extremes,Flood,#030ba1,wmo,Flood Cass MO Henry MO Johnson MO,2026-05-20T06:33:00+00:00,United States,0.7300619900519194,0,1,en,CNA,North-America
 '02ef1fed03',extremes,Flood,#030ba1,wmo,Flooding Cass MO Henry MO Johnson MO,2026-05-21T06:35:00+00:00,United States,0.7299717277698118,0,1,en,CNA,North-America
-'eb9b3771a0',extremes,Flood,#030ba1,wmo,Flooding Callaway MO Osage MO,2026-05-20T06:33:00+00:00,United States,0.729545761819505,0,1,en,CNA,North-America
+'eb9b3771a0',extremes,Flood,#030ba1,wmo,Flooding Callaway MO Osage MO,2026-05-20T06:33:00+00:00,United States,0.729545761819505,1,1,en,CNA,North-America
 '7ffad62dbd',extremes,Flood,#030ba1,wmo,Flashflood St. Clair MO Vernon MO,2026-05-20T06:33:00+00:00,United States,0.7289416474217204,0,1,en,CNA,North-America
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-05-20T06:33:00+00:00,India,0.7289375298853425,1,3,en,SAS,Asia
 '450b6181bf',extremes,Flood,#030ba1,wmo,Flood Tangipahoa LA,2026-05-01T05:54:00+00:00,United States,0.7289364267063491,0,1,en,CNA,North-America
