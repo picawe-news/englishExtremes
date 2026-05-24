@@ -65,6 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2749394a54',extremes,Snow&Ice,#d60d2b,wmo,Ice Peawanuck,2026-04-16T05:17:00+00:00,Canada,0.7279348807786228,0,1,en,NEN,North-America
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-04-24T05:22:00+00:00,India,0.7277726335325087,0,1,en,SAS,Asia
 '7005f7903c',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Marion MO,2026-04-13T05:28:00+00:00,United States,0.727739309545776,0,1,en,CNA,North-America
+'a679a52e44',extremes,Drought,#edc291,edo,Lack of Rain Bermuda,2026-05-23T05:53:00+00:00,Bermuda,0.7276808581996062,0,1,en,NAO,Atlantic Ocean
 '0f2e2a1043',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Greene IL Jersey IL,2026-04-21T05:15:00+00:00,United States,0.7275968714049262,0,1,en,CNA,North-America
 '8627a826e3',extremes,Flood,#030ba1,wmo,Flashflood Madison IL St. Charles MO,2026-04-30T05:46:00+00:00,United States,0.7275482109364441,0,1,en,CNA,North-America
 'b5933e6b89',extremes,Flood,#030ba1,wmo,Flooding St. Helena LA,2026-05-10T05:51:00+00:00,United States,0.7275282166063548,0,1,en,CNA,North-America
@@ -89,13 +90,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f79725f60',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Scott IL,2026-05-04T05:50:00+00:00,United States,0.726322338081941,0,1,en,CNA,North-America
 'd0fa0ccdfc',extremes,Flood,#030ba1,wmo,Flooding Jasper MO Newton MO,2026-04-27T05:40:00+00:00,United States,0.7262876255582937,0,1,en,CNA,North-America
 '1fdbedffc8',extremes,Flood,#030ba1,wmo,Flood Jefferson WI Rock WI,2026-04-19T05:16:00+00:00,United States,0.7262323001640342,0,1,en,CNA,North-America
+'f8475bb3fa',extremes,Flood,#030ba1,wmo,Flooding Leavenworth KS,2026-05-19T06:33:00+00:00,United States,0.7262320513924151,0,1,en,CNA,North-America
 '463ebb9eba',extremes,Flood,#030ba1,wmo,Flooding Iron MI,2026-04-15T05:12:00+00:00,United States,0.7261676424475988,0,1,en,CNA,North-America
 'd46c388af4',extremes,Tropical Cyclone,#4f4f4f,aidr,Tropical Cyclone Debbie Queensland 2017,2026-04-16T05:17:00+00:00,Australia,0.7261266184434371,0,1,en,EAU,Oceania
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-04-26T05:25:00+00:00,United States,0.726112995981042,0,1,en,CNA,North-America
 'ac7283c88a',extremes,Flood,#030ba1,wmo,Flood Dodge WI,2026-04-22T05:13:00+00:00,United States,0.7260940212985276,0,1,en,CNA,North-America
 '5cbf8c478c',extremes,Flood,#030ba1,wmo,Flashflood Cooper MO,2026-04-28T05:45:00+00:00,United States,0.7260584481442443,0,1,en,CNA,North-America
 'ac36216098',extremes,Flood,#030ba1,wmo,Flooding Jefferson WI,2026-04-20T05:27:00+00:00,United States,0.7259798479838444,0,1,en,CNA,North-America
+'c929fcba1d',extremes,Flood,#030ba1,wmo,Flood New South Wales Wilsons River,2026-05-19T06:33:00+00:00,Australia,0.7258290043914897,0,1,en,CAU,Oceania
 '2a3f72439d',extremes,Flood,#030ba1,wmo,Flood Le Flore OK,2026-04-27T05:40:00+00:00,United States,0.7258265261799709,0,1,en,CNA,North-America
+'8afffcd7b9',extremes,Flood,#030ba1,wmo,Flood Andrew MO Buchanan MO,2026-05-21T06:35:00+00:00,United States,0.7257877728279308,0,1,en,CNA,North-America
+'91625be411',extremes,Flood,#030ba1,wmo,Flooding Queensland Nerang River,2026-05-19T06:33:00+00:00,Australia,0.7257680705455064,0,1,en,CAU,Oceania
+'ef2b95227e',extremes,Flood,#030ba1,wmo,Flood Lower Yukon River,2026-05-19T06:33:00+00:00,United States,0.7256148735667898,0,1,en,CNA,North-America
 '41301505f1',extremes,Flood,#030ba1,wmo,Flooding Clay IL Richland IL,2026-05-01T05:54:00+00:00,United States,0.725612027309522,0,1,en,CNA,North-America
 '48e954fa55',extremes,Flood,#030ba1,wmo,Flood Ashland WI Iron WI,2026-04-14T05:11:00+00:00,United States,0.7256040973248055,0,1,en,CNA,North-America
 '573cf68f29',extremes,Flood,#030ba1,wmo,Flood Clarke AL Washington AL,2026-05-02T05:24:00+00:00,United States,0.7255173424750053,0,1,en,CNA,North-America
