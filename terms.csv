@@ -116,8 +116,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '219a64f7b3',extremes,Flood,#030ba1,wmo,Flashflood Interior Kuskokwim Delta,2026-05-13T06:03:00+00:00,United States,0.722316191263874,0,1,en,CNA,North-America
 'bf242fe474',extremes,Drought,#edc291,edo,Drought Zambia,2026-05-01T05:54:00+00:00,Zambia,0.7222828231428489,0,1,en,ESAF,Africa
 '04b303e5e5',extremes,Flood,#030ba1,wmo,Flooding Flathead MT,2026-05-07T05:46:00+00:00,United States,0.7221740517739604,0,1,en,CNA,North-America
+'26fee806c3',extremes,Precipitation,#d60d2b,wmo,Downpour India,2026-05-11T06:14:00+00:00,India,0.7220671904609866,0,1,en,SAS,Asia
+'224d9a7e9e',extremes,Flood,#030ba1,wmo,Flashflood Kuskokwim Valley West,2026-05-08T05:16:00+00:00,United States,0.7219780571063178,0,1,en,CNA,North-America
 '9865ee96b6',extremes,Thunderstorm,#53785a,wmo,Hail Middle and Transition,2026-04-08T05:01:00+00:00,Ghana,0.7218282496562457,1,2,en,WAF,Africa
+'0b5720b08c',extremes,Flood,#030ba1,wmo,Flood Kuskokwim Valley West,2026-05-10T05:51:00+00:00,United States,0.7218003744376721,0,1,en,CNA,North-America
+'42be292046',extremes,Flood,#030ba1,wmo,Flooding Central Interior,2026-05-07T05:46:00+00:00,United States,0.7215545850233593,0,1,en,CNA,North-America
+'ae2479763f',extremes,Flood,#030ba1,wmo,Flood Calcasieu LA,2026-05-24T06:22:00+00:00,United States,0.7214318380158657,0,1,en,CNA,North-America
 '519c58c063',extremes,Flood,#030ba1,wmo,Flood India,2026-05-19T06:33:00+00:00,India,0.7213948501366512,1,3,en,SAS,Asia
+'10b4e59648',extremes,Snow&Ice,#d60d2b,wmo,Freezing East Glacier Park Region,2026-05-14T06:02:00+00:00,United States,0.7209533033833486,0,1,en,CNA,North-America
 'ffcf460c48',extremes,Heat Wave,#c40202,acwe,heatwave Queensland,2026-05-04T05:50:00+00:00,Australia,0.7193841488222643,1,1,en,CAU,Oceania
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-04-26T05:25:00+00:00,United States,0.7193560156660881,1,3,en,CNA,North-America
 'd2793b8bae',extremes,Drought,#edc291,edo,Drought South Sudan,2026-05-16T05:40:00+00:00,South Sudan,0.7180834865881267,1,2,en,NEAF,Africa
