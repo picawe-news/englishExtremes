@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fc80610c3',extremes,Flood,#030ba1,wmo,Flood Jefferson MO St. Louis MO,2026-04-28T05:45:00+00:00,United States,0.769745955529216,1,2,en,CNA,North-America
 'a679a52e44',extremes,Drought,#edc291,edo,Lack of Rain Bermuda,2026-05-23T05:53:00+00:00,Bermuda,0.7686787444696652,1,2,en,NAO,Atlantic Ocean
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-04-07T04:59:00+00:00,United States,0.7614408145753137,1,3,en,CNA,North-America
-'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,Wildfire India,2026-04-03T04:43:00+00:00,India,0.7591698698206937,1,3,en,SAS,Asia
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-04-14T05:11:00+00:00,Jamaica,0.7570988030659891,1,2,en,CAR,North-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-05-28T06:38:00+00:00,Canada,0.7557582000859956,0,1,en,NEN,North-America
 '2595e5c49a',extremes,Flood,#030ba1,acwe,high water level Australia,2026-05-04T05:50:00+00:00,Australia,0.755725205917805,1,3,en,CAU,Oceania
@@ -26,12 +25,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-05-01T05:54:00+00:00,United States,0.748506733443909,1,3,en,CNA,North-America
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-04-20T05:27:00+00:00,New Zealand,0.7483626118305385,1,2,en,NZ,Oceania
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-04-09T04:58:00+00:00,Canada,0.7455457720629541,1,3,en,NEN,North-America
-'d865632948',extremes,Tropical Cyclone,#4f4f4f,aidr,tropical cyclone Australia,2026-04-09T04:58:00+00:00,Australia,0.7427116670439968,1,2,en,NAU,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-05-06T05:43:00+00:00,New Zealand,0.7371307509172219,1,2,en,NZ,Oceania
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-04-06T05:11:00+00:00,United States,0.7349205430544421,1,3,en,CNA,North-America
-'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-05-27T06:46:00+00:00,Australia,0.7346069087930163,0,1,en,CAU,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-04-07T04:58:00+00:00,United States,0.7323716954418114,1,3,en,ENA,North-America
 'e62ffa3524',extremes,Flood,#030ba1,wmo,Flood Noble IN,2026-04-10T05:13:00+00:00,United States,0.7321596043892739,1,2,en,CNA,North-America
@@ -131,6 +128,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '49ff6b7cfb',extremes,Wildfire,#d60d2b,wmo,Wildfire West Central Basin and Range,2026-05-17T06:01:00+00:00,United States,0.6944742149232829,1,2,en,CNA,North-America
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-05-03T05:43:00+00:00,New Zealand,0.692628684704564,1,2,en,NZ,Oceania
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-05-20T06:33:00+00:00,India,0.6900238654025411,2,3,en,SAS,Asia
+'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-05-27T06:46:00+00:00,Australia,0.6897516917597781,1,1,en,CAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-05-05T05:29:00+00:00,Australia,0.6881599971939708,1,1,en,EAU,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,warm spell Australia,2026-05-04T05:50:00+00:00,Australia,0.6853763281005334,2,1,en,CAU,Oceania
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-04-28T05:45:00+00:00,Australia,0.6848651096054139,1,2,en,CAU,Oceania
@@ -150,7 +148,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d59b1d751',extremes,Flood,#030ba1,acwe,flash flood South Australia,2026-05-04T05:50:00+00:00,Australia,0.6721454018070929,1,1,en,CAU,Oceania
 'd0ad361cd5',extremes,Precipitation,#d60d2b,acwe,wet spell Victoria,2026-05-04T05:50:00+00:00,Australia,0.6720103205425828,1,1,en,SAU,Oceania
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-05-02T05:24:00+00:00,United States,0.6703930106604696,1,2,en,CNA,North-America
-'3915f79390',extremes,Wildfire,#d60d2b,wmo,Wildfire Delhi,2026-04-17T05:16:00+00:00,India,0.6691985380752539,1,1,en,SAS,Asia
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-05-19T06:33:00+00:00,Canada,0.6666457015955162,1,2,en,NEN,North-America
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,Flood Tasmania June July 2016,2026-05-12T05:53:00+00:00,Australia,0.6625932527099816,1,1,en,SAU,Oceania
 '152914913d',extremes,Heat Wave,#c40202,acwe,heat wave Tasmania,2026-04-28T05:45:00+00:00,Australia,0.6625538726760843,1,1,en,SAU,Oceania
@@ -186,12 +183,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'efe90d3d29',extremes,Snow&Ice,#d60d2b,wmo,Frost Gatineau,2026-05-08T05:16:00+00:00,Canada,0.6404845168412129,1,1,en,NEN,North-America
 'e6e3ef6e92',extremes,Storm,#b3b2b1,wmo,Storm Surge Nigeria,2026-05-24T06:22:00+00:00,Nigeria,0.6403006209056539,1,1,en,WAF,Africa
 '02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2026-05-17T06:01:00+00:00,Australia,0.6401480401534898,1,2,en,EAU,Oceania
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-04-11T04:34:00+00:00,United States,0.6398599872458537,1,2,en,CNA,North-America
 'b977149cad',extremes,Storm,#b3b2b1,wmo,Storm Fiordland north of Doubtful Sound,2026-05-07T05:46:00+00:00,New Zealand,0.6387416760494801,1,1,en,NZ,Oceania
 'af081911d9',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Wellington excluding Porirua,2026-04-20T05:27:00+00:00,New Zealand,0.6387003623756167,1,1,en,NZ,Oceania
 'd8a981c851',extremes,Earthquake,#870007,usgs,Earthquake Lorengau,2026-05-02T05:23:00+00:00,Papua New Guinea,0.638690291354135,1,1,en,EPO,Pacific Ocean
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-05-07T05:46:00+00:00,New Zealand,0.6385108289513967,1,1,en,NZ,Oceania
-'4fe34cb23e',extremes,Precipitation,#d60d2b,wmo,Downpour Ranges of the Westland District,2026-04-17T05:16:00+00:00,New Zealand,0.6379145030358204,1,1,en,NZ,Oceania
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,Storm Surge Taranaki,2026-05-07T05:46:00+00:00,New Zealand,0.6376489885456313,1,1,en,NZ,Oceania
 '3d0fc9cdaf',extremes,Storm,#b3b2b1,wmo,Storm Renbel Makira Temotu waters .,2026-05-08T05:16:00+00:00,Solomon Islands,0.6374371899192377,1,1,en,EPO,Oceania
 'b9576a4c93',extremes,Storm,#b3b2b1,wmo,Storm Surge Trinidad and Tobago,2026-05-18T06:38:00+00:00,Trinidad and Tobago,0.6372813832225798,1,1,en,NSA,North-America
