@@ -33,12 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-04-07T04:58:00+00:00,United States,0.7323716954418114,1,3,en,ENA,North-America
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-04-08T05:01:00+00:00,Australia,0.7306494628130521,1,3,en,EAU,Oceania
-'8f79725f60',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Scott IL,2026-05-04T05:50:00+00:00,United States,0.726322338081941,0,1,en,CNA,North-America
-'1fdbedffc8',extremes,Flood,#030ba1,wmo,Flood Jefferson WI Rock WI,2026-04-19T05:16:00+00:00,United States,0.7262323001640342,0,1,en,CNA,North-America
-'463ebb9eba',extremes,Flood,#030ba1,wmo,Flooding Iron MI,2026-04-15T05:12:00+00:00,United States,0.7261676424475988,0,1,en,CNA,North-America
-'b7e19e6c18',extremes,Fog,#d60d2b,wmo,Fog Carbon Monroe,2026-05-25T06:53:00+00:00,United States,0.7261542560166485,0,1,en,CNA,North-America
-'d46c388af4',extremes,Tropical Cyclone,#4f4f4f,aidr,Tropical Cyclone Debbie Queensland 2017,2026-04-16T05:17:00+00:00,Australia,0.7261266184434371,0,1,en,EAU,Oceania
-'60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-04-26T05:25:00+00:00,United States,0.726112995981042,0,1,en,CNA,North-America
 'ac7283c88a',extremes,Flood,#030ba1,wmo,Flood Dodge WI,2026-04-22T05:13:00+00:00,United States,0.7260940212985276,0,1,en,CNA,North-America
 '5cbf8c478c',extremes,Flood,#030ba1,wmo,Flashflood Cooper MO,2026-04-28T05:45:00+00:00,United States,0.7260584481442443,0,1,en,CNA,North-America
 '2bba168cdf',extremes,Flood,#030ba1,wmo,Flood Pickaway OH,2026-05-24T06:22:00+00:00,United States,0.7260090350457093,0,1,en,CNA,North-America
@@ -336,6 +330,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4a3257679a',extremes,Flood,#030ba1,wmo,Flashflood Calcasieu LA,2026-05-20T06:33:00+00:00,United States,0.6222985231167022,1,1,en,CNA,North-America
 '7779bea202',extremes,Flood,#030ba1,wmo,Flooding Pike MS Walthall MS,2026-05-10T05:51:00+00:00,United States,0.6222634251473217,1,1,en,CNA,North-America
 'ee07d7ae88',extremes,Flood,#030ba1,wmo,Flooding George MS Greene MS Jackson MS,2026-05-10T05:51:00+00:00,United States,0.6222195934192196,1,1,en,CNA,North-America
+'60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-04-26T05:25:00+00:00,United States,0.6221537115838855,1,2,en,CNA,North-America
 '99a7dc685f',extremes,Flood,#030ba1,wmo,Flooding Cooper MO Saline MO,2026-05-20T06:33:00+00:00,United States,0.6221496522754258,1,1,en,CNA,North-America
 'becb964f85',extremes,Flood,#030ba1,wmo,Flood Bartholomew IN,2026-05-21T06:35:00+00:00,United States,0.6218738473967869,1,1,en,CNA,North-America
 '4d0f30500e',extremes,Flood,#030ba1,wmo,Flood Winnebago IL Rock WI,2026-04-29T05:40:00+00:00,United States,0.6217573358187947,1,1,en,CNA,North-America
@@ -399,5 +394,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41c5278b81',extremes,Flood,#030ba1,wmo,Flood Bates MO Cass MO Henry MO,2026-04-27T05:40:00+00:00,United States,0.6176096862058593,1,1,en,CNA,North-America
 'fdca6c3d52',extremes,Flood,#030ba1,wmo,Flood Jackson AR Woodruff AR,2026-04-30T05:46:00+00:00,United States,0.6175229172669816,1,1,en,CNA,North-America
 'c4d3c3bf17',extremes,Precipitation,#d60d2b,wmo,Rain Chibougamau Manic 5 area,2026-04-30T05:46:00+00:00,Canada,0.6174141435404191,1,1,en,NEN,North-America
+'8f79725f60',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Scott IL,2026-05-04T05:50:00+00:00,United States,0.6173739873696499,1,1,en,CNA,North-America
 'd0fa0ccdfc',extremes,Flood,#030ba1,wmo,Flooding Jasper MO Newton MO,2026-04-27T05:40:00+00:00,United States,0.6173444817245497,1,1,en,CNA,North-America
 'f8475bb3fa',extremes,Flood,#030ba1,wmo,Flooding Leavenworth KS,2026-05-19T06:33:00+00:00,United States,0.6172972436835528,1,1,en,CNA,North-America
+'b7e19e6c18',extremes,Fog,#d60d2b,wmo,Fog Carbon Monroe,2026-05-25T06:53:00+00:00,United States,0.6172311176141512,1,1,en,CNA,North-America
