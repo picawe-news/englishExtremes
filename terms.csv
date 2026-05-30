@@ -24,11 +24,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-05-04T05:50:00+00:00,Australia,0.7488290510507857,1,2,en,CAU,Oceania
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-05-01T05:54:00+00:00,United States,0.748506733443909,1,3,en,CNA,North-America
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-04-20T05:27:00+00:00,New Zealand,0.7483626118305385,1,2,en,NZ,Oceania
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-05-25T06:53:00+00:00,Canada,0.7466496712717412,1,3,en,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-04-09T04:58:00+00:00,Canada,0.7455457720629541,1,3,en,NEN,North-America
-'560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-05-25T06:53:00+00:00,Canada,0.7442412966833319,0,1,en,NEN,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-05-10T05:51:00+00:00,United States,0.7442150057895389,1,3,en,CNA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
-'8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Kargil district of Ladakh,2026-05-12T05:52:00+00:00,India,0.7409051022543031,0,1,en,SAS,Asia
 '14f4a10176',extremes,Precipitation,#d60d2b,wmo,Precipitation Fiordland north of Charles Sound,2026-05-30T06:01:00+00:00,New Zealand,0.7390471452983172,0,1,en,NZ,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-05-30T06:01:00+00:00,New Zealand,0.7383009281895938,0,1,en,NZ,Oceania
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
@@ -241,6 +240,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72dc78d04d',extremes,Precipitation,#d60d2b,wmo,Precipitation Red Bay to L'Anse au Clair,2026-05-07T05:46:00+00:00,Canada,0.6302768658230326,1,1,en,NEN,North-America
 'a647af24a8',extremes,Heat Wave,#c40202,wmo,Heat Wave 21 districts of Telangana,2026-05-21T06:35:00+00:00,India,0.6302487640639409,1,1,en,SAS,Asia
 '0af0f19936',extremes,Wildfire,#d60d2b,wmo,Wildfire Divide Williams McKenzie,2026-05-08T05:16:00+00:00,United States,0.6300419087066025,1,1,en,CNA,North-America
+'8ee5eff537',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Kargil district of Ladakh,2026-05-12T05:52:00+00:00,India,0.6297693369161576,1,1,en,SAS,Asia
 'bda93c4af3',extremes,Flood,#030ba1,wmo,Flooding Rapides LA,2026-05-10T05:51:00+00:00,United States,0.6297480136463635,1,1,en,CNA,North-America
 'a1d71293cb',extremes,Flood,#030ba1,wmo,Flooding Cass IL Fulton IL Mason IL,2026-04-26T05:25:00+00:00,United States,0.6297082729458365,1,1,en,CNA,North-America
 '0b5f9330c7',extremes,Flood,#030ba1,wmo,Flood Yukon Flats,2026-05-07T05:46:00+00:00,United States,0.6294886538198546,1,1,en,CNA,North-America
