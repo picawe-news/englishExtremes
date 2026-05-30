@@ -67,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-05-15T06:09:00+00:00,India,0.7242162740330282,0,1,en,SAS,Asia
 '255621cc4c',extremes,Earthquake,#870007,usgs,Earthquake Panguna,2026-04-25T05:00:00+00:00,Papua New Guinea,0.724031779758397,0,1,en,EPO,Pacific Ocean
 'c2aa66a9b9',extremes,Flood,#030ba1,wmo,Flooding Vernon MO,2026-05-19T06:33:00+00:00,United States,0.7239862988517507,0,1,en,CNA,North-America
+'1011d3688f',extremes,Flood,#030ba1,wmo,Flashflood Pearl River MS,2026-05-25T06:53:00+00:00,United States,0.7237892475537333,0,1,en,CNA,North-America
 'a0865de497',extremes,Flood,#030ba1,wmo,Flood Nassau FL Camden GA,2026-05-13T06:03:00+00:00,United States,0.723669883466291,0,1,en,CNA,North-America
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-05-16T05:40:00+00:00,United States,0.7236599309007341,1,3,en,CNA,North-America
 '13a6d878b3',extremes,Flood,#030ba1,wmo,Flashflood Kane IL Lake IL McHenry IL,2026-05-02T05:24:00+00:00,United States,0.7236455036076194,0,1,en,CNA,North-America
@@ -86,6 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6227dca4a5',extremes,Flood,#030ba1,wmo,Flood St. Tammany LA,2026-05-10T05:51:00+00:00,United States,0.7228654905714438,0,1,en,CNA,North-America
 '71c71281d6',extremes,Flood,#030ba1,wmo,Flood Monroe IL Jefferson MO,2026-05-01T05:54:00+00:00,United States,0.7226644117161415,0,1,en,CNA,North-America
 'f9e9f80ec8',extremes,Flood,#030ba1,wmo,Flooding Dickinson MI Marquette MI,2026-04-29T05:40:00+00:00,United States,0.7226471862274123,0,1,en,CNA,North-America
+'604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7226085817096416,0,1,en,CNA,North-America
 '772e674582',extremes,Flood,#030ba1,wmo,Flashflood Alexander IL Scott MO,2026-04-29T05:40:00+00:00,United States,0.7224114206693346,0,1,en,CNA,North-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-04-17T05:16:00+00:00,Canada,0.7223263507546769,1,3,en,NEN,North-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-05-17T06:01:00+00:00,United States,0.722325810716213,0,1,en,NCA,North-America
@@ -112,9 +114,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-04-26T05:25:00+00:00,United States,0.7193560156660881,1,3,en,CNA,North-America
 '191378b1a4',extremes,Flood,#030ba1,wmo,Flooding Pearl River MS,2026-05-26T06:31:00+00:00,United States,0.719128694462335,0,1,en,CNA,North-America
 '61717da1ce',extremes,Flood,#030ba1,wmo,Flooding Washington CO,2026-05-22T06:32:00+00:00,United States,0.7190231338172816,0,1,en,CNA,North-America
+'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-05-12T05:52:00+00:00,India,0.7188743219333434,0,1,en,SAS,Asia
 '8c77850ccb',extremes,Snow&Ice,#d60d2b,wmo,Frost McKean Potter,2026-05-11T06:14:00+00:00,United States,0.7184938443857681,0,1,en,CNA,North-America
 'ff3f1a900e',extremes,Flood,#030ba1,wmo,Flood Middle Yukon Valley,2026-05-16T05:40:00+00:00,United States,0.7184548220684338,0,1,en,CNA,North-America
+'e9d45d017b',extremes,Flood,#030ba1,wmo,Flooding Aransas TX Refugio TX,2026-05-29T06:38:00+00:00,United States,0.7183013186335909,0,1,en,CNA,North-America
+'aa19e9b7ed',extremes,Flood,#030ba1,wmo,Flood Kit Carson CO Yuma CO,2026-05-22T06:32:00+00:00,United States,0.7182698878590127,0,1,en,CNA,North-America
 'd2793b8bae',extremes,Drought,#edc291,edo,Drought South Sudan,2026-05-16T05:40:00+00:00,South Sudan,0.7180834865881267,1,2,en,NEAF,Africa
+'3be06df981',extremes,Flood,#030ba1,wmo,Flashflood Lower Yukon and Innoko Valleys,2026-05-21T06:35:00+00:00,United States,0.717510152425332,0,1,en,CNA,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-04-06T05:11:00+00:00,Australia,0.7169916579784438,1,3,en,CAU,Oceania
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-04-12T05:12:00+00:00,United States,0.7121874853939003,1,3,en,CNA,North-America
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,mild winter Western Australia,2026-05-04T05:50:00+00:00,Australia,0.7091792966183542,1,1,en,CAU,Oceania
