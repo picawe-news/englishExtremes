@@ -29,14 +29,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-05-10T05:51:00+00:00,United States,0.7442150057895389,1,3,en,CNA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
-'0e378c6670',extremes,Precipitation,#d60d2b,wmo,Precipitation Taranaki Maunga,2026-05-30T06:01:00+00:00,New Zealand,0.7372632956488564,0,1,en,NZ,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-05-06T05:43:00+00:00,New Zealand,0.7371307509172219,1,2,en,NZ,Oceania
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-04-06T05:11:00+00:00,United States,0.7349205430544421,1,3,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-04-07T04:58:00+00:00,United States,0.7323716954418114,1,3,en,ENA,North-America
-'ad29dda84e',extremes,Flood,#030ba1,wmo,Flashflood Vernon MO,2026-05-22T06:32:00+00:00,United States,0.7307727759321996,0,1,en,CNA,North-America
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-04-08T05:01:00+00:00,Australia,0.7306494628130521,1,3,en,EAU,Oceania
-'ac7283c88a',extremes,Flood,#030ba1,wmo,Flood Dodge WI,2026-04-22T05:13:00+00:00,United States,0.7260940212985276,0,1,en,CNA,North-America
 '5cbf8c478c',extremes,Flood,#030ba1,wmo,Flashflood Cooper MO,2026-04-28T05:45:00+00:00,United States,0.7260584481442443,0,1,en,CNA,North-America
 '2bba168cdf',extremes,Flood,#030ba1,wmo,Flood Pickaway OH,2026-05-24T06:22:00+00:00,United States,0.7260090350457093,0,1,en,CNA,North-America
 'ac36216098',extremes,Flood,#030ba1,wmo,Flooding Jefferson WI,2026-04-20T05:27:00+00:00,United States,0.7259798479838444,0,1,en,CNA,North-America
@@ -279,6 +276,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '346b61fbb0',extremes,Flood,#030ba1,wmo,Flooding Andrew MO Buchanan MO,2026-05-19T06:33:00+00:00,United States,0.6267239192655315,1,1,en,CNA,North-America
 'cff7fc564f',extremes,Flood,#030ba1,wmo,Flooding Gibson IN Knox IN,2026-05-05T05:29:00+00:00,United States,0.6267162342160574,1,1,en,CNA,North-America
 '8bb788b602',extremes,Wildfire,#d60d2b,wmo,Wildfire Assam,2026-04-24T05:22:00+00:00,India,0.626709214786982,1,1,en,SAS,Asia
+'0e378c6670',extremes,Precipitation,#d60d2b,wmo,Precipitation Taranaki Maunga,2026-05-30T06:01:00+00:00,New Zealand,0.6266738013015279,1,1,en,NZ,Oceania
 '838147e1f7',extremes,Flood,#030ba1,wmo,Flooding New South Wales Wilsons River,2026-05-20T06:33:00+00:00,Australia,0.6266009046289537,1,1,en,CAU,Oceania
 '05bb77075e',extremes,Flood,#030ba1,wmo,Flooding Jackson MO Lafayette MO Ray MO,2026-05-20T06:33:00+00:00,United States,0.6265303056942378,1,1,en,CNA,North-America
 'ba36240601',extremes,Flood,#030ba1,wmo,Flashflood Marshall KS,2026-05-19T06:33:00+00:00,United States,0.6264240451532765,1,1,en,CNA,North-America
@@ -349,6 +347,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b426bb2972',extremes,Heat Wave,#c40202,wmo,Heat Wave 12 districts of Telangana,2026-05-26T06:31:00+00:00,India,0.6214097450832585,1,1,en,SAS,Asia
 'c73622041e',extremes,Flood,#030ba1,wmo,Flashflood Adams IL Marion MO,2026-04-28T05:45:00+00:00,United States,0.6212467758080753,1,1,en,CNA,North-America
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2026-05-12T05:52:00+00:00,Solomon Islands,0.6211688313077036,1,1,en,EPO,Pacific Ocean
+'ad29dda84e',extremes,Flood,#030ba1,wmo,Flashflood Vernon MO,2026-05-22T06:32:00+00:00,United States,0.6211568595423697,1,1,en,CNA,North-America
 'ecf364a779',extremes,Flood,#030ba1,wmo,Flooding Carroll MO Chariton MO,2026-05-20T06:33:00+00:00,United States,0.6211229590414622,1,1,en,CNA,North-America
 '03c4bd98f6',extremes,Flood,#030ba1,wmo,Flashflood Fayette IL,2026-04-28T05:45:00+00:00,United States,0.6210877734809005,1,1,en,CNA,North-America
 '1335513c95',extremes,Flood,#030ba1,wmo,Flood Daviess IN Greene IN Knox IN,2026-04-30T05:46:00+00:00,United States,0.6209873644143024,1,1,en,CNA,North-America
@@ -402,5 +401,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4d3c3bf17',extremes,Precipitation,#d60d2b,wmo,Rain Chibougamau Manic 5 area,2026-04-30T05:46:00+00:00,Canada,0.6174141435404191,1,1,en,NEN,North-America
 '8f79725f60',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Scott IL,2026-05-04T05:50:00+00:00,United States,0.6173739873696499,1,1,en,CNA,North-America
 'd0fa0ccdfc',extremes,Flood,#030ba1,wmo,Flooding Jasper MO Newton MO,2026-04-27T05:40:00+00:00,United States,0.6173444817245497,1,1,en,CNA,North-America
+'ac7283c88a',extremes,Flood,#030ba1,wmo,Flood Dodge WI,2026-04-22T05:13:00+00:00,United States,0.6173299331037485,1,1,en,CNA,North-America
 'f8475bb3fa',extremes,Flood,#030ba1,wmo,Flooding Leavenworth KS,2026-05-19T06:33:00+00:00,United States,0.6172972436835528,1,1,en,CNA,North-America
 'b7e19e6c18',extremes,Fog,#d60d2b,wmo,Fog Carbon Monroe,2026-05-25T06:53:00+00:00,United States,0.6172311176141512,1,1,en,CNA,North-America
