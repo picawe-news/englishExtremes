@@ -26,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-05-10T05:51:00+00:00,United States,0.7442150057895389,1,3,en,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-05-17T06:01:00+00:00,United States,0.741493999564728,0,1,en,CNA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
-'1895f26add',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Southern and some central areas.,2026-06-02T07:08:00+00:00,Belize,0.7403208087600858,0,1,en,SCA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-05-17T06:01:00+00:00,United States,0.740096155399539,0,1,en,CNA,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '6747b534ea',extremes,Earthquake,#870007,usgs,Earthquake Honaunau Napoopoo,2026-05-24T06:22:00+00:00,United States,0.7380764588241405,0,1,en,NPO,North-America
@@ -125,6 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '49ff6b7cfb',extremes,Wildfire,#d60d2b,wmo,Wildfire West Central Basin and Range,2026-05-17T06:01:00+00:00,United States,0.6944742149232829,1,2,en,CNA,North-America
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-05-03T05:43:00+00:00,New Zealand,0.692628684704564,1,2,en,NZ,Oceania
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-05-20T06:33:00+00:00,India,0.6900238654025411,2,3,en,SAS,Asia
+'1895f26add',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Southern and some central areas.,2026-06-02T07:08:00+00:00,Belize,0.6900228224460729,1,1,en,SCA,North-America
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-05-27T06:46:00+00:00,Australia,0.6897516917597781,1,1,en,CAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-05-05T05:29:00+00:00,Australia,0.6881599971939708,1,1,en,EAU,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,warm spell Australia,2026-05-04T05:50:00+00:00,Australia,0.6853763281005334,2,1,en,CAU,Oceania
