@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-05-16T05:40:00+00:00,United States,0.7343681513062009,0,1,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cyclone Australia,2026-04-08T05:01:00+00:00,Australia,0.7306494628130521,1,3,en,EAU,Oceania
-'d31037ce6f',extremes,Flood,#030ba1,wmo,Flood Cole MO,2026-06-01T07:30:00+00:00,United States,0.728968174248857,0,1,en,CNA,North-America
 '573cf68f29',extremes,Flood,#030ba1,wmo,Flood Clarke AL Washington AL,2026-05-02T05:24:00+00:00,United States,0.7255173424750053,0,1,en,CNA,North-America
 '09649747d6',extremes,Storm,#b3b2b1,wmo,Storm Salluit,2026-05-12T05:52:00+00:00,Canada,0.7254699365779171,0,1,en,NEN,North-America
 'b09dbd328d',extremes,Precipitation,#d60d2b,wmo,Rain Gatineau,2026-04-30T05:46:00+00:00,Canada,0.7253158447443113,0,1,en,NEN,North-America
@@ -366,6 +365,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1b67830f24',extremes,Fog,#d60d2b,wmo,Fog Grand Marais to Whitefish Point MI,2026-05-25T06:53:00+00:00,United States,0.6200175554076098,1,1,en,CNA,North-America
 '8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2026-05-06T05:43:00+00:00,Fiji,0.6198828479446579,1,1,en,SPO,Pacific Ocean
 'b02953adc6',extremes,Flood,#030ba1,wmo,Flood Winnebago WI,2026-04-23T05:16:00+00:00,United States,0.6198679284664396,1,1,en,CNA,North-America
+'d31037ce6f',extremes,Flood,#030ba1,wmo,Flood Cole MO,2026-06-01T07:30:00+00:00,United States,0.6197729631115284,1,1,en,CNA,North-America
 '7ffad62dbd',extremes,Flood,#030ba1,wmo,Flashflood St. Clair MO Vernon MO,2026-05-20T06:33:00+00:00,United States,0.6196004003084623,1,1,en,CNA,North-America
 '450b6181bf',extremes,Flood,#030ba1,wmo,Flood Tangipahoa LA,2026-05-01T05:54:00+00:00,United States,0.6195959627003967,1,1,en,CNA,North-America
 'fb2e52d1fa',extremes,Flood,#030ba1,wmo,Flashflood Lawrence IN Martin IN,2026-04-30T05:46:00+00:00,United States,0.6194406777814603,1,1,en,CNA,North-America
