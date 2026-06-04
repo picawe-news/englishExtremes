@@ -34,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09649747d6',extremes,Storm,#b3b2b1,wmo,Storm Salluit,2026-05-12T05:52:00+00:00,Canada,0.7254699365779171,0,1,en,NEN,North-America
 'b09dbd328d',extremes,Precipitation,#d60d2b,wmo,Rain Gatineau,2026-04-30T05:46:00+00:00,Canada,0.7253158447443113,0,1,en,NEN,North-America
 '66e7fd7a8b',extremes,Flood,#030ba1,wmo,Flood Cooper MO,2026-05-20T06:33:00+00:00,United States,0.7252732683710046,0,1,en,CNA,North-America
-'6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-05-19T06:33:00+00:00,Australia,0.7245875887171496,0,1,en,SAU,Oceania
 'dbbba43dee',extremes,Flood,#030ba1,wmo,Flooding Lake MN,2026-04-30T05:46:00+00:00,United States,0.7244643039101197,0,1,en,CNA,North-America
 'ae2464a060',extremes,Flood,#030ba1,wmo,Flashflood Conjuring Creek Russell area,2026-04-27T05:40:00+00:00,Canada,0.7243789777190147,0,1,en,NEN,North-America
 '70bc4a2bf3',extremes,Flood,#030ba1,wmo,Flashflood Jersey IL St. Charles MO,2026-04-29T05:40:00+00:00,United States,0.7243459385059932,0,1,en,CNA,North-America
@@ -412,3 +411,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef2b95227e',extremes,Flood,#030ba1,wmo,Flood Lower Yukon River,2026-05-19T06:33:00+00:00,United States,0.6167726425317713,1,1,en,CNA,North-America
 '41301505f1',extremes,Flood,#030ba1,wmo,Flooding Clay IL Richland IL,2026-05-01T05:54:00+00:00,United States,0.6167702232130937,1,1,en,CNA,North-America
 '573cf68f29',extremes,Flood,#030ba1,wmo,Flood Clarke AL Washington AL,2026-05-02T05:24:00+00:00,United States,0.6166897411037545,1,1,en,CNA,North-America
+'6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-05-19T06:33:00+00:00,Australia,0.6163494954095772,1,1,en,SAU,Oceania
