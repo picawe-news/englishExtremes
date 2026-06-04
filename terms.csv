@@ -91,6 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fcb0b891a2',extremes,Flood,#030ba1,wmo,Flashflood Bourbon KS,2026-05-19T06:33:00+00:00,United States,0.7202353040851421,0,1,en,CNA,North-America
 '65c47eb344',extremes,Flood,#030ba1,wmo,Flashflood Ottawa KS,2026-06-02T07:08:00+00:00,United States,0.720012124133014,0,1,en,CNA,North-America
 '4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2026-05-14T06:02:00+00:00,India,0.7199342905501718,0,1,en,SAS,Asia
+'9148afb95e',extremes,Flood,#030ba1,wmo,Flood Garza TX Lynn TX,2026-06-03T07:23:00+00:00,United States,0.7198234815729724,0,1,en,CNA,North-America
 '0b403d4a74',extremes,Flood,#030ba1,wmo,Flood Tasmania Break O'Day River,2026-05-28T06:38:00+00:00,Australia,0.7196673546260968,0,1,en,CAU,Oceania
 'ffcf460c48',extremes,Heat Wave,#c40202,acwe,heatwave Queensland,2026-05-04T05:50:00+00:00,Australia,0.7193841488222643,1,1,en,CAU,Oceania
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-04-26T05:25:00+00:00,United States,0.7193560156660881,1,3,en,CNA,North-America
@@ -99,12 +100,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-05-12T05:52:00+00:00,India,0.7188743219333434,0,1,en,SAS,Asia
 '8c77850ccb',extremes,Snow&Ice,#d60d2b,wmo,Frost McKean Potter,2026-05-11T06:14:00+00:00,United States,0.7184938443857681,0,1,en,CNA,North-America
 'ff3f1a900e',extremes,Flood,#030ba1,wmo,Flood Middle Yukon Valley,2026-05-16T05:40:00+00:00,United States,0.7184548220684338,0,1,en,CNA,North-America
+'c2ab86656b',extremes,Snow&Ice,#d60d2b,wmo,Ice Lesotho,2026-06-03T07:23:00+00:00,Lesotho,0.7184337338228507,0,1,en,ESAF,Africa
 'e9d45d017b',extremes,Flood,#030ba1,wmo,Flooding Aransas TX Refugio TX,2026-05-29T06:38:00+00:00,United States,0.7183013186335909,0,1,en,CNA,North-America
 'aa19e9b7ed',extremes,Flood,#030ba1,wmo,Flood Kit Carson CO Yuma CO,2026-05-22T06:32:00+00:00,United States,0.7182698878590127,0,1,en,CNA,North-America
 'd2793b8bae',extremes,Drought,#edc291,edo,Drought South Sudan,2026-05-16T05:40:00+00:00,South Sudan,0.7180834865881267,1,2,en,NEAF,Africa
+'e981cb6df6',extremes,Flood,#030ba1,wmo,Flood Dawson TX Gaines TX,2026-06-03T07:23:00+00:00,United States,0.7180411601330173,0,1,en,CNA,North-America
+'2dca69ba1c',extremes,Flood,#030ba1,wmo,Flooding Greenwood KS,2026-06-01T07:30:00+00:00,United States,0.7180105802890552,0,1,en,CNA,North-America
 '3be06df981',extremes,Flood,#030ba1,wmo,Flashflood Lower Yukon and Innoko Valleys,2026-05-21T06:35:00+00:00,United States,0.717510152425332,0,1,en,CNA,North-America
 '43923ebe25',extremes,Flood,#030ba1,wmo,Flooding New South Wales Hastings River,2026-05-27T06:46:00+00:00,Australia,0.7174681132491191,0,1,en,CAU,Oceania
+'606669cf8c',extremes,Flood,#030ba1,wmo,Flood McPherson SD,2026-06-01T07:30:00+00:00,United States,0.7169685662873496,0,1,en,CNA,North-America
 '556e3a71cf',extremes,Snow&Ice,#d60d2b,wmo,Frost Lower Snake River Plain,2026-05-19T06:33:00+00:00,United States,0.716895567088068,0,1,en,CNA,North-America
+'b34bb91f6f',extremes,Flood,#030ba1,wmo,Flashflood Tattnall GA Toombs GA,2026-06-03T07:23:00+00:00,United States,0.7168313301242563,0,1,en,CNA,North-America
 '812f1b244b',extremes,Storm,#b3b2b1,wmo,Storm Queensland Gold Coast Waters,2026-05-27T06:46:00+00:00,Australia,0.7167728241824385,0,1,en,CAU,Oceania
 '8bf8158053',extremes,Snow&Ice,#d60d2b,wmo,Ice West Glacier Region,2026-05-14T06:02:00+00:00,United States,0.7167722286497651,0,1,en,CNA,North-America
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-05-15T06:09:00+00:00,India,0.7167255797203799,0,1,en,SAS,Asia
