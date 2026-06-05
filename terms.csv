@@ -117,6 +117,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-05-24T06:22:00+00:00,Solomon Islands,0.7162618559963154,0,1,en,SPO,Pacific Ocean
 '2d2d9970ac',extremes,Snow&Ice,#d60d2b,wmo,Frost Upper North Platte River Basin,2026-05-19T06:33:00+00:00,United States,0.7156299267849847,0,1,en,CNA,North-America
 '690ae370d4',extremes,Snow&Ice,#d60d2b,wmo,Snow Eastern Uinta Mountains,2026-05-17T06:01:00+00:00,United States,0.7154434984806166,0,1,en,CNA,North-America
+'e9dfd3eb95',extremes,Drought,#edc291,edo,Dry Spell British Indian Ocean Territory,2026-05-16T05:40:00+00:00,British Indian Ocean Territory,0.7154400302545977,0,1,en,EIO,Indian Ocean
+'5aed81fb98',extremes,Flood,#030ba1,wmo,Flood Harrison WV,2026-05-28T06:38:00+00:00,United States,0.7151974687658912,0,1,en,CNA,North-America
+'2c67452958',extremes,Flood,#030ba1,wmo,Flashflood Franklin OH Pickaway OH,2026-05-25T06:53:00+00:00,United States,0.7148168230426454,0,1,en,CNA,North-America
+'63f0445df2',extremes,Flood,#030ba1,wmo,Flood Cobb GA Fulton GA,2026-05-24T06:22:00+00:00,United States,0.7147254431053819,0,1,en,CNA,North-America
+'f57bc3ef0c',extremes,Flood,#030ba1,wmo,Flood Comal TX Guadalupe TX,2026-05-27T06:46:00+00:00,United States,0.7144956757722297,0,1,en,CNA,North-America
+'6b5acd7360',extremes,Drought,#edc291,edo,Dry Spell Falkland Islands,2026-05-17T06:01:00+00:00,Falkland Islands,0.7140772795774758,0,1,en,SSA,South-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-04-12T05:12:00+00:00,United States,0.7121874853939003,1,3,en,CNA,North-America
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,mild winter Western Australia,2026-05-04T05:50:00+00:00,Australia,0.7091792966183542,1,1,en,CAU,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,cold weather Western Australia,2026-05-28T06:38:00+00:00,Australia,0.7089974750046165,1,1,en,CAU,Oceania
