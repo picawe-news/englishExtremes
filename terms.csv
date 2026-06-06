@@ -120,6 +120,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63f0445df2',extremes,Flood,#030ba1,wmo,Flood Cobb GA Fulton GA,2026-05-24T06:22:00+00:00,United States,0.7147254431053819,0,1,en,CNA,North-America
 'f57bc3ef0c',extremes,Flood,#030ba1,wmo,Flood Comal TX Guadalupe TX,2026-05-27T06:46:00+00:00,United States,0.7144956757722297,0,1,en,CNA,North-America
 '6b5acd7360',extremes,Drought,#edc291,edo,Dry Spell Falkland Islands,2026-05-17T06:01:00+00:00,Falkland Islands,0.7140772795774758,0,1,en,SSA,South-America
+'1f9127d5f9',extremes,Flood,#030ba1,wmo,Flashflood Hocking OH,2026-05-25T06:53:00+00:00,United States,0.7140675154627989,0,1,en,CNA,North-America
+'09171a4c9c',extremes,Storm,#b3b2b1,wmo,Storm Surge New South Wales Eden Coast,2026-05-26T06:31:00+00:00,Australia,0.7140564621467927,0,1,en,CAU,Oceania
+'a856f28311',extremes,Heat Wave,#c40202,wmo,Heat Wave Petroleum,2026-05-26T06:31:00+00:00,United States,0.7136612999657093,0,1,en,CNA,North-America
+'cc1e91400a',extremes,Flood,#030ba1,wmo,Flooding Washington OH,2026-05-28T06:38:00+00:00,United States,0.7131243495710421,0,1,en,CNA,North-America
+'a38cc4859c',extremes,Earthquake,#870007,usgs,Earthquake Ruby,2026-05-22T06:31:00+00:00,United States,0.7130448768438303,0,1,en,NWN,North-America
+'32606aebaf',extremes,Fog,#d60d2b,wmo,Fog Schuylkill,2026-05-25T06:53:00+00:00,United States,0.7128859008570951,0,1,en,CNA,North-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-04-12T05:12:00+00:00,United States,0.7121874853939003,1,3,en,CNA,North-America
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,mild winter Western Australia,2026-05-04T05:50:00+00:00,Australia,0.7091792966183542,1,1,en,CAU,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,cold weather Western Australia,2026-05-28T06:38:00+00:00,Australia,0.7089974750046165,1,1,en,CAU,Oceania
