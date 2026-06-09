@@ -25,8 +25,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-05-06T05:43:00+00:00,New Zealand,0.7371307509172219,1,2,en,NZ,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
+'58670f8693',extremes,Flood,#030ba1,wmo,Flashflood Linn KS,2026-05-20T06:33:00+00:00,United States,0.7310085295188681,0,1,en,CNA,North-America
+'03c3d19d37',extremes,Flood,#030ba1,wmo,Flood Jackson MO Lafayette MO Ray MO,2026-06-08T07:13:00+00:00,United States,0.7307539530204988,0,1,en,CNA,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-05-24T06:22:00+00:00,Canada,0.7299527780709485,1,3,en,NEN,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-05-16T05:40:00+00:00,United States,0.7291827736102707,1,3,en,CNA,North-America
+'de9742ee3f',extremes,Flood,#030ba1,wmo,Flooding Buchanan MO,2026-06-08T07:13:00+00:00,United States,0.7288954528480756,0,1,en,CNA,North-America
+'2a3f72439d',extremes,Flood,#030ba1,wmo,Flood Le Flore OK,2026-06-08T07:13:00+00:00,United States,0.727604101379626,0,1,en,CNA,North-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-05-26T06:31:00+00:00,Jamaica,0.7240668241062183,1,3,en,CAR,North-America
 '13a6d878b3',extremes,Flood,#030ba1,wmo,Flashflood Kane IL Lake IL McHenry IL,2026-05-02T05:24:00+00:00,United States,0.7236455036076194,0,1,en,CNA,North-America
 '4ce72b30b7',extremes,Flood,#030ba1,wmo,Flooding Tasmania Break O'Day River,2026-05-28T06:38:00+00:00,Australia,0.7235860947858844,0,1,en,CAU,Oceania
@@ -41,11 +45,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '71c71281d6',extremes,Flood,#030ba1,wmo,Flood Monroe IL Jefferson MO,2026-05-01T05:54:00+00:00,United States,0.7226644117161415,0,1,en,CNA,North-America
 'f9e9f80ec8',extremes,Flood,#030ba1,wmo,Flooding Dickinson MI Marquette MI,2026-04-29T05:40:00+00:00,United States,0.7226471862274123,0,1,en,CNA,North-America
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7226085817096416,0,1,en,CNA,North-America
+'2e2b7e0dd0',extremes,Flood,#030ba1,wmo,Flood Mills IA Cass NE Sarpy NE,2026-06-06T06:08:00+00:00,United States,0.7224366083104096,0,1,en,CNA,North-America
 '772e674582',extremes,Flood,#030ba1,wmo,Flashflood Alexander IL Scott MO,2026-04-29T05:40:00+00:00,United States,0.7224114206693346,0,1,en,CNA,North-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-04-17T05:16:00+00:00,Canada,0.7223263507546769,1,3,en,NEN,North-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-05-17T06:01:00+00:00,United States,0.722325810716213,0,1,en,NCA,North-America
 '219a64f7b3',extremes,Flood,#030ba1,wmo,Flashflood Interior Kuskokwim Delta,2026-05-13T06:03:00+00:00,United States,0.722316191263874,0,1,en,CNA,North-America
 'bf242fe474',extremes,Drought,#edc291,edo,Drought Zambia,2026-05-01T05:54:00+00:00,Zambia,0.7222828231428489,0,1,en,ESAF,Africa
+'987ade486c',extremes,Flood,#030ba1,wmo,Flashflood Jackson MO Lafayette MO Ray MO,2026-06-06T06:08:00+00:00,United States,0.7221946375211181,0,1,en,CNA,North-America
 '04b303e5e5',extremes,Flood,#030ba1,wmo,Flooding Flathead MT,2026-05-07T05:46:00+00:00,United States,0.7221740517739604,0,1,en,CNA,North-America
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,Downpour India,2026-05-11T06:14:00+00:00,India,0.7220671904609866,0,1,en,SAS,Asia
 'f991b6ce73',extremes,Flood,#030ba1,wmo,Flood Tasmania Nile River,2026-05-28T06:38:00+00:00,Australia,0.7220617032056471,0,1,en,CAU,Oceania
