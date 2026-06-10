@@ -25,8 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-05-06T05:43:00+00:00,New Zealand,0.7371307509172219,1,2,en,NZ,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
-'d676939da0',extremes,Flood,#030ba1,wmo,Flooding Shawnee KS,2026-06-09T06:32:00+00:00,United States,0.7309130190636692,0,1,en,CNA,North-America
-'b5b616bd5b',extremes,Thunderstorm,#53785a,wmo,Severe Weather Ghana,2026-06-09T06:32:00+00:00,Ghana,0.7305563431093303,0,1,en,WAF,Africa
 '01395aaafe',extremes,Earthquake,#870007,usgs,Earthquake Pistol River,2026-06-04T07:06:00+00:00,United States,0.7300798261660537,0,1,en,WNA,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-05-24T06:22:00+00:00,Canada,0.7299527780709485,1,3,en,NEN,North-America
 '1fab25bda1',extremes,Flood,#030ba1,wmo,Flooding Lake IN,2026-06-09T06:32:00+00:00,United States,0.7295485230275324,0,1,en,CNA,North-America
@@ -338,6 +336,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ae71b3764',extremes,Flood,#030ba1,wmo,Flood Platte MO,2026-06-08T07:13:00+00:00,United States,0.6222707510780818,1,1,en,CNA,North-America
 '7779bea202',extremes,Flood,#030ba1,wmo,Flooding Pike MS Walthall MS,2026-05-10T05:51:00+00:00,United States,0.6222634251473217,1,1,en,CNA,North-America
 'ee07d7ae88',extremes,Flood,#030ba1,wmo,Flooding George MS Greene MS Jackson MS,2026-05-10T05:51:00+00:00,United States,0.6222195934192196,1,1,en,CNA,North-America
+'b5b616bd5b',extremes,Thunderstorm,#53785a,wmo,Severe Weather Ghana,2026-06-09T06:32:00+00:00,Ghana,0.6221730266429307,1,1,en,WAF,Africa
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-04-26T05:25:00+00:00,United States,0.6221537115838855,1,2,en,CNA,North-America
 '99a7dc685f',extremes,Flood,#030ba1,wmo,Flooding Cooper MO Saline MO,2026-05-20T06:33:00+00:00,United States,0.6221496522754258,1,1,en,CNA,North-America
 'b0afdf12a2',extremes,Flood,#030ba1,wmo,Flood St. Clair MO Vernon MO,2026-05-23T05:53:00+00:00,United States,0.622149255349489,1,1,en,CNA,North-America
@@ -352,6 +351,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c9d5646aa',extremes,Flood,#030ba1,wmo,Flashflood Cedar MO,2026-06-09T06:32:00+00:00,United States,0.6214112492246509,1,1,en,CNA,North-America
 'b426bb2972',extremes,Heat Wave,#c40202,wmo,Heat Wave 12 districts of Telangana,2026-05-26T06:31:00+00:00,India,0.6214097450832585,1,1,en,SAS,Asia
 '58670f8693',extremes,Flood,#030ba1,wmo,Flashflood Linn KS,2026-05-20T06:33:00+00:00,United States,0.6213572500910378,1,1,en,CNA,North-America
+'d676939da0',extremes,Flood,#030ba1,wmo,Flooding Shawnee KS,2026-06-09T06:32:00+00:00,United States,0.6212760662041188,1,1,en,CNA,North-America
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2026-05-12T05:52:00+00:00,Solomon Islands,0.6211688313077036,1,1,en,EPO,Pacific Ocean
 'ad29dda84e',extremes,Flood,#030ba1,wmo,Flashflood Vernon MO,2026-05-22T06:32:00+00:00,United States,0.6211568595423697,1,1,en,CNA,North-America
 '03c3d19d37',extremes,Flood,#030ba1,wmo,Flood Jackson MO Lafayette MO Ray MO,2026-06-08T07:13:00+00:00,United States,0.621140860067424,1,1,en,CNA,North-America
