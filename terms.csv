@@ -7,6 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-05-28T06:38:00+00:00,Canada,0.7926945000730963,1,2,en,NEN,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-05-16T05:40:00+00:00,United States,0.7851655407259148,1,3,en,CNA,North-America
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-05-28T06:38:00+00:00,India,0.7734621905399605,1,2,en,SAS,Asia
+'d77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-06-09T06:32:00+00:00,Canada,0.7729246902586917,1,3,en,NEN,North-America
 '6fc80610c3',extremes,Flood,#030ba1,wmo,Flood Jefferson MO St. Louis MO,2026-04-28T05:45:00+00:00,United States,0.769745955529216,1,2,en,CNA,North-America
 'a679a52e44',extremes,Drought,#edc291,edo,Lack of Rain Bermuda,2026-05-23T05:53:00+00:00,Bermuda,0.7686787444696652,1,2,en,NAO,Atlantic Ocean
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-05-17T06:01:00+00:00,United States,0.7595398637025114,1,3,en,CNA,North-America
@@ -20,8 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-05-01T05:54:00+00:00,United States,0.748506733443909,1,3,en,CNA,North-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-05-17T06:01:00+00:00,United States,0.7484788441087811,1,3,en,NCA,North-America
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-05-25T06:53:00+00:00,Canada,0.7466496712717412,1,3,en,NEN,North-America
-'85213d3f73',extremes,Heat Wave,#c40202,wmo,Heat Wave LG Quatre Laforge and Fontanges,2026-06-11T07:14:00+00:00,Canada,0.744649808388954,0,1,en,NEN,North-America
-'d77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-06-09T06:32:00+00:00,Canada,0.7444577050481763,0,1,en,NEN,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-05-10T05:51:00+00:00,United States,0.7442150057895389,1,3,en,CNA,North-America
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-05-15T06:09:00+00:00,India,0.7432616606553467,1,3,en,SAS,Asia
 '8deeb78802',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Belize,2026-06-12T07:05:00+00:00,Belize,0.7432419114033909,0,1,en,SCA,North-America
@@ -213,6 +212,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95cbe1baef',extremes,Heat Wave,#c40202,wmo,Heat Wave Palo Duro Canyon,2026-05-16T05:40:00+00:00,United States,0.6333195678775264,1,1,en,CNA,North-America
 '1d7d327aa2',extremes,Storm,#b3b2b1,wmo,Storm Surge Taranaki and Whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.633292125960955,1,1,en,NZ,Oceania
 'fecc5eb982',extremes,Wildfire,#d60d2b,wmo,Wildfire Rajasthan,2026-05-09T05:36:00+00:00,India,0.6329639083386421,1,1,en,SAS,Asia
+'85213d3f73',extremes,Heat Wave,#c40202,wmo,Heat Wave LG Quatre Laforge and Fontanges,2026-06-11T07:14:00+00:00,Canada,0.6329523371306109,1,1,en,NEN,North-America
 'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2026-05-20T06:33:00+00:00,United Kingdom,0.6322235458595103,1,1,en,NEU,Europe
 '1925b3106a',extremes,Storm,#b3b2b1,wmo,Storm Canterbury High Country,2026-05-20T06:33:00+00:00,New Zealand,0.6319491764619337,1,1,en,NZ,Oceania
 'a258bc8dc2',extremes,Heat Wave,#c40202,wmo,Heat Wave Tualatin Valley,2026-05-02T05:24:00+00:00,United States,0.6316942981076495,1,1,en,CNA,North-America
