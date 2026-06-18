@@ -20,13 +20,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,Avalanche United States,2026-05-01T05:54:00+00:00,United States,0.748506733443909,1,3,en,CNA,North-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-05-17T06:01:00+00:00,United States,0.7484788441087811,1,3,en,NCA,North-America
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-05-25T06:53:00+00:00,Canada,0.7466496712717412,1,3,en,NEN,North-America
-'68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-06-08T07:13:00+00:00,New Zealand,0.7460391013749007,0,1,en,NZ,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-05-10T05:51:00+00:00,United States,0.7442150057895389,1,3,en,CNA,North-America
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-05-15T06:09:00+00:00,India,0.7432616606553467,1,3,en,SAS,Asia
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-05-30T06:01:00+00:00,New Zealand,0.740571609284888,0,1,en,NZ,Oceania
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
-'1832ba612c',extremes,Flood,#030ba1,wmo,Flashflood Okaloosa FL,2026-06-18T07:16:00+00:00,United States,0.7388259408795496,0,1,en,CNA,North-America
 '8f81ae7873',extremes,Wildfire,#d60d2b,wmo,Wildfire Mojave Desert,2026-06-18T07:16:00+00:00,United States,0.7385089934016678,0,1,en,CNA,North-America
 '63a6136750',extremes,Flood,#030ba1,wmo,Flooding Allen LA Jefferson Davis LA,2026-06-17T07:33:00+00:00,United States,0.738285787309199,0,1,en,CNA,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
@@ -211,6 +209,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '07403ae253',extremes,Earthquake,#870007,usgs,Earthquake Port Blair,2026-05-14T06:02:00+00:00,India,0.6347069055801909,1,1,en,BOB,Indian Ocean
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-05-17T06:01:00+00:00,Jamaica,0.6345903117389762,1,1,en,CAR,North-America
 '6018dbdbc5',extremes,Flood,#030ba1,wmo,Flashflood Scissor Creek near McAuley,2026-06-13T06:38:00+00:00,Canada,0.6344814472431936,1,1,en,NEN,North-America
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-06-08T07:13:00+00:00,New Zealand,0.6344332811686656,1,1,en,NZ,Oceania
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,Rain Belize,2026-06-11T07:14:00+00:00,Belize,0.6341315266286891,1,1,en,SCA,North-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,Storm Surge Belize,2026-06-12T07:05:00+00:00,Belize,0.6333492395207093,1,1,en,SCA,North-America
 'ce4931e51e',extremes,Flood,#030ba1,wmo,Flashflood South Australia Cooper Creek,2026-06-14T07:07:00+00:00,Australia,0.6333309638388889,1,1,en,CAU,Oceania
@@ -262,6 +261,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd97049f07',extremes,Fog,#d60d2b,wmo,Fog Cambridge Bay,2026-05-27T06:46:00+00:00,Canada,0.628177701286302,1,1,en,NEN,North-America
 '7a1d28bed6',extremes,Fog,#d60d2b,wmo,Fog Marquette to Munising MI,2026-06-11T07:14:00+00:00,United States,0.6281431714125876,1,1,en,CNA,North-America
 '725f6ebb24',extremes,Fog,#d60d2b,wmo,Fog Southern Schoolcraft,2026-05-19T06:33:00+00:00,United States,0.6280172820505059,1,1,en,CNA,North-America
+'1832ba612c',extremes,Flood,#030ba1,wmo,Flashflood Okaloosa FL,2026-06-18T07:16:00+00:00,United States,0.6280020497476171,1,1,en,CNA,North-America
 'b904b77281',extremes,Storm,#b3b2b1,wmo,Storm Taranaki,2026-05-08T05:16:00+00:00,New Zealand,0.627592559142641,1,1,en,NZ,Oceania
 '006a8af217',extremes,Fog,#d60d2b,wmo,Fog Allen Neosho Labette,2026-05-24T06:22:00+00:00,United States,0.6275209597495984,1,1,en,CNA,North-America
 '3d84dbb72f',extremes,Storm,#b3b2b1,wmo,Storm Clarence Strait,2026-06-07T06:48:00+00:00,United States,0.627250938726391,1,1,en,CNA,North-America
