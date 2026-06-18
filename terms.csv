@@ -23,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-06-08T07:13:00+00:00,New Zealand,0.7460391013749007,0,1,en,NZ,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-05-10T05:51:00+00:00,United States,0.7442150057895389,1,3,en,CNA,North-America
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-05-15T06:09:00+00:00,India,0.7432616606553467,1,3,en,SAS,Asia
-'edbb71e87d',extremes,Snow&Ice,#d60d2b,wmo,Snow New South Wales Snowy Mountains,2026-06-18T07:16:00+00:00,Australia,0.7421353855955436,0,1,en,CAU,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-05-30T06:01:00+00:00,New Zealand,0.740571609284888,0,1,en,NZ,Oceania
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
@@ -229,6 +228,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f986239716',extremes,Wildfire,#d60d2b,wmo,Wildfire Gujarat,2026-06-09T06:32:00+00:00,India,0.6313673460891636,1,1,en,SAS,Asia
 '6f4ca19a12',extremes,Flood,#030ba1,wmo,Flashflood Clinton IL,2026-05-12T05:52:00+00:00,United States,0.6312410098203773,1,1,en,CNA,North-America
 'fee1ae9537',extremes,Heat Wave,#c40202,wmo,Heat Wave 19 districts of Andhra Pradesh,2026-05-20T06:33:00+00:00,India,0.6311617345458616,1,1,en,SAS,Asia
+'edbb71e87d',extremes,Snow&Ice,#d60d2b,wmo,Snow New South Wales Snowy Mountains,2026-06-18T07:16:00+00:00,Australia,0.631115107756212,1,1,en,CAU,Oceania
 'c66942d785',extremes,Flood,#030ba1,wmo,Flashflood Rapides LA,2026-05-13T06:03:00+00:00,United States,0.6310434357440289,1,1,en,CNA,North-America
 '6d64bd5d26',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Gangtok district of Sikkim,2026-05-09T05:36:00+00:00,India,0.6310397841840464,1,1,en,SAS,Asia
 '279d701798',extremes,Flood,#030ba1,wmo,Flooding South Australia Cooper Creek,2026-05-19T06:33:00+00:00,Australia,0.6310295124955505,1,1,en,CAU,Oceania
