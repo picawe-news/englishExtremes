@@ -30,7 +30,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-05-30T06:01:00+00:00,New Zealand,0.740571609284888,0,1,en,NZ,Oceania
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
-'d30c917012',extremes,Flood,#030ba1,wmo,Flood Hancock MS,2026-06-15T08:36:00+00:00,United States,0.7375192469734292,0,1,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7373569439469667,0,1,en,CAU,Oceania
 '92dbe971ce',extremes,Flood,#030ba1,wmo,Flooding Christian MO Stone MO,2026-06-15T08:36:00+00:00,United States,0.7373488107027091,0,1,en,CNA,North-America
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-05-06T05:43:00+00:00,New Zealand,0.7371307509172219,1,2,en,NZ,Oceania
@@ -272,6 +271,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d84dbb72f',extremes,Storm,#b3b2b1,wmo,Storm Clarence Strait,2026-06-07T06:48:00+00:00,United States,0.627250938726391,1,1,en,CNA,North-America
 '53858ed65f',extremes,Storm,#b3b2b1,wmo,Storm Surge The Chatham Islands,2026-06-09T06:32:00+00:00,New Zealand,0.6270859358226666,1,1,en,NZ,Oceania
 '0f78200302',extremes,Flood,#030ba1,wmo,Flooding Clinton IL,2026-05-09T05:36:00+00:00,United States,0.6270636936375379,1,1,en,CNA,North-America
+'d30c917012',extremes,Flood,#030ba1,wmo,Flood Hancock MS,2026-06-15T08:36:00+00:00,United States,0.6270413749274149,1,1,en,CNA,North-America
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,warm spell Victoria,2026-06-13T06:38:00+00:00,Australia,0.6269749093132213,2,1,en,SAU,Oceania
 '3165e28bb1',extremes,Flood,#030ba1,wmo,Flood Ray MO,2026-05-19T06:33:00+00:00,United States,0.6269151835785656,1,1,en,CNA,North-America
 'c10bcaa20f',extremes,Flood,#030ba1,wmo,Flashflood Howard MO,2026-05-19T06:33:00+00:00,United States,0.6268865367477132,1,1,en,CNA,North-America
