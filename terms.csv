@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e04699981',extremes,Precipitation,#d60d2b,wmo,Rain The Tararua Range,2026-06-19T07:39:00+00:00,New Zealand,0.7791054846788253,1,2,en,NZ,Oceania
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-05-28T06:38:00+00:00,India,0.7734621905399605,1,2,en,SAS,Asia
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-06-09T06:32:00+00:00,Canada,0.7729246902586917,1,3,en,NEN,North-America
-'a345aca9eb',extremes,Heat Wave,#c40202,acwe,heatwave Victoria,2026-06-20T06:47:00+00:00,Australia,0.7726196530687233,0,1,en,SAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-06-13T06:38:00+00:00,Australia,0.7707300693392217,1,2,en,EAU,Oceania
 'a679a52e44',extremes,Drought,#edc291,edo,Lack of Rain Bermuda,2026-05-23T05:53:00+00:00,Bermuda,0.7686787444696652,1,2,en,NAO,Atlantic Ocean
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-05-17T06:01:00+00:00,United States,0.7595398637025114,1,3,en,CNA,North-America
@@ -138,6 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,heavy rain Northern Territory,2026-06-04T07:06:00+00:00,Australia,0.7040911354274506,1,2,en,NAU,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-05-30T06:01:00+00:00,New Zealand,0.7028558189611547,1,2,en,NZ,Oceania
 '792ec0a179',extremes,Flood,#030ba1,acwe,flash flood Victoria,2026-06-13T06:38:00+00:00,Australia,0.7017288776216584,1,2,en,SAU,Oceania
+'a345aca9eb',extremes,Heat Wave,#c40202,acwe,heatwave Victoria,2026-06-20T06:47:00+00:00,Australia,0.7009361410175057,1,2,en,SAU,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-05-16T05:40:00+00:00,Solomon Islands,0.6983143389897916,1,1,en,EPO,Oceania
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-06-11T07:14:00+00:00,Australia,0.6974891786081767,1,2,en,SAU,Oceania
 '23779bbe2e',extremes,Storm,#b3b2b1,wmo,Storm Surge Arctic Bay,2026-05-31T06:40:00+00:00,Canada,0.6968012568704963,1,2,en,NEN,North-America
