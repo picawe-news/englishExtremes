@@ -5,6 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,Storm Minnesota,2026-05-05T05:29:00+00:00,United States,0.7984077379667216,2,3,en,WNA,North-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-05-28T06:38:00+00:00,Canada,0.7926945000730963,1,2,en,NEN,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-05-16T05:40:00+00:00,United States,0.7851655407259148,1,3,en,CNA,North-America
+'72621058c9',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern San Juan,2026-06-16T08:27:00+00:00,United States,0.7746957246288604,1,2,en,CNA,North-America
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-05-28T06:38:00+00:00,India,0.7734621905399605,1,2,en,SAS,Asia
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-06-09T06:32:00+00:00,Canada,0.7729246902586917,1,3,en,NEN,North-America
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-06-13T06:38:00+00:00,Australia,0.7707300693392217,1,2,en,EAU,Oceania
@@ -29,8 +30,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-05-06T05:43:00+00:00,New Zealand,0.7371307509172219,1,2,en,NZ,Oceania
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.7369887477713386,1,3,en,CNA,North-America
-'dae5ff763a',extremes,Flood,#030ba1,wmo,Flood Escambia AL,2026-06-19T07:39:00+00:00,United States,0.7348401236460014,0,1,en,CNA,North-America
-'72621058c9',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern San Juan,2026-06-16T08:27:00+00:00,United States,0.7347596583868946,0,1,en,CNA,North-America
 '36ddc82534',extremes,Flood,#030ba1,wmo,Flooding Jones MS,2026-06-18T07:16:00+00:00,United States,0.7347280723422217,0,1,en,CNA,North-America
 '1ca7fa0ddf',extremes,Flood,#030ba1,wmo,Flood Baldwin AL,2026-06-19T07:39:00+00:00,United States,0.734569251628461,0,1,en,CNA,North-America
 '4d4bfe8c03',extremes,Flood,#030ba1,wmo,Flashflood Allen LA,2026-06-18T07:16:00+00:00,United States,0.7343991180054781,0,1,en,CNA,North-America
@@ -323,6 +322,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '13b7157ed9',extremes,Earthquake,#870007,usgs,Earthquake Barbados,2026-05-31T06:40:00+00:00,Barbados,0.6247760319714484,1,1,en,NSA,South-America
 'b8e06c079f',extremes,Flood,#030ba1,wmo,Flashflood Monroe MO,2026-06-12T07:05:00+00:00,United States,0.6247095459647577,1,1,en,CNA,North-America
 '03dafc5b61',extremes,Flood,#030ba1,wmo,Flooding Beauregard LA,2026-06-17T07:33:00+00:00,United States,0.6246427829222326,1,1,en,CNA,North-America
+'dae5ff763a',extremes,Flood,#030ba1,wmo,Flood Escambia AL,2026-06-19T07:39:00+00:00,United States,0.6246141050991012,1,1,en,CNA,North-America
 '1dbe90d3fb',extremes,Precipitation,#d60d2b,wmo,Precipitation Taranaki north of Eltham,2026-06-03T07:23:00+00:00,New Zealand,0.6246100955485846,1,1,en,NZ,Oceania
 '036c2f684c',extremes,Flood,#030ba1,wmo,Flood Atchison MO Holt MO Nodaway MO,2026-05-19T06:33:00+00:00,United States,0.6245842270829166,1,1,en,CNA,North-America
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ireland,2026-06-06T06:08:00+00:00,Ireland,0.6243923767178339,1,1,en,NEU,Europe
