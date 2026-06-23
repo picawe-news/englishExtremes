@@ -30,7 +30,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-05-06T05:43:00+00:00,New Zealand,0.7371307509172219,1,2,en,NZ,Oceania
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.7369887477713386,1,3,en,CNA,North-America
-'36ddc82534',extremes,Flood,#030ba1,wmo,Flooding Jones MS,2026-06-18T07:16:00+00:00,United States,0.7347280723422217,0,1,en,CNA,North-America
 '1ca7fa0ddf',extremes,Flood,#030ba1,wmo,Flood Baldwin AL,2026-06-19T07:39:00+00:00,United States,0.734569251628461,0,1,en,CNA,North-America
 '4d4bfe8c03',extremes,Flood,#030ba1,wmo,Flashflood Allen LA,2026-06-18T07:16:00+00:00,United States,0.7343991180054781,0,1,en,CNA,North-America
 '4af2ac755e',extremes,Flood,#030ba1,wmo,Flooding Labette KS Neosho KS,2026-06-09T06:32:00+00:00,United States,0.7342973291955941,0,1,en,CNA,North-America
@@ -316,6 +315,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '489f35ef04',extremes,Snow&Ice,#d60d2b,wmo,Freezing Kootenai Cabinet Region,2026-06-07T06:48:00+00:00,United States,0.6249410809827098,1,1,en,CNA,North-America
 '64c39a202a',extremes,Flood,#030ba1,wmo,Flood Bourbon KS,2026-06-14T07:07:00+00:00,United States,0.62492779079641,1,1,en,CNA,North-America
 '9c8994a67e',extremes,Storm,#b3b2b1,wmo,Storm inshore areas of south coast,2026-06-06T06:08:00+00:00,Jamaica,0.6248508884968894,1,1,en,CAR,North-America
+'36ddc82534',extremes,Flood,#030ba1,wmo,Flooding Jones MS,2026-06-18T07:16:00+00:00,United States,0.6248188914908884,1,1,en,CNA,North-America
 'a0a00630e5',extremes,Flood,#030ba1,wmo,Flooding Calcasieu LA,2026-05-22T06:32:00+00:00,United States,0.6248184458857362,1,1,en,CNA,North-America
 '72bc2580da',extremes,Flood,#030ba1,wmo,Flooding Greene IN Monroe IN Owen IN,2026-05-21T06:35:00+00:00,United States,0.6248147024867522,1,1,en,CNA,North-America
 '0c53337f1d',extremes,Flood,#030ba1,wmo,Flooding Daviess MO Livingston MO,2026-05-20T06:33:00+00:00,United States,0.6248117625240381,1,1,en,CNA,North-America
