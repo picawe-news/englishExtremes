@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-06-04T07:06:00+00:00,Australia,0.770871134694419,1,3,en,SAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-06-13T06:38:00+00:00,Australia,0.7707300693392217,1,2,en,EAU,Oceania
 'a679a52e44',extremes,Drought,#edc291,edo,Lack of Rain Bermuda,2026-05-23T05:53:00+00:00,Bermuda,0.7686787444696652,1,2,en,NAO,Atlantic Ocean
-'155c83286e',extremes,Precipitation,#d60d2b,wmo,Rain Coromandel Peninsula,2026-06-24T06:30:00+00:00,New Zealand,0.7612342734532954,0,1,en,NZ,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-05-17T06:01:00+00:00,United States,0.7595398637025114,1,3,en,CNA,North-America
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,heatwave New South Wales,2026-05-29T06:39:00+00:00,Australia,0.7578412484769658,1,2,en,EAU,Oceania
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-05-30T06:01:00+00:00,New Zealand,0.7571941626615679,1,3,en,NZ,Oceania
@@ -81,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-05-26T06:31:00+00:00,Jamaica,0.7240668241062183,1,3,en,CAR,North-America
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-06-02T07:08:00+00:00,Ireland,0.723124989649044,1,3,en,NEU,Europe
+'155c83286e',extremes,Precipitation,#d60d2b,wmo,Rain Coromandel Peninsula,2026-06-24T06:30:00+00:00,New Zealand,0.722349162435301,1,2,en,NZ,Oceania
 'f991b6ce73',extremes,Flood,#030ba1,wmo,Flood Tasmania Nile River,2026-05-28T06:38:00+00:00,Australia,0.7220617032056471,0,1,en,CAU,Oceania
 '0b5720b08c',extremes,Flood,#030ba1,wmo,Flood Kuskokwim Valley West,2026-05-10T05:51:00+00:00,United States,0.7218003744376721,0,1,en,CNA,North-America
 'ae2479763f',extremes,Flood,#030ba1,wmo,Flood Calcasieu LA,2026-05-24T06:22:00+00:00,United States,0.7214318380158657,0,1,en,CNA,North-America
