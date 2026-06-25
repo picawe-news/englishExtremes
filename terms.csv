@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-05-10T05:51:00+00:00,United States,0.7442150057895389,1,3,en,CNA,North-America
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-05-15T06:09:00+00:00,India,0.7432616606553467,1,3,en,SAS,Asia
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-06-14T07:07:00+00:00,Australia,0.7426912514480472,1,3,en,SAU,Oceania
-'9fc8372048',extremes,Storm,#b3b2b1,wmo,Storm Zimbabwe,2026-06-24T06:30:00+00:00,Zimbabwe,0.7425362395844731,0,1,en,ESAF,Africa
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7424534438877664,0,1,en,NZ,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,Flood Tasmania June July 2016,2026-06-24T06:30:00+00:00,Australia,0.7411097522314212,0,1,en,SAU,Oceania
@@ -168,6 +167,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3dc98006fe',extremes,Drought,#edc291,acwe,lack of rain Western Australia,2026-05-27T06:46:00+00:00,Australia,0.672790089429469,1,1,en,CAU,Oceania
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,cold spell Western Australia,2026-05-27T06:46:00+00:00,Australia,0.6723661426032657,1,1,en,CAU,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-05-25T06:53:00+00:00,Australia,0.6706546849389686,1,1,en,EAU,Oceania
+'9fc8372048',extremes,Storm,#b3b2b1,wmo,Storm Zimbabwe,2026-06-24T06:30:00+00:00,Zimbabwe,0.6692558636468021,1,1,en,ESAF,Africa
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-06-17T07:33:00+00:00,United States,0.6686182285031335,1,1,en,CNA,North-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-06-14T07:07:00+00:00,United States,0.6684120132884869,1,2,en,CNA,North-America
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2026-06-03T07:23:00+00:00,Australia,0.6682015991039953,1,2,en,CAU,Oceania
