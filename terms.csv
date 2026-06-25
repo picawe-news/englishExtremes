@@ -27,8 +27,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-05-15T06:09:00+00:00,India,0.7432616606553467,1,3,en,SAS,Asia
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-06-14T07:07:00+00:00,Australia,0.7426912514480472,1,3,en,SAU,Oceania
 '9fc8372048',extremes,Storm,#b3b2b1,wmo,Storm Zimbabwe,2026-06-24T06:30:00+00:00,Zimbabwe,0.7425362395844731,0,1,en,ESAF,Africa
+'19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7424534438877664,0,1,en,NZ,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
+'ec9681f6d8',extremes,Flood,#030ba1,aidr,Flood Tasmania June July 2016,2026-06-24T06:30:00+00:00,Australia,0.7411097522314212,0,1,en,SAU,Oceania
+'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7406522653686965,0,1,en,NZ,Oceania
+'fadb40c11c',extremes,Snow&Ice,#d60d2b,wmo,Frost Porters Pass SH73,2026-06-24T06:30:00+00:00,New Zealand,0.7402995745329022,0,1,en,NZ,Oceania
+'2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7402057233561855,0,1,en,NZ,Oceania
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
+'36c616e18a',extremes,Storm,#b3b2b1,wmo,Storm Northland north of Whangarei,2026-06-24T06:30:00+00:00,New Zealand,0.739577623321669,0,1,en,NZ,Oceania
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-05-06T05:43:00+00:00,New Zealand,0.7371307509172219,1,2,en,NZ,Oceania
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.7369887477713386,1,3,en,CNA,North-America
