@@ -27,9 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7430702001787767,1,3,en,NZ,Oceania
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-06-14T07:07:00+00:00,Australia,0.7426912514480472,1,3,en,SAU,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
-'a5c68ddd24',extremes,Snow&Ice,#d60d2b,wmo,Frost Lewis Pass SH7,2026-06-26T06:36:00+00:00,New Zealand,0.7408871292124242,0,1,en,NZ,Oceania
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
-'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-06-24T06:30:00+00:00,Belize,0.7393949603451245,0,1,en,SCA,North-America
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-06-26T06:36:00+00:00,Australia,0.7385032011137129,0,1,en,CAU,Oceania
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.7369887477713386,1,3,en,CNA,North-America
@@ -170,6 +168,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-06-14T07:07:00+00:00,Australia,0.6832787083483716,1,1,en,EAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,aidr,flooding Australia,2026-05-17T06:01:00+00:00,Australia,0.680345636870853,1,2,en,EAU,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,flooding Victoria,2026-06-15T08:36:00+00:00,Australia,0.6792824572998658,1,1,en,SAU,Oceania
+'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-06-24T06:30:00+00:00,Belize,0.6789357612933558,1,1,en,SCA,North-America
 'efa91cca03',extremes,Drought,#edc291,acwe,low water level Western Australia,2026-05-28T06:38:00+00:00,Australia,0.676668300757635,1,2,en,CAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,flooding South Australia,2026-06-04T07:06:00+00:00,Australia,0.6739374362907649,1,2,en,SAU,Oceania
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-05-22T06:32:00+00:00,Australia,0.6728369554486786,1,2,en,CAU,Oceania
@@ -276,6 +275,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a647af24a8',extremes,Heat Wave,#c40202,wmo,Heat Wave 21 districts of Telangana,2026-05-21T06:35:00+00:00,India,0.6302487640639409,1,1,en,SAS,Asia
 'a2b54029f9',extremes,Flood,#030ba1,wmo,Flooding Swan River near Minitonas,2026-06-09T06:32:00+00:00,Canada,0.6299679538400507,1,1,en,NEN,North-America
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,Flood Tasmania June July 2016,2026-06-24T06:30:00+00:00,Australia,0.629943289396708,1,1,en,SAU,Oceania
+'a5c68ddd24',extremes,Snow&Ice,#d60d2b,wmo,Frost Lewis Pass SH7,2026-06-26T06:36:00+00:00,New Zealand,0.6297540598305605,1,1,en,NZ,Oceania
 '9e25a471df',extremes,Snow Avalanche,#deddd5,wmo,Avalanche Mangan district of Sikkim,2026-05-18T06:38:00+00:00,India,0.62960989056369,1,1,en,SAS,Asia
 'ed14e615eb',extremes,Snow&Ice,#d60d2b,wmo,Frost Absaroka Beartooth Mountains,2026-06-13T06:38:00+00:00,United States,0.6295118583317494,1,1,en,CNA,North-America
 'fadb40c11c',extremes,Snow&Ice,#d60d2b,wmo,Frost Porters Pass SH73,2026-06-24T06:30:00+00:00,New Zealand,0.6292546383529668,1,1,en,NZ,Oceania
