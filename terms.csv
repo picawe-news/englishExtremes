@@ -28,7 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-06-14T07:07:00+00:00,Australia,0.7426912514480472,1,3,en,SAU,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
-'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-06-26T06:36:00+00:00,Australia,0.7385032011137129,0,1,en,CAU,Oceania
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.7369887477713386,1,3,en,CNA,North-America
 '6f79830807',extremes,Storm,#b3b2b1,wmo,Storm Whanganui,2026-06-26T06:36:00+00:00,New Zealand,0.736435198741467,0,1,en,NZ,Oceania
@@ -148,6 +147,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc1e91400a',extremes,Flood,#030ba1,wmo,Flooding Washington OH,2026-05-28T06:38:00+00:00,United States,0.7131243495710421,0,1,en,CNA,North-America
 'a38cc4859c',extremes,Earthquake,#870007,usgs,Earthquake Ruby,2026-05-22T06:31:00+00:00,United States,0.7130448768438303,0,1,en,NWN,North-America
 '32606aebaf',extremes,Fog,#d60d2b,wmo,Fog Schuylkill,2026-05-25T06:53:00+00:00,United States,0.7128859008570951,0,1,en,CNA,North-America
+'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-06-26T06:36:00+00:00,Australia,0.7099550982193832,1,3,en,CAU,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,cold weather Western Australia,2026-05-28T06:38:00+00:00,Australia,0.7089974750046165,1,1,en,CAU,Oceania
 '83c282088c',extremes,Precipitation,#d60d2b,acwe,heavy rain Northern Territory,2026-06-04T07:06:00+00:00,Australia,0.7040911354274506,1,2,en,NAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-06-17T07:34:00+00:00,Australia,0.7036747513094497,2,2,en,EAU,Oceania
