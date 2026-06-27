@@ -32,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.7369887477713386,1,3,en,CNA,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
-'d58c2b6c81',extremes,Flood,#030ba1,wmo,Flood George MS Greene MS,2026-06-17T07:33:00+00:00,United States,0.7332428491688563,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-06-07T06:48:00+00:00,United States,0.7331993950188727,1,3,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
 'eb5e82594e',extremes,Flood,#030ba1,wmo,Flashflood Jefferson MO St. Louis MO,2026-06-18T07:16:00+00:00,United States,0.7328928503381418,0,1,en,CNA,North-America
@@ -380,6 +379,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '066f4c5a46',extremes,Flood,#030ba1,wmo,Flood Marshall IL Putnam IL,2026-06-15T08:36:00+00:00,United States,0.6235814956621635,1,1,en,CNA,North-America
 '7fed9c5ffa',extremes,Flood,#030ba1,wmo,Flashflood Des Moines IA Henry IA Lee IA,2026-06-12T07:05:00+00:00,United States,0.6235671325248957,1,1,en,CNA,North-America
 'e3fd3edd10',extremes,Flood,#030ba1,wmo,Flood Parke IN Vermillion IN Vigo IN,2026-06-13T06:38:00+00:00,United States,0.6235170063425775,1,1,en,CNA,North-America
+'d58c2b6c81',extremes,Flood,#030ba1,wmo,Flood George MS Greene MS,2026-06-17T07:33:00+00:00,United States,0.6234064367935278,1,1,en,CNA,North-America
 'c90f8b42a0',extremes,Precipitation,#d60d2b,wmo,Rain Bay of Plenty east of Whakatane,2026-06-04T07:06:00+00:00,New Zealand,0.6233522153183833,1,1,en,NZ,Oceania
 '17723719d6',extremes,Flood,#030ba1,wmo,Flashflood Brookings SD,2026-06-08T07:13:00+00:00,United States,0.623291013294687,1,1,en,CNA,North-America
 '31c327c60a',extremes,Flood,#030ba1,wmo,Flood Marion MO,2026-06-14T07:07:00+00:00,United States,0.6232810892172554,1,1,en,CNA,North-America
