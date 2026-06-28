@@ -58,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1b499f1d11',extremes,Flood,#030ba1,wmo,Flashflood Gasconade MO Montgomery MO,2026-06-15T08:36:00+00:00,United States,0.7319036140110724,0,1,en,CNA,North-America
 '6227dca4a5',extremes,Flood,#030ba1,wmo,Flood St. Tammany LA,2026-06-17T07:33:00+00:00,United States,0.7318765281665153,0,1,en,CNA,North-America
 'da4a7db787',extremes,Flood,#030ba1,wmo,Flood McMullen TX,2026-06-19T07:39:00+00:00,United States,0.7317416965761514,0,1,en,CNA,North-America
+'a2febe259f',extremes,Heat Wave,#c40202,wmo,Heat Wave Kugaaruk,2026-06-27T06:08:00+00:00,Canada,0.7316772690450224,0,1,en,NEN,North-America
 'df0a733169',extremes,Flood,#030ba1,wmo,Flashflood Marshall IL Putnam IL,2026-06-21T07:16:00+00:00,United States,0.7316485622341365,0,1,en,CNA,North-America
 'f3691c259d',extremes,Flood,#030ba1,wmo,Flood La Salle IL,2026-06-13T06:38:00+00:00,United States,0.7315979094280316,0,1,en,CNA,North-America
 'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-06-23T06:33:00+00:00,Ireland,0.7315762078482012,0,1,en,NEU,Europe
@@ -89,6 +90,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4296da6029',extremes,Flood,#030ba1,wmo,Flashflood George MS,2026-06-20T06:47:00+00:00,United States,0.7299147166840254,0,1,en,CNA,North-America
 'a22d1b5c5d',extremes,Flood,#030ba1,wmo,Flood Clay IL Richland IL,2026-06-14T07:07:00+00:00,United States,0.729769038920123,0,1,en,CNA,North-America
 '1953d0e6b8',extremes,Flood,#030ba1,wmo,Flood Morgan IL Pike IL,2026-06-21T07:16:00+00:00,United States,0.7295570971343501,0,1,en,CNA,North-America
+'800b2252f9',extremes,Flood,#030ba1,wmo,Flood Angelina TX Nacogdoches TX,2026-06-19T07:39:00+00:00,United States,0.7294962065944828,0,1,en,CNA,North-America
+'31c2adc4a5',extremes,Flood,#030ba1,wmo,Flood Pawnee KS Stafford KS,2026-06-26T06:36:00+00:00,United States,0.729476914678188,0,1,en,CNA,North-America
+'203cc8dae0',extremes,Flood,#030ba1,wmo,Flashflood Parke IN Vermillion IN Vigo IN,2026-06-11T07:14:00+00:00,United States,0.7294423160103083,0,1,en,CNA,North-America
+'8d8f42fcdf',extremes,Flood,#030ba1,wmo,Flooding Henry IL Rock Island IL,2026-06-13T06:38:00+00:00,United States,0.7294008387336651,0,1,en,CNA,North-America
+'28ce74fedf',extremes,Flood,#030ba1,wmo,Flooding Washington LA Pearl River MS,2026-06-17T07:33:00+00:00,United States,0.7293471862270451,0,1,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-05-16T05:40:00+00:00,United States,0.7291827736102707,1,3,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
