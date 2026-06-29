@@ -88,6 +88,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
 '6087aa661b',extremes,Flood,#030ba1,wmo,Flooding Bexar TX Comal TX Kendall TX,2026-06-20T06:47:00+00:00,United States,0.7288504603867858,0,1,en,CNA,North-America
+'89dc905e43',extremes,Flood,#030ba1,wmo,Flashflood DeKalb GA Fulton GA,2026-06-11T07:14:00+00:00,United States,0.7287010622903449,0,1,en,CNA,North-America
+'4f08e7e227',extremes,Flood,#030ba1,wmo,Flashflood George MS Greene MS,2026-06-19T07:39:00+00:00,United States,0.7286772364980341,0,1,en,CNA,North-America
+'c34cf32b9b',extremes,Wildfire,#d60d2b,wmo,Wildfire White River,2026-06-28T06:44:00+00:00,United States,0.7285225682753418,0,1,en,CNA,North-America
+'d0c52dec2a',extremes,Flood,#030ba1,wmo,Flood Hardin TX,2026-06-18T07:16:00+00:00,United States,0.7280994581210721,0,1,en,CNA,North-America
+'d5302e3371',extremes,Flood,#030ba1,wmo,Flooding Reno KS Rice KS,2026-06-23T06:33:00+00:00,United States,0.7279011954471404,0,1,en,CNA,North-America
+'9803cfe28d',extremes,Flood,#030ba1,wmo,Flood Western Australia Murchison River,2026-06-11T07:14:00+00:00,Australia,0.7277573147480026,0,1,en,CAU,Oceania
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-05-26T06:31:00+00:00,Jamaica,0.7240668241062183,1,3,en,CAR,North-America
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-06-02T07:08:00+00:00,Ireland,0.723124989649044,1,3,en,NEU,Europe
