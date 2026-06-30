@@ -3,7 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-05-28T06:38:00+00:00,Canada,0.7926945000730963,1,2,en,NEN,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-05-16T05:40:00+00:00,United States,0.7851655407259148,1,3,en,CNA,North-America
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-05-28T06:38:00+00:00,India,0.7734621905399605,1,2,en,SAS,Asia
-'d77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-06-09T06:32:00+00:00,Canada,0.7729246902586917,1,3,en,NEN,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7723369477635039,1,3,en,CAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-06-04T07:06:00+00:00,Australia,0.770871134694419,1,3,en,SAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-06-13T06:38:00+00:00,Australia,0.7707300693392217,1,2,en,EAU,Oceania
@@ -32,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-06-07T06:48:00+00:00,United States,0.7331993950188727,1,3,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
 '08d45746fe',extremes,Flood,#030ba1,wmo,Flashflood Hancock IL McDonough IL,2026-06-11T07:14:00+00:00,United States,0.7312627912429142,0,1,en,CNA,North-America
-'c3485f30a4',extremes,Flood,#030ba1,wmo,Flashflood Jackson MS,2026-06-20T06:47:00+00:00,United States,0.7310427302127467,0,1,en,CNA,North-America
 '10227bea17',extremes,Flood,#030ba1,wmo,Flood Callaway MO Osage MO,2026-06-09T06:32:00+00:00,United States,0.7310080393144898,0,1,en,CNA,North-America
 '35008bd929',extremes,Flood,#030ba1,wmo,Flood Brazos TX Grimes TX Madison TX,2026-06-24T06:30:00+00:00,United States,0.7308503161929233,0,1,en,CNA,North-America
 '5564578888',extremes,Flood,#030ba1,wmo,Flood Nueces TX,2026-06-16T08:27:00+00:00,United States,0.7308183878497337,0,1,en,CNA,North-America
@@ -157,6 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-05-22T06:32:00+00:00,Australia,0.6728369554486786,1,2,en,CAU,Oceania
 '3dc98006fe',extremes,Drought,#edc291,acwe,lack of rain Western Australia,2026-05-27T06:46:00+00:00,Australia,0.672790089429469,1,1,en,CAU,Oceania
 'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,cold spell Western Australia,2026-05-27T06:46:00+00:00,Australia,0.6723661426032657,1,1,en,CAU,Oceania
+'d77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-06-09T06:32:00+00:00,Canada,0.671029325810797,2,3,en,NEN,North-America
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-05-25T06:53:00+00:00,Australia,0.6706546849389686,1,1,en,EAU,Oceania
 '9fc8372048',extremes,Storm,#b3b2b1,wmo,Storm Zimbabwe,2026-06-24T06:30:00+00:00,Zimbabwe,0.6692558636468021,1,1,en,ESAF,Africa
 'c5a25659a7',extremes,Flood,#030ba1,wmo,Flood Washington AL,2026-06-19T07:39:00+00:00,United States,0.6688773969365401,1,1,en,CNA,North-America
@@ -407,6 +406,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '561da0099d',extremes,Flood,#030ba1,wmo,Flooding Lower Yukon River,2026-05-22T06:32:00+00:00,United States,0.6214482390527821,1,1,en,CNA,North-America
 '1c9d5646aa',extremes,Flood,#030ba1,wmo,Flashflood Cedar MO,2026-06-09T06:32:00+00:00,United States,0.6214112492246509,1,1,en,CNA,North-America
 'b426bb2972',extremes,Heat Wave,#c40202,wmo,Heat Wave 12 districts of Telangana,2026-05-26T06:31:00+00:00,India,0.6214097450832585,1,1,en,SAS,Asia
+'c3485f30a4',extremes,Flood,#030ba1,wmo,Flashflood Jackson MS,2026-06-20T06:47:00+00:00,United States,0.6213863206808347,1,1,en,CNA,North-America
 'd676939da0',extremes,Flood,#030ba1,wmo,Flooding Shawnee KS,2026-06-09T06:32:00+00:00,United States,0.6212760662041188,1,1,en,CNA,North-America
 'ad29dda84e',extremes,Flood,#030ba1,wmo,Flashflood Vernon MO,2026-05-22T06:32:00+00:00,United States,0.6211568595423697,1,1,en,CNA,North-America
 '03c3d19d37',extremes,Flood,#030ba1,wmo,Flood Jackson MO Lafayette MO Ray MO,2026-06-08T07:13:00+00:00,United States,0.621140860067424,1,1,en,CNA,North-America
