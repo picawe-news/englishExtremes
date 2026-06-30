@@ -33,13 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-06-07T06:48:00+00:00,United States,0.7331993950188727,1,3,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
-'b947ff4a0d',extremes,Flood,#030ba1,wmo,Flood Benton IA Iowa IA,2026-06-20T06:47:00+00:00,United States,0.7315444024340158,0,1,en,CNA,North-America
-'450b6181bf',extremes,Flood,#030ba1,wmo,Flood Tangipahoa LA,2026-06-17T07:33:00+00:00,United States,0.7314743783639324,0,1,en,CNA,North-America
-'a82aa8ab78',extremes,Flood,#030ba1,wmo,Flooding La Salle IL,2026-06-14T07:07:00+00:00,United States,0.7314658680853041,0,1,en,CNA,North-America
-'a005060411',extremes,Flood,#030ba1,wmo,Flooding Madison IL St. Charles MO,2026-06-17T07:33:00+00:00,United States,0.7314522656897402,0,1,en,CNA,North-America
-'0d723a0b96',extremes,Flood,#030ba1,wmo,Flood Henderson TX Navarro TX,2026-06-10T06:49:00+00:00,United States,0.7314152158161058,0,1,en,CNA,North-America
-'8f4aa123cb',extremes,Flood,#030ba1,wmo,Flooding Marion MO,2026-06-12T07:05:00+00:00,United States,0.7314150693400504,0,1,en,CNA,North-America
-'ed3ff708c6',extremes,Flood,#030ba1,wmo,Flood Cook IL Lake IN,2026-06-13T06:38:00+00:00,United States,0.7314149874071283,0,1,en,CNA,North-America
 'e969b17a0a',extremes,Flood,#030ba1,wmo,Flashflood Dearborn IN Ripley IN,2026-06-18T07:16:00+00:00,United States,0.7312929235919976,0,1,en,CNA,North-America
 '08d45746fe',extremes,Flood,#030ba1,wmo,Flashflood Hancock IL McDonough IL,2026-06-11T07:14:00+00:00,United States,0.7312627912429142,0,1,en,CNA,North-America
 'c66942d785',extremes,Flood,#030ba1,wmo,Flashflood Rapides LA,2026-06-17T07:33:00+00:00,United States,0.7311719716834489,0,1,en,CNA,North-America
@@ -123,7 +116,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '556e3a71cf',extremes,Snow&Ice,#d60d2b,wmo,Frost Lower Snake River Plain,2026-05-19T06:33:00+00:00,United States,0.716895567088068,0,1,en,CNA,North-America
 'b34bb91f6f',extremes,Flood,#030ba1,wmo,Flashflood Tattnall GA Toombs GA,2026-06-03T07:23:00+00:00,United States,0.7168313301242563,0,1,en,CNA,North-America
 '812f1b244b',extremes,Storm,#b3b2b1,wmo,Storm Queensland Gold Coast Waters,2026-05-27T06:46:00+00:00,Australia,0.7167728241824385,0,1,en,CAU,Oceania
-'5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-05-15T06:09:00+00:00,India,0.7167255797203799,0,1,en,SAS,Asia
 '1ae0d2b3d9',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Huon River above Tahune,2026-06-04T07:06:00+00:00,Australia,0.7167187031446712,0,1,en,CAU,Oceania
 'ca40f582d3',extremes,Flood,#030ba1,wmo,Flooding Lake MN St. Louis MN,2026-05-16T05:40:00+00:00,United States,0.7163128946080441,0,1,en,CNA,North-America
 'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-05-24T06:22:00+00:00,Solomon Islands,0.7162618559963154,0,1,en,SPO,Pacific Ocean
@@ -253,7 +245,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9f2e1fd37',extremes,Flood,#030ba1,wmo,Flood Aberfoyle,2026-06-20T06:47:00+00:00,United Kingdom,0.6313043913355529,1,1,en,NEU,Europe
 'fee1ae9537',extremes,Heat Wave,#c40202,wmo,Heat Wave 19 districts of Andhra Pradesh,2026-05-20T06:33:00+00:00,India,0.6311617345458616,1,1,en,SAS,Asia
 'edbb71e87d',extremes,Snow&Ice,#d60d2b,wmo,Snow New South Wales Snowy Mountains,2026-06-18T07:16:00+00:00,Australia,0.631115107756212,1,1,en,CAU,Oceania
-'279d701798',extremes,Flood,#030ba1,wmo,Flooding South Australia Cooper Creek,2026-05-19T06:33:00+00:00,Australia,0.6310295124955505,1,1,en,CAU,Oceania
 '828fe03351',extremes,Snow&Ice,#d60d2b,wmo,Ice New South Wales Snowy Mountains,2026-06-19T07:39:00+00:00,Australia,0.6309296151949321,1,1,en,CAU,Oceania
 '1617e554bb',extremes,Storm,#b3b2b1,wmo,Storm Surge Coastal and offshore areas.,2026-06-13T06:38:00+00:00,Belize,0.6308939511390392,1,1,en,SCA,North-America
 'b7181b9ed3',extremes,Storm,#b3b2b1,wmo,Storm Inverness County Mabou and north,2026-06-16T08:27:00+00:00,Canada,0.6307049250035326,1,1,en,NEN,North-America
@@ -280,7 +271,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd97049f07',extremes,Fog,#d60d2b,wmo,Fog Cambridge Bay,2026-05-27T06:46:00+00:00,Canada,0.628177701286302,1,1,en,NEN,North-America
 '7a1d28bed6',extremes,Fog,#d60d2b,wmo,Fog Marquette to Munising MI,2026-06-11T07:14:00+00:00,United States,0.6281431714125876,1,1,en,CNA,North-America
 '8f81ae7873',extremes,Wildfire,#d60d2b,wmo,Wildfire Mojave Desert,2026-06-18T07:16:00+00:00,United States,0.6280326743914176,1,1,en,CNA,North-America
-'725f6ebb24',extremes,Fog,#d60d2b,wmo,Fog Southern Schoolcraft,2026-05-19T06:33:00+00:00,United States,0.6280172820505059,1,1,en,CNA,North-America
 '1832ba612c',extremes,Flood,#030ba1,wmo,Flashflood Okaloosa FL,2026-06-18T07:16:00+00:00,United States,0.6280020497476171,1,1,en,CNA,North-America
 '63a6136750',extremes,Flood,#030ba1,wmo,Flooding Allen LA Jefferson Davis LA,2026-06-17T07:33:00+00:00,United States,0.6276929342128191,1,1,en,CNA,North-America
 '006a8af217',extremes,Fog,#d60d2b,wmo,Fog Allen Neosho Labette,2026-05-24T06:22:00+00:00,United States,0.6275209597495984,1,1,en,CNA,North-America
@@ -290,17 +280,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd30c917012',extremes,Flood,#030ba1,wmo,Flood Hancock MS,2026-06-15T08:36:00+00:00,United States,0.6270413749274149,1,1,en,CNA,North-America
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,warm spell Victoria,2026-06-13T06:38:00+00:00,Australia,0.6269749093132213,2,1,en,SAU,Oceania
 'c2aa66a9b9',extremes,Flood,#030ba1,wmo,Flooding Vernon MO,2026-06-11T07:14:00+00:00,United States,0.6269690749627269,1,1,en,CNA,North-America
-'3165e28bb1',extremes,Flood,#030ba1,wmo,Flood Ray MO,2026-05-19T06:33:00+00:00,United States,0.6269151835785656,1,1,en,CNA,North-America
-'c10bcaa20f',extremes,Flood,#030ba1,wmo,Flashflood Howard MO,2026-05-19T06:33:00+00:00,United States,0.6268865367477132,1,1,en,CNA,North-America
 '4693588522',extremes,Precipitation,#d60d2b,wmo,Downpour Ranges of Buller,2026-05-29T06:38:00+00:00,New Zealand,0.62686420537652,1,1,en,NZ,Oceania
 'ed5655acf2',extremes,Flood,#030ba1,wmo,Flood South Australia Warburton,2026-05-29T06:38:00+00:00,Australia,0.6267520498903293,1,1,en,CAU,Oceania
 '92dbe971ce',extremes,Flood,#030ba1,wmo,Flooding Christian MO Stone MO,2026-06-15T08:36:00+00:00,United States,0.6267464890973027,1,1,en,CNA,North-America
-'346b61fbb0',extremes,Flood,#030ba1,wmo,Flooding Andrew MO Buchanan MO,2026-05-19T06:33:00+00:00,United States,0.6267239192655315,1,1,en,CNA,North-America
 '0e378c6670',extremes,Precipitation,#d60d2b,wmo,Precipitation Taranaki Maunga,2026-05-30T06:01:00+00:00,New Zealand,0.6266738013015279,1,1,en,NZ,Oceania
 'f595423c06',extremes,Precipitation,#d60d2b,wmo,Precipitation Coromandel Peninsula,2026-06-01T07:30:00+00:00,New Zealand,0.6266227139949493,1,1,en,NZ,Oceania
 '838147e1f7',extremes,Flood,#030ba1,wmo,Flooding New South Wales Wilsons River,2026-05-20T06:33:00+00:00,Australia,0.6266009046289537,1,1,en,CAU,Oceania
 '05bb77075e',extremes,Flood,#030ba1,wmo,Flooding Jackson MO Lafayette MO Ray MO,2026-05-20T06:33:00+00:00,United States,0.6265303056942378,1,1,en,CNA,North-America
-'ba36240601',extremes,Flood,#030ba1,wmo,Flashflood Marshall KS,2026-05-19T06:33:00+00:00,United States,0.6264240451532765,1,1,en,CNA,North-America
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,Storm Northland,2026-06-01T07:30:00+00:00,New Zealand,0.6263520739948496,1,1,en,NZ,Oceania
 '05f85ef615',extremes,Flood,#030ba1,wmo,Flashflood Fulton IL Knox IL,2026-06-13T06:38:00+00:00,United States,0.6262338789547167,1,1,en,CNA,North-America
 '386d2eebd7',extremes,Flood,#030ba1,wmo,Flooding Clinton IA Scott IA,2026-06-14T07:07:00+00:00,United States,0.6261805778045019,1,1,en,CNA,North-America
@@ -331,7 +317,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '36ddc82534',extremes,Flood,#030ba1,wmo,Flooding Jones MS,2026-06-18T07:16:00+00:00,United States,0.6248188914908884,1,1,en,CNA,North-America
 'a0a00630e5',extremes,Flood,#030ba1,wmo,Flooding Calcasieu LA,2026-05-22T06:32:00+00:00,United States,0.6248184458857362,1,1,en,CNA,North-America
 '72bc2580da',extremes,Flood,#030ba1,wmo,Flooding Greene IN Monroe IN Owen IN,2026-05-21T06:35:00+00:00,United States,0.6248147024867522,1,1,en,CNA,North-America
-'0c53337f1d',extremes,Flood,#030ba1,wmo,Flooding Daviess MO Livingston MO,2026-05-20T06:33:00+00:00,United States,0.6248117625240381,1,1,en,CNA,North-America
 '13b7157ed9',extremes,Earthquake,#870007,usgs,Earthquake Barbados,2026-05-31T06:40:00+00:00,Barbados,0.6247760319714484,1,1,en,NSA,South-America
 'b8e06c079f',extremes,Flood,#030ba1,wmo,Flashflood Monroe MO,2026-06-12T07:05:00+00:00,United States,0.6247095459647577,1,1,en,CNA,North-America
 '197b0ac89e',extremes,Heat Wave,#c40202,wmo,Heat Wave Coral Harbour,2026-06-23T06:33:00+00:00,Canada,0.6246714632033625,1,1,en,NEN,North-America
@@ -348,7 +333,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b115e798f',extremes,Flood,#030ba1,wmo,Flooding Louisa IA,2026-06-13T06:38:00+00:00,United States,0.6242905047027292,1,1,en,CNA,North-America
 '55a6c15c8a',extremes,Wildfire,#d60d2b,wmo,Wildfire Tavaputs Plateau San Rafael Swell,2026-05-27T06:46:00+00:00,United States,0.6242749194890087,1,1,en,CNA,North-America
 '4d4bfe8c03',extremes,Flood,#030ba1,wmo,Flashflood Allen LA,2026-06-18T07:16:00+00:00,United States,0.6242392503046563,1,1,en,CNA,North-America
-'3300eff866',extremes,Flood,#030ba1,wmo,Flashflood Johnson MO Pettis MO,2026-05-20T06:33:00+00:00,United States,0.6241988189833839,1,1,en,CNA,North-America
 '4af2ac755e',extremes,Flood,#030ba1,wmo,Flooding Labette KS Neosho KS,2026-06-09T06:32:00+00:00,United States,0.6241527298162549,1,1,en,CNA,North-America
 '9727592806',extremes,Flood,#030ba1,wmo,Flashflood Andrew MO Nodaway MO,2026-06-12T07:05:00+00:00,United States,0.6240720005695424,1,1,en,CNA,North-America
 'f1c8f5f50f',extremes,Drought,#edc291,edo,Lack of Rain South Sudan,2026-05-22T06:32:00+00:00,South Sudan,0.624020704781151,1,1,en,NEAF,Africa
@@ -381,7 +365,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43a3482d04',extremes,Flood,#030ba1,wmo,Flashflood Angelina TX Nacogdoches TX,2026-06-17T07:33:00+00:00,United States,0.6229069818221532,1,1,en,CNA,North-America
 'fd15a1b9c6',extremes,Flood,#030ba1,wmo,Flood Clarke MS,2026-06-20T06:47:00+00:00,United States,0.6228795744786836,1,1,en,CNA,North-America
 '4847969641',extremes,Snow&Ice,#d60d2b,wmo,Snow Northern Elko County,2026-06-27T06:08:00+00:00,United States,0.6228053739073233,1,1,en,CNA,North-America
-'4784009692',extremes,Flood,#030ba1,wmo,Flooding Atchison MO Holt MO,2026-05-20T06:33:00+00:00,United States,0.6227666011525874,1,1,en,CNA,North-America
 '04775c6cc2',extremes,Flood,#030ba1,wmo,Flood Allen LA Jefferson Davis LA,2026-06-19T07:39:00+00:00,United States,0.6227271484238952,1,1,en,CNA,North-America
 '7880553eb9',extremes,Flood,#030ba1,wmo,Flooding Vernon LA,2026-06-16T08:27:00+00:00,United States,0.6227173424149752,1,1,en,CNA,North-America
 'd0fcb12863',extremes,Flood,#030ba1,wmo,Flooding Brazos TX Burleson TX,2026-06-15T08:36:00+00:00,United States,0.6226933467662931,1,1,en,CNA,North-America
@@ -396,13 +379,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbc9f3fe89',extremes,Flood,#030ba1,wmo,Flashflood Louisa IA,2026-06-19T07:39:00+00:00,United States,0.6223832872359317,1,1,en,CNA,North-America
 '023de09fc6',extremes,Flood,#030ba1,wmo,Flood Cotton OK,2026-06-07T06:48:00+00:00,United States,0.6223269948864599,1,1,en,CNA,North-America
 '9ef284af82',extremes,Flood,#030ba1,wmo,Flooding Ottawa OK,2026-06-12T07:05:00+00:00,United States,0.6223042400537642,1,1,en,CNA,North-America
-'4a3257679a',extremes,Flood,#030ba1,wmo,Flashflood Calcasieu LA,2026-05-20T06:33:00+00:00,United States,0.6222985231167022,1,1,en,CNA,North-America
 '4ae71b3764',extremes,Flood,#030ba1,wmo,Flood Platte MO,2026-06-08T07:13:00+00:00,United States,0.6222707510780818,1,1,en,CNA,North-America
 'f9dd6070c7',extremes,Storm,#b3b2b1,wmo,Storm inshore areas of north coast,2026-06-16T08:27:00+00:00,Jamaica,0.6221871770702857,1,1,en,CAR,North-America
 '1335513c95',extremes,Flood,#030ba1,wmo,Flood Daviess IN Greene IN Knox IN,2026-05-22T06:32:00+00:00,United States,0.6221809319538184,1,1,en,CNA,North-America
 'b5b616bd5b',extremes,Thunderstorm,#53785a,wmo,Severe Weather Ghana,2026-06-09T06:32:00+00:00,Ghana,0.6221730266429307,1,1,en,WAF,Africa
 '9b88f11582',extremes,Flood,#030ba1,wmo,Flood East Baton Rouge LA,2026-06-18T07:16:00+00:00,United States,0.6221508676585453,1,1,en,CNA,North-America
-'99a7dc685f',extremes,Flood,#030ba1,wmo,Flooding Cooper MO Saline MO,2026-05-20T06:33:00+00:00,United States,0.6221496522754258,1,1,en,CNA,North-America
 'b0afdf12a2',extremes,Flood,#030ba1,wmo,Flood St. Clair MO Vernon MO,2026-05-23T05:53:00+00:00,United States,0.622149255349489,1,1,en,CNA,North-America
 '322998e94c',extremes,Flood,#030ba1,wmo,Flood Creek OK,2026-06-07T06:48:00+00:00,United States,0.6221366831731809,1,1,en,CNA,North-America
 '1b499f1d11',extremes,Flood,#030ba1,wmo,Flashflood Gasconade MO Montgomery MO,2026-06-15T08:36:00+00:00,United States,0.6221180719094115,1,1,en,CNA,North-America
@@ -413,21 +394,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df0a733169',extremes,Flood,#030ba1,wmo,Flashflood Marshall IL Putnam IL,2026-06-21T07:16:00+00:00,United States,0.6219012778990161,1,1,en,CNA,North-America
 'becb964f85',extremes,Flood,#030ba1,wmo,Flood Bartholomew IN,2026-05-21T06:35:00+00:00,United States,0.6218738473967869,1,1,en,CNA,North-America
 'f3691c259d',extremes,Flood,#030ba1,wmo,Flood La Salle IL,2026-06-13T06:38:00+00:00,United States,0.6218582230138269,1,1,en,CNA,North-America
+'ed3ff708c6',extremes,Flood,#030ba1,wmo,Flood Cook IL Lake IN,2026-06-13T06:38:00+00:00,United States,0.621852754296059,1,1,en,CNA,North-America
+'b947ff4a0d',extremes,Flood,#030ba1,wmo,Flood Benton IA Iowa IA,2026-06-20T06:47:00+00:00,United States,0.6218127420689133,1,1,en,CNA,North-America
+'450b6181bf',extremes,Flood,#030ba1,wmo,Flood Tangipahoa LA,2026-06-17T07:33:00+00:00,United States,0.6217532216093425,1,1,en,CNA,North-America
+'a82aa8ab78',extremes,Flood,#030ba1,wmo,Flooding La Salle IL,2026-06-14T07:07:00+00:00,United States,0.6217459878725085,1,1,en,CNA,North-America
+'a005060411',extremes,Flood,#030ba1,wmo,Flooding Madison IL St. Charles MO,2026-06-17T07:33:00+00:00,United States,0.6217344258362791,1,1,en,CNA,North-America
 '0d6dea08f4',extremes,Flood,#030ba1,wmo,Flood Gasconade MO Montgomery MO,2026-05-21T06:35:00+00:00,United States,0.6217191537181428,1,1,en,CNA,North-America
+'0d723a0b96',extremes,Flood,#030ba1,wmo,Flood Henderson TX Navarro TX,2026-06-10T06:49:00+00:00,United States,0.6217029334436899,1,1,en,CNA,North-America
+'8f4aa123cb',extremes,Flood,#030ba1,wmo,Flooding Marion MO,2026-06-12T07:05:00+00:00,United States,0.6217028089390428,1,1,en,CNA,North-America
 'b795aa46fe',extremes,Flood,#030ba1,wmo,Flooding Platte MO,2026-05-21T06:35:00+00:00,United States,0.6215389043272456,1,1,en,CNA,North-America
 '88760b13a5',extremes,Wildfire,#d60d2b,wmo,Wildfire Western Mogollon Rim,2026-06-06T06:08:00+00:00,United States,0.6214627769156582,1,1,en,CNA,North-America
 '561da0099d',extremes,Flood,#030ba1,wmo,Flooding Lower Yukon River,2026-05-22T06:32:00+00:00,United States,0.6214482390527821,1,1,en,CNA,North-America
 '1c9d5646aa',extremes,Flood,#030ba1,wmo,Flashflood Cedar MO,2026-06-09T06:32:00+00:00,United States,0.6214112492246509,1,1,en,CNA,North-America
 'b426bb2972',extremes,Heat Wave,#c40202,wmo,Heat Wave 12 districts of Telangana,2026-05-26T06:31:00+00:00,India,0.6214097450832585,1,1,en,SAS,Asia
-'58670f8693',extremes,Flood,#030ba1,wmo,Flashflood Linn KS,2026-05-20T06:33:00+00:00,United States,0.6213572500910378,1,1,en,CNA,North-America
 'd676939da0',extremes,Flood,#030ba1,wmo,Flooding Shawnee KS,2026-06-09T06:32:00+00:00,United States,0.6212760662041188,1,1,en,CNA,North-America
 'ad29dda84e',extremes,Flood,#030ba1,wmo,Flashflood Vernon MO,2026-05-22T06:32:00+00:00,United States,0.6211568595423697,1,1,en,CNA,North-America
 '03c3d19d37',extremes,Flood,#030ba1,wmo,Flood Jackson MO Lafayette MO Ray MO,2026-06-08T07:13:00+00:00,United States,0.621140860067424,1,1,en,CNA,North-America
-'ecf364a779',extremes,Flood,#030ba1,wmo,Flooding Carroll MO Chariton MO,2026-05-20T06:33:00+00:00,United States,0.6211229590414622,1,1,en,CNA,North-America
 '3af227983a',extremes,Flood,#030ba1,wmo,Flood Cherokee OK,2026-06-10T06:49:00+00:00,United States,0.6209426711305719,1,1,en,CNA,North-America
 '3cdfc55da1',extremes,Flood,#030ba1,wmo,Flooding Bartholomew IN Jackson IN,2026-05-21T06:35:00+00:00,United States,0.6208621470141664,1,1,en,CNA,North-America
 '01395aaafe',extremes,Earthquake,#870007,usgs,Earthquake Pistol River,2026-06-04T07:06:00+00:00,United States,0.6207178672411456,1,1,en,WNA,North-America
-'d85a303050',extremes,Flood,#030ba1,wmo,Flood Cass MO Henry MO Johnson MO,2026-05-20T06:33:00+00:00,United States,0.6207027065441315,1,1,en,CNA,North-America
 '02ef1fed03',extremes,Flood,#030ba1,wmo,Flooding Cass MO Henry MO Johnson MO,2026-05-21T06:35:00+00:00,United States,0.62062598360434,1,1,en,CNA,North-America
 '090ba39579',extremes,Flood,#030ba1,wmo,Flood Hood TX Somervell TX,2026-06-07T06:48:00+00:00,United States,0.6205051548830518,1,1,en,CNA,North-America
 '6074c22f0c',extremes,Flood,#030ba1,wmo,Flood Tuscarawas OH,2026-05-24T06:22:00+00:00,United States,0.620356096755848,1,1,en,CNA,North-America
@@ -436,13 +421,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b368e06a87',extremes,Flood,#030ba1,wmo,Flooding Hardin TX Jefferson TX,2026-06-10T06:49:00+00:00,United States,0.6200448203682946,1,1,en,CNA,North-America
 '1b67830f24',extremes,Fog,#d60d2b,wmo,Fog Grand Marais to Whitefish Point MI,2026-05-25T06:53:00+00:00,United States,0.6200175554076098,1,1,en,CNA,North-America
 'd31037ce6f',extremes,Flood,#030ba1,wmo,Flood Cole MO,2026-06-01T07:30:00+00:00,United States,0.6197729631115284,1,1,en,CNA,North-America
-'7ffad62dbd',extremes,Flood,#030ba1,wmo,Flashflood St. Clair MO Vernon MO,2026-05-20T06:33:00+00:00,United States,0.6196004003084623,1,1,en,CNA,North-America
 'de9742ee3f',extremes,Flood,#030ba1,wmo,Flooding Buchanan MO,2026-06-08T07:13:00+00:00,United States,0.6195611349208642,1,1,en,CNA,North-America
 'b9d7aed98a',extremes,Flood,#030ba1,wmo,Flooding Cherokee KS Labette KS,2026-06-09T06:32:00+00:00,United States,0.6194155678092416,1,1,en,CNA,North-America
 'd88386e2a8',extremes,Flood,#030ba1,wmo,Flashflood Ottawa OH Sandusky OH,2026-06-10T06:49:00+00:00,United States,0.6193099153267784,1,1,en,CNA,North-America
 '733c793a68',extremes,Flood,#030ba1,wmo,Flashflood Linn MO Livingston MO,2026-05-21T06:35:00+00:00,United States,0.6191160696504794,1,1,en,CNA,North-America
 'ac3b2bbfbf',extremes,Storm,#b3b2b1,wmo,Storm Surge inshore areas of south coast,2026-06-07T06:48:00+00:00,Jamaica,0.6190931097581465,1,1,en,CAR,North-America
-'d259697120',extremes,Flood,#030ba1,wmo,Flashflood Williamson TX,2026-05-20T06:33:00+00:00,United States,0.6190484676821852,1,1,en,CNA,North-America
 '5e0c447e93',extremes,Flood,#030ba1,wmo,Flashflood Chelan WA,2026-05-29T06:38:00+00:00,United States,0.6190101319966963,1,1,en,CNA,North-America
 'e8987f9879',extremes,Wildfire,#d60d2b,wmo,Wildfire Colorado River Headwaters,2026-06-06T06:08:00+00:00,United States,0.618968709190258,1,1,en,CNA,North-America
 'cc2bb4bde0',extremes,Flood,#030ba1,wmo,Flashflood Taylor TX,2026-06-06T06:08:00+00:00,United States,0.6187675430848945,1,1,en,CNA,North-America
@@ -461,7 +444,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8afffcd7b9',extremes,Flood,#030ba1,wmo,Flood Andrew MO Buchanan MO,2026-05-21T06:35:00+00:00,United States,0.6169196069037411,1,1,en,CNA,North-America
 'db607e599a',extremes,Flood,#030ba1,wmo,Flood Holmes OH Wayne OH,2026-05-26T06:31:00+00:00,United States,0.616841915613786,1,1,en,CNA,North-America
 '7bc4b99bbc',extremes,Flood,#030ba1,wmo,Flashflood Andrew MO Buchanan MO,2026-06-07T06:48:00+00:00,United States,0.6167984750955507,1,1,en,CNA,North-America
-'66e7fd7a8b',extremes,Flood,#030ba1,wmo,Flood Cooper MO,2026-05-20T06:33:00+00:00,United States,0.6167823081153538,1,1,en,CNA,North-America
 '1af3c144cd',extremes,Flood,#030ba1,wmo,Flooding Brookings SD Hamlin SD,2026-06-07T06:48:00+00:00,United States,0.6158406239510571,1,1,en,CNA,North-America
 '473574f4c8',extremes,Wildfire,#d60d2b,wmo,Wildfire Lower Colorado River,2026-06-06T06:08:00+00:00,United States,0.6158328583339907,1,1,en,CNA,North-America
 '18e8ea2c01',extremes,Flood,#030ba1,wmo,Flashflood Forsyth GA Fulton GA,2026-05-26T06:31:00+00:00,United States,0.6156170317348031,1,1,en,CNA,North-America
