@@ -24,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
 '279d701798',extremes,Flood,#030ba1,wmo,Flooding South Australia Cooper Creek,2026-06-11T07:14:00+00:00,Australia,0.741290639028525,0,1,en,CAU,Oceania
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
-'ce4d5cd14d',extremes,Storm,#b3b2b1,wmo,Storm Surge Most waters,2026-06-30T06:39:00+00:00,Solomon Islands,0.7395560686991027,0,1,en,EPO,Oceania
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.7369887477713386,1,3,en,CNA,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
@@ -254,6 +253,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '668e74fb1c',extremes,Earthquake,#870007,usgs,Earthquake Micronesia,2026-06-23T06:32:00+00:00,Micronesia,0.6299768800912346,1,1,en,NPO,Pacific Ocean
 'a2b54029f9',extremes,Flood,#030ba1,wmo,Flooding Swan River near Minitonas,2026-06-09T06:32:00+00:00,Canada,0.6299679538400507,1,1,en,NEN,North-America
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,Flood Tasmania June July 2016,2026-06-24T06:30:00+00:00,Australia,0.629943289396708,1,1,en,SAU,Oceania
+'ce4d5cd14d',extremes,Storm,#b3b2b1,wmo,Storm Surge Most waters,2026-06-30T06:39:00+00:00,Solomon Islands,0.6298227933942373,1,1,en,EPO,Oceania
 'a5c68ddd24',extremes,Snow&Ice,#d60d2b,wmo,Frost Lewis Pass SH7,2026-06-26T06:36:00+00:00,New Zealand,0.6297540598305605,1,1,en,NZ,Oceania
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-06-26T06:36:00+00:00,Australia,0.6296172448994309,1,1,en,CAU,Oceania
 'ed14e615eb',extremes,Snow&Ice,#d60d2b,wmo,Frost Absaroka Beartooth Mountains,2026-06-13T06:38:00+00:00,United States,0.6295118583317494,1,1,en,CNA,North-America
