@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-05-16T05:40:00+00:00,United States,0.7851655407259148,1,3,en,CNA,North-America
 'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,Wildfire Uttarakhand,2026-05-28T06:38:00+00:00,India,0.7734621905399605,1,2,en,SAS,Asia
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7723369477635039,1,3,en,CAU,Oceania
+'fba3cf44a2',extremes,Flood,#030ba1,wmo,Flood Cooper MO Saline MO,2026-06-15T08:36:00+00:00,United States,0.7709933000034588,1,2,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-06-04T07:06:00+00:00,Australia,0.770871134694419,1,3,en,SAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-06-13T06:38:00+00:00,Australia,0.7707300693392217,1,2,en,EAU,Oceania
 'a679a52e44',extremes,Drought,#edc291,edo,Lack of Rain Bermuda,2026-05-23T05:53:00+00:00,Bermuda,0.7686787444696652,1,2,en,NAO,Atlantic Ocean
@@ -26,9 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72621058c9',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern San Juan,2026-06-16T08:27:00+00:00,United States,0.7337913959345312,2,2,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-06-07T06:48:00+00:00,United States,0.7331993950188727,1,3,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
-'b02ec47c6e',extremes,Flood,#030ba1,wmo,Flashflood St. Tammany LA,2026-06-18T07:16:00+00:00,United States,0.7305312452652258,0,1,en,CNA,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-06-09T06:32:00+00:00,Canada,0.7305283855232706,1,3,en,NEN,North-America
-'fba3cf44a2',extremes,Flood,#030ba1,wmo,Flood Cooper MO Saline MO,2026-06-15T08:36:00+00:00,United States,0.7304038647099514,0,1,en,CNA,North-America
 '327c838b2f',extremes,Flood,#030ba1,wmo,Flood George MS Greene MS Perry MS,2026-06-19T07:39:00+00:00,United States,0.7302501955722334,0,1,en,CNA,North-America
 '7779bea202',extremes,Flood,#030ba1,wmo,Flooding Pike MS Walthall MS,2026-06-17T07:33:00+00:00,United States,0.7301180299343499,0,1,en,CNA,North-America
 '637b2aad94',extremes,Precipitation,#d60d2b,wmo,Precipitation Fiordland north of Doubtful Sound,2026-06-14T07:07:00+00:00,New Zealand,0.7300917848096768,0,1,en,NZ,Oceania
@@ -401,6 +400,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5564578888',extremes,Flood,#030ba1,wmo,Flood Nueces TX,2026-06-16T08:27:00+00:00,United States,0.6211956296722737,1,1,en,CNA,North-America
 '03c3d19d37',extremes,Flood,#030ba1,wmo,Flood Jackson MO Lafayette MO Ray MO,2026-06-08T07:13:00+00:00,United States,0.621140860067424,1,1,en,CNA,North-America
 '88f8b5429a',extremes,Flood,#030ba1,wmo,Flooding Pike IL Scott IL,2026-06-17T07:33:00+00:00,United States,0.6210623647187298,1,1,en,CNA,North-America
+'b02ec47c6e',extremes,Flood,#030ba1,wmo,Flashflood St. Tammany LA,2026-06-18T07:16:00+00:00,United States,0.6209515584754419,1,1,en,CNA,North-America
 '3af227983a',extremes,Flood,#030ba1,wmo,Flood Cherokee OK,2026-06-10T06:49:00+00:00,United States,0.6209426711305719,1,1,en,CNA,North-America
 '01395aaafe',extremes,Earthquake,#870007,usgs,Earthquake Pistol River,2026-06-04T07:06:00+00:00,United States,0.6207178672411456,1,1,en,WNA,North-America
 '090ba39579',extremes,Flood,#030ba1,wmo,Flood Hood TX Somervell TX,2026-06-07T06:48:00+00:00,United States,0.6205051548830518,1,1,en,CNA,North-America
