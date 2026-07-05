@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-06-04T07:06:00+00:00,Australia,0.770871134694419,1,3,en,SAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-06-13T06:38:00+00:00,Australia,0.7707300693392217,1,2,en,EAU,Oceania
 'a679a52e44',extremes,Drought,#edc291,edo,Lack of Rain Bermuda,2026-05-23T05:53:00+00:00,Bermuda,0.7686787444696652,1,2,en,NAO,Atlantic Ocean
-'7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,Snow Australia,2026-07-03T06:09:00+00:00,Australia,0.7682024840411745,1,3,en,CAU,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,Wildfire United States,2026-05-17T06:01:00+00:00,United States,0.7595398637025114,1,3,en,CNA,North-America
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,heatwave New South Wales,2026-05-29T06:39:00+00:00,Australia,0.7578412484769658,1,2,en,EAU,Oceania
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-05-30T06:01:00+00:00,New Zealand,0.7571941626615679,1,3,en,NZ,Oceania
@@ -23,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-06-26T06:36:00+00:00,United States,0.7388941618167268,0,1,en,CNA,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
-'516cca4753',extremes,Storm,#b3b2b1,wmo,Storm Surge Canterbury High Country,2026-07-04T05:59:00+00:00,New Zealand,0.7360362538771296,0,1,en,NZ,Oceania
 'f96d822508',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Pedro Bank area,2026-06-23T06:33:00+00:00,Jamaica,0.7342533378707167,0,1,en,CAR,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
 'f8debbe075',extremes,Flood,#030ba1,wmo,Flooding Brown IL,2026-06-15T08:36:00+00:00,United States,0.7339282448124307,0,1,en,CNA,North-America
@@ -126,6 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.6801045195964046,2,3,en,NZ,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,flooding Victoria,2026-06-15T08:36:00+00:00,Australia,0.6792824572998658,1,1,en,SAU,Oceania
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-06-24T06:30:00+00:00,Belize,0.6789357612933558,1,1,en,SCA,North-America
+'7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,Snow Australia,2026-07-03T06:09:00+00:00,Australia,0.6767279918895438,2,3,en,CAU,Oceania
 'efa91cca03',extremes,Drought,#edc291,acwe,low water level Western Australia,2026-05-28T06:38:00+00:00,Australia,0.676668300757635,1,2,en,CAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-06-27T06:08:00+00:00,Australia,0.674529057255605,1,2,en,CAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,flooding South Australia,2026-06-04T07:06:00+00:00,Australia,0.6739374362907649,1,2,en,SAU,Oceania
@@ -274,6 +273,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09649747d6',extremes,Storm,#b3b2b1,wmo,Storm Salluit,2026-06-12T07:05:00+00:00,Canada,0.6259276318135567,1,1,en,NEN,North-America
 '733c793a68',extremes,Flood,#030ba1,wmo,Flashflood Linn MO Livingston MO,2026-06-15T08:36:00+00:00,United States,0.6259018146984178,1,1,en,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-06-13T06:38:00+00:00,United States,0.6258054427422542,1,1,en,CNA,North-America
+'516cca4753',extremes,Storm,#b3b2b1,wmo,Storm Surge Canterbury High Country,2026-07-04T05:59:00+00:00,New Zealand,0.6256308157955601,1,1,en,NZ,Oceania
 '52d69677fc',extremes,Flood,#030ba1,wmo,Flashflood Platte MO,2026-06-12T07:05:00+00:00,United States,0.6255388850425179,1,1,en,CNA,North-America
 '31b1131ed7',extremes,Flood,#030ba1,wmo,Flood Lucas IA,2026-06-11T07:14:00+00:00,United States,0.6255162429536286,1,1,en,CNA,North-America
 'f1bcaf442d',extremes,Fog,#d60d2b,wmo,Fog Fulton Defiance Henry,2026-05-25T06:53:00+00:00,United States,0.6254590153173347,1,1,en,CNA,North-America
