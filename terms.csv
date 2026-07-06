@@ -19,11 +19,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-06-06T06:08:00+00:00,United States,0.745850130272664,1,3,en,CNA,North-America
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-05-15T06:09:00+00:00,India,0.7432616606553467,1,3,en,SAS,Asia
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-06-27T06:08:00+00:00,United States,0.7405538793850363,0,1,en,CNA,North-America
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-06-26T06:36:00+00:00,United States,0.7388941618167268,0,1,en,CNA,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
-'3d8da6f8cf',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Rota,2026-07-05T06:25:00+00:00,United States,0.7382083852348755,0,1,en,CNA,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-06-30T06:39:00+00:00,Australia,0.736417431610482,0,1,en,CAU,Oceania
 'f96d822508',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Pedro Bank area,2026-06-23T06:33:00+00:00,Jamaica,0.7342533378707167,0,1,en,CAR,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
@@ -192,6 +190,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,Wildfire Australia,2026-06-01T07:30:00+00:00,Australia,0.6398298990013344,2,2,en,CAU,Oceania
 '16afad5339',extremes,Heat Wave,#c40202,acwe,mild winter South Australia,2026-06-19T07:39:00+00:00,Australia,0.6395303407743134,2,1,en,CAU,Oceania
 '1fab25bda1',extremes,Flood,#030ba1,wmo,Flooding Lake IN,2026-06-09T06:32:00+00:00,United States,0.6392837386056606,1,2,en,CNA,North-America
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-06-27T06:08:00+00:00,United States,0.6389609771547002,1,2,en,CNA,North-America
 '9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2026-06-24T06:29:00+00:00,Saint Helena,0.638646270608608,1,1,en,EAO,Atlantic Ocean
 '87931b9f82',extremes,Landslide,#572c03,aidr,mudflow Australia,2026-06-27T06:09:00+00:00,Australia,0.6380017705627113,1,1,en,EAU,Oceania
 '84a2fde8e0',extremes,Heat Wave,#c40202,acwe,heat wave Australia,2026-06-14T07:07:00+00:00,Australia,0.6373194509584913,1,2,en,CAU,Oceania
@@ -257,6 +256,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1832ba612c',extremes,Flood,#030ba1,wmo,Flashflood Okaloosa FL,2026-06-18T07:16:00+00:00,United States,0.6280020497476171,1,1,en,CNA,North-America
 'a0a00630e5',extremes,Flood,#030ba1,wmo,Flooding Calcasieu LA,2026-06-14T07:07:00+00:00,United States,0.6277968701958867,1,1,en,CNA,North-America
 '63a6136750',extremes,Flood,#030ba1,wmo,Flooding Allen LA Jefferson Davis LA,2026-06-17T07:33:00+00:00,United States,0.6276929342128191,1,1,en,CNA,North-America
+'3d8da6f8cf',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Rota,2026-07-05T06:25:00+00:00,United States,0.6274771274496442,1,1,en,CNA,North-America
 '8f79725f60',extremes,Flood,#030ba1,wmo,Flashflood Pike IL Scott IL,2026-06-18T07:16:00+00:00,United States,0.6273144052552747,1,1,en,CNA,North-America
 '3d84dbb72f',extremes,Storm,#b3b2b1,wmo,Storm Clarence Strait,2026-06-07T06:48:00+00:00,United States,0.627250938726391,1,1,en,CNA,North-America
 'ad29dda84e',extremes,Flood,#030ba1,wmo,Flashflood Vernon MO,2026-06-13T06:38:00+00:00,United States,0.6272041453870946,1,1,en,CNA,North-America
