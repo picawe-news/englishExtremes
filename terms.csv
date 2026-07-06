@@ -21,8 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
-'fc89d99879',extremes,Heat Wave,#c40202,wmo,Heat Wave Attawapiskat Fort Albany Moosonee,2026-07-06T06:52:00+00:00,Canada,0.736955364632391,0,1,en,NEN,North-America
-'d3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-06-30T06:39:00+00:00,United States,0.7366999437577926,0,1,en,CNA,North-America
 '58aec69d5b',extremes,Flood,#030ba1,wmo,Flood Vernon MO,2026-06-15T08:36:00+00:00,United States,0.7349810469116469,0,1,en,CNA,North-America
 '6fdebdd685',extremes,Earthquake,#870007,usgs,Earthquake Suva,2026-07-04T05:59:00+00:00,Fiji,0.734747675863758,0,1,en,SPO,Pacific Ocean
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
@@ -127,6 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1895f26add',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Southern and some central areas.,2026-06-02T07:08:00+00:00,Belize,0.6900228224460729,1,1,en,SCA,North-America
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-05-27T06:46:00+00:00,Australia,0.6897516917597781,1,1,en,CAU,Oceania
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-06-14T07:07:00+00:00,Australia,0.6832787083483716,1,1,en,EAU,Oceania
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-06-30T06:39:00+00:00,United States,0.6825614871941237,1,2,en,CNA,North-America
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2026-06-30T06:39:00+00:00,India,0.6822688315524893,1,2,en,SAS,Asia
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.6801045195964046,2,3,en,NZ,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,flooding Victoria,2026-06-15T08:36:00+00:00,Australia,0.6792824572998658,1,1,en,SAU,Oceania
@@ -275,6 +274,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92dbe971ce',extremes,Flood,#030ba1,wmo,Flooding Christian MO Stone MO,2026-06-15T08:36:00+00:00,United States,0.6267464890973027,1,1,en,CNA,North-America
 '0e378c6670',extremes,Precipitation,#d60d2b,wmo,Precipitation Taranaki Maunga,2026-05-30T06:01:00+00:00,New Zealand,0.6266738013015279,1,1,en,NZ,Oceania
 'f595423c06',extremes,Precipitation,#d60d2b,wmo,Precipitation Coromandel Peninsula,2026-06-01T07:30:00+00:00,New Zealand,0.6266227139949493,1,1,en,NZ,Oceania
+'fc89d99879',extremes,Heat Wave,#c40202,wmo,Heat Wave Attawapiskat Fort Albany Moosonee,2026-07-06T06:52:00+00:00,Canada,0.6264120599375324,1,1,en,NEN,North-America
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,Storm Northland,2026-06-01T07:30:00+00:00,New Zealand,0.6263520739948496,1,1,en,NZ,Oceania
 '05f85ef615',extremes,Flood,#030ba1,wmo,Flashflood Fulton IL Knox IL,2026-06-13T06:38:00+00:00,United States,0.6262338789547167,1,1,en,CNA,North-America
 '386d2eebd7',extremes,Flood,#030ba1,wmo,Flooding Clinton IA Scott IA,2026-06-14T07:07:00+00:00,United States,0.6261805778045019,1,1,en,CNA,North-America
