@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,Severe Weather Canada,2026-05-30T06:01:00+00:00,Canada,0.7493012615936965,1,3,en,NEN,North-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-05-17T06:01:00+00:00,United States,0.7484788441087811,1,3,en,NCA,North-America
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-05-25T06:53:00+00:00,Canada,0.7466496712717412,1,3,en,NEN,North-America
-'d57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-06-27T06:08:00+00:00,United States,0.7462028916459399,0,1,en,CNA,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-06-06T06:08:00+00:00,United States,0.745850130272664,1,3,en,CNA,North-America
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-05-15T06:09:00+00:00,India,0.7432616606553467,1,3,en,SAS,Asia
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
@@ -59,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2968853c7',extremes,Flood,#030ba1,wmo,Flooding Cedar MO,2026-06-26T06:36:00+00:00,United States,0.7269487710076263,0,1,en,CNA,North-America
 '7f0efbef8a',extremes,Flood,#030ba1,wmo,Flooding Fulton IL Knox IL,2026-06-12T07:05:00+00:00,United States,0.726945284254401,0,1,en,CNA,North-America
 '9cce80d590',extremes,Flood,#030ba1,wmo,Flooding Piatt IL,2026-06-18T07:16:00+00:00,United States,0.7267195400588947,0,1,en,CNA,North-America
+'d57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-06-27T06:08:00+00:00,United States,0.7255872942626852,1,3,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-05-26T06:31:00+00:00,Jamaica,0.7240668241062183,1,3,en,CAR,North-America
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,Storm Ireland,2026-06-02T07:08:00+00:00,Ireland,0.723124989649044,1,3,en,NEU,Europe
