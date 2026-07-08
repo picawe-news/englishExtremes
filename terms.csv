@@ -33,7 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-05-16T05:40:00+00:00,United States,0.7291827736102707,1,3,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
-'2c1b92fd71',extremes,Flood,#030ba1,wmo,Flood Logan CO Washington CO,2026-07-04T05:59:00+00:00,United States,0.7275913647235132,0,1,en,CNA,North-America
 'b4f70102a8',extremes,Flood,#030ba1,wmo,Flashflood Clay IL Richland IL,2026-06-20T06:47:00+00:00,United States,0.7275298537896572,0,1,en,CNA,North-America
 '42d7f5b78d',extremes,Flood,#030ba1,wmo,Flooding Allen LA,2026-06-17T07:33:00+00:00,United States,0.7275118642201719,0,1,en,CNA,North-America
 'b0f38bd931',extremes,Flood,#030ba1,wmo,Flooding East Baton Rouge LA,2026-06-17T07:33:00+00:00,United States,0.7274603547967501,0,1,en,CNA,North-America
@@ -447,6 +446,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5302e3371',extremes,Flood,#030ba1,wmo,Flooding Reno KS Rice KS,2026-06-23T06:33:00+00:00,United States,0.6187160161300693,1,1,en,CNA,North-America
 '6852666385',extremes,Earthquake,#870007,usgs,Earthquake Port Mathurin,2026-07-07T06:30:00+00:00,Mauritius,0.6187136454804204,1,1,en,SIO,Indian Ocean
 '65c58eb7d3',extremes,Drought,#edc291,edo,Dry Spell Mauritius,2026-06-02T07:08:00+00:00,Mauritius,0.6186131139461304,1,1,en,SIO,Indian Ocean
+'2c1b92fd71',extremes,Flood,#030ba1,wmo,Flood Logan CO Washington CO,2026-07-04T05:59:00+00:00,United States,0.6186026900149862,1,1,en,CNA,North-America
 '9803cfe28d',extremes,Flood,#030ba1,wmo,Flood Western Australia Murchison River,2026-06-11T07:14:00+00:00,Australia,0.6185937175358023,1,1,en,CAU,Oceania
 '2a3f72439d',extremes,Flood,#030ba1,wmo,Flood Le Flore OK,2026-06-08T07:13:00+00:00,United States,0.618463486172682,1,1,en,CNA,North-America
 'b0a0ca90c2',extremes,Flood,#030ba1,wmo,Flashflood Daviess MO Gentry MO,2026-06-06T06:08:00+00:00,United States,0.6181738848972876,1,1,en,CNA,North-America
