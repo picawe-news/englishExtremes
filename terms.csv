@@ -21,18 +21,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
+'ae962285fa',extremes,Flood,#030ba1,wmo,Flooding Mossy River,2026-07-08T05:37:00+00:00,Canada,0.738242654103726,0,1,en,NEN,North-America
+'9abdcab263',extremes,Heat Wave,#c40202,wmo,Heat Wave Aupaluk Tasiujaq Kuujjuaq,2026-07-08T05:37:00+00:00,Canada,0.7372492940696689,0,1,en,NEN,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
 '72621058c9',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern San Juan,2026-06-16T08:27:00+00:00,United States,0.7337913959345312,2,2,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-06-07T06:48:00+00:00,United States,0.7331993950188727,1,3,en,CNA,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
+'66a3eabe76',extremes,Earthquake,#870007,usgs,Earthquake Mauritius,2026-07-08T05:37:00+00:00,Mauritius,0.7329343379514345,0,1,en,SIO,Indian Ocean
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-06-20T06:47:00+00:00,New Zealand,0.7309786633265586,1,2,en,NZ,Oceania
+'3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-07-05T06:24:00+00:00,Fiji,0.7305881275543369,0,1,en,SPO,Pacific Ocean
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-06-09T06:32:00+00:00,Canada,0.7305283855232706,1,3,en,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-05-24T06:22:00+00:00,Canada,0.7299527780709485,1,3,en,NEN,North-America
 'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-06-23T06:33:00+00:00,Ireland,0.7295863505171248,1,3,en,NEU,Europe
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-05-16T05:40:00+00:00,United States,0.7291827736102707,1,3,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
+'3d5ac23d55',extremes,Wildfire,#d60d2b,wmo,Wildfire Lower Kobuk Valley,2026-07-08T05:37:00+00:00,United States,0.7287988448560575,0,1,en,CNA,North-America
 '2b57b4ccee',extremes,Flood,#030ba1,wmo,Flood Montgomery KS Wilson KS,2026-06-22T08:39:00+00:00,United States,0.7274309778387368,0,1,en,CNA,North-America
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2026-06-15T08:36:00+00:00,Australia,0.7274212879445556,0,1,en,EAU,Oceania
 'ba2874224c',extremes,Flood,#030ba1,wmo,Flashflood Walton FL Washington FL,2026-06-23T06:33:00+00:00,United States,0.7274121974101041,0,1,en,CNA,North-America
@@ -48,6 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f0efbef8a',extremes,Flood,#030ba1,wmo,Flooding Fulton IL Knox IL,2026-06-12T07:05:00+00:00,United States,0.726945284254401,0,1,en,CNA,North-America
 '65b74d4bfa',extremes,Flood,#030ba1,wmo,Flood Victoria Wonnangatta River,2026-07-03T06:09:00+00:00,Australia,0.7268984740816817,0,1,en,CAU,Oceania
 '9cce80d590',extremes,Flood,#030ba1,wmo,Flooding Piatt IL,2026-06-18T07:16:00+00:00,United States,0.7267195400588947,0,1,en,CNA,North-America
+'5d5c86546a',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Lake River,2026-07-02T06:24:00+00:00,Australia,0.7266053451810163,0,1,en,CAU,Oceania
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-06-27T06:08:00+00:00,United States,0.7255872942626852,1,3,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-05-26T06:31:00+00:00,Jamaica,0.7240668241062183,1,3,en,CAR,North-America
