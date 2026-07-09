@@ -33,12 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-05-16T05:40:00+00:00,United States,0.7291827736102707,1,3,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
-'ba2874224c',extremes,Flood,#030ba1,wmo,Flashflood Walton FL Washington FL,2026-06-23T06:33:00+00:00,United States,0.7274121974101041,0,1,en,CNA,North-America
-'d2e975c492',extremes,Flood,#030ba1,wmo,Flooding Brantley GA,2026-07-02T06:24:00+00:00,United States,0.7272876227900478,0,1,en,CNA,North-America
-'c558a932f0',extremes,Flood,#030ba1,wmo,Flood Grant OK Kay OK,2026-06-22T08:39:00+00:00,United States,0.727272158631355,0,1,en,CNA,North-America
-'1ae883164d',extremes,Flood,#030ba1,wmo,Flooding Calhoun IL Greene IL Jersey IL,2026-06-26T06:36:00+00:00,United States,0.7272719276481241,0,1,en,CNA,North-America
-'ebb58359ec',extremes,Flood,#030ba1,wmo,Flashflood Victoria TX,2026-06-16T08:27:00+00:00,United States,0.7270798116362268,0,1,en,CNA,North-America
-'8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-06-21T07:16:00+00:00,Australia,0.7270686561490094,0,1,en,SAU,Oceania
 '3c7fea8404',extremes,Flood,#030ba1,wmo,Flood Richland WI Vernon WI,2026-07-03T06:09:00+00:00,United States,0.7270098019199841,0,1,en,CNA,North-America
 '762a28a0de',extremes,Flood,#030ba1,wmo,Flooding Clarke MS,2026-06-19T07:39:00+00:00,United States,0.7269851803446354,0,1,en,CNA,North-America
 '4b201b07d4',extremes,Flood,#030ba1,wmo,Flooding Hinds MS Warren MS,2026-06-23T06:33:00+00:00,United States,0.7269846163460144,0,1,en,CNA,North-America
@@ -110,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3a381827a',extremes,Flood,#030ba1,wmo,Flood Lawrence MS,2026-06-22T08:39:00+00:00,United States,0.6939545344829569,1,2,en,CNA,North-America
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-06-27T06:08:00+00:00,Papua New Guinea,0.693845549014358,1,1,en,EPO,Oceania
 '0cac641476',extremes,Heat Wave,#c40202,acwe,warm spell Northern Territory,2026-06-04T07:06:00+00:00,Australia,0.693310364906664,1,2,en,NAU,Oceania
+'8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-06-21T07:16:00+00:00,Australia,0.6933083877266579,1,2,en,SAU,Oceania
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-06-10T06:49:00+00:00,Solomon Islands,0.6922124406418462,1,2,en,EPO,Oceania
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-05-20T06:33:00+00:00,India,0.6900238654025411,2,3,en,SAS,Asia
 '1895f26add',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Southern and some central areas.,2026-06-02T07:08:00+00:00,Belize,0.6900228224460729,1,1,en,SCA,North-America
@@ -458,7 +453,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4f70102a8',extremes,Flood,#030ba1,wmo,Flashflood Clay IL Richland IL,2026-06-20T06:47:00+00:00,United States,0.6184003757212085,1,1,en,CNA,North-America
 'b0f38bd931',extremes,Flood,#030ba1,wmo,Flooding East Baton Rouge LA,2026-06-17T07:33:00+00:00,United States,0.6183413015772375,1,1,en,CNA,North-America
 '2b57b4ccee',extremes,Flood,#030ba1,wmo,Flood Montgomery KS Wilson KS,2026-06-22T08:39:00+00:00,United States,0.6183163311629263,1,1,en,CNA,North-America
+'ba2874224c',extremes,Flood,#030ba1,wmo,Flashflood Walton FL Washington FL,2026-06-23T06:33:00+00:00,United States,0.6183003677985884,1,1,en,CNA,North-America
+'d2e975c492',extremes,Flood,#030ba1,wmo,Flooding Brantley GA,2026-07-02T06:24:00+00:00,United States,0.6181944793715406,1,1,en,CNA,North-America
+'c558a932f0',extremes,Flood,#030ba1,wmo,Flood Grant OK Kay OK,2026-06-22T08:39:00+00:00,United States,0.6181813348366517,1,1,en,CNA,North-America
+'1ae883164d',extremes,Flood,#030ba1,wmo,Flooding Calhoun IL Greene IL Jersey IL,2026-06-26T06:36:00+00:00,United States,0.6181811385009055,1,1,en,CNA,North-America
 'b0a0ca90c2',extremes,Flood,#030ba1,wmo,Flashflood Daviess MO Gentry MO,2026-06-06T06:08:00+00:00,United States,0.6181738848972876,1,1,en,CNA,North-America
+'ebb58359ec',extremes,Flood,#030ba1,wmo,Flashflood Victoria TX,2026-06-16T08:27:00+00:00,United States,0.6180178398907927,1,1,en,CNA,North-America
 'a6473ba3b1',extremes,Flood,#030ba1,wmo,Flooding Brookings SD,2026-06-07T06:48:00+00:00,United States,0.6179776866236069,1,1,en,CNA,North-America
 'a662448f1d',extremes,Flood,#030ba1,wmo,Flashflood Harrison MS,2026-06-07T06:48:00+00:00,United States,0.6179422705053823,1,1,en,CNA,North-America
 '902da4ba2c',extremes,Flood,#030ba1,wmo,Flashflood Hamilton NE York NE,2026-06-06T06:08:00+00:00,United States,0.617719500769072,1,1,en,CNA,North-America
