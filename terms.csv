@@ -33,16 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-05-16T05:40:00+00:00,United States,0.7291827736102707,1,3,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
-'3c7fea8404',extremes,Flood,#030ba1,wmo,Flood Richland WI Vernon WI,2026-07-03T06:09:00+00:00,United States,0.7270098019199841,0,1,en,CNA,North-America
-'762a28a0de',extremes,Flood,#030ba1,wmo,Flooding Clarke MS,2026-06-19T07:39:00+00:00,United States,0.7269851803446354,0,1,en,CNA,North-America
-'4b201b07d4',extremes,Flood,#030ba1,wmo,Flooding Hinds MS Warren MS,2026-06-23T06:33:00+00:00,United States,0.7269846163460144,0,1,en,CNA,North-America
-'a2968853c7',extremes,Flood,#030ba1,wmo,Flooding Cedar MO,2026-06-26T06:36:00+00:00,United States,0.7269487710076263,0,1,en,CNA,North-America
-'7f0efbef8a',extremes,Flood,#030ba1,wmo,Flooding Fulton IL Knox IL,2026-06-12T07:05:00+00:00,United States,0.726945284254401,0,1,en,CNA,North-America
-'65b74d4bfa',extremes,Flood,#030ba1,wmo,Flood Victoria Wonnangatta River,2026-07-03T06:09:00+00:00,Australia,0.7268984740816817,0,1,en,CAU,Oceania
-'9cce80d590',extremes,Flood,#030ba1,wmo,Flooding Piatt IL,2026-06-18T07:16:00+00:00,United States,0.7267195400588947,0,1,en,CNA,North-America
-'5d5c86546a',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Lake River,2026-07-02T06:24:00+00:00,Australia,0.7266053451810163,0,1,en,CAU,Oceania
-'8464c00388',extremes,Flood,#030ba1,wmo,Flooding Hinds MS Rankin MS,2026-06-22T08:39:00+00:00,United States,0.726584575617303,0,1,en,CNA,North-America
-'6e44b398f9',extremes,Flood,#030ba1,wmo,Flooding Jackson MS,2026-06-23T06:33:00+00:00,United States,0.726569213999968,0,1,en,CNA,North-America
 'c597098da9',extremes,Flood,#030ba1,wmo,Flashflood Washington VA City of Bristol VA,2026-07-05T06:25:00+00:00,United States,0.7265621744580079,0,1,en,CNA,North-America
 'fb7465e8f1',extremes,Flood,#030ba1,wmo,Flashflood Butler KY Warren KY,2026-07-01T06:52:00+00:00,United States,0.7265257272394574,0,1,en,CNA,North-America
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-06-27T06:08:00+00:00,United States,0.7255872942626852,1,3,en,CNA,North-America
@@ -144,6 +134,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-06-09T06:32:00+00:00,Canada,0.6564631078995938,1,2,en,NEN,North-America
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,Hail Canada,2026-05-25T06:53:00+00:00,Canada,0.6562453450951596,1,2,en,NEN,North-America
 'ca94998c29',extremes,Heat Wave,#c40202,wmo,Heat Wave United Kingdom,2026-06-21T07:16:00+00:00,United Kingdom,0.655769402955163,1,2,en,NEU,Europe
+'6e44b398f9',extremes,Flood,#030ba1,wmo,Flooding Jackson MS,2026-06-23T06:33:00+00:00,United States,0.6556838918999728,1,1,en,CNA,North-America
 '244b4adc07',extremes,Landslide,#572c03,aidr,landslide Australia,2026-06-10T06:49:00+00:00,Australia,0.6532735382232808,1,2,en,EAU,Oceania
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-07-06T06:53:00+00:00,Australia,0.6529323599233389,1,2,en,CAU,Oceania
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,fire ban South Australia,2026-06-14T07:07:00+00:00,Australia,0.6529122389541223,1,1,en,SAU,Oceania
@@ -460,9 +451,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b0a0ca90c2',extremes,Flood,#030ba1,wmo,Flashflood Daviess MO Gentry MO,2026-06-06T06:08:00+00:00,United States,0.6181738848972876,1,1,en,CNA,North-America
 'ebb58359ec',extremes,Flood,#030ba1,wmo,Flashflood Victoria TX,2026-06-16T08:27:00+00:00,United States,0.6180178398907927,1,1,en,CNA,North-America
 'a6473ba3b1',extremes,Flood,#030ba1,wmo,Flooding Brookings SD,2026-06-07T06:48:00+00:00,United States,0.6179776866236069,1,1,en,CNA,North-America
+'3c7fea8404',extremes,Flood,#030ba1,wmo,Flood Richland WI Vernon WI,2026-07-03T06:09:00+00:00,United States,0.6179583316319864,1,1,en,CNA,North-America
 'a662448f1d',extremes,Flood,#030ba1,wmo,Flashflood Harrison MS,2026-06-07T06:48:00+00:00,United States,0.6179422705053823,1,1,en,CNA,North-America
+'762a28a0de',extremes,Flood,#030ba1,wmo,Flooding Clarke MS,2026-06-19T07:39:00+00:00,United States,0.6179374032929401,1,1,en,CNA,North-America
+'4b201b07d4',extremes,Flood,#030ba1,wmo,Flooding Hinds MS Warren MS,2026-06-23T06:33:00+00:00,United States,0.6179369238941123,1,1,en,CNA,North-America
+'a2968853c7',extremes,Flood,#030ba1,wmo,Flooding Cedar MO,2026-06-26T06:36:00+00:00,United States,0.6179064553564824,1,1,en,CNA,North-America
+'7f0efbef8a',extremes,Flood,#030ba1,wmo,Flooding Fulton IL Knox IL,2026-06-12T07:05:00+00:00,United States,0.6179034916162408,1,1,en,CNA,North-America
+'65b74d4bfa',extremes,Flood,#030ba1,wmo,Flood Victoria Wonnangatta River,2026-07-03T06:09:00+00:00,Australia,0.6178637029694295,1,1,en,CAU,Oceania
 '902da4ba2c',extremes,Flood,#030ba1,wmo,Flashflood Hamilton NE York NE,2026-06-06T06:08:00+00:00,United States,0.617719500769072,1,1,en,CNA,North-America
+'9cce80d590',extremes,Flood,#030ba1,wmo,Flooding Piatt IL,2026-06-18T07:16:00+00:00,United States,0.6177116090500605,1,1,en,CNA,North-America
 '66365f45cb',extremes,Flood,#030ba1,wmo,Flashflood George MS Greene MS Perry MS,2026-05-30T06:01:00+00:00,United States,0.6176626756384684,1,1,en,CNA,North-America
+'5d5c86546a',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Lake River,2026-07-02T06:24:00+00:00,Australia,0.6176145434038638,1,1,en,CAU,Oceania
+'8464c00388',extremes,Flood,#030ba1,wmo,Flooding Hinds MS Rankin MS,2026-06-22T08:39:00+00:00,United States,0.6175968892747076,1,1,en,CNA,North-America
 'f8a6d11c6b',extremes,Flood,#030ba1,wmo,Flood Shackelford TX,2026-06-06T06:08:00+00:00,United States,0.6171862395501778,1,1,en,CNA,North-America
 '7bc4b99bbc',extremes,Flood,#030ba1,wmo,Flashflood Andrew MO Buchanan MO,2026-06-07T06:48:00+00:00,United States,0.6167984750955507,1,1,en,CNA,North-America
 '1af3c144cd',extremes,Flood,#030ba1,wmo,Flooding Brookings SD Hamlin SD,2026-06-07T06:48:00+00:00,United States,0.6158406239510571,1,1,en,CNA,North-America
