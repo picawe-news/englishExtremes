@@ -20,8 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
-'1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-06-26T06:36:00+00:00,United States,0.7369355840979299,0,1,en,CNA,North-America
-'eb87d1255b',extremes,Flood,#030ba1,wmo,Flashflood Mitchell IA,2026-07-10T06:27:00+00:00,United States,0.7363622422930719,0,1,en,CNA,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
 '72621058c9',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern San Juan,2026-06-16T08:27:00+00:00,United States,0.7337913959345312,2,2,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-06-07T06:48:00+00:00,United States,0.7331993950188727,1,3,en,CNA,North-America
@@ -84,6 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,heatwave Victoria,2026-06-20T06:47:00+00:00,Australia,0.7009361410175057,1,2,en,SAU,Oceania
 '8cffcb8fc2',extremes,Flood,#030ba1,wmo,Flood Mobile AL,2026-06-19T07:39:00+00:00,United States,0.6981008164941677,1,2,en,CNA,North-America
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-06-11T07:14:00+00:00,Australia,0.6974891786081767,1,2,en,SAU,Oceania
+'1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-06-26T06:36:00+00:00,United States,0.6968226464832404,1,2,en,CNA,North-America
 '23779bbe2e',extremes,Storm,#b3b2b1,wmo,Storm Surge Arctic Bay,2026-05-31T06:40:00+00:00,Canada,0.6968012568704963,1,2,en,NEN,North-America
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-06-16T08:27:00+00:00,Australia,0.6958522779972847,2,2,en,EAU,Oceania
 '4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2026-06-30T06:39:00+00:00,India,0.6943676049990037,1,2,en,SAS,Asia
@@ -257,6 +256,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '152914913d',extremes,Heat Wave,#c40202,acwe,heat wave Tasmania,2026-06-13T06:38:00+00:00,Australia,0.6260579705841661,1,1,en,SAU,Oceania
 '6151a5c46b',extremes,Heat Wave,#c40202,wmo,Heat Wave Puvirnituq,2026-07-02T06:24:00+00:00,Canada,0.6259935108848027,1,1,en,NEN,North-America
 '09649747d6',extremes,Storm,#b3b2b1,wmo,Storm Salluit,2026-06-12T07:05:00+00:00,Canada,0.6259276318135567,1,1,en,NEN,North-America
+'eb87d1255b',extremes,Flood,#030ba1,wmo,Flashflood Mitchell IA,2026-07-10T06:27:00+00:00,United States,0.625907905949111,1,1,en,CNA,North-America
 '733c793a68',extremes,Flood,#030ba1,wmo,Flashflood Linn MO Livingston MO,2026-06-15T08:36:00+00:00,United States,0.6259018146984178,1,1,en,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-06-13T06:38:00+00:00,United States,0.6258054427422542,1,1,en,CNA,North-America
 '516cca4753',extremes,Storm,#b3b2b1,wmo,Storm Surge Canterbury High Country,2026-07-04T05:59:00+00:00,New Zealand,0.6256308157955601,1,1,en,NZ,Oceania
