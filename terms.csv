@@ -15,12 +15,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,Severe Weather Canada,2026-05-30T06:01:00+00:00,Canada,0.7493012615936965,1,3,en,NEN,North-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-05-17T06:01:00+00:00,United States,0.7484788441087811,1,3,en,NCA,North-America
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-05-25T06:53:00+00:00,Canada,0.7466496712717412,1,3,en,NEN,North-America
-'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-06-30T06:39:00+00:00,India,0.7463498564705338,0,1,en,SAS,Asia
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-06-06T06:08:00+00:00,United States,0.745850130272664,1,3,en,CNA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-05-25T06:53:00+00:00,Canada,0.7414256085636374,1,3,en,NEN,North-America
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
-'ed5655acf2',extremes,Flood,#030ba1,wmo,Flood South Australia Warburton,2026-06-24T06:30:00+00:00,Australia,0.7376731206775916,0,1,en,CAU,Oceania
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-06-26T06:36:00+00:00,United States,0.7369355840979299,0,1,en,CNA,North-America
 'eb87d1255b',extremes,Flood,#030ba1,wmo,Flashflood Mitchell IA,2026-07-10T06:27:00+00:00,United States,0.7363622422930719,0,1,en,CNA,North-America
@@ -74,6 +72,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a856f28311',extremes,Heat Wave,#c40202,wmo,Heat Wave Petroleum,2026-05-26T06:31:00+00:00,United States,0.7136612999657093,0,1,en,CNA,North-America
 'cc1e91400a',extremes,Flood,#030ba1,wmo,Flooding Washington OH,2026-05-28T06:38:00+00:00,United States,0.7131243495710421,0,1,en,CNA,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-06-30T06:39:00+00:00,Australia,0.7127246336870916,1,3,en,CAU,Oceania
+'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-06-30T06:39:00+00:00,India,0.7120755657272264,1,3,en,SAS,Asia
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-06-26T06:36:00+00:00,Australia,0.7099550982193832,1,3,en,CAU,Oceania
 'c34cf32b9b',extremes,Wildfire,#d60d2b,wmo,Wildfire White River,2026-06-28T06:44:00+00:00,United States,0.7070586787483262,1,2,en,CNA,North-America
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Canada,2026-06-28T06:44:00+00:00,Canada,0.7052466326914768,1,2,en,NEN,North-America
@@ -242,6 +241,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad29dda84e',extremes,Flood,#030ba1,wmo,Flashflood Vernon MO,2026-06-13T06:38:00+00:00,United States,0.6272041453870946,1,1,en,CNA,North-America
 '53858ed65f',extremes,Storm,#b3b2b1,wmo,Storm Surge The Chatham Islands,2026-06-09T06:32:00+00:00,New Zealand,0.6270859358226666,1,1,en,NZ,Oceania
 'd30c917012',extremes,Flood,#030ba1,wmo,Flood Hancock MS,2026-06-15T08:36:00+00:00,United States,0.6270413749274149,1,1,en,CNA,North-America
+'ed5655acf2',extremes,Flood,#030ba1,wmo,Flood South Australia Warburton,2026-06-24T06:30:00+00:00,Australia,0.6270221675759529,1,1,en,CAU,Oceania
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,warm spell Victoria,2026-06-13T06:38:00+00:00,Australia,0.6269749093132213,2,1,en,SAU,Oceania
 'c2aa66a9b9',extremes,Flood,#030ba1,wmo,Flooding Vernon MO,2026-06-11T07:14:00+00:00,United States,0.6269690749627269,1,1,en,CNA,North-America
 '92dbe971ce',extremes,Flood,#030ba1,wmo,Flooding Christian MO Stone MO,2026-06-15T08:36:00+00:00,United States,0.6267464890973027,1,1,en,CNA,North-America
