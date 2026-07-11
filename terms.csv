@@ -23,14 +23,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
 '72621058c9',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern San Juan,2026-06-16T08:27:00+00:00,United States,0.7337913959345312,2,2,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-06-07T06:48:00+00:00,United States,0.7331993950188727,1,3,en,CNA,North-America
-'83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-05-16T05:40:00+00:00,Australia,0.7331192292072767,1,3,en,CAU,Oceania
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-06-20T06:47:00+00:00,New Zealand,0.7309786633265586,1,2,en,NZ,Oceania
-'2bd639a9d4',extremes,Flood,#030ba1,wmo,Flood Alexander IL,2026-07-10T06:27:00+00:00,United States,0.7307402353105378,0,1,en,CNA,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-06-09T06:32:00+00:00,Canada,0.7305283855232706,1,3,en,NEN,North-America
 'a4d0dc9af2',extremes,Flood,#030ba1,wmo,Flashflood Gibson IN,2026-06-28T06:44:00+00:00,United States,0.7299637778810818,0,1,en,CNA,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-05-24T06:22:00+00:00,Canada,0.7299527780709485,1,3,en,NEN,North-America
 'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-06-23T06:33:00+00:00,Ireland,0.7295863505171248,1,3,en,NEU,Europe
-'80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-05-16T05:40:00+00:00,United States,0.7291827736102707,1,3,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
 '80a2d7fd6b',extremes,Flood,#030ba1,wmo,Flooding Pulaski IL Ballard KY,2026-07-10T06:27:00+00:00,United States,0.7283874735992979,0,1,en,CNA,North-America
@@ -52,7 +49,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '65c47eb344',extremes,Flood,#030ba1,wmo,Flashflood Ottawa KS,2026-06-02T07:08:00+00:00,United States,0.720012124133014,0,1,en,CNA,North-America
 '9148afb95e',extremes,Flood,#030ba1,wmo,Flood Garza TX Lynn TX,2026-06-03T07:23:00+00:00,United States,0.7198234815729724,0,1,en,CNA,North-America
 '0b403d4a74',extremes,Flood,#030ba1,wmo,Flood Tasmania Break O'Day River,2026-05-28T06:38:00+00:00,Australia,0.7196673546260968,0,1,en,CAU,Oceania
-'191378b1a4',extremes,Flood,#030ba1,wmo,Flooding Pearl River MS,2026-05-26T06:31:00+00:00,United States,0.719128694462335,0,1,en,CNA,North-America
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2026-06-15T08:36:00+00:00,Australia,0.7187581397528723,1,2,en,EAU,Oceania
 '9e86728438',extremes,Flood,#030ba1,wmo,Flooding Tasmania Picton River,2026-06-04T07:06:00+00:00,Australia,0.7185925949660613,0,1,en,CAU,Oceania
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-06-09T06:32:00+00:00,Canada,0.7185527797696895,1,2,en,NEN,North-America
@@ -70,8 +66,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-06-07T06:49:00+00:00,Australia,0.7154749767253358,1,2,en,SAU,Oceania
 '5aed81fb98',extremes,Flood,#030ba1,wmo,Flood Harrison WV,2026-05-28T06:38:00+00:00,United States,0.7151974687658912,0,1,en,CNA,North-America
 'f57bc3ef0c',extremes,Flood,#030ba1,wmo,Flood Comal TX Guadalupe TX,2026-05-27T06:46:00+00:00,United States,0.7144956757722297,0,1,en,CNA,North-America
-'09171a4c9c',extremes,Storm,#b3b2b1,wmo,Storm Surge New South Wales Eden Coast,2026-05-26T06:31:00+00:00,Australia,0.7140564621467927,0,1,en,CAU,Oceania
-'a856f28311',extremes,Heat Wave,#c40202,wmo,Heat Wave Petroleum,2026-05-26T06:31:00+00:00,United States,0.7136612999657093,0,1,en,CNA,North-America
 'cc1e91400a',extremes,Flood,#030ba1,wmo,Flooding Washington OH,2026-05-28T06:38:00+00:00,United States,0.7131243495710421,0,1,en,CNA,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-06-30T06:39:00+00:00,Australia,0.7127246336870916,1,3,en,CAU,Oceania
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-06-30T06:39:00+00:00,India,0.7120755657272264,1,3,en,SAS,Asia
@@ -96,7 +90,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-06-21T07:16:00+00:00,Australia,0.6933083877266579,1,2,en,SAU,Oceania
 '6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-06-20T06:47:00+00:00,Australia,0.6930921013375497,1,2,en,SAU,Oceania
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-06-10T06:49:00+00:00,Solomon Islands,0.6922124406418462,1,2,en,EPO,Oceania
-'615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-05-20T06:33:00+00:00,India,0.6900238654025411,2,3,en,SAS,Asia
 '1895f26add',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Southern and some central areas.,2026-06-02T07:08:00+00:00,Belize,0.6900228224460729,1,1,en,SCA,North-America
 'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-06-14T07:07:00+00:00,Australia,0.6832787083483716,1,1,en,EAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-06-30T06:39:00+00:00,United States,0.6825614871941237,1,2,en,CNA,North-America
@@ -227,7 +220,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45bd990198',extremes,Storm,#b3b2b1,wmo,Storm Victoria Western Port,2026-07-02T06:24:00+00:00,Australia,0.6285298839275353,1,1,en,CAU,Oceania
 'b4527605c1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Porters Pass SH73,2026-07-07T06:30:00+00:00,New Zealand,0.6284859055190017,1,1,en,NZ,Oceania
 'd001d6161b',extremes,Precipitation,#d60d2b,wmo,Downpour Westland south of Hokitika,2026-05-31T06:40:00+00:00,New Zealand,0.6284507513788067,1,1,en,NZ,Oceania
-'14f4a10176',extremes,Precipitation,#d60d2b,wmo,Precipitation Fiordland north of Charles Sound,2026-05-30T06:01:00+00:00,New Zealand,0.6281900735035696,1,1,en,NZ,Oceania
 '7a1d28bed6',extremes,Fog,#d60d2b,wmo,Fog Marquette to Munising MI,2026-06-11T07:14:00+00:00,United States,0.6281431714125876,1,1,en,CNA,North-America
 '9336129229',extremes,Precipitation,#d60d2b,wmo,Rain Canterbury south of Methven,2026-07-08T05:37:00+00:00,New Zealand,0.628036647597162,1,1,en,NZ,Oceania
 '8f81ae7873',extremes,Wildfire,#d60d2b,wmo,Wildfire Mojave Desert,2026-06-18T07:16:00+00:00,United States,0.6280326743914176,1,1,en,CNA,North-America
@@ -248,7 +240,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,warm spell Victoria,2026-06-13T06:38:00+00:00,Australia,0.6269749093132213,2,1,en,SAU,Oceania
 'c2aa66a9b9',extremes,Flood,#030ba1,wmo,Flooding Vernon MO,2026-06-11T07:14:00+00:00,United States,0.6269690749627269,1,1,en,CNA,North-America
 '92dbe971ce',extremes,Flood,#030ba1,wmo,Flooding Christian MO Stone MO,2026-06-15T08:36:00+00:00,United States,0.6267464890973027,1,1,en,CNA,North-America
-'0e378c6670',extremes,Precipitation,#d60d2b,wmo,Precipitation Taranaki Maunga,2026-05-30T06:01:00+00:00,New Zealand,0.6266738013015279,1,1,en,NZ,Oceania
 '9abdcab263',extremes,Heat Wave,#c40202,wmo,Heat Wave Aupaluk Tasiujaq Kuujjuaq,2026-07-08T05:37:00+00:00,Canada,0.6266618999592185,1,1,en,NEN,North-America
 'f595423c06',extremes,Precipitation,#d60d2b,wmo,Precipitation Coromandel Peninsula,2026-06-01T07:30:00+00:00,New Zealand,0.6266227139949493,1,1,en,NZ,Oceania
 'fc89d99879',extremes,Heat Wave,#c40202,wmo,Heat Wave Attawapiskat Fort Albany Moosonee,2026-07-06T06:52:00+00:00,Canada,0.6264120599375324,1,1,en,NEN,North-America
@@ -283,7 +274,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c8994a67e',extremes,Storm,#b3b2b1,wmo,Storm inshore areas of south coast,2026-06-06T06:08:00+00:00,Jamaica,0.6248508884968894,1,1,en,CAR,North-America
 '36ddc82534',extremes,Flood,#030ba1,wmo,Flooding Jones MS,2026-06-18T07:16:00+00:00,United States,0.6248188914908884,1,1,en,CNA,North-America
 '738efece33',extremes,Flood,#030ba1,wmo,Flashflood Victoria Tallangatta Creek,2026-07-03T06:09:00+00:00,Australia,0.6248106915457036,1,1,en,CAU,Oceania
-'13b7157ed9',extremes,Earthquake,#870007,usgs,Earthquake Barbados,2026-05-31T06:40:00+00:00,Barbados,0.6247760319714484,1,1,en,NSA,South-America
 '58aec69d5b',extremes,Flood,#030ba1,wmo,Flood Vernon MO,2026-06-15T08:36:00+00:00,United States,0.6247338898748999,1,1,en,CNA,North-America
 'b8e06c079f',extremes,Flood,#030ba1,wmo,Flashflood Monroe MO,2026-06-12T07:05:00+00:00,United States,0.6247095459647577,1,1,en,CNA,North-America
 '197b0ac89e',extremes,Heat Wave,#c40202,wmo,Heat Wave Coral Harbour,2026-06-23T06:33:00+00:00,Canada,0.6246714632033625,1,1,en,NEN,North-America
@@ -378,6 +368,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c9d5646aa',extremes,Flood,#030ba1,wmo,Flashflood Cedar MO,2026-06-09T06:32:00+00:00,United States,0.6214112492246509,1,1,en,CNA,North-America
 'c3485f30a4',extremes,Flood,#030ba1,wmo,Flashflood Jackson MS,2026-06-20T06:47:00+00:00,United States,0.6213863206808347,1,1,en,CNA,North-America
 '10227bea17',extremes,Flood,#030ba1,wmo,Flood Callaway MO Osage MO,2026-06-09T06:32:00+00:00,United States,0.6213568334173163,1,1,en,CNA,North-America
+'2bd639a9d4',extremes,Flood,#030ba1,wmo,Flood Alexander IL,2026-07-10T06:27:00+00:00,United States,0.6212792150139571,1,1,en,CNA,North-America
 'd676939da0',extremes,Flood,#030ba1,wmo,Flooding Shawnee KS,2026-06-09T06:32:00+00:00,United States,0.6212760662041188,1,1,en,CNA,North-America
 '35008bd929',extremes,Flood,#030ba1,wmo,Flood Brazos TX Grimes TX Madison TX,2026-06-24T06:30:00+00:00,United States,0.6212227687639847,1,1,en,CNA,North-America
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,bushfire Tasmania,2026-06-10T06:49:00+00:00,Australia,0.62121264689018,1,1,en,SAU,Oceania
