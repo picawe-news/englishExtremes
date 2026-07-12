@@ -19,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '604a4354a6',extremes,Flood,#030ba1,wmo,Flood Jackson MS,2026-05-29T06:38:00+00:00,United States,0.7401173844531954,1,2,en,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-06-28T06:44:00+00:00,United States,0.7384423123611242,0,1,en,CNA,North-America
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
-'20ea94e30d',extremes,Flood,#030ba1,wmo,Flooding Crawford MO,2026-07-11T05:27:00+00:00,United States,0.7372573088826277,0,1,en,CNA,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
@@ -244,6 +243,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed5655acf2',extremes,Flood,#030ba1,wmo,Flood South Australia Warburton,2026-06-24T06:30:00+00:00,Australia,0.6270221675759529,1,1,en,CAU,Oceania
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,warm spell Victoria,2026-06-13T06:38:00+00:00,Australia,0.6269749093132213,2,1,en,SAU,Oceania
 'c2aa66a9b9',extremes,Flood,#030ba1,wmo,Flooding Vernon MO,2026-06-11T07:14:00+00:00,United States,0.6269690749627269,1,1,en,CNA,North-America
+'20ea94e30d',extremes,Flood,#030ba1,wmo,Flooding Crawford MO,2026-07-11T05:27:00+00:00,United States,0.6268187275502336,1,1,en,CNA,North-America
 '92dbe971ce',extremes,Flood,#030ba1,wmo,Flooding Christian MO Stone MO,2026-06-15T08:36:00+00:00,United States,0.6267464890973027,1,1,en,CNA,North-America
 '9abdcab263',extremes,Heat Wave,#c40202,wmo,Heat Wave Aupaluk Tasiujaq Kuujjuaq,2026-07-08T05:37:00+00:00,Canada,0.6266618999592185,1,1,en,NEN,North-America
 'f595423c06',extremes,Precipitation,#d60d2b,wmo,Precipitation Coromandel Peninsula,2026-06-01T07:30:00+00:00,New Zealand,0.6266227139949493,1,1,en,NZ,Oceania
