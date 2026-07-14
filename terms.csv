@@ -12,6 +12,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7523087380345759,1,3,en,NZ,Oceania
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-05-30T06:01:00+00:00,New Zealand,0.7509860178921548,1,2,en,NZ,Oceania
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,Severe Weather Canada,2026-05-30T06:01:00+00:00,Canada,0.7493012615936965,1,3,en,NEN,North-America
+'91a13c4ea2',extremes,Fog,#d60d2b,wmo,Fog Sanirajak Igloolik,2026-07-14T05:14:00+00:00,Canada,0.74869289312975,0,1,en,NEN,North-America
+'54559d4fe4',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Moosonee,2026-07-14T05:14:00+00:00,Canada,0.7481660864595964,0,1,en,NEN,North-America
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-05-25T06:53:00+00:00,Canada,0.7466496712717412,1,3,en,NEN,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-06-06T06:08:00+00:00,United States,0.745850130272664,1,3,en,CNA,North-America
 '3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2026-07-11T05:27:00+00:00,Kenya,0.7419241068027692,0,1,en,SEAF,Africa
@@ -23,6 +25,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ca0cdc81c2',extremes,Heat Wave,#c40202,wmo,Heat Wave heatwave,2026-05-21T06:35:00+00:00,India,0.7382668381739763,1,3,en,SAS,Asia
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-07-12T05:43:00+00:00,Australia,0.7351429322618535,0,1,en,CAU,Oceania
+'1eb5846391',extremes,Flood,#030ba1,wmo,Flashflood Medina TX,2026-07-14T05:14:00+00:00,United States,0.7341834672741205,0,1,en,CNA,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
 '72621058c9',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern San Juan,2026-06-16T08:27:00+00:00,United States,0.7337913959345312,2,2,en,CNA,North-America
@@ -30,7 +33,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-06-07T06:48:00+00:00,United States,0.7331993950188727,1,3,en,CNA,North-America
 'ead502b96f',extremes,Flood,#030ba1,wmo,Flooding Pima AZ Pinal AZ,2026-07-13T05:53:00+00:00,United States,0.7330493748376206,0,1,en,CNA,North-America
 '4a554b6101',extremes,Flood,#030ba1,wmo,Flood Chatham NC Harnett NC Lee NC,2026-07-13T05:53:00+00:00,United States,0.7322935506131323,0,1,en,CNA,North-America
+'6e42764d48',extremes,Flood,#030ba1,wmo,Flooding Bandera TX Kerr TX Medina TX,2026-07-14T05:14:00+00:00,United States,0.7316459813366067,0,1,en,CNA,North-America
+'1ae3c6ada3',extremes,Storm,#b3b2b1,wmo,Storm Surge Fort Severn,2026-07-13T05:53:00+00:00,Canada,0.7313925803459925,0,1,en,NEN,North-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-06-20T06:47:00+00:00,New Zealand,0.7309786633265586,1,2,en,NZ,Oceania
+'5e5ca0a594',extremes,Flood,#030ba1,wmo,Flashflood Wilkes GA,2026-07-14T05:14:00+00:00,United States,0.7306238512668275,0,1,en,CNA,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-06-09T06:32:00+00:00,Canada,0.7305283855232706,1,3,en,NEN,North-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-05-24T06:22:00+00:00,Canada,0.7299527780709485,1,3,en,NEN,North-America
 'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-06-23T06:33:00+00:00,Ireland,0.7295863505171248,1,3,en,NEU,Europe
