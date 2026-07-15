@@ -28,10 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-05-26T06:31:00+00:00,Jamaica,0.7240668241062183,1,3,en,CAR,North-America
-'155c83286e',extremes,Precipitation,#d60d2b,wmo,Rain Coromandel Peninsula,2026-06-24T06:30:00+00:00,New Zealand,0.722349162435301,1,2,en,NZ,Oceania
-'d2badc3801',extremes,Flood,#030ba1,wmo,Flashflood Lyon KS,2026-06-01T07:30:00+00:00,United States,0.72109769790872,0,1,en,CNA,North-America
-'594afa39a7',extremes,Flood,#030ba1,wmo,Flooding McMullen TX,2026-06-03T07:23:00+00:00,United States,0.7210014986233154,0,1,en,CNA,North-America
-'12ce586e73',extremes,Flood,#030ba1,wmo,Flood Major OK,2026-06-01T07:30:00+00:00,United States,0.7207911889575108,0,1,en,CNA,North-America
 '9511bd27df',extremes,Flood,#030ba1,wmo,Flashflood South Australia Warburton,2026-06-04T07:06:00+00:00,Australia,0.7200793496125513,0,1,en,CAU,Oceania
 '65c47eb344',extremes,Flood,#030ba1,wmo,Flashflood Ottawa KS,2026-06-02T07:08:00+00:00,United States,0.720012124133014,0,1,en,CNA,North-America
 '9148afb95e',extremes,Flood,#030ba1,wmo,Flood Garza TX Lynn TX,2026-06-03T07:23:00+00:00,United States,0.7198234815729724,0,1,en,CNA,North-America
@@ -483,4 +479,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '473574f4c8',extremes,Wildfire,#d60d2b,wmo,Wildfire Lower Colorado River,2026-06-06T06:08:00+00:00,United States,0.6158328583339907,1,1,en,CNA,North-America
 '498ae42fe9',extremes,Flood,#030ba1,wmo,Flooding Atchison KS,2026-06-06T06:08:00+00:00,United States,0.614971784092427,1,1,en,CNA,North-America
 '2e2b7e0dd0',extremes,Flood,#030ba1,wmo,Flood Mills IA Cass NE Sarpy NE,2026-06-06T06:08:00+00:00,United States,0.6140711170638481,1,1,en,CNA,North-America
+'155c83286e',extremes,Precipitation,#d60d2b,wmo,Rain Coromandel Peninsula,2026-06-24T06:30:00+00:00,New Zealand,0.6139967880700058,2,1,en,NZ,Oceania
 '987ade486c',extremes,Flood,#030ba1,wmo,Flashflood Jackson MO Lafayette MO Ray MO,2026-06-06T06:08:00+00:00,United States,0.6138654418929503,1,1,en,CNA,North-America
