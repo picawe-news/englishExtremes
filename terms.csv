@@ -20,7 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-06-23T06:33:00+00:00,Ireland,0.7295863505171248,1,3,en,NEU,Europe
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
-'a95cfafba1',extremes,Flood,#030ba1,wmo,Flooding Pima AZ,2026-07-17T05:27:00+00:00,United States,0.7255728570246515,0,1,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-05-26T06:31:00+00:00,Jamaica,0.7240668241062183,1,3,en,CAR,North-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-07-05T06:25:00+00:00,United States,0.7161008007780787,1,2,en,CNA,North-America
@@ -36,9 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90522631da',extremes,Precipitation,#d60d2b,wmo,Precipitation India,2026-07-03T06:09:00+00:00,India,0.7012541828210505,1,2,en,SAS,Asia
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-06-26T06:36:00+00:00,United States,0.6968226464832404,1,2,en,CNA,North-America
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-06-16T08:27:00+00:00,Australia,0.6958522779972847,2,2,en,EAU,Oceania
-'4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2026-06-30T06:39:00+00:00,India,0.6943676049990037,1,2,en,SAS,Asia
-'d3a381827a',extremes,Flood,#030ba1,wmo,Flood Lawrence MS,2026-06-22T08:39:00+00:00,United States,0.6939545344829569,1,2,en,CNA,North-America
-'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-06-27T06:08:00+00:00,Papua New Guinea,0.693845549014358,1,1,en,EPO,Oceania
 '0cac641476',extremes,Heat Wave,#c40202,acwe,warm spell Northern Territory,2026-06-04T07:06:00+00:00,Australia,0.693310364906664,1,2,en,NAU,Oceania
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-06-21T07:16:00+00:00,Australia,0.6933083877266579,1,2,en,SAU,Oceania
 '6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-06-20T06:47:00+00:00,Australia,0.6930921013375497,1,2,en,SAU,Oceania
@@ -456,6 +452,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '626f022512',extremes,Flood,#030ba1,wmo,Flooding Floyd IA,2026-07-03T06:09:00+00:00,United States,0.6168382394984053,1,1,en,CNA,North-America
 '94ed72c9de',extremes,Flood,#030ba1,wmo,Flashflood Lawrence MS,2026-06-23T06:33:00+00:00,United States,0.6167874325249544,1,1,en,CNA,North-America
 'fd1eb3ee37',extremes,Heat Wave,#c40202,wmo,Heat Wave Grand Canyon Country,2026-07-08T05:37:00+00:00,United States,0.6167592982994158,1,1,en,CNA,North-America
+'a95cfafba1',extremes,Flood,#030ba1,wmo,Flooding Pima AZ,2026-07-17T05:27:00+00:00,United States,0.6167369284709537,1,1,en,CNA,North-America
 '4142cfbd53',extremes,Flood,#030ba1,wmo,Flashflood Lawrence IL,2026-06-22T08:39:00+00:00,United States,0.6165895117119039,1,1,en,CNA,North-America
 'd256bdd2b8',extremes,Flood,#030ba1,wmo,Flooding Morgan IL Pike IL,2026-06-25T06:32:00+00:00,United States,0.6165175096506039,1,1,en,CNA,North-America
 '9fd0df1572',extremes,Flood,#030ba1,wmo,Flood Butler KS Cowley KS,2026-06-26T06:36:00+00:00,United States,0.6164978989392376,1,1,en,CNA,North-America
@@ -468,3 +465,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2026-06-15T08:36:00+00:00,Australia,0.6109444937899414,2,1,en,EAU,Oceania
 'c34cf32b9b',extremes,Wildfire,#d60d2b,wmo,Wildfire White River,2026-06-28T06:44:00+00:00,United States,0.6010001169360772,2,1,en,CNA,North-America
 '8cffcb8fc2',extremes,Flood,#030ba1,wmo,Flood Mobile AL,2026-06-19T07:39:00+00:00,United States,0.5941357690200425,2,2,en,CNA,North-America
+'4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2026-06-30T06:39:00+00:00,India,0.5902125842491532,2,1,en,SAS,Asia
+'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-06-27T06:08:00+00:00,Papua New Guinea,0.5900687466622043,2,1,en,EPO,Oceania
+'d3a381827a',extremes,Flood,#030ba1,wmo,Flood Lawrence MS,2026-06-22T08:39:00+00:00,United States,0.5898614293105133,2,1,en,CNA,North-America
