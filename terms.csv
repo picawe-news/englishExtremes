@@ -18,7 +18,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
+'ac7369543b',extremes,Flood,#030ba1,wmo,Flood Maricopa AZ Pinal AZ,2026-07-17T05:27:00+00:00,United States,0.7250215978885228,0,1,en,CNA,North-America
+'00563cf5e4',extremes,Flood,#030ba1,wmo,Flashflood Victoria Hughes Creek,2026-07-02T06:24:00+00:00,Australia,0.7247031621074639,0,1,en,CAU,Oceania
+'b32e99815a',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Brumbys Creek,2026-07-01T06:52:00+00:00,Australia,0.7246292565172588,0,1,en,CAU,Oceania
+'c5743ecce9',extremes,Flood,#030ba1,wmo,Flooding Tasmania Tamar Launceston,2026-07-04T05:59:00+00:00,Australia,0.7245290659419277,0,1,en,CAU,Oceania
+'de3ed7a8f2',extremes,Flood,#030ba1,wmo,Flashflood Allamakee IA,2026-07-03T06:09:00+00:00,United States,0.7242895936428276,0,1,en,CNA,North-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-05-26T06:31:00+00:00,Jamaica,0.7240668241062183,1,3,en,CAR,North-America
+'9cc46ba23c',extremes,Flood,#030ba1,wmo,Flood Ohio KY,2026-06-30T06:39:00+00:00,United States,0.7239612794688727,0,1,en,CNA,North-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-07-05T06:25:00+00:00,United States,0.7161008007780787,1,2,en,CNA,North-America
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-06-07T06:49:00+00:00,Australia,0.7154749767253358,1,2,en,SAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-06-30T06:39:00+00:00,Australia,0.7127246336870916,1,3,en,CAU,Oceania
