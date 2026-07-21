@@ -14,9 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
-'b63ae545bf',extremes,Flood,#030ba1,wmo,Flood Southern Kenai Mtns,2026-07-20T05:54:00+00:00,United States,0.7250234986241368,0,1,en,CNA,North-America
-'be18e77ce4',extremes,Flood,#030ba1,wmo,Flood Beaver UT,2026-07-20T05:54:00+00:00,United States,0.7241970722849443,0,1,en,CNA,North-America
-'1eecfd582b',extremes,Drought,#edc291,edo,Dry Spell Puerto Rico,2026-07-03T06:09:00+00:00,Puerto Rico,0.7237331073874302,0,1,en,CAR,North-America
 '56f3482620',extremes,Flood,#030ba1,wmo,Flashflood Edmonson KY,2026-06-30T06:39:00+00:00,United States,0.7234875974475574,0,1,en,CNA,North-America
 '65ba19a3ff',extremes,Flood,#030ba1,wmo,Flashflood Antelope NE Boone NE,2026-06-30T06:39:00+00:00,United States,0.723392645561229,0,1,en,CNA,North-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-07-05T06:25:00+00:00,United States,0.7161008007780787,1,2,en,CNA,North-America
@@ -454,12 +451,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '953625ee27',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fiordland south of Doubtful Sound,2026-07-03T06:09:00+00:00,New Zealand,0.6164124919873745,1,1,en,NZ,Oceania
 'd94ec75559',extremes,Flood,#030ba1,wmo,Flashflood Carter TN Sullivan TN,2026-07-05T06:25:00+00:00,United States,0.6163980833938635,1,1,en,CNA,North-America
 'dffdf37d28',extremes,Flood,#030ba1,wmo,Flashflood Sumner KS,2026-06-26T06:36:00+00:00,United States,0.6163137360366228,1,1,en,CNA,North-America
+'b63ae545bf',extremes,Flood,#030ba1,wmo,Flood Southern Kenai Mtns,2026-07-20T05:54:00+00:00,United States,0.6162699738305163,1,1,en,CNA,North-America
 'ac7369543b',extremes,Flood,#030ba1,wmo,Flood Maricopa AZ Pinal AZ,2026-07-17T05:27:00+00:00,United States,0.6162683582052444,1,1,en,CNA,North-America
 '0d0ee9ba6f',extremes,Flood,#030ba1,wmo,Flood Lawrence IL Wabash IL Knox IN,2026-06-26T06:36:00+00:00,United States,0.6161822658328026,1,1,en,CNA,North-America
 '00563cf5e4',extremes,Flood,#030ba1,wmo,Flashflood Victoria Hughes Creek,2026-07-02T06:24:00+00:00,Australia,0.6159976877913443,1,1,en,CAU,Oceania
 'b32e99815a',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Brumbys Creek,2026-07-01T06:52:00+00:00,Australia,0.61593486803967,1,1,en,CAU,Oceania
 'c5743ecce9',extremes,Flood,#030ba1,wmo,Flooding Tasmania Tamar Launceston,2026-07-04T05:59:00+00:00,Australia,0.6158497060506385,1,1,en,CAU,Oceania
 'de3ed7a8f2',extremes,Flood,#030ba1,wmo,Flashflood Allamakee IA,2026-07-03T06:09:00+00:00,United States,0.6156461545964035,1,1,en,CNA,North-America
+'be18e77ce4',extremes,Flood,#030ba1,wmo,Flood Beaver UT,2026-07-20T05:54:00+00:00,United States,0.6155675114422027,1,1,en,CNA,North-America
+'1eecfd582b',extremes,Drought,#edc291,edo,Dry Spell Puerto Rico,2026-07-03T06:09:00+00:00,Puerto Rico,0.6153231562793157,1,1,en,CAR,North-America
 '155c83286e',extremes,Precipitation,#d60d2b,wmo,Rain Coromandel Peninsula,2026-06-24T06:30:00+00:00,New Zealand,0.6139967880700058,2,1,en,NZ,Oceania
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,heatwave Victoria,2026-06-20T06:47:00+00:00,Australia,0.6112348564033413,2,2,en,SAU,Oceania
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2026-06-15T08:36:00+00:00,Australia,0.6109444937899414,2,1,en,EAU,Oceania
