@@ -2,16 +2,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-05-30T06:01:00+00:00,New Zealand,0.7571941626615679,1,3,en,NZ,Oceania
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7523087380345759,1,3,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'9c32a6bc47',extremes,Heat Wave,#c40202,wmo,Heat Wave Whistler Howe Sound,2026-07-21T05:36:00+00:00,Canada,0.7401081254423421,0,1,en,NEN,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
-'7bb78849dc',extremes,Flood,#030ba1,wmo,Flood Live Oak TX McMullen TX,2026-07-21T05:36:00+00:00,United States,0.7363814787931389,0,1,en,CNA,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
 '72621058c9',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern San Juan,2026-06-16T08:27:00+00:00,United States,0.7337913959345312,2,2,en,CNA,North-America
-'387233d757',extremes,Flood,#030ba1,wmo,Flashflood Gila AZ,2026-07-21T05:36:00+00:00,United States,0.7333029234304774,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-06-07T06:48:00+00:00,United States,0.7331993950188727,1,3,en,CNA,North-America
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2026-06-30T06:39:00+00:00,India,0.7317529088531537,1,3,en,SAS,Asia
-'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-07-21T05:36:00+00:00,Australia,0.731101786328128,0,1,en,SAU,Oceania
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-06-20T06:47:00+00:00,New Zealand,0.7309786633265586,1,2,en,NZ,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-06-09T06:32:00+00:00,Canada,0.7305283855232706,1,3,en,NEN,North-America
 'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-06-23T06:33:00+00:00,Ireland,0.7295863505171248,1,3,en,NEU,Europe
@@ -34,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '792ec0a179',extremes,Flood,#030ba1,acwe,flash flood Victoria,2026-06-13T06:38:00+00:00,Australia,0.7017288776216584,1,2,en,SAU,Oceania
 '90522631da',extremes,Precipitation,#d60d2b,wmo,Precipitation India,2026-07-03T06:09:00+00:00,India,0.7012541828210505,1,2,en,SAS,Asia
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-06-26T06:36:00+00:00,United States,0.6968226464832404,1,2,en,CNA,North-America
+'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-07-21T05:36:00+00:00,Australia,0.6967365483789087,1,2,en,SAU,Oceania
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-06-16T08:27:00+00:00,Australia,0.6958522779972847,2,2,en,EAU,Oceania
 '0cac641476',extremes,Heat Wave,#c40202,acwe,warm spell Northern Territory,2026-06-04T07:06:00+00:00,Australia,0.693310364906664,1,2,en,NAU,Oceania
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-06-21T07:16:00+00:00,Australia,0.6933083877266579,1,2,en,SAU,Oceania
@@ -180,6 +177,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0e758d71f3',extremes,Flood,#030ba1,wmo,Flooding Webb TX,2026-07-18T05:10:00+00:00,United States,0.6295816635764572,1,1,en,CNA,North-America
 'ed14e615eb',extremes,Snow&Ice,#d60d2b,wmo,Frost Absaroka Beartooth Mountains,2026-06-13T06:38:00+00:00,United States,0.6295118583317494,1,1,en,CNA,North-America
 'fadb40c11c',extremes,Snow&Ice,#d60d2b,wmo,Frost Porters Pass SH73,2026-06-24T06:30:00+00:00,New Zealand,0.6292546383529668,1,1,en,NZ,Oceania
+'9c32a6bc47',extremes,Heat Wave,#c40202,wmo,Heat Wave Whistler Howe Sound,2026-07-21T05:36:00+00:00,Canada,0.6290919066259907,1,1,en,NEN,North-America
 '577a43566a',extremes,Precipitation,#d60d2b,wmo,Downpour Belize,2026-07-12T05:43:00+00:00,Belize,0.6288106070648761,1,1,en,SCA,North-America
 '2918568fbe',extremes,Flood,#030ba1,wmo,Flood Black Hawk IA,2026-07-05T06:25:00+00:00,United States,0.6287811548739601,1,1,en,CNA,North-America
 'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,Storm Surge All waters,2026-06-13T06:38:00+00:00,Solomon Islands,0.6286510119189856,1,1,en,EPO,Oceania
@@ -226,6 +224,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6151a5c46b',extremes,Heat Wave,#c40202,wmo,Heat Wave Puvirnituq,2026-07-02T06:24:00+00:00,Canada,0.6259935108848027,1,1,en,NEN,North-America
 'd29468f4c7',extremes,Flood,#030ba1,wmo,Flood Kimble TX,2026-07-17T05:27:00+00:00,United States,0.625929469935104,1,1,en,CNA,North-America
 '09649747d6',extremes,Storm,#b3b2b1,wmo,Storm Salluit,2026-06-12T07:05:00+00:00,Canada,0.6259276318135567,1,1,en,NEN,North-America
+'7bb78849dc',extremes,Flood,#030ba1,wmo,Flood Live Oak TX McMullen TX,2026-07-21T05:36:00+00:00,United States,0.625924256974168,1,1,en,CNA,North-America
 'eb87d1255b',extremes,Flood,#030ba1,wmo,Flashflood Mitchell IA,2026-07-10T06:27:00+00:00,United States,0.625907905949111,1,1,en,CNA,North-America
 '733c793a68',extremes,Flood,#030ba1,wmo,Flashflood Linn MO Livingston MO,2026-06-15T08:36:00+00:00,United States,0.6259018146984178,1,1,en,CNA,North-America
 '6cc70f58b6',extremes,Flood,#030ba1,wmo,Flood Webb TX,2026-07-17T05:27:00+00:00,United States,0.6258634407467105,1,1,en,CNA,North-America
@@ -297,6 +296,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-06-27T06:08:00+00:00,Papua New Guinea,0.6233784579893983,1,1,en,EPO,Pacific Ocean
 'e6b66cbfce',extremes,Storm,#b3b2b1,wmo,Storm Surge Wawa Pukaskwa Park,2026-07-13T05:53:00+00:00,Canada,0.6233596544148484,1,1,en,NEN,North-America
 '42d7f5b78d',extremes,Flood,#030ba1,wmo,Flooding Allen LA,2026-06-17T07:33:00+00:00,United States,0.6233358045871461,1,2,en,CNA,North-America
+'387233d757',extremes,Flood,#030ba1,wmo,Flashflood Gila AZ,2026-07-21T05:36:00+00:00,United States,0.6233074849159058,1,1,en,CNA,North-America
 '66a3eabe76',extremes,Earthquake,#870007,usgs,Earthquake Mauritius,2026-07-08T05:37:00+00:00,Mauritius,0.6232942172587193,1,1,en,SIO,Indian Ocean
 '31c327c60a',extremes,Flood,#030ba1,wmo,Flood Marion MO,2026-06-14T07:07:00+00:00,United States,0.6232810892172554,1,1,en,CNA,North-America
 '20b4789c1d',extremes,Precipitation,#d60d2b,wmo,Precipitation Kugaaruk,2026-06-13T06:38:00+00:00,Canada,0.6232168162104573,1,1,en,NEN,North-America
