@@ -2,8 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-05-30T06:01:00+00:00,New Zealand,0.7571941626615679,1,3,en,NZ,Oceania
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7523087380345759,1,3,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2026-07-18T05:10:00+00:00,Australia,0.7471688038835507,0,1,en,CAU,Oceania
-'27a5eaf631',extremes,Heat Wave,#c40202,wmo,Heat Wave Fort Good Hope Region,2026-07-21T05:36:00+00:00,Canada,0.7465156770160312,0,1,en,NEN,North-America
 '9c32a6bc47',extremes,Heat Wave,#c40202,wmo,Heat Wave Whistler Howe Sound,2026-07-21T05:36:00+00:00,Canada,0.7401081254423421,0,1,en,NEN,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 '7bb78849dc',extremes,Flood,#030ba1,wmo,Flood Live Oak TX McMullen TX,2026-07-21T05:36:00+00:00,United States,0.7363814787931389,0,1,en,CNA,North-America
@@ -55,6 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-06-27T06:08:00+00:00,Australia,0.674529057255605,1,2,en,CAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,flooding South Australia,2026-06-04T07:06:00+00:00,Australia,0.6739374362907649,1,2,en,SAU,Oceania
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-07-12T05:43:00+00:00,Australia,0.6736385183091891,2,2,en,CAU,Oceania
+'6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2026-07-18T05:10:00+00:00,Australia,0.672706838301018,1,2,en,CAU,Oceania
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-06-09T06:32:00+00:00,Canada,0.671029325810797,2,3,en,NEN,North-America
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,wildfire Victoria,2026-07-04T05:59:00+00:00,Australia,0.6704098163092115,1,1,en,SAU,Oceania
 '9fc8372048',extremes,Storm,#b3b2b1,wmo,Storm Zimbabwe,2026-06-24T06:30:00+00:00,Zimbabwe,0.6692558636468021,1,1,en,ESAF,Africa
@@ -134,6 +133,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c893de063',extremes,Heat Wave,#c40202,acwe,heat wave Victoria,2026-06-14T07:07:00+00:00,Australia,0.6355744804656588,1,1,en,SAU,Oceania
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-06-15T08:36:00+00:00,Seychelles,0.6351294974887742,1,1,en,EIO,Africa
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-06-10T06:49:00+00:00,Jamaica,0.634919546964535,1,1,en,CAR,North-America
+'27a5eaf631',extremes,Heat Wave,#c40202,wmo,Heat Wave Fort Good Hope Region,2026-07-21T05:36:00+00:00,Canada,0.6345383254636264,1,1,en,NEN,North-America
 '6018dbdbc5',extremes,Flood,#030ba1,wmo,Flashflood Scissor Creek near McAuley,2026-06-13T06:38:00+00:00,Canada,0.6344814472431936,1,1,en,NEN,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-06-06T06:08:00+00:00,United States,0.6344236457317644,2,3,en,CNA,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-06-29T07:13:00+00:00,United States,0.6343180679963754,2,3,en,CNA,North-America
