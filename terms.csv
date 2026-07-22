@@ -14,8 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
-'56f3482620',extremes,Flood,#030ba1,wmo,Flashflood Edmonson KY,2026-06-30T06:39:00+00:00,United States,0.7234875974475574,0,1,en,CNA,North-America
-'65ba19a3ff',extremes,Flood,#030ba1,wmo,Flashflood Antelope NE Boone NE,2026-06-30T06:39:00+00:00,United States,0.723392645561229,0,1,en,CNA,North-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-07-05T06:25:00+00:00,United States,0.7161008007780787,1,2,en,CNA,North-America
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-06-07T06:49:00+00:00,Australia,0.7154749767253358,1,2,en,SAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-06-30T06:39:00+00:00,Australia,0.7127246336870916,1,3,en,CAU,Oceania
@@ -30,14 +28,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '792ec0a179',extremes,Flood,#030ba1,acwe,flash flood Victoria,2026-06-13T06:38:00+00:00,Australia,0.7017288776216584,1,2,en,SAU,Oceania
 '90522631da',extremes,Precipitation,#d60d2b,wmo,Precipitation India,2026-07-03T06:09:00+00:00,India,0.7012541828210505,1,2,en,SAS,Asia
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-06-26T06:36:00+00:00,United States,0.6968226464832404,1,2,en,CNA,North-America
-'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-07-21T05:36:00+00:00,Australia,0.6967365483789087,1,2,en,SAU,Oceania
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-06-16T08:27:00+00:00,Australia,0.6958522779972847,2,2,en,EAU,Oceania
 '0cac641476',extremes,Heat Wave,#c40202,acwe,warm spell Northern Territory,2026-06-04T07:06:00+00:00,Australia,0.693310364906664,1,2,en,NAU,Oceania
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-06-21T07:16:00+00:00,Australia,0.6933083877266579,1,2,en,SAU,Oceania
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-06-10T06:49:00+00:00,Solomon Islands,0.6922124406418462,1,2,en,EPO,Oceania
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-07-03T06:09:00+00:00,New Zealand,0.6918234924416107,1,1,en,NZ,Oceania
 '393400b105',extremes,Drought,#edc291,edo,Dryness Puerto Rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.6835671572990559,2,1,en,CAR,North-America
-'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-06-14T07:07:00+00:00,Australia,0.6832787083483716,1,1,en,EAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-06-30T06:39:00+00:00,United States,0.6825614871941237,1,2,en,CNA,North-America
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2026-06-30T06:39:00+00:00,India,0.6822688315524893,1,2,en,SAS,Asia
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.6801045195964046,2,3,en,NZ,Oceania
@@ -466,11 +462,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3ed7a8f2',extremes,Flood,#030ba1,wmo,Flashflood Allamakee IA,2026-07-03T06:09:00+00:00,United States,0.6156461545964035,1,1,en,CNA,North-America
 'be18e77ce4',extremes,Flood,#030ba1,wmo,Flood Beaver UT,2026-07-20T05:54:00+00:00,United States,0.6155675114422027,1,1,en,CNA,North-America
 '1eecfd582b',extremes,Drought,#edc291,edo,Dry Spell Puerto Rico,2026-07-03T06:09:00+00:00,Puerto Rico,0.6153231562793157,1,1,en,CAR,North-America
+'56f3482620',extremes,Flood,#030ba1,wmo,Flashflood Edmonson KY,2026-06-30T06:39:00+00:00,United States,0.6149644578304237,1,1,en,CNA,North-America
+'65ba19a3ff',extremes,Flood,#030ba1,wmo,Flashflood Antelope NE Boone NE,2026-06-30T06:39:00+00:00,United States,0.6148837487270445,1,1,en,CNA,North-America
 '155c83286e',extremes,Precipitation,#d60d2b,wmo,Rain Coromandel Peninsula,2026-06-24T06:30:00+00:00,New Zealand,0.6139967880700058,2,1,en,NZ,Oceania
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,heatwave Victoria,2026-06-20T06:47:00+00:00,Australia,0.6112348564033413,2,2,en,SAU,Oceania
 '18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2026-06-15T08:36:00+00:00,Australia,0.6109444937899414,2,1,en,EAU,Oceania
+'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,heavy rain New South Wales,2026-06-14T07:07:00+00:00,Australia,0.6030372020961158,2,1,en,EAU,Oceania
 'c34cf32b9b',extremes,Wildfire,#d60d2b,wmo,Wildfire White River,2026-06-28T06:44:00+00:00,United States,0.6010001169360772,2,1,en,CNA,North-America
 '8cffcb8fc2',extremes,Flood,#030ba1,wmo,Flood Mobile AL,2026-06-19T07:39:00+00:00,United States,0.5941357690200425,2,2,en,CNA,North-America
+'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-07-21T05:36:00+00:00,Australia,0.5922260961220724,2,1,en,SAU,Oceania
 '4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2026-06-30T06:39:00+00:00,India,0.5902125842491532,2,1,en,SAS,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-06-27T06:08:00+00:00,Papua New Guinea,0.5900687466622043,2,1,en,EPO,Oceania
 'd3a381827a',extremes,Flood,#030ba1,wmo,Flood Lawrence MS,2026-06-22T08:39:00+00:00,United States,0.5898614293105133,2,1,en,CNA,North-America
