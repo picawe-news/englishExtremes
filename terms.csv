@@ -31,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0cac641476',extremes,Heat Wave,#c40202,acwe,warm spell Northern Territory,2026-06-04T07:06:00+00:00,Australia,0.693310364906664,1,2,en,NAU,Oceania
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-06-21T07:16:00+00:00,Australia,0.6933083877266579,1,2,en,SAU,Oceania
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-06-10T06:49:00+00:00,Solomon Islands,0.6922124406418462,1,2,en,EPO,Oceania
-'68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-07-03T06:09:00+00:00,New Zealand,0.6918234924416107,1,1,en,NZ,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-06-30T06:39:00+00:00,United States,0.6896770386604597,2,3,en,CNA,North-America
 '393400b105',extremes,Drought,#edc291,edo,Dryness Puerto Rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.6835671572990559,2,1,en,CAR,North-America
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2026-06-30T06:39:00+00:00,India,0.6822688315524893,1,2,en,SAS,Asia
@@ -473,4 +472,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-06-27T06:08:00+00:00,Papua New Guinea,0.5900687466622043,2,1,en,EPO,Oceania
 'd3a381827a',extremes,Flood,#030ba1,wmo,Flood Lawrence MS,2026-06-22T08:39:00+00:00,United States,0.5898614293105133,2,1,en,CNA,North-America
 '6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-06-20T06:47:00+00:00,Australia,0.5891283761369173,2,1,en,SAU,Oceania
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-07-03T06:09:00+00:00,New Zealand,0.5885000135753691,2,1,en,NZ,Oceania
 '3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2026-07-11T05:27:00+00:00,Kenya,0.5360401671650007,2,1,en,SEAF,Africa
