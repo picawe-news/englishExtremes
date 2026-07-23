@@ -1,8 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'6782e28db8',extremes,Earthquake,#870007,usgs,Earthquake Scarborough,2026-07-21T05:36:00+00:00,Trinidad and Tobago,0.7690028502302053,1,2,en,NSA,South-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7523087380345759,1,3,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'e7f5d29604',extremes,Precipitation,#d60d2b,wmo,Precipitation The Tararua Range,2026-07-23T05:40:00+00:00,New Zealand,0.738958175390693,0,1,en,NZ,Oceania
-'7210963114',extremes,Heat Wave,#c40202,wmo,Heat Wave Manning Skagit Valley,2026-07-23T05:40:00+00:00,Canada,0.7382862635440899,0,1,en,NEN,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-06-09T06:32:00+00:00,Solomon Islands,0.7341263927053725,1,2,en,EPO,Oceania
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
@@ -14,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-06-23T06:33:00+00:00,Ireland,0.7295863505171248,1,3,en,NEU,Europe
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
-'6782e28db8',extremes,Earthquake,#870007,usgs,Earthquake Scarborough,2026-07-21T05:36:00+00:00,Trinidad and Tobago,0.7280621590943591,0,1,en,NSA,South-America
 '22ec810b64',extremes,Flood,#030ba1,wmo,Flashflood Clinton IA Scott IA,2026-07-07T06:30:00+00:00,United States,0.7273980043745748,0,1,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-07-05T06:25:00+00:00,United States,0.7161008007780787,1,2,en,CNA,North-America
@@ -174,12 +172,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45bd990198',extremes,Storm,#b3b2b1,wmo,Storm Victoria Western Port,2026-07-02T06:24:00+00:00,Australia,0.6285298839275353,1,1,en,CAU,Oceania
 'd29253d0b5',extremes,Flood,#030ba1,wmo,Flooding Val Verde TX,2026-07-16T05:25:00+00:00,United States,0.6285031051062291,1,1,en,CNA,North-America
 'b4527605c1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Porters Pass SH73,2026-07-07T06:30:00+00:00,New Zealand,0.6284859055190017,1,1,en,NZ,Oceania
+'e7f5d29604',extremes,Precipitation,#d60d2b,wmo,Precipitation The Tararua Range,2026-07-23T05:40:00+00:00,New Zealand,0.628114449082089,1,1,en,NZ,Oceania
 '9336129229',extremes,Precipitation,#d60d2b,wmo,Rain Canterbury south of Methven,2026-07-08T05:37:00+00:00,New Zealand,0.628036647597162,1,1,en,NZ,Oceania
 '8f81ae7873',extremes,Wildfire,#d60d2b,wmo,Wildfire Mojave Desert,2026-06-18T07:16:00+00:00,United States,0.6280326743914176,1,1,en,CNA,North-America
 '1832ba612c',extremes,Flood,#030ba1,wmo,Flashflood Okaloosa FL,2026-06-18T07:16:00+00:00,United States,0.6280020497476171,1,1,en,CNA,North-America
 'a0a00630e5',extremes,Flood,#030ba1,wmo,Flooding Calcasieu LA,2026-06-14T07:07:00+00:00,United States,0.6277968701958867,1,1,en,CNA,North-America
 '63a6136750',extremes,Flood,#030ba1,wmo,Flooding Allen LA Jefferson Davis LA,2026-06-17T07:33:00+00:00,United States,0.6276929342128191,1,1,en,CNA,North-America
 '891bde534c',extremes,Landslide,#572c03,wmo,Mudslide India,2026-07-06T06:52:00+00:00,India,0.6276252458836081,1,1,en,SAS,Asia
+'7210963114',extremes,Heat Wave,#c40202,wmo,Heat Wave Manning Skagit Valley,2026-07-23T05:40:00+00:00,Canada,0.6275433240124764,1,1,en,NEN,North-America
 'ae962285fa',extremes,Flood,#030ba1,wmo,Flooding Mossy River,2026-07-08T05:37:00+00:00,Canada,0.6275062559881671,1,1,en,NEN,North-America
 '3d8da6f8cf',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Rota,2026-07-05T06:25:00+00:00,United States,0.6274771274496442,1,1,en,CNA,North-America
 '59a70615bc',extremes,Flood,#030ba1,wmo,Flashflood Caldwell KY Hopkins KY,2026-07-11T05:27:00+00:00,United States,0.6274084022797113,1,1,en,CNA,North-America
