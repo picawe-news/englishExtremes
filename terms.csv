@@ -9,10 +9,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2026-06-30T06:39:00+00:00,India,0.7317529088531537,1,3,en,SAS,Asia
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-06-20T06:47:00+00:00,New Zealand,0.7309786633265586,1,2,en,NZ,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-06-09T06:32:00+00:00,Canada,0.7305283855232706,1,3,en,NEN,North-America
+'b4c112d11c',extremes,Flood,#030ba1,wmo,Flood Western Susitna Valley,2026-07-21T05:36:00+00:00,United States,0.7300631945162445,0,1,en,CNA,North-America
 'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-06-23T06:33:00+00:00,Ireland,0.7295863505171248,1,3,en,NEU,Europe
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
+'d577347130',extremes,Earthquake,#870007,usgs,Earthquake Kirakira,2026-07-18T05:10:00+00:00,Solomon Islands,0.724269480746526,0,1,en,SPO,Pacific Ocean
+'9b7fa75274',extremes,Precipitation,#d60d2b,wmo,Precipitation Coastal Otago,2026-07-04T05:59:00+00:00,New Zealand,0.7228362929515998,0,1,en,NZ,Oceania
+'cd3c06e8b4',extremes,Flood,#030ba1,wmo,Flashflood Fillmore MN Houston MN,2026-07-03T06:09:00+00:00,United States,0.7225826417104282,0,1,en,CNA,North-America
+'bd2dd7a804',extremes,Flood,#030ba1,wmo,Flooding Mower MN,2026-07-09T06:27:00+00:00,United States,0.7224873216201493,0,1,en,CNA,North-America
+'c525fd0791',extremes,Flood,#030ba1,wmo,Flashflood Muhlenberg KY,2026-07-02T06:24:00+00:00,United States,0.7223049885544138,0,1,en,CNA,North-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-07-05T06:25:00+00:00,United States,0.7161008007780787,1,2,en,CNA,North-America
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-06-07T06:49:00+00:00,Australia,0.7154749767253358,1,2,en,SAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-06-30T06:39:00+00:00,Australia,0.7127246336870916,1,3,en,CAU,Oceania
