@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6782e28db8',extremes,Earthquake,#870007,usgs,Earthquake Scarborough,2026-07-21T05:36:00+00:00,Trinidad and Tobago,0.8038024376956745,2,2,en,NSA,South-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7523087380345759,1,3,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
@@ -32,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-06-10T06:49:00+00:00,Solomon Islands,0.6922124406418462,1,2,en,EPO,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-06-30T06:39:00+00:00,United States,0.6896770386604597,2,3,en,CNA,North-America
 '393400b105',extremes,Drought,#edc291,edo,Dryness Puerto Rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.6835671572990559,2,1,en,CAR,North-America
+'6782e28db8',extremes,Earthquake,#870007,usgs,Earthquake Scarborough,2026-07-21T05:36:00+00:00,Trinidad and Tobago,0.6832320870413233,3,1,en,NSA,South-America
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2026-06-30T06:39:00+00:00,India,0.6822688315524893,1,2,en,SAS,Asia
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ghana,2026-07-23T05:40:00+00:00,Ghana,0.6808743103595851,1,1,en,WAF,Africa
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.6801045195964046,2,3,en,NZ,Oceania
@@ -114,7 +114,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd4e54bdaef',extremes,Storm,#b3b2b1,wmo,Storm Surge Horowhenua and Kapiti Coast,2026-06-25T06:32:00+00:00,New Zealand,0.6361492813390089,1,1,en,NZ,Oceania
 '54559d4fe4',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Moosonee,2026-07-14T05:14:00+00:00,Canada,0.6359411734906569,1,1,en,NEN,North-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.6359364001510923,2,3,en,CNA,North-America
-'96fce9e739',extremes,Flood,#030ba1,wmo,Flooding Trinidad and Tobago,2026-07-13T05:53:00+00:00,Trinidad and Tobago,0.6356485975890558,1,1,en,NSA,North-America
 '5c893de063',extremes,Heat Wave,#c40202,acwe,heat wave Victoria,2026-06-14T07:07:00+00:00,Australia,0.6355744804656588,1,1,en,SAU,Oceania
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-06-15T08:36:00+00:00,Seychelles,0.6351294974887742,1,1,en,EIO,Africa
 '27a5eaf631',extremes,Heat Wave,#c40202,wmo,Heat Wave Fort Good Hope Region,2026-07-21T05:36:00+00:00,Canada,0.6345383254636264,1,1,en,NEN,North-America
@@ -439,7 +438,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2e9ceed7be',extremes,Flood,#030ba1,wmo,Flooding Ottawa OH,2026-07-07T06:30:00+00:00,United States,0.6130407902927275,1,1,en,CNA,North-America
 '18e00008b0',extremes,Flood,#030ba1,wmo,Flooding Anne Arundel MD Howard MD,2026-07-22T05:35:00+00:00,United States,0.6130056112524456,1,1,en,CNA,North-America
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,heatwave Victoria,2026-06-20T06:47:00+00:00,Australia,0.6112348564033413,2,2,en,SAU,Oceania
-'18c15bffdd',extremes,Wildfire,#d60d2b,acwe,bushfire New South Wales,2026-06-15T08:36:00+00:00,Australia,0.6109444937899414,2,1,en,EAU,Oceania
 'c34cf32b9b',extremes,Wildfire,#d60d2b,wmo,Wildfire White River,2026-06-28T06:44:00+00:00,United States,0.6010001169360772,2,1,en,CNA,North-America
 '8cffcb8fc2',extremes,Flood,#030ba1,wmo,Flood Mobile AL,2026-06-19T07:39:00+00:00,United States,0.5941357690200425,2,2,en,CNA,North-America
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-07-21T05:36:00+00:00,Australia,0.5922260961220724,2,1,en,SAU,Oceania
@@ -451,6 +449,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,wildfire Victoria,2026-07-04T05:59:00+00:00,Australia,0.5812221282745945,2,1,en,SAU,Oceania
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-06-24T06:30:00+00:00,Belize,0.5773954270993524,2,1,en,SCA,North-America
 '000f88797f',extremes,Flood,#030ba1,wmo,Flood Gibson IN,2026-07-11T05:27:00+00:00,United States,0.5769354225555636,2,1,en,CNA,North-America
+'96fce9e739',extremes,Flood,#030ba1,wmo,Flooding Trinidad and Tobago,2026-07-13T05:53:00+00:00,Trinidad and Tobago,0.5404513229506974,2,1,en,NSA,North-America
 '3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2026-07-11T05:27:00+00:00,Kenya,0.5360401671650007,2,1,en,SEAF,Africa
 'a752baaf9c',extremes,Flood,#030ba1,wmo,Flooding Frio TX,2026-07-15T05:15:00+00:00,United States,0.5336328301532627,2,1,en,CNA,North-America
 '9abdcab263',extremes,Heat Wave,#c40202,wmo,Heat Wave Aupaluk Tasiujaq Kuujjuaq,2026-07-08T05:37:00+00:00,Canada,0.5326626149653357,2,1,en,NEN,North-America
