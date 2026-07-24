@@ -14,6 +14,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-06-06T06:08:00+00:00,United States,0.7288890968193431,1,3,en,CNA,North-America
 '3235ce7234',extremes,Flood,#030ba1,wmo,Flood Allen LA,2026-06-17T07:33:00+00:00,United States,0.7288689886130891,1,3,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-06-08T07:13:00+00:00,Australia,0.7252821987834932,1,2,en,CAU,Oceania
+'5aed81fb98',extremes,Flood,#030ba1,wmo,Flood Harrison WV,2026-07-23T05:40:00+00:00,United States,0.7238189562062632,0,1,en,CNA,North-America
+'c880e5ea12',extremes,Flood,#030ba1,wmo,Flashflood Western Susitna Valley,2026-07-20T05:54:00+00:00,United States,0.7220428528167356,0,1,en,CNA,North-America
+'8237d40708',extremes,Flood,#030ba1,wmo,Flashflood Grant KS Stanton KS,2026-07-03T06:09:00+00:00,United States,0.7217262605657753,0,1,en,CNA,North-America
+'f98693250a',extremes,Flood,#030ba1,wmo,Flooding Adams OH Scioto OH,2026-07-11T05:27:00+00:00,United States,0.7215281982744427,0,1,en,CNA,North-America
+'2e9ceed7be',extremes,Flood,#030ba1,wmo,Flooding Ottawa OH,2026-07-07T06:30:00+00:00,United States,0.7212244591679148,0,1,en,CNA,North-America
+'18e00008b0',extremes,Flood,#030ba1,wmo,Flooding Anne Arundel MD Howard MD,2026-07-22T05:35:00+00:00,United States,0.7211830720617007,0,1,en,CNA,North-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-07-05T06:25:00+00:00,United States,0.7161008007780787,1,2,en,CNA,North-America
 '3296e9a239',extremes,Flood,#030ba1,aidr,torrential rain Australia,2026-06-07T06:49:00+00:00,Australia,0.7154749767253358,1,2,en,SAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-06-30T06:39:00+00:00,Australia,0.7127246336870916,1,3,en,CAU,Oceania
