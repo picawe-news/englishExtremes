@@ -56,7 +56,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,Storm Trinidad and Tobago,2026-07-08T05:37:00+00:00,Trinidad and Tobago,0.6656715055212625,2,1,en,NSA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-06-28T06:44:00+00:00,United States,0.6644647573251374,1,2,en,CNA,North-America
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.6640857273046014,1,1,en,NZ,Oceania
-'9e04699981',extremes,Precipitation,#d60d2b,wmo,Rain The Tararua Range,2026-06-19T07:39:00+00:00,New Zealand,0.6622396769770016,2,1,en,NZ,Oceania
 '6d28d8faab',extremes,Fog,#d60d2b,wmo,Fog Resolute,2026-06-27T06:08:00+00:00,Canada,0.6607793517210502,2,1,en,NEN,North-America
 '6f79830807',extremes,Storm,#b3b2b1,wmo,Storm Whanganui,2026-06-26T06:36:00+00:00,New Zealand,0.6601294865907099,2,2,en,NZ,Oceania
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-06-30T06:39:00+00:00,India,0.6598046528066048,1,2,en,SAS,Asia
