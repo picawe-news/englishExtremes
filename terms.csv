@@ -34,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '393400b105',extremes,Drought,#edc291,edo,Dryness Puerto Rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.6835671572990559,2,1,en,CAR,North-America
 '6782e28db8',extremes,Earthquake,#870007,usgs,Earthquake Scarborough,2026-07-21T05:36:00+00:00,Trinidad and Tobago,0.6832320870413233,3,1,en,NSA,South-America
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2026-06-30T06:39:00+00:00,India,0.6822688315524893,1,2,en,SAS,Asia
-'48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ghana,2026-07-23T05:40:00+00:00,Ghana,0.6808743103595851,1,1,en,WAF,Africa
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.6801045195964046,2,3,en,NZ,Oceania
 '806dd08d67',extremes,Flood,#030ba1,acwe,flooding Victoria,2026-06-15T08:36:00+00:00,Australia,0.6792824572998658,1,1,en,SAU,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-07-13T05:53:00+00:00,New Zealand,0.6786215063556278,1,1,en,NZ,Oceania
@@ -433,6 +432,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2e9ceed7be',extremes,Flood,#030ba1,wmo,Flooding Ottawa OH,2026-07-07T06:30:00+00:00,United States,0.6130407902927275,1,1,en,CNA,North-America
 '18e00008b0',extremes,Flood,#030ba1,wmo,Flooding Anne Arundel MD Howard MD,2026-07-22T05:35:00+00:00,United States,0.6130056112524456,1,1,en,CNA,North-America
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,heatwave Victoria,2026-06-20T06:47:00+00:00,Australia,0.6112348564033413,2,2,en,SAU,Oceania
+'48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ghana,2026-07-23T05:40:00+00:00,Ghana,0.6094932388056474,2,1,en,WAF,Africa
 'c34cf32b9b',extremes,Wildfire,#d60d2b,wmo,Wildfire White River,2026-06-28T06:44:00+00:00,United States,0.6010001169360772,2,1,en,CNA,North-America
 '8cffcb8fc2',extremes,Flood,#030ba1,wmo,Flood Mobile AL,2026-06-19T07:39:00+00:00,United States,0.5941357690200425,2,2,en,CNA,North-America
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-07-21T05:36:00+00:00,Australia,0.5922260961220724,2,1,en,SAU,Oceania
