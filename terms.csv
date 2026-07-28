@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-07-21T05:36:00+00:00,Canada,0.7695902374137823,1,3,en,NEN,North-America
-'563b781620',extremes,Thunderstorm,#53785a,wmo,Severe Weather Nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.7636731447441967,0,1,en,WAF,Africa
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '806dd08d67',extremes,Flood,#030ba1,acwe,flooding Victoria,2026-07-17T05:27:00+00:00,Australia,0.7563618413557077,0,1,en,SAU,Oceania
 '8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,Storm Nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.7553472611782941,0,1,en,WAF,Africa
@@ -36,6 +35,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-06-16T08:27:00+00:00,Australia,0.6958522779972847,2,2,en,EAU,Oceania
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-06-21T07:16:00+00:00,Australia,0.6933083877266579,1,2,en,SAU,Oceania
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-06-10T06:49:00+00:00,Solomon Islands,0.6922124406418462,1,2,en,EPO,Oceania
+'563b781620',extremes,Thunderstorm,#53785a,wmo,Severe Weather Nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.6917029978151759,1,2,en,WAF,Africa
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-06-30T06:39:00+00:00,United States,0.6896770386604597,2,3,en,CNA,North-America
 '393400b105',extremes,Drought,#edc291,edo,Dryness Puerto Rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.6835671572990559,2,1,en,CAR,North-America
 '6782e28db8',extremes,Earthquake,#870007,usgs,Earthquake Scarborough,2026-07-21T05:36:00+00:00,Trinidad and Tobago,0.6832320870413233,3,1,en,NSA,South-America
