@@ -3,8 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7523087380345759,1,3,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'bab5de556b',extremes,Storm,#b3b2b1,wmo,Storm Surge Wellington,2026-07-29T05:37:00+00:00,New Zealand,0.7474708649595619,0,1,en,NZ,Oceania
-'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-07-29T05:37:00+00:00,New Zealand,0.7455227783772406,0,1,en,NZ,Oceania
 'c7d5d31bc5',extremes,Earthquake,#870007,usgs,Earthquake Turangi,2026-07-25T05:28:00+00:00,New Zealand,0.7388755791941687,0,1,en,NZ,Oceania
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
@@ -65,6 +63,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d28d8faab',extremes,Fog,#d60d2b,wmo,Fog Resolute,2026-06-27T06:08:00+00:00,Canada,0.6607793517210502,2,1,en,NEN,North-America
 '6f79830807',extremes,Storm,#b3b2b1,wmo,Storm Whanganui,2026-06-26T06:36:00+00:00,New Zealand,0.6601294865907099,2,2,en,NZ,Oceania
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-06-30T06:39:00+00:00,India,0.6598046528066048,1,2,en,SAS,Asia
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-07-29T05:37:00+00:00,New Zealand,0.6595944516206546,1,1,en,NZ,Oceania
 '95b5264574',extremes,Heat Wave,#c40202,wmo,Heat Wave Canada,2026-07-01T06:52:00+00:00,Canada,0.659479363608674,1,2,en,NEN,North-America
 '82e3d2a385',extremes,Flood,#030ba1,acwe,high water level South Australia,2026-06-15T08:36:00+00:00,Australia,0.6584146830245222,1,2,en,SAU,Oceania
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,Severe Weather United States,2026-07-01T06:52:00+00:00,United States,0.6583450977153164,1,2,en,CNA,North-America
@@ -117,6 +116,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd4e54bdaef',extremes,Storm,#b3b2b1,wmo,Storm Surge Horowhenua and Kapiti Coast,2026-06-25T06:32:00+00:00,New Zealand,0.6361492813390089,1,1,en,NZ,Oceania
 '54559d4fe4',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Moosonee,2026-07-14T05:14:00+00:00,Canada,0.6359411734906569,1,1,en,NEN,North-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.6359364001510923,2,3,en,CNA,North-America
+'bab5de556b',extremes,Storm,#b3b2b1,wmo,Storm Surge Wellington,2026-07-29T05:37:00+00:00,New Zealand,0.6353502352156276,1,1,en,NZ,Oceania
 'b47c7fe559',extremes,Snow&Ice,#d60d2b,wmo,Ice Desert Road SH1,2026-07-24T05:36:00+00:00,New Zealand,0.6352976040845641,1,1,en,NZ,Oceania
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,Storm Adak to Kiska Bering Side,2026-07-10T06:27:00+00:00,United States,0.6350492193097639,1,1,en,CNA,North-America
 '27a5eaf631',extremes,Heat Wave,#c40202,wmo,Heat Wave Fort Good Hope Region,2026-07-21T05:36:00+00:00,Canada,0.6345383254636264,1,1,en,NEN,North-America
