@@ -3,11 +3,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7523087380345759,1,3,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'c7d5d31bc5',extremes,Earthquake,#870007,usgs,Earthquake Turangi,2026-07-25T05:28:00+00:00,New Zealand,0.7388755791941687,0,1,en,NZ,Oceania
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
 '72621058c9',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern San Juan,2026-06-16T08:27:00+00:00,United States,0.7337913959345312,2,2,en,CNA,North-America
-'ae6861d978',extremes,Flood,#030ba1,wmo,Flood Ocean NJ,2026-07-29T05:37:00+00:00,United States,0.73360698266657,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-06-07T06:48:00+00:00,United States,0.7331993950188727,1,3,en,CNA,North-America
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2026-06-30T06:39:00+00:00,India,0.7317529088531537,1,3,en,SAS,Asia
 'c605f8759a',extremes,Earthquake,#870007,usgs,Earthquake Guam,2026-07-23T05:40:00+00:00,Guam,0.731013638756143,0,1,en,NPO,Pacific Ocean
@@ -173,6 +171,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '775c7c508b',extremes,Flood,#030ba1,wmo,Flooding Live Oak TX McMullen TX,2026-07-24T05:36:00+00:00,United States,0.6282573254201932,1,1,en,CNA,North-America
 '1ae0d2b3d9',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Huon River above Tahune,2026-07-25T05:29:00+00:00,Australia,0.6281399811051062,1,1,en,CAU,Oceania
 'e7f5d29604',extremes,Precipitation,#d60d2b,wmo,Precipitation The Tararua Range,2026-07-23T05:40:00+00:00,New Zealand,0.628114449082089,1,1,en,NZ,Oceania
+'c7d5d31bc5',extremes,Earthquake,#870007,usgs,Earthquake Turangi,2026-07-25T05:28:00+00:00,New Zealand,0.6280442423150434,1,1,en,NZ,Oceania
 '9336129229',extremes,Precipitation,#d60d2b,wmo,Rain Canterbury south of Methven,2026-07-08T05:37:00+00:00,New Zealand,0.628036647597162,1,1,en,NZ,Oceania
 '8f81ae7873',extremes,Wildfire,#d60d2b,wmo,Wildfire Mojave Desert,2026-06-18T07:16:00+00:00,United States,0.6280326743914176,1,1,en,CNA,North-America
 '1832ba612c',extremes,Flood,#030ba1,wmo,Flashflood Okaloosa FL,2026-06-18T07:16:00+00:00,United States,0.6280020497476171,1,1,en,CNA,North-America
@@ -245,6 +244,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '152914913d',extremes,Heat Wave,#c40202,acwe,heat wave Tasmania,2026-07-21T05:36:00+00:00,Australia,0.6238093516684309,1,1,en,SAU,Oceania
 '48822ea628',extremes,Flood,#030ba1,wmo,Flashflood Blanco TX,2026-07-17T05:27:00+00:00,United States,0.6237992016436107,1,1,en,CNA,North-America
 'c0abb8d977',extremes,Flood,#030ba1,wmo,Flood Cochise AZ Santa Cruz AZ,2026-07-25T05:29:00+00:00,United States,0.6237571988593787,1,1,en,CNA,North-America
+'ae6861d978',extremes,Flood,#030ba1,wmo,Flood Ocean NJ,2026-07-29T05:37:00+00:00,United States,0.6237159502665844,1,1,en,CNA,North-America
 'e2d0e67bab',extremes,Snow&Ice,#d60d2b,wmo,Snow South Central Elko County,2026-06-27T06:08:00+00:00,United States,0.6236869242726204,1,1,en,CNA,North-America
 'c569672130',extremes,Flood,#030ba1,wmo,Flooding Goliad TX Karnes TX,2026-07-19T05:37:00+00:00,United States,0.6236709775622786,1,1,en,CNA,North-America
 'ffa5ca1a3b',extremes,Flood,#030ba1,wmo,Flashflood Live Oak TX,2026-07-25T05:29:00+00:00,United States,0.6236691133849317,1,1,en,CNA,North-America
