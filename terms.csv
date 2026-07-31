@@ -1,10 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-07-21T05:36:00+00:00,Canada,0.7695902374137823,1,3,en,NEN,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
-'cbd214af74',extremes,Drought,#edc291,edo,Dryness Uganda,2026-07-31T05:51:00+00:00,Uganda,0.7620296632446718,0,1,en,SEAF,Africa
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7523087380345759,1,3,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,Snow Crown Range Road,2026-07-31T05:51:00+00:00,New Zealand,0.7498925391049629,0,1,en,NZ,Oceania
 'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lewis Pass SH7,2026-07-31T05:51:00+00:00,New Zealand,0.7493729614234002,0,1,en,NZ,Oceania
 'f6414f90dd',extremes,Snow&Ice,#d60d2b,wmo,Freezing Desert Road SH1,2026-07-31T05:51:00+00:00,New Zealand,0.7493182528787329,0,1,en,NZ,Oceania
 'c703558933',extremes,Snow&Ice,#d60d2b,wmo,Ice Dunedin to Waitati Highway SH1,2026-07-31T05:51:00+00:00,New Zealand,0.7479465964147587,0,1,en,NZ,Oceania
@@ -86,6 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,Downpour India,2026-06-30T06:39:00+00:00,India,0.6491996985360164,1,2,en,SAS,Asia
 'a77fe28103',extremes,Precipitation,#d60d2b,wmo,Downpour Auckland and Great Barrier Island,2026-06-23T06:33:00+00:00,New Zealand,0.6484187793266937,1,1,en,NZ,Oceania
 '82db593da5',extremes,Precipitation,#d60d2b,wmo,Downpour Coromandel Peninsula,2026-06-23T06:33:00+00:00,New Zealand,0.6481196714719571,1,1,en,NZ,Oceania
+'cbd214af74',extremes,Drought,#edc291,edo,Dryness Uganda,2026-07-31T05:51:00+00:00,Uganda,0.647725213757971,1,1,en,SEAF,Africa
 'b3e00f492f',extremes,Drought,#edc291,edo,Drought Belize,2026-07-13T05:53:00+00:00,Belize,0.647371841140105,1,1,en,SCA,North-America
 '384838564d',extremes,Snow&Ice,#d60d2b,wmo,Ice Crown Range Road,2026-07-24T05:36:00+00:00,New Zealand,0.6461354061161654,2,1,en,NZ,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-07-28T05:31:00+00:00,Canada,0.6450527830908358,1,2,en,NEN,North-America
@@ -103,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '027da6a4db',extremes,Storm,#b3b2b1,wmo,Storm Surge Clarence Strait,2026-07-28T05:31:00+00:00,United States,0.6400000838220796,1,1,en,CNA,North-America
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,Freezing Crown Range Road,2026-06-24T06:30:00+00:00,New Zealand,0.639830635765376,1,1,en,NZ,Oceania
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-07-02T06:24:00+00:00,Jamaica,0.6396972333846578,1,1,en,CAR,North-America
+'46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,Snow Crown Range Road,2026-07-31T05:51:00+00:00,New Zealand,0.6390588232392185,1,1,en,NZ,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-06-27T06:08:00+00:00,United States,0.6389609771547002,1,2,en,CNA,North-America
 'a1b8f4df40',extremes,Storm,#b3b2b1,wmo,Storm Surge Coastal Otago,2026-07-29T05:37:00+00:00,New Zealand,0.638802509719819,1,1,en,NZ,Oceania
 '9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2026-06-24T06:29:00+00:00,Saint Helena,0.638646270608608,1,1,en,EAO,Atlantic Ocean
