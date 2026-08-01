@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-06-17T07:34:00+00:00,Australia,0.7036747513094497,2,2,en,EAU,Oceania
 '90522631da',extremes,Precipitation,#d60d2b,wmo,Precipitation India,2026-07-03T06:09:00+00:00,India,0.7012541828210505,1,2,en,SAS,Asia
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-06-26T06:36:00+00:00,United States,0.6968226464832404,1,2,en,CNA,North-America
-'42f9f7020d',extremes,Heat Wave,#c40202,acwe,warm spell New South Wales,2026-06-16T08:27:00+00:00,Australia,0.6958522779972847,2,2,en,EAU,Oceania
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-06-21T07:16:00+00:00,Australia,0.6933083877266579,1,2,en,SAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-06-30T06:39:00+00:00,United States,0.6896770386604597,2,3,en,CNA,North-America
 '393400b105',extremes,Drought,#edc291,edo,Dryness Puerto Rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.6835671572990559,2,1,en,CAR,North-America
@@ -56,7 +55,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82e3d2a385',extremes,Flood,#030ba1,acwe,high water level South Australia,2026-06-15T08:36:00+00:00,Australia,0.6584146830245222,1,2,en,SAU,Oceania
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,Severe Weather United States,2026-07-01T06:52:00+00:00,United States,0.6583450977153164,1,2,en,CNA,North-America
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,flash flood Tasmania,2026-07-22T05:35:00+00:00,Australia,0.6575031031133264,1,1,en,SAU,Oceania
-'519c58c063',extremes,Flood,#030ba1,wmo,Flood India,2026-07-03T06:09:00+00:00,India,0.656694321127035,1,2,en,SAS,Asia
 'ca94998c29',extremes,Heat Wave,#c40202,wmo,Heat Wave United Kingdom,2026-06-21T07:16:00+00:00,United Kingdom,0.655769402955163,1,2,en,NEU,Europe
 '6e44b398f9',extremes,Flood,#030ba1,wmo,Flooding Jackson MS,2026-06-23T06:33:00+00:00,United States,0.6556838918999728,1,1,en,CNA,North-America
 'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2026-07-07T06:30:00+00:00,Fiji,0.6549327934398054,2,1,en,,
@@ -86,7 +84,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-06-22T08:39:00+00:00,Canada,0.6413051905268676,1,1,en,NEN,North-America
 '3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2026-06-21T07:16:00+00:00,Saint Helena,0.6400756357068625,1,1,en,EAO,Atlantic Ocean
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-06-22T08:39:00+00:00,Belize,0.6400581967530595,1,1,en,SCA,North-America
-'027da6a4db',extremes,Storm,#b3b2b1,wmo,Storm Surge Clarence Strait,2026-07-28T05:31:00+00:00,United States,0.6400000838220796,1,1,en,CNA,North-America
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,Freezing Crown Range Road,2026-06-24T06:30:00+00:00,New Zealand,0.639830635765376,1,1,en,NZ,Oceania
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-07-02T06:24:00+00:00,Jamaica,0.6396972333846578,1,1,en,CAR,North-America
 '46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,Snow Crown Range Road,2026-07-31T05:51:00+00:00,New Zealand,0.6390588232392185,1,1,en,NZ,Oceania
@@ -399,6 +396,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70dde8f95f',extremes,Flood,#030ba1,wmo,Flood Dorchester Wicomico Somerset,2026-07-12T05:43:00+00:00,United States,0.6124998637941901,1,1,en,CNA,North-America
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,heatwave Victoria,2026-06-20T06:47:00+00:00,Australia,0.6112348564033413,2,2,en,SAU,Oceania
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ghana,2026-07-23T05:40:00+00:00,Ghana,0.6094932388056474,2,1,en,WAF,Africa
+'519c58c063',extremes,Flood,#030ba1,wmo,Flood India,2026-07-03T06:09:00+00:00,India,0.6086024434125251,2,3,en,SAS,Asia
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-07-09T06:27:00+00:00,Jamaica,0.6041858611022137,2,1,en,CAR,North-America
 'c34cf32b9b',extremes,Wildfire,#d60d2b,wmo,Wildfire White River,2026-06-28T06:44:00+00:00,United States,0.6010001169360772,2,1,en,CNA,North-America
 '8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,Storm Nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.5995119535248469,2,2,en,WAF,Africa
@@ -412,6 +410,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,Snow Australia,2026-07-03T06:09:00+00:00,Australia,0.5801698131061123,3,3,en,CAU,Oceania
 '000f88797f',extremes,Flood,#030ba1,wmo,Flood Gibson IN,2026-07-11T05:27:00+00:00,United States,0.5769354225555636,2,1,en,CNA,North-America
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-07-20T05:54:00+00:00,United States,0.5710057602300876,2,1,en,CNA,North-America
+'027da6a4db',extremes,Storm,#b3b2b1,wmo,Storm Surge Clarence Strait,2026-07-28T05:31:00+00:00,United States,0.5440000712487677,2,1,en,CNA,North-America
 'f6414f90dd',extremes,Snow&Ice,#d60d2b,wmo,Freezing Desert Road SH1,2026-07-31T05:51:00+00:00,New Zealand,0.5413824377048845,2,1,en,NZ,Oceania
 '96fce9e739',extremes,Flood,#030ba1,wmo,Flooding Trinidad and Tobago,2026-07-13T05:53:00+00:00,Trinidad and Tobago,0.5404513229506974,2,1,en,NSA,North-America
 '3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2026-07-11T05:27:00+00:00,Kenya,0.5360401671650007,2,1,en,SEAF,Africa
