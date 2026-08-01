@@ -4,6 +4,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2b5605d45a',extremes,Precipitation,#d60d2b,wmo,Downpour Southern and central areas.,2026-07-16T05:25:00+00:00,Belize,0.7625129716690213,1,2,en,SCA,North-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.7523087380345759,1,3,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
+'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-07-14T05:14:00+00:00,New Zealand,0.7460956585361072,0,1,en,NZ,Oceania
+'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-07-15T05:15:00+00:00,Belize,0.745162224786729,0,1,en,SCA,North-America
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-08-01T05:42:00+00:00,Canada,0.7433514654039063,0,1,en,NEN,North-America
+'b5f4dba174',extremes,Drought,#edc291,edo,Lack of Rain British Indian Ocean Territory,2026-08-01T05:42:00+00:00,British Indian Ocean Territory,0.7418775803402817,0,1,en,EIO,Indian Ocean
+'d9d012fe2a',extremes,Flood,#030ba1,wmo,Flashflood McMullen TX,2026-08-01T05:42:00+00:00,United States,0.7417410783309601,0,1,en,CNA,North-America
+'86ddfb3f0e',extremes,Wildfire,#d60d2b,wmo,Wildfire Eastern Panhandle Crescent Lake NWR,2026-08-01T05:42:00+00:00,United States,0.7407459517851782,0,1,en,CNA,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
 '72621058c9',extremes,Wildfire,#d60d2b,wmo,Wildfire Northern San Juan,2026-06-16T08:27:00+00:00,United States,0.7337913959345312,2,2,en,CNA,North-America
