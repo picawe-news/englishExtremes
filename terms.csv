@@ -15,6 +15,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7274156846656834,0,1,en,CNA,North-America
 '5cc85adf92',extremes,Flood,#030ba1,wmo,Flooding Cook IL Will IL Lake IN,2026-08-02T05:42:00+00:00,United States,0.7270970556310707,0,1,en,CNA,North-America
 '6ea34d6a69',extremes,Flood,#030ba1,wmo,Flood Hendricks IN,2026-08-02T05:42:00+00:00,United States,0.7264555471228998,0,1,en,CNA,North-America
+'943a3712cd',extremes,Flood,#030ba1,wmo,Flooding Campbell TN Scott TN Union TN,2026-08-02T05:42:00+00:00,United States,0.7252025852372689,0,1,en,CNA,North-America
+'27c9124f02',extremes,Flood,#030ba1,wmo,Flashflood Ashe NC Watauga NC Wilkes NC,2026-08-03T05:57:00+00:00,United States,0.7217663960693995,0,1,en,CNA,North-America
+'60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-07-17T05:27:00+00:00,United States,0.7206968264689946,0,1,en,CNA,North-America
+'c490efc7db',extremes,Drought,#edc291,edo,Drought Kiribati,2026-08-01T05:42:00+00:00,Kiribati,0.7205129870058008,0,1,en,EAO,Atlantic Ocean
+'34df16c399',extremes,Earthquake,#870007,usgs,Earthquake Aleknagik,2026-07-16T05:25:00+00:00,United States,0.7198821294232782,0,1,en,NWN,North-America
+'13b7eaa98a',extremes,Flood,#030ba1,wmo,Flood West Central Plateau,2026-07-25T05:29:00+00:00,United States,0.7194239621246928,0,1,en,CNA,North-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Guam,2026-07-05T06:25:00+00:00,United States,0.7161008007780787,1,2,en,CNA,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-06-30T06:39:00+00:00,Australia,0.7127246336870916,1,3,en,CAU,Oceania
 'fc335e869f',extremes,Thunderstorm,#53785a,wmo,Thunderstorm India,2026-06-30T06:39:00+00:00,India,0.7120755657272264,1,3,en,SAS,Asia
