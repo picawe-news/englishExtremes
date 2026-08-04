@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ea34d6a69',extremes,Flood,#030ba1,wmo,Flood Hendricks IN,2026-08-02T05:42:00+00:00,United States,0.7676372300544648,1,2,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'3d5e73f686',extremes,Snow&Ice,#d60d2b,wmo,Snow Lewis Pass SH7,2026-08-04T05:32:00+00:00,New Zealand,0.7477129503183022,0,1,en,NZ,Oceania
 '0ecc9a51d0',extremes,Snow&Ice,#d60d2b,wmo,Ice Victoria Mallee forecast district,2026-08-04T05:32:00+00:00,Australia,0.7466742122124154,0,1,en,CAU,Oceania
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-07-18T05:10:00+00:00,Papua New Guinea,0.7421406619396604,0,1,en,EPO,Pacific Ocean
 '2344745f2e',extremes,Thunderstorm,#53785a,wmo,Severe Weather United Kingdom,2026-08-04T05:32:00+00:00,United Kingdom,0.7393786540059087,0,1,en,NEU,Europe
@@ -114,6 +113,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.6359364001510923,2,3,en,CNA,North-America
 'c703558933',extremes,Snow&Ice,#d60d2b,wmo,Ice Dunedin to Waitati Highway SH1,2026-07-31T05:51:00+00:00,New Zealand,0.6357546069525448,1,1,en,NZ,Oceania
 'd0da547bd3',extremes,Storm,#b3b2b1,wmo,Storm Victoria West Coast,2026-08-01T05:42:00+00:00,Australia,0.6357149249332403,2,2,en,CAU,Oceania
+'3d5e73f686',extremes,Snow&Ice,#d60d2b,wmo,Snow Lewis Pass SH7,2026-08-04T05:32:00+00:00,New Zealand,0.6357060227705569,1,1,en,NZ,Oceania
 'bab5de556b',extremes,Storm,#b3b2b1,wmo,Storm Surge Wellington,2026-07-29T05:37:00+00:00,New Zealand,0.6353502352156276,1,1,en,NZ,Oceania
 'b47c7fe559',extremes,Snow&Ice,#d60d2b,wmo,Ice Desert Road SH1,2026-07-24T05:36:00+00:00,New Zealand,0.6352976040845641,1,1,en,NZ,Oceania
 'b5486c278b',extremes,Flood,#030ba1,wmo,Flood Lake CO,2026-07-30T05:24:00+00:00,United States,0.6350575673842926,1,2,en,CNA,North-America
