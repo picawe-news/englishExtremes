@@ -4,9 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'9a57e5e313',extremes,Flood,#030ba1,wmo,Flashflood Dauphin Lake,2026-08-06T05:33:00+00:00,Canada,0.7473063145524458,0,1,en,NEN,North-America
-'47a06a39e2',extremes,Flood,#030ba1,wmo,Flashflood Mossey River,2026-08-06T05:33:00+00:00,Canada,0.7465993536477035,0,1,en,NEN,North-America
-'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-08-05T05:31:00+00:00,Belize,0.7401819755410647,0,1,en,SCA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-07-17T05:27:00+00:00,United States,0.7371010474986454,1,3,en,CNA,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 '02ef1fed03',extremes,Flood,#030ba1,wmo,Flooding Cass MO Henry MO Johnson MO,2026-08-06T05:33:00+00:00,United States,0.7347147404876908,0,1,en,CNA,North-America
@@ -108,6 +105,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f94537514d',extremes,Snow&Ice,#d60d2b,wmo,Frost Haast Pass SH6,2026-07-04T05:59:00+00:00,New Zealand,0.6424139685085367,1,1,en,NZ,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,Storm Australia,2026-06-26T06:36:00+00:00,Australia,0.6422850538682657,1,2,en,CAU,Oceania
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-06-26T06:36:00+00:00,United States,0.6421063916351268,1,2,en,CNA,North-America
+'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-08-05T05:31:00+00:00,Belize,0.6419692049241907,1,1,en,SCA,North-America
 '9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2026-07-28T05:30:00+00:00,Saint Helena,0.6412302370269414,1,1,en,EAO,Atlantic Ocean
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-07-02T06:24:00+00:00,Jamaica,0.6396972333846578,1,1,en,CAR,North-America
 '46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,Snow Crown Range Road,2026-07-31T05:51:00+00:00,New Zealand,0.6390588232392185,1,1,en,NZ,Oceania
@@ -127,17 +125,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2433af70de',extremes,Storm,#b3b2b1,wmo,Storm Surge Belize,2026-07-07T06:30:00+00:00,Belize,0.636217147008991,1,1,en,SCA,North-America
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-08-06T05:33:00+00:00,Canada,0.6361091467001483,1,1,en,NEN,North-America
 '54559d4fe4',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Moosonee,2026-07-14T05:14:00+00:00,Canada,0.6359411734906569,1,1,en,NEN,North-America
-'9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-06-17T07:33:00+00:00,United States,0.6359364001510923,2,3,en,CNA,North-America
 'c703558933',extremes,Snow&Ice,#d60d2b,wmo,Ice Dunedin to Waitati Highway SH1,2026-07-31T05:51:00+00:00,New Zealand,0.6357546069525448,1,1,en,NZ,Oceania
 'd0da547bd3',extremes,Storm,#b3b2b1,wmo,Storm Victoria West Coast,2026-08-01T05:42:00+00:00,Australia,0.6357149249332403,2,2,en,CAU,Oceania
 '3d5e73f686',extremes,Snow&Ice,#d60d2b,wmo,Snow Lewis Pass SH7,2026-08-04T05:32:00+00:00,New Zealand,0.6357060227705569,1,1,en,NZ,Oceania
 'bab5de556b',extremes,Storm,#b3b2b1,wmo,Storm Surge Wellington,2026-07-29T05:37:00+00:00,New Zealand,0.6353502352156276,1,1,en,NZ,Oceania
 'b47c7fe559',extremes,Snow&Ice,#d60d2b,wmo,Ice Desert Road SH1,2026-07-24T05:36:00+00:00,New Zealand,0.6352976040845641,1,1,en,NZ,Oceania
+'9a57e5e313',extremes,Flood,#030ba1,wmo,Flashflood Dauphin Lake,2026-08-06T05:33:00+00:00,Canada,0.6352103673695789,1,1,en,NEN,North-America
 'b5486c278b',extremes,Flood,#030ba1,wmo,Flood Lake CO,2026-07-30T05:24:00+00:00,United States,0.6350575673842926,1,2,en,CNA,North-America
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,Storm Adak to Kiska Bering Side,2026-07-10T06:27:00+00:00,United States,0.6350492193097639,1,1,en,CNA,North-America
 '0ecc9a51d0',extremes,Snow&Ice,#d60d2b,wmo,Ice Victoria Mallee forecast district,2026-08-04T05:32:00+00:00,Australia,0.634673080380553,1,1,en,CAU,Oceania
 '6382a3f479',extremes,Storm,#b3b2b1,wmo,Storm Coastal Otago,2026-07-31T05:51:00+00:00,New Zealand,0.6346504518737106,1,1,en,NZ,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-07-14T05:14:00+00:00,New Zealand,0.6346313547556911,1,1,en,NZ,Oceania
+'47a06a39e2',extremes,Flood,#030ba1,wmo,Flashflood Mossey River,2026-08-06T05:33:00+00:00,Canada,0.634609450600548,1,1,en,NEN,North-America
 '27a5eaf631',extremes,Heat Wave,#c40202,wmo,Heat Wave Fort Good Hope Region,2026-07-21T05:36:00+00:00,Canada,0.6345383254636264,1,1,en,NEN,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-06-29T07:13:00+00:00,United States,0.6343180679963754,2,3,en,CNA,North-America
 '1364fc1e53',extremes,Snow&Ice,#d60d2b,wmo,Snow Remutaka Hill Road SH2,2026-08-03T05:57:00+00:00,New Zealand,0.6342992709272884,1,1,en,NZ,Oceania
@@ -165,11 +164,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2a835b2c0',extremes,Snow&Ice,#d60d2b,wmo,Frost Central Brooks Range,2026-07-26T05:46:00+00:00,United States,0.6302100252875622,1,1,en,CNA,North-America
 '170f2d7753',extremes,Storm,#b3b2b1,wmo,Storm Bristol Bay greater than 15 NM,2026-07-10T06:27:00+00:00,United States,0.6298970655104489,1,1,en,CNA,North-America
 'ce4d5cd14d',extremes,Storm,#b3b2b1,wmo,Storm Surge Most waters,2026-06-30T06:39:00+00:00,Solomon Islands,0.6298227933942373,1,1,en,EPO,Oceania
-'a5c68ddd24',extremes,Snow&Ice,#d60d2b,wmo,Frost Lewis Pass SH7,2026-06-26T06:36:00+00:00,New Zealand,0.6297540598305605,1,1,en,NZ,Oceania
 'f1966df415',extremes,Thunderstorm,#53785a,wmo,Hail Australia,2026-07-13T05:53:00+00:00,Australia,0.6296750442027741,1,2,en,CAU,Oceania
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,Storm Surge Taranaki,2026-07-09T06:27:00+00:00,New Zealand,0.6296504367083401,1,1,en,NZ,Oceania
 '86ddfb3f0e',extremes,Wildfire,#d60d2b,wmo,Wildfire Eastern Panhandle Crescent Lake NWR,2026-08-01T05:42:00+00:00,United States,0.6296340590174014,1,1,en,CNA,North-America
-'8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-06-26T06:36:00+00:00,Australia,0.6296172448994309,1,1,en,CAU,Oceania
 '0e758d71f3',extremes,Flood,#030ba1,wmo,Flooding Webb TX,2026-07-18T05:10:00+00:00,United States,0.6295816635764572,1,1,en,CNA,North-America
 '8deeb78802',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Belize,2026-07-14T05:14:00+00:00,Belize,0.6291875968177533,1,1,en,SCA,North-America
 '9c32a6bc47',extremes,Heat Wave,#c40202,wmo,Heat Wave Whistler Howe Sound,2026-07-21T05:36:00+00:00,Canada,0.6290919066259907,1,1,en,NEN,North-America
@@ -317,7 +314,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '301f849155',extremes,Flood,#030ba1,wmo,Flooding Victoria Seven and Castle Creeks,2026-07-01T06:52:00+00:00,Australia,0.6202881453758717,1,1,en,CAU,Oceania
 'd21652e726',extremes,Flood,#030ba1,wmo,Flooding Leelanau MI,2026-07-21T05:36:00+00:00,United States,0.6202790143978285,1,1,en,CNA,North-America
 'aef63eb6c0',extremes,Flood,#030ba1,wmo,Flood Matagorda TX Wharton TX,2026-07-16T05:25:00+00:00,United States,0.6202146980257405,1,1,en,CNA,North-America
-'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-06-23T06:33:00+00:00,Ireland,0.6201488629395561,2,2,en,NEU,Europe
 '1776577726',extremes,Flood,#030ba1,wmo,Flooding Bossier LA Webster LA,2026-07-01T06:52:00+00:00,United States,0.6200197711211121,1,1,en,CNA,North-America
 '6804fbe008',extremes,Flood,#030ba1,wmo,Flooding Kinney TX Uvalde TX,2026-07-16T05:25:00+00:00,United States,0.61996617207149,1,1,en,CNA,North-America
 '315ce37694',extremes,Wildfire,#d60d2b,wmo,Wildfire Lower Columbia Basin of Oregon,2026-07-03T06:09:00+00:00,United States,0.6198470866749566,1,1,en,CNA,North-America
@@ -415,7 +411,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-07-09T06:27:00+00:00,Jamaica,0.6041858611022137,2,1,en,CAR,North-America
 '8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,Storm Nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.5995119535248469,2,2,en,WAF,Africa
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-07-21T05:36:00+00:00,Australia,0.5922260961220724,2,1,en,SAU,Oceania
-'4093195155',extremes,Storm,#b3b2b1,wmo,Storm Surge India,2026-06-30T06:39:00+00:00,India,0.5902125842491532,2,1,en,SAS,Asia
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-07-03T06:09:00+00:00,New Zealand,0.5885000135753691,2,1,en,NZ,Oceania
 '563b781620',extremes,Thunderstorm,#53785a,wmo,Severe Weather Nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.5879479381428995,2,1,en,WAF,Africa
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,wildfire Victoria,2026-07-04T05:59:00+00:00,Australia,0.5812221282745945,2,1,en,SAU,Oceania
