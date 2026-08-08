@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'ac301e433e',extremes,Wildfire,#d60d2b,wmo,Wildfire Warm Springs Reservation,2026-08-03T05:57:00+00:00,United States,0.8074064640468025,2,2,en,CNA,North-America
-'7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,Wildfire Ireland,2026-08-07T09:56:00+00:00,Ireland,0.7913732401328962,0,1,en,NEU,Europe
 '3c4d29fd15',extremes,Wildfire,#d60d2b,effis,Wild Fire Ireland,2026-08-07T11:06:00+00:00,Ireland,0.7913593332720128,0,1,en,NEU,Europe
 '20b6055ef8',extremes,Wildfire,#d60d2b,effis,Bushfire Ireland,2026-08-07T09:56:00+00:00,Ireland,0.7912524924842689,0,1,en,NEU,Europe
 '83664f5027',extremes,Wildfire,#d60d2b,effis,Wildfire Éire Ireland Mid West Templederry,2026-08-07T11:06:00+00:00,Ireland,0.7911859835577071,0,1,en,NEU,Europe
@@ -51,6 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,precipitation Tasmania,2026-06-21T07:16:00+00:00,Australia,0.6933083877266579,1,2,en,SAU,Oceania
 '9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,Wildfire Mid West Ireland,2026-08-07T11:06:00+00:00,Ireland,0.6926371405027131,1,1,en,NEU,Europe
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-06-30T06:39:00+00:00,United States,0.6896770386604597,2,3,en,CNA,North-America
+'7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,Wildfire Ireland,2026-08-07T09:56:00+00:00,Ireland,0.6878298802240729,1,2,en,NEU,Europe
 '393400b105',extremes,Drought,#edc291,edo,Dryness Puerto Rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.6835671572990559,2,1,en,CAR,North-America
 '6782e28db8',extremes,Earthquake,#870007,usgs,Earthquake Scarborough,2026-07-21T05:36:00+00:00,Trinidad and Tobago,0.6832320870413233,3,1,en,NSA,South-America
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2026-06-30T06:39:00+00:00,India,0.6822688315524893,1,2,en,SAS,Asia
