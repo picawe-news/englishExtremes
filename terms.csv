@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-08-07T11:06:00+00:00,Solomon Islands,0.7458235247144889,0,1,en,EPO,Oceania
-'d79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-08-08T03:51:00+00:00,Australia,0.7455657318234511,0,1,en,CAU,Oceania
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2026-08-05T05:31:00+00:00,United Kingdom,0.7447385392989755,0,1,en,NEU,Europe
 'aa64a7fbe7',extremes,Storm,#b3b2b1,wmo,Storm Surge RENBEL MAKIRA AND TEMOTU,2026-08-07T09:56:00+00:00,Solomon Islands,0.7444821001685556,0,1,en,EPO,Oceania
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-08-07T04:37:00+00:00,Australia,0.7443426450095414,0,1,en,CAU,Oceania
@@ -109,6 +108,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane United States,2026-07-04T05:59:00+00:00,United States,0.6501799629638862,1,2,en,CNA,North-America
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-07-03T06:09:00+00:00,New Zealand,0.6492706571616614,1,2,en,NZ,Oceania
 '26fee806c3',extremes,Precipitation,#d60d2b,wmo,Downpour India,2026-06-30T06:39:00+00:00,India,0.6491996985360164,1,2,en,SAS,Asia
+'d79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-08-08T03:51:00+00:00,Australia,0.6482322970499333,1,2,en,CAU,Oceania
 'cbd214af74',extremes,Drought,#edc291,edo,Dryness Uganda,2026-07-31T05:51:00+00:00,Uganda,0.647725213757971,1,1,en,SEAF,Africa
 'b3e00f492f',extremes,Drought,#edc291,edo,Drought Belize,2026-07-13T05:53:00+00:00,Belize,0.647371841140105,1,1,en,SCA,North-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-08-01T05:42:00+00:00,Canada,0.646177049948159,1,2,en,NEN,North-America
