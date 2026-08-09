@@ -5,8 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'c411765f93',extremes,Flood,#030ba1,wmo,Flooding Victoria Mitchell River,2026-08-08T03:51:00+00:00,Australia,0.7404920831099402,0,1,en,CAU,Oceania
-'52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-08-07T04:37:00+00:00,New Zealand,0.7397931814570282,0,1,en,NZ,Oceania
 '0b7da97434',extremes,Flood,#030ba1,wmo,Flashflood Victoria Kiewa River,2026-08-07T04:37:00+00:00,Australia,0.7397457857806379,0,1,en,CAU,Oceania
 '03f37d5e93',extremes,Flood,#030ba1,wmo,Flashflood Victoria Broken River,2026-08-09T03:59:00+00:00,Australia,0.7395221975941102,0,1,en,CAU,Oceania
 'bf140a8e96',extremes,Flood,#030ba1,wmo,Flooding Victoria Ovens and King Rivers,2026-08-07T09:56:00+00:00,Australia,0.7394578752706327,0,1,en,CAU,Oceania
@@ -86,6 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,Storm Melbourne Victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.66307709231283,1,1,en,SAU,Oceania
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-08-02T05:42:00+00:00,Canada,0.6628697630905771,1,1,en,NEN,North-America
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,Storm Severe wind and rainfall Victoria 2024,2026-08-04T05:32:00+00:00,Australia,0.6625944888856161,1,1,en,SAU,Oceania
+'52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-08-07T04:37:00+00:00,New Zealand,0.661750899238474,1,2,en,NZ,Oceania
 '6f79830807',extremes,Storm,#b3b2b1,wmo,Storm Whanganui,2026-06-26T06:36:00+00:00,New Zealand,0.6601294865907099,2,2,en,NZ,Oceania
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-06-30T06:39:00+00:00,India,0.6598046528066048,1,2,en,SAS,Asia
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-07-29T05:37:00+00:00,New Zealand,0.6595944516206546,1,1,en,NZ,Oceania
@@ -191,6 +190,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '86ddfb3f0e',extremes,Wildfire,#d60d2b,wmo,Wildfire Eastern Panhandle Crescent Lake NWR,2026-08-01T05:42:00+00:00,United States,0.6296340590174014,1,1,en,CNA,North-America
 '0e758d71f3',extremes,Flood,#030ba1,wmo,Flooding Webb TX,2026-07-18T05:10:00+00:00,United States,0.6295816635764572,1,1,en,CNA,North-America
 '8abb1407a7',extremes,Flood,#030ba1,wmo,Flood Victoria Macalister River,2026-08-07T04:37:00+00:00,Australia,0.6295233358581731,1,1,en,CAU,Oceania
+'c411765f93',extremes,Flood,#030ba1,wmo,Flooding Victoria Mitchell River,2026-08-08T03:51:00+00:00,Australia,0.6294182706434491,1,1,en,CAU,Oceania
 '01e50683b4',extremes,Fog,#d60d2b,wmo,Fog Fayette Clayton,2026-08-07T09:56:00+00:00,United States,0.6293814898699504,1,1,en,CNA,North-America
 '66e7fd7a8b',extremes,Flood,#030ba1,wmo,Flood Cooper MO,2026-08-08T03:51:00+00:00,United States,0.6293466602310591,1,1,en,CNA,North-America
 '8deeb78802',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Belize,2026-07-14T05:14:00+00:00,Belize,0.6291875968177533,1,1,en,SCA,North-America
