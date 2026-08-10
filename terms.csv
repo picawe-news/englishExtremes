@@ -5,12 +5,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'e4f47bad10',extremes,Flood,#030ba1,wmo,Flashflood Victoria Macalister River,2026-08-08T03:51:00+00:00,Australia,0.7382404858898856,0,1,en,CAU,Oceania
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-07-17T05:27:00+00:00,United States,0.7371010474986454,1,3,en,CNA,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
-'42caaf65d3',extremes,Earthquake,#870007,usgs,Earthquake Hicks Bay,2026-07-29T05:37:00+00:00,New Zealand,0.7369411246959954,0,1,en,NZ,Oceania
-'979bc48c4a',extremes,Flood,#030ba1,wmo,Flooding Victoria Macalister River,2026-08-07T09:56:00+00:00,Australia,0.7363787338090318,0,1,en,CAU,Oceania
-'76ad6644c3',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Nigeria,2026-08-08T03:51:00+00:00,Nigeria,0.7356386459007332,0,1,en,WAF,Africa
 '9ea38a71d5',extremes,Flood,#030ba1,wmo,Flashflood Warren PA,2026-08-09T03:59:00+00:00,United States,0.7349420334908984,0,1,en,CNA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
 'c23332cdff',extremes,Flood,#030ba1,wmo,Flashflood Howell MO,2026-08-08T03:51:00+00:00,United States,0.7335272330407026,0,1,en,CNA,North-America
@@ -209,6 +205,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '891bde534c',extremes,Landslide,#572c03,wmo,Mudslide India,2026-07-06T06:52:00+00:00,India,0.6276252458836081,1,1,en,SAS,Asia
 '7210963114',extremes,Heat Wave,#c40202,wmo,Heat Wave Manning Skagit Valley,2026-07-23T05:40:00+00:00,Canada,0.6275433240124764,1,1,en,NEN,North-America
 'ae962285fa',extremes,Flood,#030ba1,wmo,Flooding Mossy River,2026-07-08T05:37:00+00:00,Canada,0.6275062559881671,1,1,en,NEN,North-America
+'e4f47bad10',extremes,Flood,#030ba1,wmo,Flashflood Victoria Macalister River,2026-08-08T03:51:00+00:00,Australia,0.6275044130064027,1,1,en,CAU,Oceania
 '3d8da6f8cf',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Rota,2026-07-05T06:25:00+00:00,United States,0.6274771274496442,1,1,en,CNA,North-America
 '59a70615bc',extremes,Flood,#030ba1,wmo,Flashflood Caldwell KY Hopkins KY,2026-07-11T05:27:00+00:00,United States,0.6274084022797113,1,1,en,CNA,North-America
 '087c4025a0',extremes,Flood,#030ba1,wmo,Flashflood Louisa IA Muscatine IA,2026-07-16T05:25:00+00:00,United States,0.627384166138692,1,1,en,CNA,North-America
@@ -227,12 +224,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '127015718a',extremes,Wildfire,#d60d2b,wmo,Wildfire Clearwater Nezperce National Forest,2026-08-01T05:42:00+00:00,United States,0.626509604945104,1,1,en,CNA,North-America
 'c2ececbbb4',extremes,Drought,#edc291,edo,Dry Spell Belize,2026-07-20T05:54:00+00:00,Belize,0.6264252431377599,1,1,en,SCA,North-America
 'fc89d99879',extremes,Heat Wave,#c40202,wmo,Heat Wave Attawapiskat Fort Albany Moosonee,2026-07-06T06:52:00+00:00,Canada,0.6264120599375324,1,1,en,NEN,North-America
+'42caaf65d3',extremes,Earthquake,#870007,usgs,Earthquake Hicks Bay,2026-07-29T05:37:00+00:00,New Zealand,0.626399955991596,1,1,en,NZ,Oceania
 '2a3bc7ef93',extremes,Wildfire,#d60d2b,wmo,Wildfire Methow Valley,2026-07-24T05:36:00+00:00,United States,0.6262747555634988,1,1,en,CNA,North-America
 '5f67ceebdc',extremes,Flood,#030ba1,wmo,Flashflood Live Oak TX McMullen TX,2026-07-16T05:25:00+00:00,United States,0.6262578185872291,1,1,en,CNA,North-America
 'b5bc9ada0b',extremes,Flood,#030ba1,wmo,Flooding Live Oak TX,2026-07-26T05:46:00+00:00,United States,0.6261529688353594,1,1,en,CNA,North-America
 '6151a5c46b',extremes,Heat Wave,#c40202,wmo,Heat Wave Puvirnituq,2026-07-02T06:24:00+00:00,Canada,0.6259935108848027,1,1,en,NEN,North-America
 'd29468f4c7',extremes,Flood,#030ba1,wmo,Flood Kimble TX,2026-07-17T05:27:00+00:00,United States,0.625929469935104,1,1,en,CNA,North-America
 '7bb78849dc',extremes,Flood,#030ba1,wmo,Flood Live Oak TX McMullen TX,2026-07-21T05:36:00+00:00,United States,0.625924256974168,1,1,en,CNA,North-America
+'979bc48c4a',extremes,Flood,#030ba1,wmo,Flooding Victoria Macalister River,2026-08-07T09:56:00+00:00,Australia,0.6259219237376771,1,1,en,CAU,Oceania
 'eb87d1255b',extremes,Flood,#030ba1,wmo,Flashflood Mitchell IA,2026-07-10T06:27:00+00:00,United States,0.625907905949111,1,1,en,CNA,North-America
 'c0c306510d',extremes,Storm,#b3b2b1,wmo,Storm Pribilof Islands Nearshore Waters,2026-07-07T06:30:00+00:00,United States,0.6258639802152901,1,1,en,CNA,North-America
 '6cc70f58b6',extremes,Flood,#030ba1,wmo,Flood Webb TX,2026-07-17T05:27:00+00:00,United States,0.6258634407467105,1,1,en,CNA,North-America
@@ -240,6 +239,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '452ba4eb6a',extremes,Flood,#030ba1,wmo,Flashflood Cochise AZ,2026-07-20T05:54:00+00:00,United States,0.625730099774122,1,1,en,CNA,North-America
 '516cca4753',extremes,Storm,#b3b2b1,wmo,Storm Surge Canterbury High Country,2026-07-04T05:59:00+00:00,New Zealand,0.6256308157955601,1,1,en,NZ,Oceania
 '1829eb25f5',extremes,Flood,#030ba1,wmo,Flashflood La Salle TX,2026-07-19T05:37:00+00:00,United States,0.6256300050281599,1,1,en,CNA,North-America
+'76ad6644c3',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Nigeria,2026-08-08T03:51:00+00:00,Nigeria,0.6255928790156232,1,1,en,WAF,Africa
 'ee3251f277',extremes,Storm,#b3b2b1,wmo,Storm New South Wales Eden Coast,2026-07-24T05:36:00+00:00,Australia,0.6255787217743044,1,1,en,CAU,Oceania
 '382f7ac114',extremes,Precipitation,#d60d2b,wmo,Rain Pangnirtung Iqaluit Kimmirut,2026-08-01T05:42:00+00:00,Canada,0.6255781842147162,1,1,en,NEN,North-America
 'ab80f10100',extremes,Flood,#030ba1,wmo,Flooding Uvalde TX,2026-07-15T05:15:00+00:00,United States,0.6255239616529761,1,1,en,CNA,North-America
@@ -436,7 +436,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-07-09T06:27:00+00:00,Jamaica,0.6041858611022137,2,1,en,CAR,North-America
 '8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,Storm Nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.5995119535248469,2,2,en,WAF,Africa
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-07-21T05:36:00+00:00,Australia,0.5922260961220724,2,1,en,SAU,Oceania
-'68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-07-03T06:09:00+00:00,New Zealand,0.5885000135753691,2,1,en,NZ,Oceania
 '563b781620',extremes,Thunderstorm,#53785a,wmo,Severe Weather Nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.5879479381428995,2,1,en,WAF,Africa
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,wildfire Victoria,2026-07-04T05:59:00+00:00,Australia,0.5812221282745945,2,1,en,SAU,Oceania
 '7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,Snow Australia,2026-07-03T06:09:00+00:00,Australia,0.5801698131061123,3,3,en,CAU,Oceania
