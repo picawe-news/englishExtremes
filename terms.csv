@@ -5,10 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'778d256165',extremes,Flood,#030ba1,wmo,Flashflood India,2026-07-21T05:36:00+00:00,India,0.7384631775689721,0,1,en,SAS,Asia
-'1403d4b416',extremes,Flood,#030ba1,wmo,Flood Victoria Buckland River,2026-08-10T04:14:00+00:00,Australia,0.7376745622529827,0,1,en,CAU,Oceania
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-07-17T05:27:00+00:00,United States,0.7371010474986454,1,3,en,CNA,North-America
-'7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.7369797021304865,1,3,en,NEU,Europe
 'd1bc4d6bd9',extremes,Flood,#030ba1,wmo,Flooding Victoria Broken River,2026-08-10T04:14:00+00:00,Australia,0.7359496987581764,0,1,en,CAU,Oceania
 '5189880b23',extremes,Flood,#030ba1,wmo,Flooding Lee IL,2026-08-10T04:14:00+00:00,United States,0.7353123970871885,0,1,en,CNA,North-America
 '951d089856',extremes,Flood,#030ba1,wmo,Flashflood Kane UT,2026-08-10T04:14:00+00:00,United States,0.7341979556964908,0,1,en,CNA,North-America
@@ -110,6 +107,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-06-26T06:36:00+00:00,United States,0.6421063916351268,1,2,en,CNA,North-America
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-08-05T05:31:00+00:00,Belize,0.6419692049241907,1,1,en,SCA,North-America
 '9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2026-07-28T05:30:00+00:00,Saint Helena,0.6412302370269414,1,1,en,EAO,Atlantic Ocean
+'7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-07-06T06:52:00+00:00,United Kingdom,0.6404743009018226,2,3,en,NEU,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-07-29T05:37:00+00:00,New Zealand,0.6400074093184261,1,1,en,NZ,Oceania
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-07-02T06:24:00+00:00,Jamaica,0.6396972333846578,1,1,en,CAR,North-America
 '46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,Snow Crown Range Road,2026-07-31T05:51:00+00:00,New Zealand,0.6390588232392185,1,1,en,NZ,Oceania
@@ -204,6 +202,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c7d5d31bc5',extremes,Earthquake,#870007,usgs,Earthquake Turangi,2026-07-25T05:28:00+00:00,New Zealand,0.6280442423150434,1,1,en,NZ,Oceania
 '9336129229',extremes,Precipitation,#d60d2b,wmo,Rain Canterbury south of Methven,2026-07-08T05:37:00+00:00,New Zealand,0.628036647597162,1,1,en,NZ,Oceania
 'e3f478e59c',extremes,Flood,#030ba1,wmo,Flashflood Victoria Ovens and King Rivers,2026-08-07T04:37:00+00:00,Australia,0.6277504609935318,1,1,en,CAU,Oceania
+'778d256165',extremes,Flood,#030ba1,wmo,Flashflood India,2026-07-21T05:36:00+00:00,India,0.6276937009336262,1,1,en,SAS,Asia
 '891bde534c',extremes,Landslide,#572c03,wmo,Mudslide India,2026-07-06T06:52:00+00:00,India,0.6276252458836081,1,1,en,SAS,Asia
 '7210963114',extremes,Heat Wave,#c40202,wmo,Heat Wave Manning Skagit Valley,2026-07-23T05:40:00+00:00,Canada,0.6275433240124764,1,1,en,NEN,North-America
 'ae962285fa',extremes,Flood,#030ba1,wmo,Flooding Mossy River,2026-07-08T05:37:00+00:00,Canada,0.6275062559881671,1,1,en,NEN,North-America
@@ -217,6 +216,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c48a100d9',extremes,Heat Wave,#c40202,wmo,Heat Wave Salluit Kangirsuk,2026-07-07T06:30:00+00:00,Canada,0.6272394401131567,1,1,en,NEN,North-America
 'bc0e39af26',extremes,Flood,#030ba1,wmo,Flood Brookings SD Hamlin SD,2026-07-11T05:27:00+00:00,United States,0.6272285128310613,1,1,en,CNA,North-America
 '517e4b4a9e',extremes,Storm,#b3b2b1,wmo,Storm Northern Lynn Canal,2026-07-23T05:40:00+00:00,United States,0.6271170130858229,1,1,en,CNA,North-America
+'1403d4b416',extremes,Flood,#030ba1,wmo,Flood Victoria Buckland River,2026-08-10T04:14:00+00:00,Australia,0.6270233779150353,1,1,en,CAU,Oceania
 '68eb82a941',extremes,Flood,#030ba1,wmo,Flashflood Lewis WV Randolph WV Upshur WV,2026-07-22T05:35:00+00:00,United States,0.6269602414377973,1,1,en,CNA,North-America
 '99b5178830',extremes,Flood,#030ba1,wmo,Flood Jackson TX Wharton TX,2026-07-16T05:25:00+00:00,United States,0.626924718346288,1,1,en,CNA,North-America
 '20ea94e30d',extremes,Flood,#030ba1,wmo,Flooding Crawford MO,2026-07-11T05:27:00+00:00,United States,0.6268187275502336,1,1,en,CNA,North-America
