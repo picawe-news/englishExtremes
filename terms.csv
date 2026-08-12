@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2026-08-05T05:31:00+00:00,United Kingdom,0.7836278184041292,1,2,en,NEU,Europe
-'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,cold weather Western Australia,2026-08-12T04:23:00+00:00,Australia,0.7730014944707587,0,1,en,CAU,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-07-21T05:36:00+00:00,Canada,0.7695902374137823,1,3,en,NEN,North-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'ec98366bcb',extremes,Flood,#030ba1,aidr,Flood south eastern Australia 2016,2026-08-10T04:14:00+00:00,Australia,0.7663730754318664,0,1,en,SAU,Oceania
@@ -37,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2026-06-30T06:39:00+00:00,India,0.6822688315524893,1,2,en,SAS,Asia
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-06-24T06:30:00+00:00,New Zealand,0.6801045195964046,2,3,en,NZ,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-07-13T05:53:00+00:00,New Zealand,0.6786215063556278,1,1,en,NZ,Oceania
+'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,cold weather Western Australia,2026-08-12T04:23:00+00:00,Australia,0.6782593976078372,1,2,en,CAU,Oceania
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,Severe Weather Canada,2026-07-20T05:54:00+00:00,Canada,0.6777897195185517,3,3,en,NEN,North-America
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,Hail Canada,2026-07-09T06:27:00+00:00,Canada,0.6763497785023798,1,2,en,NEN,North-America
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-06-27T06:08:00+00:00,Australia,0.674529057255605,1,2,en,CAU,Oceania
