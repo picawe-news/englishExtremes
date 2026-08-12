@@ -4,12 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
-'f6ec81e506',extremes,Flood,#030ba1,wmo,Flashflood Chittenden VT Lamoille VT,2026-08-11T04:01:00+00:00,United States,0.7395525461699145,0,1,en,CNA,North-America
-'301f849155',extremes,Flood,#030ba1,wmo,Flooding Victoria Seven and Castle Creeks,2026-08-09T03:59:00+00:00,Australia,0.737564763209606,0,1,en,CAU,Oceania
-'707d21ad48',extremes,Flood,#030ba1,wmo,Flashflood Graham AZ,2026-07-30T05:24:00+00:00,United States,0.7374971932669689,0,1,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-07-17T05:27:00+00:00,United States,0.7371010474986454,1,3,en,CNA,North-America
-'869ff000f5',extremes,Precipitation,#d60d2b,wmo,Rain Belize,2026-08-11T04:01:00+00:00,Belize,0.736713638971153,0,1,en,SCA,North-America
-'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-07-26T05:46:00+00:00,Solomon Islands,0.7365406444972483,0,1,en,SPO,Pacific Ocean
 'caa4e61c5e',extremes,Flood,#030ba1,wmo,Flooding Graham AZ,2026-08-10T04:14:00+00:00,United States,0.7356309004228779,0,1,en,CNA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2026-06-30T06:39:00+00:00,India,0.7317529088531537,1,3,en,SAS,Asia
@@ -190,6 +185,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2918568fbe',extremes,Flood,#030ba1,wmo,Flood Black Hawk IA,2026-07-05T06:25:00+00:00,United States,0.6287811548739601,1,1,en,CNA,North-America
 '1c76a0930d',extremes,Flood,#030ba1,wmo,Flashflood Cook IL Lake IN,2026-07-28T05:31:00+00:00,United States,0.6286841488829003,1,1,en,CNA,North-America
 '375ea807cb',extremes,Flood,#030ba1,wmo,Flashflood Frio TX,2026-07-18T05:10:00+00:00,United States,0.6286327825881882,1,1,en,CNA,North-America
+'f6ec81e506',extremes,Flood,#030ba1,wmo,Flashflood Chittenden VT Lamoille VT,2026-08-11T04:01:00+00:00,United States,0.6286196642444273,1,1,en,CNA,North-America
 '03f37d5e93',extremes,Flood,#030ba1,wmo,Flashflood Victoria Broken River,2026-08-09T03:59:00+00:00,Australia,0.6285938679549936,1,1,en,CAU,Oceania
 'bf140a8e96',extremes,Flood,#030ba1,wmo,Flooding Victoria Ovens and King Rivers,2026-08-07T09:56:00+00:00,Australia,0.6285391939800378,1,1,en,CAU,Oceania
 '45bd990198',extremes,Storm,#b3b2b1,wmo,Storm Victoria Western Port,2026-07-02T06:24:00+00:00,Australia,0.6285298839275353,1,1,en,CAU,Oceania
@@ -222,7 +218,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '517e4b4a9e',extremes,Storm,#b3b2b1,wmo,Storm Northern Lynn Canal,2026-07-23T05:40:00+00:00,United States,0.6271170130858229,1,1,en,CNA,North-America
 '1403d4b416',extremes,Flood,#030ba1,wmo,Flood Victoria Buckland River,2026-08-10T04:14:00+00:00,Australia,0.6270233779150353,1,1,en,CAU,Oceania
 '68eb82a941',extremes,Flood,#030ba1,wmo,Flashflood Lewis WV Randolph WV Upshur WV,2026-07-22T05:35:00+00:00,United States,0.6269602414377973,1,1,en,CNA,North-America
+'301f849155',extremes,Flood,#030ba1,wmo,Flooding Victoria Seven and Castle Creeks,2026-08-09T03:59:00+00:00,Australia,0.626930048728165,1,1,en,CAU,Oceania
 '99b5178830',extremes,Flood,#030ba1,wmo,Flood Jackson TX Wharton TX,2026-07-16T05:25:00+00:00,United States,0.626924718346288,1,1,en,CNA,North-America
+'707d21ad48',extremes,Flood,#030ba1,wmo,Flashflood Graham AZ,2026-07-30T05:24:00+00:00,United States,0.6268726142769235,1,1,en,CNA,North-America
 '20ea94e30d',extremes,Flood,#030ba1,wmo,Flooding Crawford MO,2026-07-11T05:27:00+00:00,United States,0.6268187275502336,1,1,en,CNA,North-America
 '60c2d3576c',extremes,Flood,#030ba1,wmo,Flooding Cook IL Lake IN,2026-08-02T05:42:00+00:00,United States,0.6266478138998309,1,1,en,CNA,North-America
 'cc5991a226',extremes,Flood,#030ba1,wmo,Flooding Franklin MO Jefferson MO,2026-07-12T05:43:00+00:00,United States,0.6265443802933972,1,1,en,CNA,North-America
@@ -233,6 +231,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42caaf65d3',extremes,Earthquake,#870007,usgs,Earthquake Hicks Bay,2026-07-29T05:37:00+00:00,New Zealand,0.626399955991596,1,1,en,NZ,Oceania
 '2a3bc7ef93',extremes,Wildfire,#d60d2b,wmo,Wildfire Methow Valley,2026-07-24T05:36:00+00:00,United States,0.6262747555634988,1,1,en,CNA,North-America
 '5f67ceebdc',extremes,Flood,#030ba1,wmo,Flashflood Live Oak TX McMullen TX,2026-07-16T05:25:00+00:00,United States,0.6262578185872291,1,1,en,CNA,North-America
+'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-07-26T05:46:00+00:00,Solomon Islands,0.626209562822661,1,1,en,SPO,Pacific Ocean
+'869ff000f5',extremes,Precipitation,#d60d2b,wmo,Rain Belize,2026-08-11T04:01:00+00:00,Belize,0.6262065931254801,1,1,en,SCA,North-America
 'b5bc9ada0b',extremes,Flood,#030ba1,wmo,Flooding Live Oak TX,2026-07-26T05:46:00+00:00,United States,0.6261529688353594,1,1,en,CNA,North-America
 '6151a5c46b',extremes,Heat Wave,#c40202,wmo,Heat Wave Puvirnituq,2026-07-02T06:24:00+00:00,Canada,0.6259935108848027,1,1,en,NEN,North-America
 'd29468f4c7',extremes,Flood,#030ba1,wmo,Flood Kimble TX,2026-07-17T05:27:00+00:00,United States,0.625929469935104,1,1,en,CNA,North-America
