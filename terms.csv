@@ -6,6 +6,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab1b8b2754',extremes,Thunderstorm,#53785a,wmo,Severe Weather Belize,2026-08-12T04:23:00+00:00,Belize,0.7591364225209638,0,1,en,SCA,North-America
 'c2f16b92e6',extremes,Drought,#edc291,edo,Lack of Rain Kenya,2026-07-24T05:36:00+00:00,Kenya,0.754868601121275,0,1,en,SEAF,Africa
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
+'83f66c0c13',extremes,Drought,#edc291,edo,Drought United Kingdom,2026-08-12T04:23:00+00:00,United Kingdom,0.7477472173953214,0,1,en,NEU,Europe
+'456ab43e60',extremes,Storm,#b3b2b1,wmo,Storm Surge All REGIONS,2026-08-12T04:23:00+00:00,Solomon Islands,0.7469255512944494,0,1,en,EPO,Oceania
+'ca94998c29',extremes,Heat Wave,#c40202,wmo,Heat Wave United Kingdom,2026-08-12T04:23:00+00:00,United Kingdom,0.7458597329904911,0,1,en,NEU,Europe
+'24b52d5094',extremes,Flood,#030ba1,wmo,Flood Victoria Sunday Creek,2026-08-12T04:23:00+00:00,Australia,0.7453652010618185,0,1,en,CAU,Oceania
+'70b2c86024',extremes,Flood,#030ba1,wmo,Flood Victoria Avoca River,2026-08-12T04:23:00+00:00,Australia,0.7441145001977886,0,1,en,CAU,Oceania
+'ffab3bc6fd',extremes,Flood,#030ba1,wmo,Flood Morgan OH Washington OH,2026-08-12T04:23:00+00:00,United States,0.7435491031377771,0,1,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-07-17T05:27:00+00:00,United States,0.7371010474986454,1,3,en,CNA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2026-06-30T06:39:00+00:00,India,0.7317529088531537,1,3,en,SAS,Asia
