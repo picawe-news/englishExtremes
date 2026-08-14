@@ -8,8 +8,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '456ab43e60',extremes,Storm,#b3b2b1,wmo,Storm Surge All REGIONS,2026-08-12T04:23:00+00:00,Solomon Islands,0.7469255512944494,0,1,en,EPO,Oceania
 'ca94998c29',extremes,Heat Wave,#c40202,wmo,Heat Wave United Kingdom,2026-08-12T04:23:00+00:00,United Kingdom,0.7458597329904911,0,1,en,NEU,Europe
 '24b52d5094',extremes,Flood,#030ba1,wmo,Flood Victoria Sunday Creek,2026-08-12T04:23:00+00:00,Australia,0.7453652010618185,0,1,en,CAU,Oceania
+'e22ac455ac',extremes,Flood,#030ba1,wmo,Flashflood Fayette IN Franklin IN,2026-08-13T04:26:00+00:00,United States,0.7443857376673059,0,1,en,CNA,North-America
+'037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-08-07T04:37:00+00:00,United States,0.7443665857069968,0,1,en,CNA,North-America
 '70b2c86024',extremes,Flood,#030ba1,wmo,Flood Victoria Avoca River,2026-08-12T04:23:00+00:00,Australia,0.7441145001977886,0,1,en,CAU,Oceania
+'ff8dcb04ac',extremes,Flood,#030ba1,wmo,Flashflood Delaware IN Madison IN,2026-08-13T04:26:00+00:00,United States,0.7435492126700055,0,1,en,CNA,North-America
 'ffab3bc6fd',extremes,Flood,#030ba1,wmo,Flood Morgan OH Washington OH,2026-08-12T04:23:00+00:00,United States,0.7435491031377771,0,1,en,CNA,North-America
+'885597e0f4',extremes,Wildfire,#d60d2b,wmo,Wildfire Australia,2026-08-09T03:59:00+00:00,Australia,0.743143965515267,0,1,en,CAU,Oceania
+'2de1728bca',extremes,Storm,#b3b2b1,wmo,Storm Surge Eswatini,2026-08-12T04:23:00+00:00,Eswatini,0.7431206484188915,0,1,en,ESAF,Africa
+'d374f0679b',extremes,Flood,#030ba1,wmo,Flooding Blount TN Knox TN Sevier TN,2026-08-12T04:23:00+00:00,United States,0.742976137968153,0,1,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-07-17T05:27:00+00:00,United States,0.7371010474986454,1,3,en,CNA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2026-06-30T06:39:00+00:00,India,0.7317529088531537,1,3,en,SAS,Asia
