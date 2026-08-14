@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-07-26T05:46:00+00:00,United States,0.7478356343152699,0,1,en,CNA,North-America
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-08-07T09:56:00+00:00,Australia,0.7474275947283637,0,1,en,CAU,Oceania
-'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-08-14T04:24:00+00:00,Ireland,0.7465978831635857,0,1,en,NEU,Europe
 '89b6ac7d7c',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Big Island North,2026-08-14T04:24:00+00:00,United States,0.7454719117944902,0,1,en,CNA,North-America
 '24b52d5094',extremes,Flood,#030ba1,wmo,Flood Victoria Sunday Creek,2026-08-12T04:23:00+00:00,Australia,0.7453652010618185,0,1,en,CAU,Oceania
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-08-14T04:24:00+00:00,Solomon Islands,0.7450759026816983,0,1,en,EPO,Oceania
@@ -40,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2026-07-22T05:35:00+00:00,Australia,0.6941717129848406,1,1,en,EAU,Oceania
 '9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,Wildfire Mid West Ireland,2026-08-07T11:06:00+00:00,Ireland,0.6926371405027131,1,1,en,NEU,Europe
 '456ab43e60',extremes,Storm,#b3b2b1,wmo,Storm Surge All REGIONS,2026-08-12T04:23:00+00:00,Solomon Islands,0.6905583571717105,1,1,en,EPO,Oceania
+'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-08-14T04:24:00+00:00,Ireland,0.690232473732526,1,2,en,NEU,Europe
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-06-30T06:39:00+00:00,United States,0.6896770386604597,2,3,en,CNA,North-America
 '7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,Wildfire Ireland,2026-08-07T09:56:00+00:00,Ireland,0.6878298802240729,1,2,en,NEU,Europe
 '3c4d29fd15',extremes,Wildfire,#d60d2b,effis,Wild Fire Ireland,2026-08-07T11:06:00+00:00,Ireland,0.6873507108674178,1,2,en,NEU,Europe
