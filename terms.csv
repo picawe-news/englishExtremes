@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-07-26T05:46:00+00:00,United States,0.7478356343152699,0,1,en,CNA,North-America
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-08-07T09:56:00+00:00,Australia,0.7474275947283637,0,1,en,CAU,Oceania
-'89b6ac7d7c',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Big Island North,2026-08-14T04:24:00+00:00,United States,0.7454719117944902,0,1,en,CNA,North-America
 '24b52d5094',extremes,Flood,#030ba1,wmo,Flood Victoria Sunday Creek,2026-08-12T04:23:00+00:00,Australia,0.7453652010618185,0,1,en,CAU,Oceania
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-08-14T04:24:00+00:00,Solomon Islands,0.7450759026816983,0,1,en,EPO,Oceania
 'e22ac455ac',extremes,Flood,#030ba1,wmo,Flashflood Fayette IN Franklin IN,2026-08-13T04:26:00+00:00,United States,0.7443857376673059,0,1,en,CNA,North-America
@@ -155,6 +154,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-06-29T07:13:00+00:00,United States,0.6343180679963754,2,3,en,CNA,North-America
 '1364fc1e53',extremes,Snow&Ice,#d60d2b,wmo,Snow Remutaka Hill Road SH2,2026-08-03T05:57:00+00:00,New Zealand,0.6342992709272884,1,1,en,NZ,Oceania
 'ffd87268c6',extremes,Storm,#b3b2b1,wmo,Storm SOUTH EASTERN WATERS,2026-07-24T05:36:00+00:00,Solomon Islands,0.634154753409014,1,1,en,EPO,Oceania
+'89b6ac7d7c',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Big Island North,2026-08-14T04:24:00+00:00,United States,0.6341012000253168,1,1,en,CNA,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-08-07T11:06:00+00:00,Solomon Islands,0.6339499960073155,1,1,en,EPO,Oceania
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-07-07T06:30:00+00:00,Seychelles,0.6339323427035628,1,1,en,EIO,Africa
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-07-15T05:15:00+00:00,Belize,0.6336879210687196,1,1,en,SCA,North-America
