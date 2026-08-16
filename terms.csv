@@ -1,14 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '24b52d5094',extremes,Flood,#030ba1,wmo,Flood Victoria Sunday Creek,2026-08-12T04:23:00+00:00,Australia,0.8163038855171639,2,2,en,CAU,Oceania
-'ad985ec316',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kona,2026-08-16T03:28:00+00:00,United States,0.8010003509075235,1,2,en,CNA,North-America
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2026-08-05T05:31:00+00:00,United Kingdom,0.7836278184041292,1,2,en,NEU,Europe
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-07-21T05:36:00+00:00,Canada,0.7695902374137823,1,3,en,NEN,North-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
-'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7677974380509838,0,1,en,NEU,Europe
+'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Canada,2026-08-09T03:59:00+00:00,Canada,0.7612643417601443,0,1,en,NEN,North-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-08-15T03:13:00+00:00,New Zealand,0.7610674438705912,0,1,en,NZ,Oceania
-'db6b657396',extremes,Wildfire,#d60d2b,effis,Wildfire Bridgend and Neath Port Talbot United Kingdom,2026-08-15T03:13:00+00:00,United Kingdom,0.7581589041429431,0,1,en,NEU,Europe
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,Frost Milford Road SH94,2026-07-30T05:24:00+00:00,New Zealand,0.7503697635549818,0,1,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
 '8ae1582ca9',extremes,Snow&Ice,#d60d2b,wmo,Ice Lindis Pass SH8,2026-08-15T03:13:00+00:00,New Zealand,0.7485833991696239,0,1,en,NZ,Oceania
@@ -63,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6782e28db8',extremes,Earthquake,#870007,usgs,Earthquake Scarborough,2026-07-21T05:36:00+00:00,Trinidad and Tobago,0.6832320870413233,3,1,en,NSA,South-America
 'b1407ca4f5',extremes,Precipitation,#d60d2b,wmo,Rain India,2026-06-30T06:39:00+00:00,India,0.6822688315524893,1,2,en,SAS,Asia
 'bb625897a9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Kohala,2026-08-15T03:13:00+00:00,United States,0.6812259480083892,2,1,en,CNA,North-America
+'ad985ec316',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kona,2026-08-16T03:28:00+00:00,United States,0.680850313271395,2,1,en,CNA,North-America
 'c2f16b92e6',extremes,Drought,#edc291,edo,Lack of Rain Kenya,2026-07-24T05:36:00+00:00,Kenya,0.6797383859530837,1,1,en,SEAF,Africa
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-07-13T05:53:00+00:00,New Zealand,0.6786215063556278,1,1,en,NZ,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,cold weather Western Australia,2026-08-12T04:23:00+00:00,Australia,0.6782593976078372,1,2,en,CAU,Oceania
@@ -132,6 +131,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1956cfff74',extremes,Wildfire,#d60d2b,acwe,fire ban Victoria,2026-07-17T05:27:00+00:00,Australia,0.6447572034998036,1,1,en,SAU,Oceania
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-07-24T05:36:00+00:00,New Zealand,0.644644739865015,1,2,en,NZ,Oceania
 '6c60892a09',extremes,Wildfire,#d60d2b,effis,Wild Fire Gwent Valleys United Kingdom,2026-08-15T03:13:00+00:00,United Kingdom,0.6444679976532648,1,1,en,NEU,Europe
+'db6b657396',extremes,Wildfire,#d60d2b,effis,Wildfire Bridgend and Neath Port Talbot United Kingdom,2026-08-15T03:13:00+00:00,United Kingdom,0.6444350685215016,1,1,en,NEU,Europe
 '33c50fa0d2',extremes,Drought,#edc291,edo,Dry Spell Fiji,2026-07-26T05:46:00+00:00,Fiji,0.6424124139029146,1,1,en,,
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-08-05T05:31:00+00:00,Belize,0.6419692049241907,1,1,en,SCA,North-America
 '9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2026-07-28T05:30:00+00:00,Saint Helena,0.6412302370269414,1,1,en,EAO,Atlantic Ocean
