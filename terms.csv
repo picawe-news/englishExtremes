@@ -9,9 +9,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-08-15T03:13:00+00:00,New Zealand,0.7610674438705912,0,1,en,NZ,Oceania
 '5d31bff833',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Belize,2026-08-15T03:13:00+00:00,Belize,0.7599187337334207,0,1,en,SCA,North-America
+'6c60892a09',extremes,Wildfire,#d60d2b,effis,Wild Fire Gwent Valleys United Kingdom,2026-08-15T03:13:00+00:00,United Kingdom,0.7581976442979587,0,1,en,NEU,Europe
+'db6b657396',extremes,Wildfire,#d60d2b,effis,Wildfire Bridgend and Neath Port Talbot United Kingdom,2026-08-15T03:13:00+00:00,United Kingdom,0.7581589041429431,0,1,en,NEU,Europe
+'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,Frost Milford Road SH94,2026-07-30T05:24:00+00:00,New Zealand,0.7503697635549818,0,1,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-06-24T06:30:00+00:00,Australia,0.7503495055989783,2,3,en,CAU,Oceania
+'8ae1582ca9',extremes,Snow&Ice,#d60d2b,wmo,Ice Lindis Pass SH8,2026-08-15T03:13:00+00:00,New Zealand,0.7485833991696239,0,1,en,NZ,Oceania
+'d77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-08-15T03:13:00+00:00,Canada,0.7481661591200709,0,1,en,NEN,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-07-26T05:46:00+00:00,United States,0.7478356343152699,0,1,en,CNA,North-America
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-08-07T09:56:00+00:00,Australia,0.7474275947283637,0,1,en,CAU,Oceania
+'73819aca51',extremes,Snow&Ice,#d60d2b,wmo,Snow Napier Taupo Road SH5,2026-08-15T03:13:00+00:00,New Zealand,0.7472715343802585,0,1,en,NZ,Oceania
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-08-10T04:14:00+00:00,United States,0.7448598890660064,0,1,en,CNA,North-America
 'e22ac455ac',extremes,Flood,#030ba1,wmo,Flashflood Fayette IN Franklin IN,2026-08-13T04:26:00+00:00,United States,0.7443857376673059,0,1,en,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-08-07T04:37:00+00:00,United States,0.7443665857069968,0,1,en,CNA,North-America
