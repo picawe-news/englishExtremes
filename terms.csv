@@ -1,13 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '24b52d5094',extremes,Flood,#030ba1,wmo,Flood Victoria Sunday Creek,2026-08-12T04:23:00+00:00,Australia,0.8163038855171639,2,2,en,CAU,Oceania
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2026-08-05T05:31:00+00:00,United Kingdom,0.7836278184041292,1,2,en,NEU,Europe
-'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-08-16T03:28:00+00:00,New Zealand,0.780129399073799,1,3,en,NZ,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-07-21T05:36:00+00:00,Canada,0.7695902374137823,1,3,en,NEN,North-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
-'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,Frost Milford Road SH94,2026-07-30T05:24:00+00:00,New Zealand,0.7503697635549818,0,1,en,NZ,Oceania
-'fab5f38af4',extremes,Snow&Ice,#d60d2b,wmo,Snow Porters Pass SH73,2026-07-30T05:24:00+00:00,New Zealand,0.7499427601665967,0,1,en,NZ,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-08-09T03:59:00+00:00,Australia,0.7492260276868874,0,1,en,CAU,Oceania
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-08-15T03:13:00+00:00,Canada,0.7481661591200709,0,1,en,NEN,North-America
 '1a31b1982f',extremes,Snow&Ice,#d60d2b,wmo,Ice Lewis Pass SH7,2026-08-16T03:28:00+00:00,New Zealand,0.748086670994188,0,1,en,NZ,Oceania
@@ -94,6 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a2845aa9d',extremes,Drought,#edc291,edo,Drought Puerto Rico,2026-07-30T05:24:00+00:00,Puerto Rico,0.6661239301461416,1,1,en,CAR,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-08-05T05:31:00+00:00,Canada,0.666031965034265,1,2,en,NEN,North-America
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,Snow New Zealand,2026-08-04T05:32:00+00:00,New Zealand,0.6640474156276513,1,2,en,NZ,Oceania
+'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-08-16T03:28:00+00:00,New Zealand,0.6631104392127292,2,2,en,NZ,Oceania
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,Storm Melbourne Victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.66307709231283,1,1,en,SAU,Oceania
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-08-02T05:42:00+00:00,Canada,0.6628697630905771,1,1,en,NEN,North-America
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,Storm Severe wind and rainfall Victoria 2024,2026-08-04T05:32:00+00:00,Australia,0.6625944888856161,1,1,en,SAU,Oceania
@@ -145,7 +143,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,Snow Crown Range Road,2026-07-31T05:51:00+00:00,New Zealand,0.6390588232392185,1,1,en,NZ,Oceania
 'a1b8f4df40',extremes,Storm,#b3b2b1,wmo,Storm Surge Coastal Otago,2026-07-29T05:37:00+00:00,New Zealand,0.638802509719819,1,1,en,NZ,Oceania
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,Storm Surge Seychelles,2026-07-08T05:37:00+00:00,Seychelles,0.6386038150716974,1,1,en,EIO,Africa
+'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,Frost Milford Road SH94,2026-07-30T05:24:00+00:00,New Zealand,0.6379643140217345,1,1,en,NZ,Oceania
 '3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2026-07-29T05:37:00+00:00,Saint Helena,0.6377598623663128,1,1,en,EAO,Atlantic Ocean
+'fab5f38af4',extremes,Snow&Ice,#d60d2b,wmo,Snow Porters Pass SH73,2026-07-30T05:24:00+00:00,New Zealand,0.6374513461416071,1,1,en,NZ,Oceania
 'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lewis Pass SH7,2026-07-31T05:51:00+00:00,New Zealand,0.6369670172098901,1,1,en,NZ,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-08-02T05:42:00+00:00,Canada,0.6368710707224264,1,1,en,NEN,North-America
 'b24acb5e76',extremes,Snow&Ice,#d60d2b,wmo,Snow Dunedin to Waitati Highway SH1,2026-07-24T05:36:00+00:00,New Zealand,0.6368377153008197,1,1,en,NZ,Oceania
