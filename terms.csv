@@ -5,14 +5,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
+'1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-08-06T05:33:00+00:00,Seychelles,0.7529670792780895,0,1,en,EIO,Africa
+'3d3f82b6fc',extremes,Flood,#030ba1,wmo,Flood Dauphin Lake,2026-08-18T03:24:00+00:00,Canada,0.7495614386643238,0,1,en,NEN,North-America
+'b4527605c1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Porters Pass SH73,2026-07-31T05:51:00+00:00,New Zealand,0.7491250395153357,0,1,en,NZ,Oceania
+'ce4d5cd14d',extremes,Storm,#b3b2b1,wmo,Storm Surge Most waters,2026-08-18T03:24:00+00:00,Solomon Islands,0.7479513233043978,0,1,en,EPO,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-08-07T09:56:00+00:00,Australia,0.7474275947283637,0,1,en,CAU,Oceania
 '326bb7cdcb',extremes,Flood,#030ba1,wmo,Flashflood North West South West Littoral,2026-08-17T03:28:00+00:00,Cameroon,0.747259005063695,0,1,en,CAF,Africa
 'fadb40c11c',extremes,Snow&Ice,#d60d2b,wmo,Frost Porters Pass SH73,2026-08-15T03:13:00+00:00,New Zealand,0.7472430478522153,0,1,en,NZ,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-08-03T05:57:00+00:00,Jamaica,0.7471003968092386,0,1,en,CAR,North-America
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-08-15T03:13:00+00:00,New Zealand,0.7470926228265824,0,1,en,NZ,Oceania
 '516cca4753',extremes,Storm,#b3b2b1,wmo,Storm Surge Canterbury High Country,2026-07-29T05:37:00+00:00,New Zealand,0.7467265020461773,0,1,en,NZ,Oceania
+'236d7a616f',extremes,Precipitation,#d60d2b,wmo,Precipitation Solomon Islands,2026-08-18T03:24:00+00:00,Solomon Islands,0.7464965217914026,0,1,en,EPO,Oceania
 'baf5f94907',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island East,2026-08-15T03:13:00+00:00,United States,0.7452915454746112,0,1,en,CNA,North-America
 '08df04350f',extremes,Thunderstorm,#53785a,wmo,Hail Ghana,2026-08-16T03:28:00+00:00,Ghana,0.7452844609110041,0,1,en,WAF,Africa
+'2433af70de',extremes,Storm,#b3b2b1,wmo,Storm Surge Belize,2026-08-04T05:32:00+00:00,Belize,0.7451822992777934,0,1,en,SCA,North-America
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-08-10T04:14:00+00:00,United States,0.7448598890660064,0,1,en,CNA,North-America
 'e22ac455ac',extremes,Flood,#030ba1,wmo,Flashflood Fayette IN Franklin IN,2026-08-13T04:26:00+00:00,United States,0.7443857376673059,0,1,en,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-08-07T04:37:00+00:00,United States,0.7443665857069968,0,1,en,CNA,North-America
