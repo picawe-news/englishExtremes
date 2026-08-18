@@ -5,9 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
-'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-08-09T03:59:00+00:00,Australia,0.7492260276868874,0,1,en,CAU,Oceania
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-08-15T03:13:00+00:00,Canada,0.7481661591200709,0,1,en,NEN,North-America
-'1a31b1982f',extremes,Snow&Ice,#d60d2b,wmo,Ice Lewis Pass SH7,2026-08-16T03:28:00+00:00,New Zealand,0.748086670994188,0,1,en,NZ,Oceania
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-07-26T05:46:00+00:00,United States,0.7478356343152699,0,1,en,CNA,North-America
 'cc72486ea7',extremes,Flood,#030ba1,wmo,Flooding North West South West Littoral,2026-08-16T03:28:00+00:00,Cameroon,0.7476313498206434,0,1,en,CAF,Africa
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-08-07T09:56:00+00:00,Australia,0.7474275947283637,0,1,en,CAU,Oceania
@@ -103,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '73c331d40b',extremes,Earthquake,#870007,usgs,Earthquake George Town,2026-07-19T05:37:00+00:00,Cayman Islands,0.6592440007211022,1,1,en,CAR,North-America
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,bushfire Tasmania,2026-07-30T05:24:00+00:00,Australia,0.6586465325106825,1,1,en,SAU,Oceania
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,Severe Weather United States,2026-07-01T06:52:00+00:00,United States,0.6583450977153164,1,2,en,CNA,North-America
+'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-08-09T03:59:00+00:00,Australia,0.6580502208415466,1,2,en,CAU,Oceania
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,flash flood Tasmania,2026-07-22T05:35:00+00:00,Australia,0.6575031031133264,1,1,en,SAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2026-08-11T04:01:00+00:00,Australia,0.6555996894022246,1,1,en,SAU,Oceania
 '5b41d999f1',extremes,Flood,#030ba1,wmo,Flooding Benton IN,2026-08-02T05:42:00+00:00,United States,0.6547877425994558,2,1,en,CNA,North-America
@@ -159,6 +158,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2433af70de',extremes,Storm,#b3b2b1,wmo,Storm Surge Belize,2026-07-07T06:30:00+00:00,Belize,0.636217147008991,1,1,en,SCA,North-America
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-08-06T05:33:00+00:00,Canada,0.6361091467001483,1,1,en,NEN,North-America
 '54559d4fe4',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Moosonee,2026-07-14T05:14:00+00:00,Canada,0.6359411734906569,1,1,en,NEN,North-America
+'1a31b1982f',extremes,Snow&Ice,#d60d2b,wmo,Ice Lewis Pass SH7,2026-08-16T03:28:00+00:00,New Zealand,0.6358736703450598,1,1,en,NZ,Oceania
 'c703558933',extremes,Snow&Ice,#d60d2b,wmo,Ice Dunedin to Waitati Highway SH1,2026-07-31T05:51:00+00:00,New Zealand,0.6357546069525448,1,1,en,NZ,Oceania
 'd0da547bd3',extremes,Storm,#b3b2b1,wmo,Storm Victoria West Coast,2026-08-01T05:42:00+00:00,Australia,0.6357149249332403,2,2,en,CAU,Oceania
 '3d5e73f686',extremes,Snow&Ice,#d60d2b,wmo,Snow Lewis Pass SH7,2026-08-04T05:32:00+00:00,New Zealand,0.6357060227705569,1,1,en,NZ,Oceania
