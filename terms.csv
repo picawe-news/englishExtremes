@@ -5,8 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
-'02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-08-07T09:56:00+00:00,Australia,0.7474275947283637,0,1,en,CAU,Oceania
-'326bb7cdcb',extremes,Flood,#030ba1,wmo,Flashflood North West South West Littoral,2026-08-17T03:28:00+00:00,Cameroon,0.747259005063695,0,1,en,CAF,Africa
 'fadb40c11c',extremes,Snow&Ice,#d60d2b,wmo,Frost Porters Pass SH73,2026-08-15T03:13:00+00:00,New Zealand,0.7472430478522153,0,1,en,NZ,Oceania
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-08-03T05:57:00+00:00,Jamaica,0.7471003968092386,0,1,en,CAR,North-America
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-08-15T03:13:00+00:00,New Zealand,0.7470926228265824,0,1,en,NZ,Oceania
@@ -76,6 +74,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bb625897a9',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Kohala,2026-08-15T03:13:00+00:00,United States,0.6812259480083892,2,1,en,CNA,North-America
 'ad985ec316',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kona,2026-08-16T03:28:00+00:00,United States,0.680850313271395,2,1,en,CNA,North-America
 'c2f16b92e6',extremes,Drought,#edc291,edo,Lack of Rain Kenya,2026-07-24T05:36:00+00:00,Kenya,0.6797383859530837,1,1,en,SEAF,Africa
+'02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-08-07T09:56:00+00:00,Australia,0.678674782938464,1,2,en,CAU,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-07-13T05:53:00+00:00,New Zealand,0.6786215063556278,1,1,en,NZ,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,cold weather Western Australia,2026-08-12T04:23:00+00:00,Australia,0.6782593976078372,1,2,en,CAU,Oceania
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,Severe Weather Canada,2026-07-20T05:54:00+00:00,Canada,0.6777897195185517,3,3,en,NEN,North-America
@@ -181,6 +180,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b47c7fe559',extremes,Snow&Ice,#d60d2b,wmo,Ice Desert Road SH1,2026-07-24T05:36:00+00:00,New Zealand,0.6352976040845641,1,1,en,NZ,Oceania
 '9a57e5e313',extremes,Flood,#030ba1,wmo,Flashflood Dauphin Lake,2026-08-06T05:33:00+00:00,Canada,0.6352103673695789,1,1,en,NEN,North-America
 '73819aca51',extremes,Snow&Ice,#d60d2b,wmo,Snow Napier Taupo Road SH5,2026-08-15T03:13:00+00:00,New Zealand,0.6351808042232198,1,1,en,NZ,Oceania
+'326bb7cdcb',extremes,Flood,#030ba1,wmo,Flashflood North West South West Littoral,2026-08-17T03:28:00+00:00,Cameroon,0.6351701543041408,1,1,en,CAF,Africa
 'b5486c278b',extremes,Flood,#030ba1,wmo,Flood Lake CO,2026-07-30T05:24:00+00:00,United States,0.6350575673842926,1,2,en,CNA,North-America
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,Storm Adak to Kiska Bering Side,2026-07-10T06:27:00+00:00,United States,0.6350492193097639,1,1,en,CNA,North-America
 '0ecc9a51d0',extremes,Snow&Ice,#d60d2b,wmo,Ice Victoria Mallee forecast district,2026-08-04T05:32:00+00:00,Australia,0.634673080380553,1,1,en,CAU,Oceania
