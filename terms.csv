@@ -5,8 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
-'b4527605c1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Porters Pass SH73,2026-07-31T05:51:00+00:00,New Zealand,0.7491250395153357,0,1,en,NZ,Oceania
-'ce4d5cd14d',extremes,Storm,#b3b2b1,wmo,Storm Surge Most waters,2026-08-18T03:24:00+00:00,Solomon Islands,0.7479513233043978,0,1,en,EPO,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-08-07T09:56:00+00:00,Australia,0.7474275947283637,0,1,en,CAU,Oceania
 '326bb7cdcb',extremes,Flood,#030ba1,wmo,Flashflood North West South West Littoral,2026-08-17T03:28:00+00:00,Cameroon,0.747259005063695,0,1,en,CAF,Africa
 'fadb40c11c',extremes,Snow&Ice,#d60d2b,wmo,Frost Porters Pass SH73,2026-08-15T03:13:00+00:00,New Zealand,0.7472430478522153,0,1,en,NZ,Oceania
@@ -107,6 +105,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,bushfire Tasmania,2026-07-30T05:24:00+00:00,Australia,0.6586465325106825,1,1,en,SAU,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-08-09T03:59:00+00:00,Australia,0.6580502208415466,1,2,en,CAU,Oceania
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,flash flood Tasmania,2026-07-22T05:35:00+00:00,Australia,0.6575031031133264,1,1,en,SAU,Oceania
+'ce4d5cd14d',extremes,Storm,#b3b2b1,wmo,Storm Surge Most waters,2026-08-18T03:24:00+00:00,Solomon Islands,0.6569088648087381,1,1,en,EPO,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2026-08-11T04:01:00+00:00,Australia,0.6555996894022246,1,1,en,SAU,Oceania
 '5b41d999f1',extremes,Flood,#030ba1,wmo,Flooding Benton IN,2026-08-02T05:42:00+00:00,United States,0.6547877425994558,2,1,en,CNA,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-07-26T05:46:00+00:00,United States,0.654248287804343,1,2,en,CNA,North-America
@@ -155,6 +154,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lewis Pass SH7,2026-07-31T05:51:00+00:00,New Zealand,0.6369670172098901,1,1,en,NZ,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-08-02T05:42:00+00:00,Canada,0.6368710707224264,1,1,en,NEN,North-America
 'b24acb5e76',extremes,Snow&Ice,#d60d2b,wmo,Snow Dunedin to Waitati Highway SH1,2026-07-24T05:36:00+00:00,New Zealand,0.6368377153008197,1,1,en,NZ,Oceania
+'b4527605c1',extremes,Snow&Ice,#d60d2b,wmo,Freezing Porters Pass SH73,2026-07-31T05:51:00+00:00,New Zealand,0.6367562835880354,1,1,en,NZ,Oceania
 '1eecfd582b',extremes,Drought,#edc291,edo,Dry Spell Puerto Rico,2026-08-04T05:32:00+00:00,Puerto Rico,0.6367056559884158,1,1,en,CAR,North-America
 'f71259e5fd',extremes,Snow&Ice,#d60d2b,wmo,Snow Arthur's Pass SH73,2026-07-24T05:36:00+00:00,New Zealand,0.636673499299173,1,1,en,NZ,Oceania
 'ae5eb05a96',extremes,Snow&Ice,#d60d2b,wmo,Snow Milford Road SH94,2026-07-23T05:40:00+00:00,New Zealand,0.6365787297125778,1,1,en,NZ,Oceania
