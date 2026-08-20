@@ -44,6 +44,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '98399f033e',extremes,Flood,#030ba1,wmo,Flashflood Decatur IN,2026-08-13T04:26:00+00:00,United States,0.7411178289221415,0,1,en,CNA,North-America
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7411164979051634,0,1,en,CNA,North-America
 '011b30e951',extremes,Flood,#030ba1,wmo,Flooding Marion IN Morgan IN,2026-08-13T04:26:00+00:00,United States,0.7411077511020078,0,1,en,CNA,North-America
+'4edbdea66a',extremes,Flood,#030ba1,wmo,Flooding Hawaii in Hawaii HI,2026-08-16T03:28:00+00:00,United States,0.7410330771822367,0,1,en,CNA,North-America
+'e3fd3edd10',extremes,Flood,#030ba1,wmo,Flood Parke IN Vermillion IN Vigo IN,2026-08-16T03:28:00+00:00,United States,0.7410291090646569,0,1,en,CNA,North-America
+'53220f673a',extremes,Flood,#030ba1,wmo,Flood Mohave AZ,2026-08-15T03:13:00+00:00,United States,0.7408690741333334,0,1,en,CNA,North-America
+'beccc50a75',extremes,Flood,#030ba1,wmo,Flooding Monroe IN Morgan IN Owen IN,2026-08-14T04:24:00+00:00,United States,0.7408563520007541,0,1,en,CNA,North-America
+'48c06e42f2',extremes,Flood,#030ba1,wmo,Flashflood Floyd KY Knott KY,2026-08-14T04:24:00+00:00,United States,0.7408116740301967,0,1,en,CNA,North-America
+'05f85ef615',extremes,Flood,#030ba1,wmo,Flashflood Fulton IL Knox IL,2026-08-15T03:13:00+00:00,United States,0.7408025564024178,0,1,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-07-17T05:27:00+00:00,United States,0.7371010474986454,1,3,en,CNA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,Wildfire United States,2026-06-26T06:36:00+00:00,United States,0.7338117036645261,1,3,en,CNA,North-America
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2026-06-30T06:39:00+00:00,India,0.7317529088531537,1,3,en,SAS,Asia
