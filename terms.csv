@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-08-10T04:14:00+00:00,United States,0.7448598890660064,0,1,en,CNA,North-America
-'037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-08-07T04:37:00+00:00,United States,0.7443665857069968,0,1,en,CNA,North-America
 '7e302bab2a',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Big Island Interior,2026-08-16T03:28:00+00:00,United States,0.7442897456280001,0,1,en,CNA,North-America
 '70b2c86024',extremes,Flood,#030ba1,wmo,Flood Victoria Avoca River,2026-08-12T04:23:00+00:00,Australia,0.7441145001977886,0,1,en,CAU,Oceania
 '65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island Southeast,2026-08-16T03:28:00+00:00,United States,0.743952496962354,0,1,en,CNA,North-America
@@ -104,6 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-07-25T05:29:00+00:00,New Zealand,0.6683357616156845,1,1,en,NZ,Oceania
 'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,Freezing Crown Range Road,2026-07-23T05:40:00+00:00,New Zealand,0.6675240327294107,2,2,en,NZ,Oceania
 '236d7a616f',extremes,Precipitation,#d60d2b,wmo,Precipitation Solomon Islands,2026-08-18T03:24:00+00:00,Solomon Islands,0.6673987924942882,2,2,en,EPO,Oceania
+'037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-08-07T04:37:00+00:00,United States,0.6672163378509472,1,2,en,CNA,North-America
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-07-25T05:29:00+00:00,Solomon Islands,0.6668618522158779,2,1,en,EPO,Oceania
 '9a2845aa9d',extremes,Drought,#edc291,edo,Drought Puerto Rico,2026-07-30T05:24:00+00:00,Puerto Rico,0.6661239301461416,1,1,en,CAR,North-America
 '08df04350f',extremes,Thunderstorm,#53785a,wmo,Hail Ghana,2026-08-16T03:28:00+00:00,Ghana,0.6660955785082004,2,1,en,WAF,Africa
