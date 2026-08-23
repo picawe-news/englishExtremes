@@ -10,6 +10,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
 '56ec1d3897',extremes,Drought,#edc291,edo,Drought Uganda,2026-08-03T05:58:00+00:00,Uganda,0.7532678764389863,0,1,en,SEAF,Africa
 '88d2cdf092',extremes,Drought,#edc291,edo,Dryness Ireland,2026-08-17T03:28:00+00:00,Ireland,0.7506726907978878,0,1,en,NEU,Europe
+'0b5d38142c',extremes,Storm,#b3b2b1,wmo,Storm Surge Dunedin and Clutha,2026-08-22T03:22:00+00:00,New Zealand,0.7476729395885089,0,1,en,NZ,Oceania
+'672b5d17bc',extremes,Flood,#030ba1,wmo,Flood Victoria Yea River,2026-08-22T03:22:00+00:00,Australia,0.7472293539967241,0,1,en,CAU,Oceania
+'132a964bac',extremes,Drought,#edc291,edo,Dryness Guyana,2026-08-15T03:13:00+00:00,Guyana,0.7471187239409136,0,1,en,NSA,South-America
+'ba3bf81a17',extremes,Drought,#edc291,edo,Lack of Rain Solomon Islands,2026-08-14T04:24:00+00:00,Solomon Islands,0.7434539827713437,0,1,en,EPO,Pacific Ocean
 'a86281f168',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Big Island South,2026-08-16T03:28:00+00:00,United States,0.7432241796136327,0,1,en,CNA,North-America
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,Wildfire Australia,2026-08-09T03:59:00+00:00,Australia,0.743143965515267,0,1,en,CAU,Oceania
 '2de1728bca',extremes,Storm,#b3b2b1,wmo,Storm Surge Eswatini,2026-08-12T04:23:00+00:00,Eswatini,0.7431206484188915,0,1,en,ESAF,Africa
@@ -29,7 +33,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1f9127d5f9',extremes,Flood,#030ba1,wmo,Flashflood Hocking OH,2026-08-12T04:23:00+00:00,United States,0.7418688563249208,0,1,en,CNA,North-America
 'e4b41c4593',extremes,Flood,#030ba1,wmo,Flood Hamilton IN Madison IN,2026-08-13T04:26:00+00:00,United States,0.7418124903538201,0,1,en,CNA,North-America
 '3cdfc55da1',extremes,Flood,#030ba1,wmo,Flooding Bartholomew IN Jackson IN,2026-08-13T04:26:00+00:00,United States,0.741727946495948,0,1,en,CNA,North-America
+'197bb68e5e',extremes,Flood,#030ba1,wmo,Flood Greene IN Monroe IN Owen IN,2026-08-21T03:30:00+00:00,United States,0.7416883061853936,0,1,en,CNA,North-America
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-08-12T04:23:00+00:00,United States,0.7415627548581469,0,1,en,CNA,North-America
+'a82aa8ab78',extremes,Flood,#030ba1,wmo,Flooding La Salle IL,2026-08-22T03:22:00+00:00,United States,0.7415338424605376,0,1,en,CNA,North-America
 'db968f3e65',extremes,Flood,#030ba1,wmo,Flooding Apache AZ,2026-08-12T04:23:00+00:00,United States,0.7415096659070022,0,1,en,CNA,North-America
 '9c8994a67e',extremes,Storm,#b3b2b1,wmo,Storm inshore areas of south coast,2026-08-11T04:01:00+00:00,Jamaica,0.7413725408468127,0,1,en,CAR,North-America
 'a7632981a9',extremes,Flood,#030ba1,wmo,Flashflood Victoria Yea River,2026-08-12T04:23:00+00:00,Australia,0.7413053525134347,0,1,en,CAU,Oceania
