@@ -6,9 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
-'68ec3e76fb',extremes,Snow&Ice,#d60d2b,wmo,Ice Arthur's Pass SH73,2026-08-22T03:22:00+00:00,New Zealand,0.7558778212423131,0,1,en,NZ,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
-'56ec1d3897',extremes,Drought,#edc291,edo,Drought Uganda,2026-08-03T05:58:00+00:00,Uganda,0.7532678764389863,0,1,en,SEAF,Africa
 '88d2cdf092',extremes,Drought,#edc291,edo,Dryness Ireland,2026-08-17T03:28:00+00:00,Ireland,0.7506726907978878,0,1,en,NEU,Europe
 '0b5d38142c',extremes,Storm,#b3b2b1,wmo,Storm Surge Dunedin and Clutha,2026-08-22T03:22:00+00:00,New Zealand,0.7476729395885089,0,1,en,NZ,Oceania
 '672b5d17bc',extremes,Flood,#030ba1,wmo,Flood Victoria Yea River,2026-08-22T03:22:00+00:00,Australia,0.7472293539967241,0,1,en,CAU,Oceania
@@ -99,6 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,Hail Canada,2026-07-09T06:27:00+00:00,Canada,0.6763497785023798,1,2,en,NEN,North-America
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,storm Australia,2026-08-06T05:34:00+00:00,Australia,0.6756137969973437,1,2,en,SAU,Oceania
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-07-12T05:43:00+00:00,Australia,0.6736385183091891,2,2,en,CAU,Oceania
+'56ec1d3897',extremes,Drought,#edc291,edo,Drought Uganda,2026-08-03T05:58:00+00:00,Uganda,0.6730242688192922,1,2,en,SEAF,Africa
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2026-07-18T05:10:00+00:00,Australia,0.672706838301018,1,2,en,CAU,Oceania
 '20b6055ef8',extremes,Wildfire,#d60d2b,effis,Bushfire Ireland,2026-08-07T09:56:00+00:00,Ireland,0.6725646186116285,1,1,en,NEU,Europe
 '83664f5027',extremes,Wildfire,#d60d2b,effis,Wildfire Éire Ireland Mid West Templederry,2026-08-07T11:06:00+00:00,Ireland,0.672508086024051,1,1,en,NEU,Europe
@@ -167,6 +166,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db6b657396',extremes,Wildfire,#d60d2b,effis,Wildfire Bridgend and Neath Port Talbot United Kingdom,2026-08-15T03:13:00+00:00,United Kingdom,0.6444350685215016,1,1,en,NEU,Europe
 '26862b1b5f',extremes,Drought,#edc291,edo,Drought Dominica,2026-08-20T03:26:00+00:00,Dominica,0.6426731534456848,1,1,en,CAR,North-America
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-08-10T04:14:00+00:00,United States,0.6426279352515599,1,2,en,CNA,North-America
+'68ec3e76fb',extremes,Snow&Ice,#d60d2b,wmo,Ice Arthur's Pass SH73,2026-08-22T03:22:00+00:00,New Zealand,0.6424961480559661,1,1,en,NZ,Oceania
 '33c50fa0d2',extremes,Drought,#edc291,edo,Dry Spell Fiji,2026-07-26T05:46:00+00:00,Fiji,0.6424124139029146,1,1,en,,
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-08-05T05:31:00+00:00,Belize,0.6419692049241907,1,1,en,SCA,North-America
 '9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2026-07-28T05:30:00+00:00,Saint Helena,0.6412302370269414,1,1,en,EAO,Atlantic Ocean
