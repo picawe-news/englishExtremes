@@ -7,11 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
-'0b5d38142c',extremes,Storm,#b3b2b1,wmo,Storm Surge Dunedin and Clutha,2026-08-22T03:22:00+00:00,New Zealand,0.7476729395885089,0,1,en,NZ,Oceania
-'98f71c2b8b',extremes,Storm,#b3b2b1,wmo,Storm Surge Tararua District,2026-08-23T03:30:00+00:00,New Zealand,0.7476416796661882,0,1,en,NZ,Oceania
-'ea6bb31003',extremes,Storm,#b3b2b1,wmo,Storm Surge Inverness County Mabou and north,2026-08-23T03:30:00+00:00,Canada,0.7475972429528344,0,1,en,NEN,North-America
-'672b5d17bc',extremes,Flood,#030ba1,wmo,Flood Victoria Yea River,2026-08-22T03:22:00+00:00,Australia,0.7472293539967241,0,1,en,CAU,Oceania
-'132a964bac',extremes,Drought,#edc291,edo,Dryness Guyana,2026-08-15T03:13:00+00:00,Guyana,0.7471187239409136,0,1,en,NSA,South-America
 '203cc8dae0',extremes,Flood,#030ba1,wmo,Flashflood Parke IN Vermillion IN Vigo IN,2026-08-22T03:22:00+00:00,United States,0.745944590055238,0,1,en,CNA,North-America
 'ba3bf81a17',extremes,Drought,#edc291,edo,Lack of Rain Solomon Islands,2026-08-14T04:24:00+00:00,Solomon Islands,0.7434539827713437,0,1,en,EPO,Pacific Ocean
 'a86281f168',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Big Island South,2026-08-16T03:28:00+00:00,United States,0.7432241796136327,0,1,en,CNA,North-America
@@ -205,14 +200,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0da547bd3',extremes,Storm,#b3b2b1,wmo,Storm Victoria West Coast,2026-08-01T05:42:00+00:00,Australia,0.6357149249332403,2,2,en,CAU,Oceania
 '3d5e73f686',extremes,Snow&Ice,#d60d2b,wmo,Snow Lewis Pass SH7,2026-08-04T05:32:00+00:00,New Zealand,0.6357060227705569,1,1,en,NZ,Oceania
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-07-30T05:24:00+00:00,Jamaica,0.6355304137738592,1,1,en,CAR,North-America
+'0b5d38142c',extremes,Storm,#b3b2b1,wmo,Storm Surge Dunedin and Clutha,2026-08-22T03:22:00+00:00,New Zealand,0.6355219986502325,1,1,en,NZ,Oceania
+'98f71c2b8b',extremes,Storm,#b3b2b1,wmo,Storm Surge Tararua District,2026-08-23T03:30:00+00:00,New Zealand,0.63549542771626,1,1,en,NZ,Oceania
 'cc72486ea7',extremes,Flood,#030ba1,wmo,Flooding North West South West Littoral,2026-08-16T03:28:00+00:00,Cameroon,0.6354866473475469,1,1,en,CAF,Africa
+'ea6bb31003',extremes,Storm,#b3b2b1,wmo,Storm Surge Inverness County Mabou and north,2026-08-23T03:30:00+00:00,Canada,0.6354576565099092,1,1,en,NEN,North-America
 'bab5de556b',extremes,Storm,#b3b2b1,wmo,Storm Surge Wellington,2026-07-29T05:37:00+00:00,New Zealand,0.6353502352156276,1,1,en,NZ,Oceania
 '825ca3582e',extremes,Storm,#b3b2b1,wmo,Storm Cariboo north including Quesnel,2026-08-11T04:01:00+00:00,Canada,0.6353067121036824,1,1,en,NEN,North-America
 'b47c7fe559',extremes,Snow&Ice,#d60d2b,wmo,Ice Desert Road SH1,2026-07-24T05:36:00+00:00,New Zealand,0.6352976040845641,1,1,en,NZ,Oceania
 '9a57e5e313',extremes,Flood,#030ba1,wmo,Flashflood Dauphin Lake,2026-08-06T05:33:00+00:00,Canada,0.6352103673695789,1,1,en,NEN,North-America
+'132a964bac',extremes,Drought,#edc291,edo,Dryness Guyana,2026-08-15T03:13:00+00:00,Guyana,0.6352009303497765,1,1,en,NSA,South-America
 '73819aca51',extremes,Snow&Ice,#d60d2b,wmo,Snow Napier Taupo Road SH5,2026-08-15T03:13:00+00:00,New Zealand,0.6351808042232198,1,1,en,NZ,Oceania
 '326bb7cdcb',extremes,Flood,#030ba1,wmo,Flashflood North West South West Littoral,2026-08-17T03:28:00+00:00,Cameroon,0.6351701543041408,1,1,en,CAF,Africa
 'fadb40c11c',extremes,Snow&Ice,#d60d2b,wmo,Frost Porters Pass SH73,2026-08-15T03:13:00+00:00,New Zealand,0.635156590674383,1,1,en,NZ,Oceania
+'672b5d17bc',extremes,Flood,#030ba1,wmo,Flood Victoria Yea River,2026-08-22T03:22:00+00:00,Australia,0.6351449508972155,1,1,en,CAU,Oceania
 'b5486c278b',extremes,Flood,#030ba1,wmo,Flood Lake CO,2026-07-30T05:24:00+00:00,United States,0.6350575673842926,1,2,en,CNA,North-America
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-08-15T03:13:00+00:00,New Zealand,0.635028729402595,1,1,en,NZ,Oceania
 '0ecc9a51d0',extremes,Snow&Ice,#d60d2b,wmo,Ice Victoria Mallee forecast district,2026-08-04T05:32:00+00:00,Australia,0.634673080380553,1,1,en,CAU,Oceania
