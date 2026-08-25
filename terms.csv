@@ -9,10 +9,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-08-19T03:26:00+00:00,Canada,0.7500317638485708,0,1,en,NEN,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-08-12T04:23:00+00:00,Australia,0.7484141094465001,0,1,en,CAU,Oceania
 'f321a6eca2',extremes,Flood,#030ba1,wmo,Flood Gibson IN Knox IN,2026-08-24T03:32:00+00:00,United States,0.7433798682749226,0,1,en,CNA,North-America
+'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2026-08-24T03:32:00+00:00,Fiji,0.7432370788613,0,1,en,,
 '519c58c063',extremes,Flood,#030ba1,wmo,Flood India,2026-08-14T04:24:00+00:00,India,0.7430636615373494,0,1,en,SAS,Asia
 '35ea18ebfc',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Temotu province,2026-08-19T03:26:00+00:00,Solomon Islands,0.7429915400179005,0,1,en,EPO,Oceania
 'd43f2c5c0b',extremes,Flood,#030ba1,wmo,Flashflood Daviess IN Greene IN Knox IN,2026-08-15T03:13:00+00:00,United States,0.7429857173219371,0,1,en,CNA,North-America
 'd374f0679b',extremes,Flood,#030ba1,wmo,Flooding Blount TN Knox TN Sevier TN,2026-08-12T04:23:00+00:00,United States,0.742976137968153,0,1,en,CNA,North-America
+'1335513c95',extremes,Flood,#030ba1,wmo,Flood Daviess IN Greene IN Knox IN,2026-08-20T03:26:00+00:00,United States,0.7429451876011689,0,1,en,CNA,North-America
 'cc9ebf0830',extremes,Flood,#030ba1,wmo,Flooding Lawrence IL Wabash IL Knox IN,2026-08-22T03:22:00+00:00,United States,0.7428856113090601,0,1,en,CNA,North-America
 'f0093417fe',extremes,Flood,#030ba1,wmo,Flooding Fairfield OH Licking OH,2026-08-18T03:24:00+00:00,United States,0.7427662780563697,0,1,en,CNA,North-America
 '9bb45791c9',extremes,Flood,#030ba1,wmo,Flooding Cochise AZ Santa Cruz AZ,2026-08-12T04:23:00+00:00,United States,0.7427220018948845,0,1,en,CNA,North-America
@@ -47,12 +49,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48c06e42f2',extremes,Flood,#030ba1,wmo,Flashflood Floyd KY Knott KY,2026-08-14T04:24:00+00:00,United States,0.7408116740301967,0,1,en,CNA,North-America
 '05f85ef615',extremes,Flood,#030ba1,wmo,Flashflood Fulton IL Knox IL,2026-08-15T03:13:00+00:00,United States,0.7408025564024178,0,1,en,CNA,North-America
 'b0f212b435',extremes,Flood,#030ba1,wmo,Flooding Cochise AZ,2026-08-12T04:23:00+00:00,United States,0.7407681824421225,0,1,en,CNA,North-America
+'e6371f0078',extremes,Flood,#030ba1,wmo,Flashflood Coconino AZ,2026-08-14T04:24:00+00:00,United States,0.7407520085983538,0,1,en,CNA,North-America
 '91b43df244',extremes,Flood,#030ba1,wmo,Flooding Delaware IN Randolph IN,2026-08-15T03:13:00+00:00,United States,0.7407482843867149,0,1,en,CNA,North-America
+'7aa861ff3e',extremes,Flood,#030ba1,wmo,Flooding Adams IN Wells IN,2026-08-16T03:28:00+00:00,United States,0.7407186371345142,0,1,en,CNA,North-America
 '0e828fa18b',extremes,Flood,#030ba1,wmo,Flooding Carroll IN Howard IN,2026-08-13T04:26:00+00:00,United States,0.7406935999091424,0,1,en,CNA,North-America
 '9cce80d590',extremes,Flood,#030ba1,wmo,Flooding Piatt IL,2026-08-17T03:28:00+00:00,United States,0.7406709745324223,0,1,en,CNA,North-America
 '27af1cd1f2',extremes,Flood,#030ba1,wmo,Flood Rush IN,2026-08-13T04:26:00+00:00,United States,0.7406158260194191,0,1,en,CNA,North-America
+'bf1716452d',extremes,Flood,#030ba1,wmo,Flooding Morgan OH Washington OH,2026-08-21T03:30:00+00:00,United States,0.7405330448043662,0,1,en,CNA,North-America
 '33717ecbd6',extremes,Flood,#030ba1,wmo,Flashflood Monroe IN Morgan IN Owen IN,2026-08-14T04:24:00+00:00,United States,0.7402572103260552,0,1,en,CNA,North-America
 '635c2e18c7',extremes,Flood,#030ba1,wmo,Flashflood Pima AZ,2026-08-11T04:01:00+00:00,United States,0.7401763595091673,0,1,en,CNA,North-America
+'8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2026-08-18T03:23:00+00:00,Fiji,0.7401755745835922,0,1,en,SPO,Pacific Ocean
 '45dfc56491',extremes,Drought,#edc291,edo,Drought Bahamas,2026-08-11T04:01:00+00:00,Bahamas,0.7399263992169316,0,1,en,CAR,North-America
 '72bc2580da',extremes,Flood,#030ba1,wmo,Flooding Greene IN Monroe IN Owen IN,2026-08-14T04:24:00+00:00,United States,0.7399043216223966,0,1,en,CNA,North-America
 'ab883c8296',extremes,Flood,#030ba1,wmo,Flood Piatt IL,2026-08-18T03:24:00+00:00,United States,0.7397859175837332,0,1,en,CNA,North-America
