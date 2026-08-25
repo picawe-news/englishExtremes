@@ -7,7 +7,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-07-10T06:27:00+00:00,United States,0.7627541598656188,2,2,en,CNA,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
+'2db2e92a6a',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Burgeo Ramea,2026-08-25T03:27:00+00:00,Canada,0.7494628869433919,0,1,en,NEN,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-08-12T04:23:00+00:00,Australia,0.7484141094465001,0,1,en,CAU,Oceania
+'8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-08-21T03:30:00+00:00,New Zealand,0.7475780085446312,0,1,en,NZ,Oceania
+'0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-08-15T03:13:00+00:00,Kenya,0.7466935561182032,0,1,en,SEAF,Africa
+'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-08-13T04:26:00+00:00,New Zealand,0.7465265908321058,0,1,en,NZ,Oceania
+'d717269645',extremes,Flood,#030ba1,wmo,Flashflood Lawrence IL Wabash IL Knox IN,2026-08-21T03:30:00+00:00,United States,0.7459784917379431,0,1,en,CNA,North-America
+'2030891a8d',extremes,Fog,#d60d2b,wmo,Fog Coastal Washington,2026-08-25T03:27:00+00:00,United States,0.74360310953578,0,1,en,CNA,North-America
 'f321a6eca2',extremes,Flood,#030ba1,wmo,Flood Gibson IN Knox IN,2026-08-24T03:32:00+00:00,United States,0.7433798682749226,0,1,en,CNA,North-America
 '519c58c063',extremes,Flood,#030ba1,wmo,Flood India,2026-08-14T04:24:00+00:00,India,0.7430636615373494,0,1,en,SAS,Asia
 '35ea18ebfc',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Temotu province,2026-08-19T03:26:00+00:00,Solomon Islands,0.7429915400179005,0,1,en,EPO,Oceania
