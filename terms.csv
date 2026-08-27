@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,Hail Canada,2026-08-21T03:30:00+00:00,Canada,0.7584854567814627,0,1,en,NEN,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
-'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-08-07T09:56:00+00:00,Australia,0.7505701372870225,0,1,en,CAU,Oceania
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-08-14T04:24:00+00:00,United States,0.7465219473968809,0,1,en,CNA,North-America
 'f321a6eca2',extremes,Flood,#030ba1,wmo,Flood Gibson IN Knox IN,2026-08-24T03:32:00+00:00,United States,0.7433798682749226,0,1,en,CNA,North-America
 'a2f2ee735b',extremes,Flood,#030ba1,wmo,Flashflood Cass IL Fulton IL Mason IL,2026-08-26T03:34:00+00:00,United States,0.7432245114380629,0,1,en,CNA,North-America
@@ -160,6 +159,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83f66c0c13',extremes,Drought,#edc291,edo,Drought United Kingdom,2026-08-12T04:23:00+00:00,United Kingdom,0.6496268988769323,1,2,en,NEU,Europe
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-08-03T05:57:00+00:00,Jamaica,0.6493355322878528,1,1,en,CAR,North-America
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-08-08T03:51:00+00:00,Australia,0.6482322970499333,1,2,en,CAU,Oceania
+'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-08-07T09:56:00+00:00,Australia,0.648103158512151,1,2,en,CAU,Oceania
 'cbd214af74',extremes,Drought,#edc291,edo,Dryness Uganda,2026-07-31T05:51:00+00:00,Uganda,0.647725213757971,1,1,en,SEAF,Africa
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-08-20T03:26:00+00:00,Uganda,0.6462173609270034,1,1,en,SEAF,Africa
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-08-01T05:42:00+00:00,Canada,0.646177049948159,1,2,en,NEN,North-America
