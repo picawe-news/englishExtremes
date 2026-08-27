@@ -4,10 +4,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-08-13T04:26:00+00:00,New Zealand,0.78589773720729,1,2,en,NZ,Oceania
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2026-08-05T05:31:00+00:00,United Kingdom,0.7836278184041292,1,2,en,NEU,Europe
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-08-07T04:37:00+00:00,Australia,0.776904808638821,1,3,en,CAU,Oceania
+'cbfcf75ee1',extremes,Drought,#edc291,emdat,Drought Wajir,2026-08-27T13:01:00+00:00,Kenya,0.7713639090213091,0,1,en,SEAF,Africa
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
+'7b9635c66a',extremes,Thunderstorm,#53785a,wmo,Hail Nigeria,2026-08-27T13:00:00+00:00,Nigeria,0.7618394197026502,0,1,en,WAF,Africa
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,Hail Canada,2026-08-21T03:30:00+00:00,Canada,0.7584854567814627,0,1,en,NEN,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
+'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2026-08-20T03:26:00+00:00,United Kingdom,0.7477420325337317,0,1,en,NEU,Europe
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-08-14T04:24:00+00:00,United States,0.7465219473968809,0,1,en,CNA,North-America
 'f321a6eca2',extremes,Flood,#030ba1,wmo,Flood Gibson IN Knox IN,2026-08-24T03:32:00+00:00,United States,0.7433798682749226,0,1,en,CNA,North-America
 'a2f2ee735b',extremes,Flood,#030ba1,wmo,Flashflood Cass IL Fulton IL Mason IL,2026-08-26T03:34:00+00:00,United States,0.7432245114380629,0,1,en,CNA,North-America
@@ -35,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-08-12T04:23:00+00:00,United States,0.7415627548581469,0,1,en,CNA,North-America
 'a82aa8ab78',extremes,Flood,#030ba1,wmo,Flooding La Salle IL,2026-08-22T03:22:00+00:00,United States,0.7415338424605376,0,1,en,CNA,North-America
 'db968f3e65',extremes,Flood,#030ba1,wmo,Flooding Apache AZ,2026-08-12T04:23:00+00:00,United States,0.7415096659070022,0,1,en,CNA,North-America
+'d8a981c851',extremes,Earthquake,#870007,usgs,Earthquake Lorengau,2026-08-27T13:00:00+00:00,Papua New Guinea,0.7414518858252525,0,1,en,EPO,Pacific Ocean
 '6c9c15940f',extremes,Precipitation,#d60d2b,wmo,Precipitation Nelson Lakes,2026-08-21T03:30:00+00:00,New Zealand,0.741408738960668,0,1,en,NZ,Oceania
 '9c8994a67e',extremes,Storm,#b3b2b1,wmo,Storm inshore areas of south coast,2026-08-11T04:01:00+00:00,Jamaica,0.7413725408468127,0,1,en,CAR,North-America
 'a7632981a9',extremes,Flood,#030ba1,wmo,Flashflood Victoria Yea River,2026-08-12T04:23:00+00:00,Australia,0.7413053525134347,0,1,en,CAU,Oceania
@@ -61,6 +65,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33717ecbd6',extremes,Flood,#030ba1,wmo,Flashflood Monroe IN Morgan IN Owen IN,2026-08-14T04:24:00+00:00,United States,0.7402572103260552,0,1,en,CNA,North-America
 '635c2e18c7',extremes,Flood,#030ba1,wmo,Flashflood Pima AZ,2026-08-11T04:01:00+00:00,United States,0.7401763595091673,0,1,en,CNA,North-America
 '8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2026-08-18T03:23:00+00:00,Fiji,0.7401755745835922,0,1,en,SPO,Pacific Ocean
+'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-08-18T03:24:00+00:00,Belize,0.7401750796022093,0,1,en,SCA,North-America
+'fd1eb3ee37',extremes,Heat Wave,#c40202,wmo,Heat Wave Grand Canyon Country,2026-08-25T03:27:00+00:00,United States,0.7400884764297015,0,1,en,CNA,North-America
 '45dfc56491',extremes,Drought,#edc291,edo,Drought Bahamas,2026-08-11T04:01:00+00:00,Bahamas,0.7399263992169316,0,1,en,CAR,North-America
 '72bc2580da',extremes,Flood,#030ba1,wmo,Flooding Greene IN Monroe IN Owen IN,2026-08-14T04:24:00+00:00,United States,0.7399043216223966,0,1,en,CNA,North-America
 'ab883c8296',extremes,Flood,#030ba1,wmo,Flood Piatt IL,2026-08-18T03:24:00+00:00,United States,0.7397859175837332,0,1,en,CNA,North-America
