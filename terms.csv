@@ -4,10 +4,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-08-13T04:26:00+00:00,New Zealand,0.78589773720729,1,2,en,NZ,Oceania
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2026-08-05T05:31:00+00:00,United Kingdom,0.7836278184041292,1,2,en,NEU,Europe
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-08-07T04:37:00+00:00,Australia,0.776904808638821,1,3,en,CAU,Oceania
+'354110e18f',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom,2026-08-14T04:24:00+00:00,United Kingdom,0.7727605582021863,0,1,en,NEU,Europe
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
+'17e3c8a930',extremes,Wildfire,#d60d2b,effis,Bushfire Gwent Valleys United Kingdom,2026-08-17T03:28:00+00:00,United Kingdom,0.7655010362418229,0,1,en,NEU,Europe
+'0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-08-28T14:32:00+00:00,Canada,0.7567979042955564,0,1,en,NEN,North-America
+'d3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-08-14T04:24:00+00:00,Jamaica,0.7551310969687732,0,1,en,CAR,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-08-28T14:32:00+00:00,United States,0.752345488588875,0,1,en,CNA,North-America
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-08-14T04:24:00+00:00,United States,0.7465219473968809,0,1,en,CNA,North-America
+'68c777ad04',extremes,Heat Wave,#c40202,wmo,Heat Wave Yavapai County Valleys and Basins,2026-08-28T14:32:00+00:00,United States,0.7456291912795515,0,1,en,CNA,North-America
 'a1d71293cb',extremes,Flood,#030ba1,wmo,Flooding Cass IL Fulton IL Mason IL,2026-08-20T03:26:00+00:00,United States,0.74457766011576,0,1,en,CNA,North-America
 'f321a6eca2',extremes,Flood,#030ba1,wmo,Flood Gibson IN Knox IN,2026-08-24T03:32:00+00:00,United States,0.7433798682749226,0,1,en,CNA,North-America
 'a2f2ee735b',extremes,Flood,#030ba1,wmo,Flashflood Cass IL Fulton IL Mason IL,2026-08-26T03:34:00+00:00,United States,0.7432245114380629,0,1,en,CNA,North-America
