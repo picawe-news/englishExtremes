@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
-'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-08-28T14:32:00+00:00,United States,0.752345488588875,0,1,en,CNA,North-America
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-08-14T04:24:00+00:00,United States,0.7465219473968809,0,1,en,CNA,North-America
 '68c777ad04',extremes,Heat Wave,#c40202,wmo,Heat Wave Yavapai County Valleys and Basins,2026-08-28T14:32:00+00:00,United States,0.7456291912795515,0,1,en,CNA,North-America
 '39633cfdfa',extremes,Snow&Ice,#d60d2b,wmo,Snow Central Brooks Range,2026-08-29T09:18:00+00:00,United States,0.7455522172010476,0,1,en,CNA,North-America
@@ -172,6 +171,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2026-08-11T04:01:00+00:00,Australia,0.6555996894022246,1,1,en,SAU,Oceania
 '5b41d999f1',extremes,Flood,#030ba1,wmo,Flooding Benton IN,2026-08-02T05:42:00+00:00,United States,0.6547877425994558,2,1,en,CNA,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-07-26T05:46:00+00:00,United States,0.654248287804343,1,2,en,CNA,North-America
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-08-28T14:32:00+00:00,United States,0.6536718153005437,1,2,en,CNA,North-America
 '453697199c',extremes,Storm,#b3b2b1,wmo,Storm Ghana,2026-07-13T05:53:00+00:00,Ghana,0.6533351429520312,1,2,en,WAF,Africa
 '6ea34d6a69',extremes,Flood,#030ba1,wmo,Flood Hendricks IN,2026-08-02T05:42:00+00:00,United States,0.6526416605462951,2,2,en,CNA,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-08-07T09:56:00+00:00,Australia,0.6522018495270785,1,2,en,CAU,Oceania
