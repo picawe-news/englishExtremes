@@ -6,8 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-08-07T04:37:00+00:00,Australia,0.776904808638821,1,3,en,CAU,Oceania
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
-'17e3c8a930',extremes,Wildfire,#d60d2b,effis,Bushfire Gwent Valleys United Kingdom,2026-08-17T03:28:00+00:00,United Kingdom,0.7655010362418229,0,1,en,NEU,Europe
-'0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-08-28T14:32:00+00:00,Canada,0.7567979042955564,0,1,en,NEN,North-America
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-08-14T04:24:00+00:00,Jamaica,0.7551310969687732,0,1,en,CAR,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-08-28T14:32:00+00:00,United States,0.752345488588875,0,1,en,CNA,North-America
@@ -158,6 +156,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-07-21T05:36:00+00:00,Canada,0.6589533818017149,2,3,en,NEN,North-America
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,bushfire Tasmania,2026-07-30T05:24:00+00:00,Australia,0.6586465325106825,1,1,en,SAU,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-08-09T03:59:00+00:00,Australia,0.6580502208415466,1,2,en,CAU,Oceania
+'0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-08-28T14:32:00+00:00,Canada,0.6575783986512229,1,1,en,NEN,North-America
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,flash flood Tasmania,2026-07-22T05:35:00+00:00,Australia,0.6575031031133264,1,1,en,SAU,Oceania
 '885597e0f4',extremes,Wildfire,#d60d2b,wmo,Wildfire Australia,2026-08-09T03:59:00+00:00,Australia,0.6573026671165483,1,2,en,CAU,Oceania
 '354110e18f',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom,2026-08-14T04:24:00+00:00,United Kingdom,0.6569964894718583,1,1,en,NEU,Europe
@@ -175,6 +174,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f618f5a961',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Big Island Southeast,2026-08-15T03:13:00+00:00,United States,0.6515448694683658,1,1,en,CNA,North-America
 '792ec0a179',extremes,Flood,#030ba1,acwe,flash flood Victoria,2026-08-22T03:22:00+00:00,Australia,0.6514452299627632,1,1,en,SAU,Oceania
 '2ced34a558',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island Summit,2026-08-14T04:24:00+00:00,United States,0.65091903476567,1,1,en,CNA,North-America
+'17e3c8a930',extremes,Wildfire,#d60d2b,effis,Bushfire Gwent Valleys United Kingdom,2026-08-17T03:28:00+00:00,United Kingdom,0.6506758808055494,1,1,en,NEU,Europe
 'b75b56bc33',extremes,Drought,#edc291,edo,Dryness Dominica,2026-07-24T05:36:00+00:00,Dominica,0.6504882019118312,1,1,en,CAR,North-America
 '2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,Frost Arthur's Pass SH73,2026-07-30T05:24:00+00:00,New Zealand,0.6502483828708349,1,1,en,NZ,Oceania
 '42e0a83739',extremes,Drought,#edc291,edo,Dry Spell Dominica,2026-07-29T05:38:00+00:00,Dominica,0.6501822453178905,1,1,en,CAR,North-America
