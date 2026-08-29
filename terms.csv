@@ -11,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-08-28T14:32:00+00:00,United States,0.752345488588875,0,1,en,CNA,North-America
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone United States,2026-08-14T04:24:00+00:00,United States,0.7465219473968809,0,1,en,CNA,North-America
 '68c777ad04',extremes,Heat Wave,#c40202,wmo,Heat Wave Yavapai County Valleys and Basins,2026-08-28T14:32:00+00:00,United States,0.7456291912795515,0,1,en,CNA,North-America
+'39633cfdfa',extremes,Snow&Ice,#d60d2b,wmo,Snow Central Brooks Range,2026-08-29T09:18:00+00:00,United States,0.7455522172010476,0,1,en,CNA,North-America
 'a1d71293cb',extremes,Flood,#030ba1,wmo,Flooding Cass IL Fulton IL Mason IL,2026-08-20T03:26:00+00:00,United States,0.74457766011576,0,1,en,CNA,North-America
 '243cd35b63',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom Gwent Valleys Caerphilly,2026-08-28T14:32:00+00:00,United Kingdom,0.74370611374888,0,1,en,NEU,Europe
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7436025296199135,0,1,en,NEU,Europe
@@ -86,6 +87,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-08-16T03:27:00+00:00,Fiji,0.739319517141876,0,1,en,SPO,Pacific Ocean
 'c985cbf8cd',extremes,Flood,#030ba1,wmo,Flooding Victoria Hughes Creek,2026-08-26T03:34:00+00:00,Australia,0.739237003540267,0,1,en,CAU,Oceania
 '690d1574b0',extremes,Flood,#030ba1,wmo,Flooding Shelby IN,2026-08-13T04:26:00+00:00,United States,0.739085206766188,0,1,en,CNA,North-America
+'7bf34f3f71',extremes,Flood,#030ba1,wmo,Flooding Union IN Wayne IN,2026-08-13T04:26:00+00:00,United States,0.7390393228969521,0,1,en,CNA,North-America
+'50d47f8751',extremes,Flood,#030ba1,wmo,Flashflood Howard IN,2026-08-13T04:26:00+00:00,United States,0.7389507339486076,0,1,en,CNA,North-America
+'c3fed861a1',extremes,Flood,#030ba1,wmo,Flashflood Henry IN Rush IN Shelby IN,2026-08-13T04:26:00+00:00,United States,0.7388742692595904,0,1,en,CNA,North-America
+'1e436dc256',extremes,Flood,#030ba1,wmo,Flashflood Kimball NE Laramie WY,2026-08-14T04:24:00+00:00,United States,0.7385980383627653,0,1,en,CNA,North-America
+'3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2026-08-27T13:00:00+00:00,Kenya,0.7384880925234982,0,1,en,SEAF,Africa
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-07-17T05:27:00+00:00,United States,0.7371010474986454,1,3,en,CNA,North-America
 '65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island Southeast,2026-08-16T03:28:00+00:00,United States,0.7271144052440879,1,3,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
