@@ -7,9 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
-'a1d71293cb',extremes,Flood,#030ba1,wmo,Flooding Cass IL Fulton IL Mason IL,2026-08-20T03:26:00+00:00,United States,0.74457766011576,0,1,en,CNA,North-America
-'243cd35b63',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom Gwent Valleys Caerphilly,2026-08-28T14:32:00+00:00,United Kingdom,0.74370611374888,0,1,en,NEU,Europe
-'515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7436025296199135,0,1,en,NEU,Europe
+'515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-08-27T13:00:00+00:00,Papua New Guinea,0.7435891578031766,0,1,en,EPO,Pacific Ocean
 'f321a6eca2',extremes,Flood,#030ba1,wmo,Flood Gibson IN Knox IN,2026-08-24T03:32:00+00:00,United States,0.7433798682749226,0,1,en,CNA,North-America
 'a2f2ee735b',extremes,Flood,#030ba1,wmo,Flashflood Cass IL Fulton IL Mason IL,2026-08-26T03:34:00+00:00,United States,0.7432245114380629,0,1,en,CNA,North-America
@@ -286,6 +284,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2433af70de',extremes,Storm,#b3b2b1,wmo,Storm Surge Belize,2026-08-04T05:32:00+00:00,Belize,0.6334049543861244,1,1,en,SCA,North-America
 'cff7fc564f',extremes,Flood,#030ba1,wmo,Flooding Gibson IN Knox IN,2026-08-23T03:30:00+00:00,United States,0.6332329809790075,1,1,en,CNA,North-America
 'b527a73626',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Ranges of Buller and Grey Districts,2026-08-21T03:30:00+00:00,New Zealand,0.6331855990554713,1,1,en,NZ,Oceania
+'a1d71293cb',extremes,Flood,#030ba1,wmo,Flooding Cass IL Fulton IL Mason IL,2026-08-20T03:26:00+00:00,United States,0.632891011098396,1,1,en,CNA,North-America
 'aa64a7fbe7',extremes,Storm,#b3b2b1,wmo,Storm Surge RENBEL MAKIRA AND TEMOTU,2026-08-07T09:56:00+00:00,Solomon Islands,0.6328097851432722,1,1,en,EPO,Oceania
 '7e302bab2a',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Big Island Interior,2026-08-16T03:28:00+00:00,United States,0.6327962987838001,1,1,en,CNA,North-America
 'e22ac455ac',extremes,Flood,#030ba1,wmo,Flashflood Fayette IN Franklin IN,2026-08-13T04:26:00+00:00,United States,0.63272787701721,1,1,en,CNA,North-America
@@ -294,6 +293,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70b2c86024',extremes,Flood,#030ba1,wmo,Flood Victoria Avoca River,2026-08-12T04:23:00+00:00,Australia,0.6324973251681203,1,1,en,CAU,Oceania
 '30dd1a71a3',extremes,Storm,#b3b2b1,wmo,Storm Surge Saint Matthew Island Waters,2026-07-21T05:36:00+00:00,United States,0.6322916626854419,1,1,en,CNA,North-America
 '2030891a8d',extremes,Fog,#d60d2b,wmo,Fog Coastal Washington,2026-08-25T03:27:00+00:00,United States,0.632212658105413,1,1,en,CNA,North-America
+'243cd35b63',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom Gwent Valleys Caerphilly,2026-08-28T14:32:00+00:00,United Kingdom,0.6321501966865479,1,1,en,NEU,Europe
 '56f66f6845',extremes,Flood,#030ba1,wmo,Flood Monroe IN Morgan IN Owen IN,2026-08-16T03:28:00+00:00,United States,0.6321477965821471,1,1,en,CNA,North-America
 'b97a9088bf',extremes,Flood,#030ba1,wmo,Flashflood Fairfield OH Licking OH,2026-08-21T03:30:00+00:00,United States,0.6321461884352801,1,1,en,CNA,North-America
 '88d9076809',extremes,Precipitation,#d60d2b,wmo,Precipitation Temotu province,2026-08-17T03:28:00+00:00,Solomon Islands,0.6320702141318788,1,1,en,EPO,Oceania
