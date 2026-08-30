@@ -89,6 +89,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3fed861a1',extremes,Flood,#030ba1,wmo,Flashflood Henry IN Rush IN Shelby IN,2026-08-13T04:26:00+00:00,United States,0.7388742692595904,0,1,en,CNA,North-America
 '1e436dc256',extremes,Flood,#030ba1,wmo,Flashflood Kimball NE Laramie WY,2026-08-14T04:24:00+00:00,United States,0.7385980383627653,0,1,en,CNA,North-America
 '3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2026-08-27T13:00:00+00:00,Kenya,0.7384880925234982,0,1,en,SEAF,Africa
+'a45b2c04c4',extremes,Flood,#030ba1,wmo,Flood Tippecanoe IN,2026-08-16T03:28:00+00:00,United States,0.7384602674765737,0,1,en,CNA,North-America
+'1a8ff73ad3',extremes,Flood,#030ba1,wmo,Flashflood Washington OH,2026-08-18T03:24:00+00:00,United States,0.7382536698771892,0,1,en,CNA,North-America
+'b365e828af',extremes,Flood,#030ba1,wmo,Flood Howard IN,2026-08-14T04:24:00+00:00,United States,0.7381949742912082,0,1,en,CNA,North-America
+'b1346e77a7',extremes,Flood,#030ba1,wmo,Flooding Monroe OH Noble OH,2026-08-18T03:24:00+00:00,United States,0.7379498791570408,0,1,en,CNA,North-America
+'94df9bb3ac',extremes,Flood,#030ba1,wmo,Flooding Montgomery PA Philadelphia PA,2026-08-21T03:30:00+00:00,United States,0.7378746866264275,0,1,en,CNA,North-America
+'751e290fde',extremes,Flood,#030ba1,wmo,Flashflood Fulton IL,2026-08-17T03:28:00+00:00,United States,0.7378090544224221,0,1,en,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,Storm United States,2026-07-17T05:27:00+00:00,United States,0.7371010474986454,1,3,en,CNA,North-America
 '65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island Southeast,2026-08-16T03:28:00+00:00,United States,0.7271144052440879,1,3,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
