@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-08-07T04:37:00+00:00,Australia,0.776904808638821,1,3,en,CAU,Oceania
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
-'48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ghana,2026-08-19T03:26:00+00:00,Ghana,0.7632930342331233,0,1,en,WAF,Africa
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '8cd0067da6',extremes,Heat Wave,#c40202,wmo,Heat Wave Windsor Leamington Essex County,2026-08-31T08:51:00+00:00,Canada,0.7465826635529681,0,1,en,NEN,North-America
@@ -192,6 +191,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42e0a83739',extremes,Drought,#edc291,edo,Dry Spell Dominica,2026-07-29T05:38:00+00:00,Dominica,0.6501822453178905,1,1,en,CAR,North-America
 '83f66c0c13',extremes,Drought,#edc291,edo,Drought United Kingdom,2026-08-12T04:23:00+00:00,United Kingdom,0.6496268988769323,1,2,en,NEU,Europe
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-08-03T05:57:00+00:00,Jamaica,0.6493355322878528,1,1,en,CAR,North-America
+'48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ghana,2026-08-19T03:26:00+00:00,Ghana,0.6489490940981548,1,1,en,WAF,Africa
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-08-08T03:51:00+00:00,Australia,0.6482322970499333,1,2,en,CAU,Oceania
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-08-07T09:56:00+00:00,Australia,0.648103158512151,1,2,en,CAU,Oceania
 'cbd214af74',extremes,Drought,#edc291,edo,Dryness Uganda,2026-07-31T05:51:00+00:00,Uganda,0.647725213757971,1,1,en,SEAF,Africa
