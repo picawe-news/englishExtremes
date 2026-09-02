@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
-'d1a294ec0a',extremes,Drought,#edc291,edo,Drought Guyana,2026-08-13T04:26:00+00:00,Guyana,0.7534356950316169,0,1,en,NSA,South-America
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
 '16a17c4630',extremes,Flood,#030ba1,wmo,Flood Adams IN Wells IN,2026-08-13T04:26:00+00:00,United States,0.7441917754267,1,2,en,CNA,North-America
@@ -117,6 +116,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2344745f2e',extremes,Thunderstorm,#53785a,wmo,Severe Weather United Kingdom,2026-08-04T05:32:00+00:00,United Kingdom,0.6958338143665609,1,2,en,NEU,Europe
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2026-07-22T05:35:00+00:00,Australia,0.6941717129848406,1,1,en,EAU,Oceania
 '9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,Wildfire Mid West Ireland,2026-08-07T11:06:00+00:00,Ireland,0.6926371405027131,1,1,en,NEU,Europe
+'d1a294ec0a',extremes,Drought,#edc291,edo,Drought Guyana,2026-08-13T04:26:00+00:00,Guyana,0.6908703857768743,1,1,en,NSA,South-America
 '456ab43e60',extremes,Storm,#b3b2b1,wmo,Storm Surge All REGIONS,2026-08-12T04:23:00+00:00,Solomon Islands,0.6905583571717105,1,1,en,EPO,Oceania
 'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-08-14T04:24:00+00:00,Ireland,0.690232473732526,1,2,en,NEU,Europe
 '7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,Wildfire Ireland,2026-08-07T09:56:00+00:00,Ireland,0.6878298802240729,1,2,en,NEU,Europe
