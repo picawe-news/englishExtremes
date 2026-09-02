@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2026-08-05T05:31:00+00:00,United Kingdom,0.7836278184041292,1,2,en,NEU,Europe
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-08-07T04:37:00+00:00,Australia,0.776904808638821,1,3,en,CAU,Oceania
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
-'c8e23931d5',extremes,Heat Wave,#c40202,acwe,warm spell Western Australia,2026-09-02T07:17:00+00:00,Australia,0.7679037454333245,0,1,en,CAU,Oceania
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 'c2ececbbb4',extremes,Drought,#edc291,edo,Dry Spell Belize,2026-09-02T07:17:00+00:00,Belize,0.7654929992518081,0,1,en,SCA,North-America
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-08-27T13:01:00+00:00,Australia,0.7594484229288334,0,1,en,SAU,Oceania
@@ -104,6 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9dfdaae17',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Solomon Islands,2026-08-14T04:24:00+00:00,Solomon Islands,0.7086145472794435,1,2,en,EPO,Oceania
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-07-21T05:36:00+00:00,Australia,0.7037653279315766,1,2,en,CAU,Oceania
 'c4cd5dbcd4',extremes,Wildfire,#d60d2b,effis,Wild Fire South West Ireland,2026-08-07T11:06:00+00:00,Ireland,0.7034366839733792,1,1,en,NEU,Europe
+'c8e23931d5',extremes,Heat Wave,#c40202,acwe,warm spell Western Australia,2026-09-02T07:17:00+00:00,Australia,0.7031682286183258,1,1,en,CAU,Oceania
 'ec98366bcb',extremes,Flood,#030ba1,aidr,Flood south eastern Australia 2016,2026-08-10T04:14:00+00:00,Australia,0.7018671591170864,1,1,en,SAU,Oceania
 '56898792ff',extremes,Precipitation,#d60d2b,acwe,heavy rain Tasmania,2026-08-22T03:22:00+00:00,Australia,0.700830236263484,1,1,en,SAU,Oceania
 '7b9635c66a',extremes,Thunderstorm,#53785a,wmo,Hail Nigeria,2026-08-27T13:00:00+00:00,Nigeria,0.7002637767472527,1,1,en,WAF,Africa
