@@ -5,10 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2026-08-05T05:31:00+00:00,United Kingdom,0.7836278184041292,1,2,en,NEU,Europe
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-08-07T04:37:00+00:00,Australia,0.776904808638821,1,3,en,CAU,Oceania
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
-'b75b56bc33',extremes,Drought,#edc291,edo,Dryness Dominica,2026-08-17T03:28:00+00:00,Dominica,0.7680227509170843,0,1,en,CAR,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
-'0f23209d1b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Seychelles,2026-09-04T07:23:00+00:00,Seychelles,0.7628776558752774,0,1,en,EIO,Africa
-'563b781620',extremes,Thunderstorm,#53785a,wmo,Severe Weather Nigeria,2026-08-18T03:24:00+00:00,Nigeria,0.7623525094853577,0,1,en,WAF,Africa
 'ac1b1bb6fb',extremes,Drought,#edc291,edo,Lack of Rain Puerto Rico,2026-08-19T03:26:00+00:00,Puerto Rico,0.7612521992110103,0,1,en,CAR,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
 'f71259e5fd',extremes,Snow&Ice,#d60d2b,wmo,Snow Arthur's Pass SH73,2026-08-23T03:30:00+00:00,New Zealand,0.7502946734693224,0,1,en,NZ,Oceania
@@ -188,6 +185,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b41d999f1',extremes,Flood,#030ba1,wmo,Flooding Benton IN,2026-08-02T05:42:00+00:00,United States,0.6547877425994558,2,1,en,CNA,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-07-26T05:46:00+00:00,United States,0.654248287804343,1,2,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-08-28T14:32:00+00:00,United States,0.6536718153005437,1,2,en,CNA,North-America
+'b75b56bc33',extremes,Drought,#edc291,edo,Dryness Dominica,2026-08-17T03:28:00+00:00,Dominica,0.6528193382795217,1,1,en,CAR,North-America
 '6ea34d6a69',extremes,Flood,#030ba1,wmo,Flood Hendricks IN,2026-08-02T05:42:00+00:00,United States,0.6526416605462951,2,2,en,CNA,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-08-07T09:56:00+00:00,Australia,0.6522018495270785,1,2,en,CAU,Oceania
 '5e82c4455d',extremes,Snow&Ice,#d60d2b,wmo,Ice Porters Pass SH73,2026-08-03T05:57:00+00:00,New Zealand,0.6518499857716018,1,1,en,NZ,Oceania
@@ -199,9 +197,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2ececbbb4',extremes,Drought,#edc291,edo,Dry Spell Belize,2026-09-02T07:17:00+00:00,Belize,0.6506690493640369,1,1,en,SCA,North-America
 '2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,Frost Arthur's Pass SH73,2026-07-30T05:24:00+00:00,New Zealand,0.6502483828708349,1,1,en,NZ,Oceania
 '42e0a83739',extremes,Drought,#edc291,edo,Dry Spell Dominica,2026-07-29T05:38:00+00:00,Dominica,0.6501822453178905,1,1,en,CAR,North-America
+'563b781620',extremes,Thunderstorm,#53785a,wmo,Severe Weather Nigeria,2026-08-18T03:24:00+00:00,Nigeria,0.6496497980625541,1,1,en,WAF,Africa
 '83f66c0c13',extremes,Drought,#edc291,edo,Drought United Kingdom,2026-08-12T04:23:00+00:00,United Kingdom,0.6496268988769323,1,2,en,NEU,Europe
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-08-03T05:57:00+00:00,Jamaica,0.6493355322878528,1,1,en,CAR,North-America
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ghana,2026-08-19T03:26:00+00:00,Ghana,0.6489490940981548,1,1,en,WAF,Africa
+'0f23209d1b',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Seychelles,2026-09-04T07:23:00+00:00,Seychelles,0.6484460074939858,1,1,en,EIO,Africa
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-08-08T03:51:00+00:00,Australia,0.6482322970499333,1,2,en,CAU,Oceania
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-08-07T09:56:00+00:00,Australia,0.648103158512151,1,2,en,CAU,Oceania
 'cbd214af74',extremes,Drought,#edc291,edo,Dryness Uganda,2026-07-31T05:51:00+00:00,Uganda,0.647725213757971,1,1,en,SEAF,Africa
