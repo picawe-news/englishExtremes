@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2026-09-05T07:05:00+00:00,Australia,0.7543711070197026,0,1,en,CAU,Oceania
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-08-30T08:30:00+00:00,New Zealand,0.7497273936127502,0,1,en,NZ,Oceania
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
-'f90fa202e5',extremes,Precipitation,#d60d2b,wmo,Precipitation The entire country.,2026-09-05T07:05:00+00:00,Botswana,0.7471286624541092,0,1,en,WSAF,Africa
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,Ice United States,2026-09-02T07:16:00+00:00,United States,0.7447895015877348,0,1,en,CNA,North-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2026-09-04T07:23:00+00:00,United States,0.7438521203042912,0,1,en,CNA,North-America
@@ -162,6 +161,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '08df04350f',extremes,Thunderstorm,#53785a,wmo,Hail Ghana,2026-08-16T03:28:00+00:00,Ghana,0.6660955785082004,2,1,en,WAF,Africa
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-08-05T05:31:00+00:00,Canada,0.666031965034265,1,2,en,NEN,North-America
 'ffab3bc6fd',extremes,Flood,#030ba1,wmo,Flood Morgan OH Washington OH,2026-08-12T04:23:00+00:00,United States,0.665546810267044,2,2,en,CNA,North-America
+'f90fa202e5',extremes,Precipitation,#d60d2b,wmo,Precipitation The entire country.,2026-09-05T07:05:00+00:00,Botswana,0.664596784607732,1,2,en,WSAF,Africa
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,Snow New Zealand,2026-08-04T05:32:00+00:00,New Zealand,0.6640474156276513,1,2,en,NZ,Oceania
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,wet spell Western Australia,2026-08-31T08:51:00+00:00,Australia,0.6631360639066369,1,1,en,CAU,Oceania
 'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-08-16T03:28:00+00:00,New Zealand,0.6631104392127292,2,2,en,NZ,Oceania
