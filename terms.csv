@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '24b52d5094',extremes,Flood,#030ba1,wmo,Flood Victoria Sunday Creek,2026-08-12T04:23:00+00:00,Australia,0.8163038855171639,2,2,en,CAU,Oceania
-'460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-09-06T07:16:00+00:00,Australia,0.806952188507686,1,2,en,SAU,Oceania
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-08-19T03:26:00+00:00,Canada,0.7879353847258307,1,3,en,NEN,North-America
 'f1966df415',extremes,Thunderstorm,#53785a,wmo,Hail Australia,2026-08-31T08:51:00+00:00,Australia,0.7868330945593792,1,3,en,CAU,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-08-13T04:26:00+00:00,New Zealand,0.78589773720729,1,2,en,NZ,Oceania
@@ -15,7 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-08-12T04:23:00+00:00,United States,0.7415627548581469,0,1,en,CNA,North-America
 '011b30e951',extremes,Flood,#030ba1,wmo,Flooding Marion IN Morgan IN,2026-08-13T04:26:00+00:00,United States,0.7411077511020078,0,1,en,CNA,North-America
-'778d256165',extremes,Flood,#030ba1,wmo,Flashflood India,2026-09-01T07:58:00+00:00,India,0.7407163686207017,0,1,en,SAS,Asia
 '0e828fa18b',extremes,Flood,#030ba1,wmo,Flooding Carroll IN Howard IN,2026-08-13T04:26:00+00:00,United States,0.7406935999091424,0,1,en,CNA,North-America
 '9cce80d590',extremes,Flood,#030ba1,wmo,Flooding Piatt IL,2026-08-17T03:28:00+00:00,United States,0.7406709745324223,0,1,en,CNA,North-America
 '27af1cd1f2',extremes,Flood,#030ba1,wmo,Flood Rush IN,2026-08-13T04:26:00+00:00,United States,0.7406158260194191,0,1,en,CNA,North-America
@@ -124,6 +122,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cd91bf4d69',extremes,Heat Wave,#c40202,wmo,Heat Wave Ireland,2026-08-14T04:24:00+00:00,Ireland,0.690232473732526,1,2,en,NEU,Europe
 '7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,Wildfire Ireland,2026-08-07T09:56:00+00:00,Ireland,0.6878298802240729,1,2,en,NEU,Europe
 '3c4d29fd15',extremes,Wildfire,#d60d2b,effis,Wild Fire Ireland,2026-08-07T11:06:00+00:00,Ireland,0.6873507108674178,1,2,en,NEU,Europe
+'460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-09-06T07:16:00+00:00,Australia,0.6860593752315332,2,2,en,SAU,Oceania
 'a86281f168',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Big Island South,2026-08-16T03:28:00+00:00,United States,0.6821906726715878,1,1,en,CNA,North-America
 'd77b825e5b',extremes,Flood,#030ba1,wmo,Flood Canada,2026-08-15T03:13:00+00:00,Canada,0.6818023361611512,1,2,en,NEN,North-America
 '1925b3106a',extremes,Storm,#b3b2b1,wmo,Storm Canterbury High Country,2026-09-04T07:23:00+00:00,New Zealand,0.6817611785352058,1,1,en,NZ,Oceania
@@ -380,6 +379,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6371f0078',extremes,Flood,#030ba1,wmo,Flashflood Coconino AZ,2026-08-14T04:24:00+00:00,United States,0.6296392073086007,1,1,en,CNA,North-America
 '91b43df244',extremes,Flood,#030ba1,wmo,Flooding Delaware IN Randolph IN,2026-08-15T03:13:00+00:00,United States,0.6296360417287077,1,1,en,CNA,North-America
 '86ddfb3f0e',extremes,Wildfire,#d60d2b,wmo,Wildfire Eastern Panhandle Crescent Lake NWR,2026-08-01T05:42:00+00:00,United States,0.6296340590174014,1,1,en,CNA,North-America
+'778d256165',extremes,Flood,#030ba1,wmo,Flashflood India,2026-09-01T07:58:00+00:00,India,0.6296089133275964,1,1,en,SAS,Asia
 '8abb1407a7',extremes,Flood,#030ba1,wmo,Flood Victoria Macalister River,2026-08-07T04:37:00+00:00,Australia,0.6295233358581731,1,1,en,CAU,Oceania
 'c411765f93',extremes,Flood,#030ba1,wmo,Flooding Victoria Mitchell River,2026-08-08T03:51:00+00:00,Australia,0.6294182706434491,1,1,en,CAU,Oceania
 '01e50683b4',extremes,Fog,#d60d2b,wmo,Fog Fayette Clayton,2026-08-07T09:56:00+00:00,United States,0.6293814898699504,1,1,en,CNA,North-America
