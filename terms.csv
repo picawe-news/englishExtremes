@@ -100,6 +100,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38a4658305',extremes,Flood,#030ba1,wmo,Flood Madison IN Tipton IN,2026-08-20T03:26:00+00:00,United States,0.7348962469610917,0,1,en,CNA,North-America
 '9b18fbff36',extremes,Flood,#030ba1,wmo,Flood Ganga Munger Munger Bihar,2026-09-05T07:05:00+00:00,India,0.7348850992099513,0,1,en,SAS,Asia
 'd577347130',extremes,Earthquake,#870007,usgs,Earthquake Kirakira,2026-08-27T13:00:00+00:00,Solomon Islands,0.7344306331581064,0,1,en,SPO,Pacific Ocean
+'7e1647f26a',extremes,Flood,#030ba1,wmo,Flood Ganga Kahalgaon Bhagalpur Bihar,2026-09-02T07:16:00+00:00,India,0.734347560804998,0,1,en,SAS,Asia
+'f96d822508',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Pedro Bank area,2026-08-29T09:18:00+00:00,Jamaica,0.7343034629351447,0,1,en,CAR,North-America
+'2b5e1e1e05',extremes,Flood,#030ba1,wmo,Flooding Victoria King River,2026-08-28T14:32:00+00:00,Australia,0.7339209196285665,0,1,en,CAU,Oceania
+'8cd64ab8b9',extremes,Flood,#030ba1,wmo,Flooding Sone Maner Patna Bihar,2026-09-02T07:16:00+00:00,India,0.7339155746191385,0,1,en,SAS,Asia
+'4fdf985b19',extremes,Flood,#030ba1,wmo,Flashflood Snyder PA Union PA,2026-09-03T07:20:00+00:00,United States,0.7337821524578736,0,1,en,CNA,North-America
+'3b2210ba28',extremes,Flood,#030ba1,wmo,Flood Ganga Hathidah Patna Bihar,2026-08-30T08:30:00+00:00,India,0.7336736193256601,0,1,en,SAS,Asia
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-08-12T04:23:00+00:00,United States,0.7334786716294248,1,3,en,CNA,North-America
 '65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island Southeast,2026-08-16T03:28:00+00:00,United States,0.7271144052440879,1,3,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
