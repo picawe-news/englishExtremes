@@ -7,10 +7,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f5808d63b',extremes,Storm,#b3b2b1,wmo,Storm Surge United Kingdom,2026-08-05T05:31:00+00:00,United Kingdom,0.7836278184041292,1,2,en,NEU,Europe
 'fd1eb3ee37',extremes,Heat Wave,#c40202,wmo,Heat Wave Grand Canyon Country,2026-08-25T03:27:00+00:00,United States,0.7792252199652463,1,2,en,CNA,North-America
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-08-07T04:37:00+00:00,Australia,0.776904808638821,1,3,en,CAU,Oceania
-'42e0a83739',extremes,Drought,#edc291,edo,Dry Spell Dominica,2026-08-21T03:30:00+00:00,Dominica,0.7706494392218594,0,1,en,CAR,North-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
-'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-08-22T03:22:00+00:00,New Zealand,0.755396739707117,0,1,en,NZ,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-08-21T03:30:00+00:00,New Zealand,0.7486527398511784,0,1,en,NZ,Oceania
@@ -192,6 +190,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cbfcf75ee1',extremes,Drought,#edc291,emdat,Drought Wajir,2026-08-27T13:01:00+00:00,Kenya,0.6556593226681128,1,1,en,SEAF,Africa
 'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flooding Australia,2026-08-11T04:01:00+00:00,Australia,0.6555996894022246,1,1,en,SAU,Oceania
 '6d01caced3',extremes,Drought,#edc291,edo,Dryness Belize,2026-08-17T03:28:00+00:00,Belize,0.6551292708834078,1,1,en,SCA,North-America
+'42e0a83739',extremes,Drought,#edc291,edo,Dry Spell Dominica,2026-08-21T03:30:00+00:00,Dominica,0.6550520233385805,1,1,en,CAR,North-America
 '5b41d999f1',extremes,Flood,#030ba1,wmo,Flooding Benton IN,2026-08-02T05:42:00+00:00,United States,0.6547877425994558,2,1,en,CNA,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-07-26T05:46:00+00:00,United States,0.654248287804343,1,2,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-08-28T14:32:00+00:00,United States,0.6536718153005437,1,2,en,CNA,North-America
@@ -232,6 +231,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db6b657396',extremes,Wildfire,#d60d2b,effis,Wildfire Bridgend and Neath Port Talbot United Kingdom,2026-08-15T03:13:00+00:00,United Kingdom,0.6444350685215016,1,1,en,NEU,Europe
 '27af1cd1f2',extremes,Flood,#030ba1,wmo,Flood Rush IN,2026-08-13T04:26:00+00:00,United States,0.6440284171165062,1,2,en,CNA,North-America
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-08-26T03:34:00+00:00,Australia,0.6435712505502184,2,1,en,SAU,Oceania
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-08-22T03:22:00+00:00,New Zealand,0.6434373637510494,1,1,en,NZ,Oceania
 'b3e00f492f',extremes,Drought,#edc291,edo,Drought Belize,2026-08-04T05:32:00+00:00,Belize,0.6429537775175457,1,1,en,SCA,North-America
 '26862b1b5f',extremes,Drought,#edc291,edo,Drought Dominica,2026-08-20T03:26:00+00:00,Dominica,0.6426731534456848,1,1,en,CAR,North-America
 '1085e78d4e',extremes,Thunderstorm,#53785a,wmo,Hail United States,2026-08-10T04:14:00+00:00,United States,0.6426279352515599,1,2,en,CNA,North-America
