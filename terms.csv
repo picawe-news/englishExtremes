@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-08-27T13:00:00+00:00,United States,0.7452130870803412,0,1,en,CNA,North-America
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-09-12T07:19:00+00:00,Jamaica,0.7425885726748565,0,1,en,CAR,North-America
 'da307952db',extremes,Precipitation,#d60d2b,wmo,Downpour Ireland,2026-09-12T07:19:00+00:00,Ireland,0.7411881661817762,0,1,en,NEU,Europe
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-09-12T07:19:00+00:00,Canada,0.7392679803711509,0,1,en,NEN,North-America
@@ -219,6 +218,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-08-08T03:51:00+00:00,Australia,0.6482322970499333,1,2,en,CAU,Oceania
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-08-07T09:56:00+00:00,Australia,0.648103158512151,1,2,en,CAU,Oceania
 '78851ec32a',extremes,Precipitation,#d60d2b,meteo,Precipitation Ireland,2026-09-12T07:19:00+00:00,Ireland,0.6477269057996673,1,1,en,NEU,Europe
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-08-27T13:00:00+00:00,United States,0.647473293109199,1,2,en,CNA,North-America
 'cb0dc09b04',extremes,Drought,#edc291,edo,Lack of Rain Ireland,2026-08-23T03:30:00+00:00,Ireland,0.6471080901531882,1,2,en,NEU,Europe
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-08-29T09:19:00+00:00,Kenya,0.6467145345381419,1,1,en,SEAF,Africa
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-08-20T03:26:00+00:00,Uganda,0.6462173609270034,1,1,en,SEAF,Africa
