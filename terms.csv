@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
-'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-09-13T07:37:00+00:00,United States,0.7418971317635128,0,1,en,CNA,North-America
 '50d47f8751',extremes,Flood,#030ba1,wmo,Flashflood Howard IN,2026-08-13T04:26:00+00:00,United States,0.7389507339486076,0,1,en,CNA,North-America
 'c3fed861a1',extremes,Flood,#030ba1,wmo,Flashflood Henry IN Rush IN Shelby IN,2026-08-13T04:26:00+00:00,United States,0.7388742692595904,0,1,en,CNA,North-America
 '1f3b00bc47',extremes,Flood,#030ba1,wmo,Flashflood Clinton PA Lycoming PA,2026-09-03T07:20:00+00:00,United States,0.7386517984629014,0,1,en,CNA,North-America
@@ -257,6 +256,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,Storm Surge Seychelles,2026-08-21T03:30:00+00:00,Seychelles,0.6403182205340671,1,1,en,EIO,Africa
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-08-06T05:33:00+00:00,Seychelles,0.640172032386376,1,1,en,EIO,Africa
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-08-17T03:28:00+00:00,Solomon Islands,0.6401693438713619,1,1,en,EPO,Oceania
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-09-13T07:37:00+00:00,United States,0.6401092315444404,1,2,en,CNA,North-America
 'f90c4e3c4c',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Niihau,2026-09-07T07:29:00+00:00,United States,0.6398885855652463,1,1,en,CNA,North-America
 '384838564d',extremes,Snow&Ice,#d60d2b,wmo,Ice Crown Range Road,2026-08-25T03:27:00+00:00,New Zealand,0.6393264954303484,1,1,en,NZ,Oceania
 'de73f97ff0',extremes,Wildfire,#d60d2b,acwe,wildfire Western Australia,2026-08-30T08:30:00+00:00,Australia,0.6391229201604679,1,2,en,CAU,Oceania
