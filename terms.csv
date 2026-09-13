@@ -13,6 +13,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-09-12T07:19:00+00:00,Canada,0.7428384857690749,0,1,en,NEN,North-America
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-09-13T07:37:00+00:00,United States,0.7418971317635128,0,1,en,CNA,North-America
 '50d47f8751',extremes,Flood,#030ba1,wmo,Flashflood Howard IN,2026-08-13T04:26:00+00:00,United States,0.7389507339486076,0,1,en,CNA,North-America
 'c3fed861a1',extremes,Flood,#030ba1,wmo,Flashflood Henry IN Rush IN Shelby IN,2026-08-13T04:26:00+00:00,United States,0.7388742692595904,0,1,en,CNA,North-America
 '1f3b00bc47',extremes,Flood,#030ba1,wmo,Flashflood Clinton PA Lycoming PA,2026-09-03T07:20:00+00:00,United States,0.7386517984629014,0,1,en,CNA,North-America
@@ -26,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a8ff73ad3',extremes,Flood,#030ba1,wmo,Flashflood Washington OH,2026-08-18T03:24:00+00:00,United States,0.7382536698771892,0,1,en,CNA,North-America
 '0039671904',extremes,Wildfire,#d60d2b,effis,Wildfire Gwent Valleys United Kingdom,2026-08-15T03:13:00+00:00,United Kingdom,0.7382008523834483,0,1,en,NEU,Europe
 'b365e828af',extremes,Flood,#030ba1,wmo,Flood Howard IN,2026-08-14T04:24:00+00:00,United States,0.7381949742912082,0,1,en,CNA,North-America
+'577a43566a',extremes,Precipitation,#d60d2b,wmo,Downpour Belize,2026-09-13T07:37:00+00:00,Belize,0.7381631474296855,0,1,en,SCA,North-America
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '90522631da',extremes,Precipitation,#d60d2b,wmo,Precipitation India,2026-09-03T07:20:00+00:00,India,0.7380470908292196,0,1,en,SAS,Asia
 'f527a6c27d',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kauai Southwest,2026-09-07T07:29:00+00:00,United States,0.7380307392968368,0,1,en,CNA,North-America
@@ -98,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-08-31T08:51:00+00:00,India,0.732333187585664,0,1,en,SAS,Asia
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2026-08-31T08:51:00+00:00,India,0.7321665271470034,0,1,en,SAS,Asia
 'd1b13d8307',extremes,Tsunami,#690191,usgs,Tsunami United States,2026-09-03T07:20:00+00:00,United States,0.732058727309481,0,1,en,WNA,North-America
+'b7543c636c',extremes,Flood,#030ba1,wmo,Flood Pike OH Ross OH,2026-09-13T07:37:00+00:00,United States,0.7317307080115263,0,1,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-08-31T08:51:00+00:00,Australia,0.7311598610832024,1,2,en,CAU,Oceania
 '0db6685330',extremes,Precipitation,#d60d2b,wmo,Precipitation The Ruahine Range,2026-09-06T07:16:00+00:00,New Zealand,0.731107506701168,0,1,en,NZ,Oceania
 'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-09-05T07:04:00+00:00,Solomon Islands,0.7310988042221047,0,1,en,EPO,Pacific Ocean
@@ -105,6 +109,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f708ddc866',extremes,Flood,#030ba1,wmo,Flashflood Anson,2026-08-22T03:22:00+00:00,United States,0.730984289413011,0,1,en,CNA,North-America
 '8fa84157eb',extremes,Flood,#030ba1,wmo,Flood Kosi Kursela Katihar Bihar,2026-08-31T08:51:00+00:00,India,0.7308077184606284,0,1,en,SAS,Asia
 '34855192b0',extremes,Flood,#030ba1,wmo,Flooding Ghaghra Darauli Siwan Bihar,2026-08-28T14:32:00+00:00,India,0.7305376559128178,0,1,en,SAS,Asia
+'0fbfeb6f6d',extremes,Earthquake,#870007,usgs,Earthquake Merizo Village,2026-09-13T07:37:00+00:00,Guam,0.730454524463309,0,1,en,NPO,Pacific Ocean
 'd954e9d08c',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tadoule Lake Churchill York,2026-09-11T07:27:00+00:00,Canada,0.7301629609127284,0,1,en,NEN,North-America
 'aa86a99742',extremes,Flood,#030ba1,wmo,Flashflood Kosi Baltara Khagaria Bihar,2026-08-27T13:00:00+00:00,India,0.7300452640165772,0,1,en,SAS,Asia
 '33c50fa0d2',extremes,Drought,#edc291,edo,Dry Spell Fiji,2026-09-05T07:05:00+00:00,Fiji,0.7298887582699171,0,1,en,,
@@ -113,6 +118,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a81eb0fdde',extremes,Flood,#030ba1,wmo,Flood Ghaghra Darauli Siwan Bihar,2026-09-07T07:29:00+00:00,India,0.7296118127428798,0,1,en,SAS,Asia
 'cc6467e680',extremes,Flood,#030ba1,wmo,Flashflood Ghaghra Darauli Siwan Bihar,2026-08-27T13:00:00+00:00,India,0.729181566359987,0,1,en,SAS,Asia
 'bc425ed68d',extremes,Storm,#b3b2b1,wmo,Storm South Australia Spencer Gulf,2026-08-25T03:27:00+00:00,Australia,0.7291404077282416,0,1,en,CAU,Oceania
+'73bf613080',extremes,Flood,#030ba1,wmo,Flood Kosi Baltara Khagaria Bihar,2026-09-03T07:20:00+00:00,India,0.7290616971797985,0,1,en,SAS,Asia
 '65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island Southeast,2026-08-16T03:28:00+00:00,United States,0.7271144052440879,1,3,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-08-27T13:01:00+00:00,Australia,0.7208311894895083,1,2,en,SAU,Oceania
