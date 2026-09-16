@@ -19,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-08-27T13:00:00+00:00,Jamaica,0.749000800022515,0,1,en,CAR,North-America
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
-'90522631da',extremes,Precipitation,#d60d2b,wmo,Precipitation India,2026-09-03T07:20:00+00:00,India,0.7380470908292196,0,1,en,SAS,Asia
 'f527a6c27d',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kauai Southwest,2026-09-07T07:29:00+00:00,United States,0.7380307392968368,0,1,en,CNA,North-America
 'b1346e77a7',extremes,Flood,#030ba1,wmo,Flooding Monroe OH Noble OH,2026-08-18T03:24:00+00:00,United States,0.7379498791570408,0,1,en,CNA,North-America
 '94df9bb3ac',extremes,Flood,#030ba1,wmo,Flooding Montgomery PA Philadelphia PA,2026-08-21T03:30:00+00:00,United States,0.7378746866264275,0,1,en,CNA,North-America
@@ -232,6 +231,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-08-01T05:42:00+00:00,Canada,0.646177049948159,1,2,en,NEN,North-America
 'bbbc0a78c7',extremes,Drought,#edc291,edo,Dryness Fiji,2026-08-06T05:33:00+00:00,Fiji,0.6461704156363307,1,1,en,,
 '5d31bff833',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Belize,2026-08-15T03:13:00+00:00,Belize,0.6459309236734075,1,1,en,SCA,North-America
+'90522631da',extremes,Precipitation,#d60d2b,wmo,Precipitation India,2026-09-03T07:20:00+00:00,India,0.6459274408412002,1,2,en,SAS,Asia
 '393400b105',extremes,Drought,#edc291,edo,Dryness Puerto Rico,2026-08-24T03:32:00+00:00,Puerto Rico,0.6459041067140224,1,1,en,CAR,North-America
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,wildfire Tasmania,2026-08-28T14:32:00+00:00,Australia,0.6457179465589762,1,1,en,SAU,Oceania
 '1653242ea9',extremes,Snow&Ice,#d60d2b,wmo,Frost Crown Range Road,2026-08-08T03:51:00+00:00,New Zealand,0.6456704411664717,1,1,en,NZ,Oceania
