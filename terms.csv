@@ -103,6 +103,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island Southeast,2026-08-16T03:28:00+00:00,United States,0.7271144052440879,1,3,en,CNA,North-America
 '6d0448f11b',extremes,Flood,#030ba1,wmo,Flooding Ganga Kahalgaon Bhagalpur Bihar,2026-09-08T07:23:00+00:00,India,0.7269881700865535,0,1,en,SAS,Asia
 '9307e39b7a',extremes,Flood,#030ba1,wmo,Flood South Central Mountains,2026-09-05T07:05:00+00:00,United States,0.7269410453650422,0,1,en,CNA,North-America
+'2dce55beb8',extremes,Flood,#030ba1,wmo,Flood Deuel Keith Perkins Chase,2026-09-06T07:16:00+00:00,United States,0.726861634505512,0,1,en,CNA,North-America
+'fd4cfbfd4d',extremes,Flood,#030ba1,wmo,Flood Daviess MO Gentry MO,2026-09-16T07:52:00+00:00,United States,0.7268296707229392,0,1,en,CNA,North-America
+'c2f36e9173',extremes,Earthquake,#870007,usgs,Earthquake Arthurs Point,2026-09-02T07:16:00+00:00,New Zealand,0.7266774490521474,0,1,en,NZ,Oceania
+'5d35ff5189',extremes,Flood,#030ba1,wmo,Flooding Polk IA,2026-09-09T07:32:00+00:00,United States,0.726648390645574,0,1,en,CNA,North-America
+'79836bd99d',extremes,Flood,#030ba1,wmo,Flood Rio Blanco CO,2026-09-16T07:52:00+00:00,United States,0.7265096572896346,0,1,en,CNA,North-America
+'376cf72bcf',extremes,Precipitation,#d60d2b,wmo,Rain Lunenburg County,2026-09-14T08:04:00+00:00,Canada,0.7261065583215857,0,1,en,NEN,North-America
 'cc1e91400a',extremes,Flood,#030ba1,wmo,Flooding Washington OH,2026-08-17T03:28:00+00:00,United States,0.7236970100530241,1,2,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-08-27T13:01:00+00:00,Australia,0.7208311894895083,1,2,en,SAU,Oceania
