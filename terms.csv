@@ -19,6 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66064d117a',extremes,Fog,#d60d2b,wmo,Fog Cloud Clay Riley Ottawa,2026-09-17T07:56:00+00:00,United States,0.7400705463884459,0,1,en,CNA,North-America
 '8c2b565540',extremes,Drought,#edc291,edo,Dry Spell Uganda,2026-09-05T07:05:00+00:00,Uganda,0.7400478860835237,0,1,en,SEAF,Africa
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7391696665398226,0,1,en,EPO,Oceania
+'0b7da97434',extremes,Flood,#030ba1,wmo,Flashflood Victoria Kiewa River,2026-09-07T07:29:00+00:00,Australia,0.7388333571322414,0,1,en,CAU,Oceania
 '3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2026-09-17T07:56:00+00:00,Saint Helena,0.7386431198282608,0,1,en,EAO,Atlantic Ocean
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '93bfbcf0c3',extremes,Flood,#030ba1,wmo,Flood Delaware IN Madison IN,2026-08-14T04:24:00+00:00,United States,0.7369551662278794,0,1,en,CNA,North-America
@@ -40,12 +41,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93a1b8bdd5',extremes,Fog,#d60d2b,wmo,Fog Grand Portage to Grand Marais MN,2026-09-01T07:58:00+00:00,United States,0.7358972273870316,0,1,en,CNA,North-America
 'b5514709df',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kauai East,2026-09-07T07:29:00+00:00,United States,0.7358664990733564,0,1,en,CNA,North-America
 '75b28e6213',extremes,Flood,#030ba1,wmo,Flashflood Ganga Hathidah Patna Bihar,2026-08-27T13:00:00+00:00,India,0.7357697275914963,0,1,en,SAS,Asia
+'7278d72789',extremes,Flood,#030ba1,wmo,Flood Auglaize OH Mercer OH,2026-09-18T07:34:00+00:00,United States,0.7355531715664899,0,1,en,CNA,North-America
 'f231d88c02',extremes,Flood,#030ba1,wmo,Flashflood Morgan OH,2026-08-21T03:30:00+00:00,United States,0.7355365426078261,0,1,en,CNA,North-America
 '95d38229f1',extremes,Precipitation,#d60d2b,wmo,Precipitation Tasman District west of Takaka,2026-09-06T07:16:00+00:00,New Zealand,0.7355315135530993,0,1,en,NZ,Oceania
+'048587344c',extremes,Flood,#030ba1,wmo,Flooding Bonneville ID Jefferson ID,2026-09-18T07:34:00+00:00,United States,0.7355252285262802,0,1,en,CNA,North-America
 'f22fd95fd6',extremes,Flood,#030ba1,wmo,Flashflood Kosi Kursela Katihar Bihar,2026-08-27T13:00:00+00:00,India,0.7354163674321803,0,1,en,SAS,Asia
 '6e640b1b80',extremes,Flood,#030ba1,wmo,Flooding McKean PA Warren PA,2026-09-03T07:20:00+00:00,United States,0.7353700882265668,0,1,en,CNA,North-America
 'f26bbfb5c5',extremes,Flood,#030ba1,wmo,Flooding Auglaize OH Logan OH Shelby OH,2026-08-20T03:26:00+00:00,United States,0.7353661299415775,0,1,en,CNA,North-America
 '1242e03cf5',extremes,Flood,#030ba1,wmo,Flashflood Ganga Bhagalpur Bhagalpur Bihar,2026-09-02T07:16:00+00:00,India,0.7353287182556999,0,1,en,SAS,Asia
+'34339a0a68',extremes,Flood,#030ba1,wmo,Flooding Allen IN,2026-09-18T07:34:00+00:00,United States,0.7350966989243555,0,1,en,CNA,North-America
 '99549776e6',extremes,Drought,#edc291,edo,Drought Papua New Guinea,2026-09-01T07:58:00+00:00,Papua New Guinea,0.735076832208117,0,1,en,EPO,Pacific Ocean
 'aa7a229236',extremes,Flood,#030ba1,wmo,Flashflood Tasmania North Esk River,2026-09-03T07:20:00+00:00,Australia,0.7350293681296117,0,1,en,CAU,Oceania
 '38a4658305',extremes,Flood,#030ba1,wmo,Flood Madison IN Tipton IN,2026-08-20T03:26:00+00:00,United States,0.7348962469610917,0,1,en,CNA,North-America
@@ -113,6 +117,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d35ff5189',extremes,Flood,#030ba1,wmo,Flooding Polk IA,2026-09-09T07:32:00+00:00,United States,0.726648390645574,0,1,en,CNA,North-America
 '79836bd99d',extremes,Flood,#030ba1,wmo,Flood Rio Blanco CO,2026-09-16T07:52:00+00:00,United States,0.7265096572896346,0,1,en,CNA,North-America
 '376cf72bcf',extremes,Precipitation,#d60d2b,wmo,Rain Lunenburg County,2026-09-14T08:04:00+00:00,Canada,0.7261065583215857,0,1,en,NEN,North-America
+'8006472463',extremes,Flood,#030ba1,wmo,Flashflood PunPun Sripalpur Patna Bihar,2026-09-06T07:16:00+00:00,India,0.7256785796403924,0,1,en,SAS,Asia
+'4e7faf91d4',extremes,Flood,#030ba1,wmo,Flashflood Carroll MO Chariton MO,2026-09-16T07:52:00+00:00,United States,0.7250555468469245,0,1,en,CNA,North-America
 'cc1e91400a',extremes,Flood,#030ba1,wmo,Flooding Washington OH,2026-08-17T03:28:00+00:00,United States,0.7236970100530241,1,2,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-08-27T13:01:00+00:00,Australia,0.7208311894895083,1,2,en,SAU,Oceania
