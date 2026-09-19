@@ -114,6 +114,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '376cf72bcf',extremes,Precipitation,#d60d2b,wmo,Rain Lunenburg County,2026-09-14T08:04:00+00:00,Canada,0.7261065583215857,0,1,en,NEN,North-America
 '8006472463',extremes,Flood,#030ba1,wmo,Flashflood PunPun Sripalpur Patna Bihar,2026-09-06T07:16:00+00:00,India,0.7256785796403924,0,1,en,SAS,Asia
 '4e7faf91d4',extremes,Flood,#030ba1,wmo,Flashflood Carroll MO Chariton MO,2026-09-16T07:52:00+00:00,United States,0.7250555468469245,0,1,en,CNA,North-America
+'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2026-08-31T08:51:00+00:00,India,0.7249763061178482,0,1,en,SAS,Asia
+'4fc6c13608',extremes,Flood,#030ba1,wmo,Flood isolated places,2026-09-02T07:16:00+00:00,India,0.7249325031867607,0,1,en,SAS,Asia
+'455ffb5850',extremes,Flood,#030ba1,wmo,Flashflood Polk IA,2026-09-16T07:52:00+00:00,United States,0.7248628253030394,0,1,en,CNA,North-America
+'efc5bd1297',extremes,Flood,#030ba1,wmo,Flooding Coconino AZ,2026-09-14T08:04:00+00:00,United States,0.7248600763389748,0,1,en,CNA,North-America
+'816f369677',extremes,Heat Wave,#c40202,wmo,Heat Wave Catalina and Santa Barbara Islands,2026-09-09T07:32:00+00:00,United States,0.7246409825400588,0,1,en,CNA,North-America
+'cba4e37605',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom Gwent Valleys Caerphilly,2026-08-29T09:18:00+00:00,United Kingdom,0.7246109875327345,0,1,en,NEU,Europe
 'cc1e91400a',extremes,Flood,#030ba1,wmo,Flooding Washington OH,2026-08-17T03:28:00+00:00,United States,0.7236970100530241,1,2,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-08-27T13:01:00+00:00,Australia,0.7208311894895083,1,2,en,SAU,Oceania
