@@ -20,7 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7391696665398226,0,1,en,EPO,Oceania
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
-'d5571906b4',extremes,Heat Wave,#c40202,acwe,mild winter Tasmania,2026-08-22T03:22:00+00:00,Australia,0.7367278909201926,0,1,en,SAU,Oceania
 '90f07d6c4e',extremes,Flood,#030ba1,wmo,Flood PunPun Sripalpur Patna Bihar,2026-09-01T07:58:00+00:00,India,0.7366799467499617,0,1,en,SAS,Asia
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-08-27T13:00:00+00:00,Papua New Guinea,0.7366726405863147,0,1,en,EPO,Oceania
 '7aa008bd6e',extremes,Flood,#030ba1,wmo,Flashflood Sone Maner Patna Bihar,2026-08-27T13:00:00+00:00,India,0.7365428513500748,0,1,en,SAS,Asia
@@ -455,6 +454,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3108c07f63',extremes,Flood,#030ba1,wmo,Flashflood Polk TX,2026-09-02T07:16:00+00:00,United States,0.6266941288274415,1,1,en,CNA,North-America
 '02990345f3',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Macquarie River,2026-09-03T07:20:00+00:00,Australia,0.6266812067673476,1,1,en,CAU,Oceania
 'b2dcaf3ed9',extremes,Flood,#030ba1,wmo,Flashflood Hot Spring AR,2026-08-21T03:30:00+00:00,United States,0.6266691583671543,1,1,en,CNA,North-America
+'d5571906b4',extremes,Heat Wave,#c40202,acwe,mild winter Tasmania,2026-08-22T03:22:00+00:00,Australia,0.6266687522821638,1,1,en,SAU,Oceania
 '3d06da6f72',extremes,Flood,#030ba1,wmo,Flashflood Harrison WV Taylor WV,2026-08-18T03:24:00+00:00,United States,0.6266649870073608,1,1,en,CNA,North-America
 '64c9068262',extremes,Flood,#030ba1,wmo,Flashflood Hancock IN,2026-08-14T04:24:00+00:00,United States,0.6266624001072023,1,1,en,CNA,North-America
 'f471382829',extremes,Heat Wave,#c40202,wmo,Heat Wave Santa Ana Mountains and Foothills,2026-08-25T03:27:00+00:00,United States,0.6265846282627705,1,1,en,CNA,North-America
