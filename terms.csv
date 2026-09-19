@@ -15,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-08-27T13:00:00+00:00,Jamaica,0.749000800022515,0,1,en,CAR,North-America
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-08-31T08:51:00+00:00,Canada,0.7468299318492962,0,1,en,NEN,North-America
+'d2793b8bae',extremes,Drought,#edc291,edo,Drought South Sudan,2026-09-03T07:20:00+00:00,South Sudan,0.7465405561642561,0,1,en,NEAF,Africa
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-09-09T07:32:00+00:00,Belize,0.7451201141353099,0,1,en,SCA,North-America
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7391696665398226,0,1,en,EPO,Oceania
@@ -56,6 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbff27e12c',extremes,Storm,#b3b2b1,wmo,Storm Lake Winnipeg Southern Shores.,2026-09-15T07:59:00+00:00,Canada,0.7337398892837,0,1,en,NEN,North-America
 '3b2210ba28',extremes,Flood,#030ba1,wmo,Flood Ganga Hathidah Patna Bihar,2026-08-30T08:30:00+00:00,India,0.7336736193256601,0,1,en,SAS,Asia
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-08-12T04:23:00+00:00,United States,0.7334786716294248,1,3,en,CNA,North-America
+'14a65bf19e',extremes,Flood,#030ba1,wmo,Flooding Adams IN Allen IN Van Wert OH,2026-09-18T07:34:00+00:00,United States,0.7334351093251504,0,1,en,CNA,North-America
 '79af82d909',extremes,Flood,#030ba1,wmo,Flooding Hillsborough FL,2026-09-10T07:28:00+00:00,United States,0.7334195730803649,0,1,en,CNA,North-America
 '9e04699981',extremes,Precipitation,#d60d2b,wmo,Rain The Tararua Range,2026-09-05T07:05:00+00:00,New Zealand,0.7333101903407345,0,1,en,NZ,Oceania
 'f122e62562',extremes,Flood,#030ba1,wmo,Flashflood Cape May NJ Cumberland NJ,2026-09-05T07:05:00+00:00,United States,0.7333093131176007,0,1,en,CNA,North-America
@@ -67,6 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b206ff93f8',extremes,Flood,#030ba1,wmo,Flooding Victoria Loddon River,2026-08-24T03:32:00+00:00,Australia,0.7326108769996571,0,1,en,CAU,Oceania
 'ca7cc53b15',extremes,Flood,#030ba1,wmo,Flooding Tasmania Meander River,2026-09-06T07:16:00+00:00,Australia,0.7325898672030897,0,1,en,CAU,Oceania
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-08-31T08:51:00+00:00,India,0.732333187585664,0,1,en,SAS,Asia
+'fdca6c3d52',extremes,Flood,#030ba1,wmo,Flood Jackson AR Woodruff AR,2026-09-19T07:30:00+00:00,United States,0.7321827852977407,0,1,en,CNA,North-America
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2026-08-31T08:51:00+00:00,India,0.7321665271470034,0,1,en,SAS,Asia
 '52d69677fc',extremes,Flood,#030ba1,wmo,Flashflood Platte MO,2026-09-16T07:52:00+00:00,United States,0.7321521148361062,0,1,en,CNA,North-America
 'd1b13d8307',extremes,Tsunami,#690191,usgs,Tsunami United States,2026-09-03T07:20:00+00:00,United States,0.732058727309481,0,1,en,WNA,North-America
@@ -81,6 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34855192b0',extremes,Flood,#030ba1,wmo,Flooding Ghaghra Darauli Siwan Bihar,2026-08-28T14:32:00+00:00,India,0.7305376559128178,0,1,en,SAS,Asia
 '0fbfeb6f6d',extremes,Earthquake,#870007,usgs,Earthquake Merizo Village,2026-09-13T07:37:00+00:00,Guam,0.730454524463309,0,1,en,NPO,Pacific Ocean
 'd954e9d08c',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tadoule Lake Churchill York,2026-09-11T07:27:00+00:00,Canada,0.7301629609127284,0,1,en,NEN,North-America
+'9285bb1a52',extremes,Flood,#030ba1,wmo,Flood San Juan NM,2026-09-19T07:30:00+00:00,United States,0.7301403158032026,0,1,en,CNA,North-America
 'aa86a99742',extremes,Flood,#030ba1,wmo,Flashflood Kosi Baltara Khagaria Bihar,2026-08-27T13:00:00+00:00,India,0.7300452640165772,0,1,en,SAS,Asia
 '33c50fa0d2',extremes,Drought,#edc291,edo,Dry Spell Fiji,2026-09-05T07:05:00+00:00,Fiji,0.7298887582699171,0,1,en,,
 '4909521a26',extremes,Flood,#030ba1,wmo,Flooding Ganga Buxar Buxar Bihar,2026-09-05T07:05:00+00:00,India,0.7296891426135979,0,1,en,SAS,Asia
@@ -93,8 +97,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c552693aa1',extremes,Flood,#030ba1,wmo,Flood Dixie FL Taylor FL,2026-08-28T14:32:00+00:00,United States,0.7289527990064095,0,1,en,CNA,North-America
 '162d98d01a',extremes,Flood,#030ba1,wmo,Flashflood Morgan OH Perry OH,2026-09-10T07:28:00+00:00,United States,0.7287656098434617,0,1,en,CNA,North-America
 '136c5b71eb',extremes,Flood,#030ba1,wmo,Flooding Kosi Baltara Khagaria Bihar,2026-08-29T09:18:00+00:00,India,0.7286173750406024,0,1,en,SAS,Asia
+'1b0a088319',extremes,Precipitation,#d60d2b,wmo,Rain Northern Peninsula East,2026-09-19T07:30:00+00:00,Canada,0.7283760413331501,0,1,en,NEN,North-America
 'b3d367d1fe',extremes,Flood,#030ba1,wmo,Flashflood Cobb GA,2026-08-29T09:18:00+00:00,United States,0.7283608968370985,0,1,en,CNA,North-America
 '53ebaec875',extremes,Flood,#030ba1,wmo,Flood Gandak Hajipur Vaishali Bihar,2026-09-05T07:05:00+00:00,India,0.7283418262236359,0,1,en,SAS,Asia
+'aaa5adeda5',extremes,Storm,#b3b2b1,wmo,Storm Surge Victoria East Gippsland Coast,2026-09-19T07:30:00+00:00,Australia,0.7280704163035429,0,1,en,CAU,Oceania
 '649545a513',extremes,Precipitation,#d60d2b,wmo,Rain Auckland and Great Barrier Island,2026-08-28T14:32:00+00:00,New Zealand,0.7280663587603629,0,1,en,NZ,Oceania
 '20cd1f89b2',extremes,Heat Wave,#c40202,wmo,Heat Wave Henry Bureau Putnam,2026-09-04T07:23:00+00:00,United States,0.7280602456223824,0,1,en,CNA,North-America
 '62ad6cee29',extremes,Flood,#030ba1,wmo,Flashflood Clay WV Kanawha WV,2026-09-13T07:37:00+00:00,United States,0.7276192063931182,0,1,en,CNA,North-America
