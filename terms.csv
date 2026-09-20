@@ -9,7 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a015e9081f',extremes,Drought,#edc291,edo,Dryness United Kingdom,2026-08-14T04:24:00+00:00,United Kingdom,0.7776985448351724,1,2,en,NEU,Europe
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-08-07T04:37:00+00:00,Australia,0.776904808638821,1,3,en,CAU,Oceania
 '93bfbcf0c3',extremes,Flood,#030ba1,wmo,Flood Delaware IN Madison IN,2026-08-14T04:24:00+00:00,United States,0.7765619062936975,1,2,en,CNA,North-America
-'3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-09-18T07:34:00+00:00,Australia,0.7712572301680592,0,1,en,SAU,Oceania
+'3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-09-18T07:34:00+00:00,Australia,0.7763498529009148,1,3,en,SAU,Oceania
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
