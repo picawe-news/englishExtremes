@@ -110,7 +110,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2f36e9173',extremes,Earthquake,#870007,usgs,Earthquake Arthurs Point,2026-09-02T07:16:00+00:00,New Zealand,0.7266774490521474,0,1,en,NZ,Oceania
 '5d35ff5189',extremes,Flood,#030ba1,wmo,Flooding Polk IA,2026-09-09T07:32:00+00:00,United States,0.726648390645574,0,1,en,CNA,North-America
 '79836bd99d',extremes,Flood,#030ba1,wmo,Flood Rio Blanco CO,2026-09-16T07:52:00+00:00,United States,0.7265096572896346,0,1,en,CNA,North-America
+'f81c28997e',extremes,Storm,#b3b2b1,wmo,Storm Western Australia Eucla Coast,2026-09-09T07:32:00+00:00,Australia,0.7261318026418233,0,1,en,CAU,Oceania
 '376cf72bcf',extremes,Precipitation,#d60d2b,wmo,Rain Lunenburg County,2026-09-14T08:04:00+00:00,Canada,0.7261065583215857,0,1,en,NEN,North-America
+'bdccdbf17e',extremes,Flood,#030ba1,wmo,Flooding Dolores CO,2026-09-19T07:30:00+00:00,United States,0.7259630370263871,0,1,en,CNA,North-America
 '8006472463',extremes,Flood,#030ba1,wmo,Flashflood PunPun Sripalpur Patna Bihar,2026-09-06T07:16:00+00:00,India,0.7256785796403924,0,1,en,SAS,Asia
 '4e7faf91d4',extremes,Flood,#030ba1,wmo,Flashflood Carroll MO Chariton MO,2026-09-16T07:52:00+00:00,United States,0.7250555468469245,0,1,en,CNA,North-America
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2026-08-31T08:51:00+00:00,India,0.7249763061178482,0,1,en,SAS,Asia
@@ -119,6 +121,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'efc5bd1297',extremes,Flood,#030ba1,wmo,Flooding Coconino AZ,2026-09-14T08:04:00+00:00,United States,0.7248600763389748,0,1,en,CNA,North-America
 '816f369677',extremes,Heat Wave,#c40202,wmo,Heat Wave Catalina and Santa Barbara Islands,2026-09-09T07:32:00+00:00,United States,0.7246409825400588,0,1,en,CNA,North-America
 'cba4e37605',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom Gwent Valleys Caerphilly,2026-08-29T09:18:00+00:00,United Kingdom,0.7246109875327345,0,1,en,NEU,Europe
+'c491b8fbb5',extremes,Flood,#030ba1,wmo,Flood Gilmer WV Lewis WV,2026-09-11T07:27:00+00:00,United States,0.7245519897017823,0,1,en,CNA,North-America
+'3ce9863fa9',extremes,Flood,#030ba1,wmo,Flood Wells IN,2026-09-19T07:30:00+00:00,United States,0.7244129833498685,0,1,en,CNA,North-America
+'fbf54921ca',extremes,Earthquake,#870007,usgs,Earthquake Lautoka,2026-09-16T07:52:00+00:00,Fiji,0.7243489251070011,0,1,en,SPO,Pacific Ocean
+'cd0f327066',extremes,Flood,#030ba1,wmo,Flashflood Ganga Kahalgaon Bhagalpur Bihar,2026-09-12T07:19:00+00:00,India,0.7243369671799151,0,1,en,SAS,Asia
 'cc1e91400a',extremes,Flood,#030ba1,wmo,Flooding Washington OH,2026-08-17T03:28:00+00:00,United States,0.7236970100530241,1,2,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-08-27T13:01:00+00:00,Australia,0.7208311894895083,1,2,en,SAU,Oceania
