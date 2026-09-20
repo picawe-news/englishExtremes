@@ -11,13 +11,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93bfbcf0c3',extremes,Flood,#030ba1,wmo,Flood Delaware IN Madison IN,2026-08-14T04:24:00+00:00,United States,0.7765619062936975,1,2,en,CNA,North-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-07-27T06:05:00+00:00,United States,0.7681190172884116,1,3,en,CNA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
+'832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-08-27T13:00:00+00:00,Jamaica,0.749000800022515,0,1,en,CAR,North-America
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-08-31T08:51:00+00:00,Canada,0.7468299318492962,0,1,en,NEN,North-America
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-09-09T07:32:00+00:00,Belize,0.7451201141353099,0,1,en,SCA,North-America
-'832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7391696665398226,0,1,en,EPO,Oceania
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-08-27T13:00:00+00:00,Papua New Guinea,0.7366726405863147,0,1,en,EPO,Oceania
@@ -169,7 +169,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d8bab83be',extremes,Drought,#edc291,edo,Lack of Rain Fiji,2026-08-27T13:00:00+00:00,Fiji,0.6749911696359037,2,1,en,,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-09-03T07:20:00+00:00,Canada,0.6744737470630587,2,3,en,NEN,North-America
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-08-21T03:30:00+00:00,New Zealand,0.6744548888735016,1,1,en,NZ,Oceania
-'56ec1d3897',extremes,Drought,#edc291,edo,Drought Uganda,2026-08-03T05:58:00+00:00,Uganda,0.6730242688192922,1,2,en,SEAF,Africa
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,Hail Canada,2026-08-21T03:30:00+00:00,Canada,0.672391005991516,1,2,en,NEN,North-America
 'baf5f94907',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island East,2026-08-15T03:13:00+00:00,United States,0.670797878533978,2,3,en,CNA,North-America
 '5b35936697',extremes,Storm,#b3b2b1,wmo,Storm Eastern Region,2026-08-05T05:31:00+00:00,Solomon Islands,0.6686248759725807,1,2,en,EPO,Oceania
@@ -410,9 +409,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab883c8296',extremes,Flood,#030ba1,wmo,Flood Piatt IL,2026-08-18T03:24:00+00:00,United States,0.6288180299461732,1,1,en,CNA,North-America
 '1fe3c904d0',extremes,Flood,#030ba1,wmo,Flooding Jefferson ID Madison ID,2026-08-23T03:30:00+00:00,United States,0.6287835639175591,1,1,en,CNA,North-America
 '707e3ee5c5',extremes,Storm,#b3b2b1,wmo,Storm Lake Winnipegosis South Shores.,2026-09-15T07:59:00+00:00,Canada,0.6287041888737451,1,1,en,NEN,North-America
-'61ac287ce6',extremes,Earthquake,#870007,usgs,Earthquake Skwentna,2026-08-09T03:59:00+00:00,United States,0.6286250794103431,1,1,en,NWN,North-America
 'f6ec81e506',extremes,Flood,#030ba1,wmo,Flashflood Chittenden VT Lamoille VT,2026-08-11T04:01:00+00:00,United States,0.6286196642444273,1,1,en,CNA,North-America
-'03f37d5e93',extremes,Flood,#030ba1,wmo,Flashflood Victoria Broken River,2026-08-09T03:59:00+00:00,Australia,0.6285938679549936,1,1,en,CAU,Oceania
 '0b54e1c964',extremes,Flood,#030ba1,wmo,Flashflood Delaware IN Randolph IN,2026-08-14T04:24:00+00:00,United States,0.6285858759927223,1,1,en,CNA,North-America
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-08-16T03:27:00+00:00,Fiji,0.6285716045705946,1,1,en,SPO,Pacific Ocean
 '0ed48304ba',extremes,Snow&Ice,#d60d2b,wmo,Frost Star Valley,2026-09-14T08:04:00+00:00,United States,0.6285670691707577,1,1,en,CNA,North-America
@@ -455,7 +452,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d196240b6',extremes,Flood,#030ba1,wmo,Flood Champaign IL Vermilion IL,2026-08-17T03:28:00+00:00,United States,0.6269873104820465,1,1,en,CNA,North-America
 '381ceff412',extremes,Earthquake,#870007,usgs,Earthquake Kimbe,2026-08-26T03:33:00+00:00,Papua New Guinea,0.6269828445401215,1,1,en,EPO,Pacific Ocean
 'eb8fff7e1e',extremes,Flood,#030ba1,wmo,Flashflood Dawson TX Gaines TX,2026-08-14T04:24:00+00:00,United States,0.6269553119257903,1,1,en,CNA,North-America
-'301f849155',extremes,Flood,#030ba1,wmo,Flooding Victoria Seven and Castle Creeks,2026-08-09T03:59:00+00:00,Australia,0.626930048728165,1,1,en,CAU,Oceania
 'feee4f77b4',extremes,Flood,#030ba1,wmo,Flashflood Morgan Roane Loudon,2026-08-13T04:26:00+00:00,United States,0.6268709542367183,1,1,en,CNA,North-America
 '3108c07f63',extremes,Flood,#030ba1,wmo,Flashflood Polk TX,2026-09-02T07:16:00+00:00,United States,0.6266941288274415,1,1,en,CNA,North-America
 '02990345f3',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Macquarie River,2026-09-03T07:20:00+00:00,Australia,0.6266812067673476,1,1,en,CAU,Oceania
@@ -473,5 +469,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1bc4d6bd9',extremes,Flood,#030ba1,wmo,Flooding Victoria Broken River,2026-08-10T04:14:00+00:00,Australia,0.6255572439444499,1,1,en,CAU,Oceania
 'caa4e61c5e',extremes,Flood,#030ba1,wmo,Flooding Graham AZ,2026-08-10T04:14:00+00:00,United States,0.6252862653594462,1,1,en,CNA,North-America
 '5189880b23',extremes,Flood,#030ba1,wmo,Flooding Lee IL,2026-08-10T04:14:00+00:00,United States,0.6251655525241102,1,1,en,CNA,North-America
-'951d089856',extremes,Flood,#030ba1,wmo,Flashflood Kane UT,2026-08-10T04:14:00+00:00,United States,0.6240682623420172,1,1,en,CNA,North-America
-'b61327ecf4',extremes,Flood,#030ba1,wmo,Flood Victoria Seven and Castle Creeks,2026-08-10T04:14:00+00:00,Australia,0.6235615362831469,1,1,en,CAU,Oceania
