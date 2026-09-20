@@ -20,11 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-09-09T07:32:00+00:00,Belize,0.7451201141353099,0,1,en,SCA,North-America
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
-'51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-08-27T13:00:00+00:00,Papua New Guinea,0.7366726405863147,0,1,en,EPO,Oceania
-'7aa008bd6e',extremes,Flood,#030ba1,wmo,Flashflood Sone Maner Patna Bihar,2026-08-27T13:00:00+00:00,India,0.7365428513500748,0,1,en,SAS,Asia
-'fb2e52d1fa',extremes,Flood,#030ba1,wmo,Flashflood Lawrence IN Martin IN,2026-08-19T03:26:00+00:00,United States,0.7365354638692477,0,1,en,CNA,North-America
-'d6f4b99127',extremes,Flood,#030ba1,wmo,Flooding Atchison KS Leavenworth KS,2026-09-17T07:56:00+00:00,United States,0.7363529300419991,0,1,en,CNA,North-America
-'08d0677c37',extremes,Flood,#030ba1,wmo,Flood Victoria Ovens and King Rivers,2026-09-04T07:23:00+00:00,Australia,0.7363272039320528,0,1,en,CAU,Oceania
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-08-22T03:22:00+00:00,United States,0.7363102949725838,0,1,en,CNA,North-America
 '45bd8d6aca',extremes,Flood,#030ba1,wmo,Flood Victoria Loddon River,2026-09-03T07:20:00+00:00,Australia,0.7359845665502659,0,1,en,CAU,Oceania
 '93a1b8bdd5',extremes,Fog,#d60d2b,wmo,Fog Grand Portage to Grand Marais MN,2026-09-01T07:58:00+00:00,United States,0.7358972273870316,0,1,en,CNA,North-America
@@ -466,6 +461,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12045a3d28',extremes,Flood,#030ba1,wmo,Flashflood City and Borough of Juneau,2026-08-13T04:26:00+00:00,United States,0.6263716019318412,1,1,en,CNA,North-America
 'f66ac79afb',extremes,Flood,#030ba1,wmo,Flood Polk TX San Jacinto TX,2026-09-03T07:20:00+00:00,United States,0.6263639909435921,1,1,en,CNA,North-America
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,Rain Belize,2026-08-11T04:01:00+00:00,Belize,0.6262065931254801,1,1,en,SCA,North-America
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-08-27T13:00:00+00:00,Papua New Guinea,0.6261717444983674,1,1,en,EPO,Oceania
+'7aa008bd6e',extremes,Flood,#030ba1,wmo,Flashflood Sone Maner Patna Bihar,2026-08-27T13:00:00+00:00,India,0.6260614236475636,1,1,en,SAS,Asia
+'fb2e52d1fa',extremes,Flood,#030ba1,wmo,Flashflood Lawrence IN Martin IN,2026-08-19T03:26:00+00:00,United States,0.6260551442888606,1,1,en,CNA,North-America
+'08d0677c37',extremes,Flood,#030ba1,wmo,Flood Victoria Ovens and King Rivers,2026-09-04T07:23:00+00:00,Australia,0.6260281383422448,1,1,en,CAU,Oceania
+'d6f4b99127',extremes,Flood,#030ba1,wmo,Flooding Atchison KS Leavenworth KS,2026-09-17T07:56:00+00:00,United States,0.6258999905356992,1,1,en,CNA,North-America
 'd1bc4d6bd9',extremes,Flood,#030ba1,wmo,Flooding Victoria Broken River,2026-08-10T04:14:00+00:00,Australia,0.6255572439444499,1,1,en,CAU,Oceania
 'caa4e61c5e',extremes,Flood,#030ba1,wmo,Flooding Graham AZ,2026-08-10T04:14:00+00:00,United States,0.6252862653594462,1,1,en,CNA,North-America
 '5189880b23',extremes,Flood,#030ba1,wmo,Flooding Lee IL,2026-08-10T04:14:00+00:00,United States,0.6251655525241102,1,1,en,CNA,North-America
