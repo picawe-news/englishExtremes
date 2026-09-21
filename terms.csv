@@ -14,8 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
-'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-09-20T07:53:00+00:00,Solomon Islands,0.75345940547463,0,1,en,EPO,Oceania
-'97a5343951',extremes,Precipitation,#d60d2b,wmo,Rain Seychelles,2026-09-20T07:53:00+00:00,Seychelles,0.7506244610705589,0,1,en,EIO,Africa
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-08-27T13:00:00+00:00,Jamaica,0.749000800022515,0,1,en,CAR,North-America
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-08-31T08:51:00+00:00,Canada,0.7468299318492962,0,1,en,NEN,North-America
@@ -24,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-08-22T03:22:00+00:00,United States,0.7363102949725838,0,1,en,CNA,North-America
-'45bd8d6aca',extremes,Flood,#030ba1,wmo,Flood Victoria Loddon River,2026-09-03T07:20:00+00:00,Australia,0.7359845665502659,0,1,en,CAU,Oceania
 '93a1b8bdd5',extremes,Fog,#d60d2b,wmo,Fog Grand Portage to Grand Marais MN,2026-09-01T07:58:00+00:00,United States,0.7358972273870316,0,1,en,CNA,North-America
 'b5514709df',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kauai East,2026-09-07T07:29:00+00:00,United States,0.7358664990733564,0,1,en,CNA,North-America
 '75b28e6213',extremes,Flood,#030ba1,wmo,Flashflood Ganga Hathidah Patna Bihar,2026-08-27T13:00:00+00:00,India,0.7357697275914963,0,1,en,SAS,Asia
@@ -255,6 +252,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-09-09T07:32:00+00:00,Canada,0.6421573800447374,1,2,en,NEN,North-America
 '7c626bfc6a',extremes,Precipitation,#d60d2b,wmo,Precipitation The ranges of The Westland District,2026-09-15T07:59:00+00:00,New Zealand,0.6420444199088967,1,1,en,NZ,Oceania
 'b266fe4aba',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Westland,2026-08-26T03:34:00+00:00,New Zealand,0.6404912719812772,1,1,en,NZ,Oceania
+'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-09-20T07:53:00+00:00,Solomon Islands,0.6404404946534354,1,1,en,EPO,Oceania
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,Storm Surge Seychelles,2026-08-21T03:30:00+00:00,Seychelles,0.6403182205340671,1,1,en,EIO,Africa
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-08-17T03:28:00+00:00,Solomon Islands,0.6401693438713619,1,1,en,EPO,Oceania
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-09-13T07:37:00+00:00,United States,0.6401092315444404,1,2,en,CNA,North-America
@@ -270,6 +268,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd7592ebf1a',extremes,Thunderstorm,#53785a,wmo,Hail Cariboo north including Quesnel,2026-08-23T03:30:00+00:00,Canada,0.6386209481458412,1,1,en,NEN,North-America
 'ae5eb05a96',extremes,Snow&Ice,#d60d2b,wmo,Snow Milford Road SH94,2026-08-22T03:22:00+00:00,New Zealand,0.6383642917963628,1,1,en,NZ,Oceania
 'bbbc0a78c7',extremes,Drought,#edc291,edo,Dryness Fiji,2026-08-30T08:30:00+00:00,Fiji,0.6383169484005792,1,1,en,,
+'97a5343951',extremes,Precipitation,#d60d2b,wmo,Rain Seychelles,2026-09-20T07:53:00+00:00,Seychelles,0.638030791909975,1,1,en,EIO,Africa
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,Freezing Canada,2026-09-12T07:19:00+00:00,Canada,0.6378742578609329,1,2,en,NEN,North-America
 'f71259e5fd',extremes,Snow&Ice,#d60d2b,wmo,Snow Arthur's Pass SH73,2026-08-23T03:30:00+00:00,New Zealand,0.637750472448924,1,1,en,NZ,Oceania
 '2433af70de',extremes,Storm,#b3b2b1,wmo,Storm Surge Belize,2026-09-10T07:28:00+00:00,Belize,0.637305174211986,1,1,en,SCA,North-America
@@ -472,6 +471,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb2e52d1fa',extremes,Flood,#030ba1,wmo,Flashflood Lawrence IN Martin IN,2026-08-19T03:26:00+00:00,United States,0.6260551442888606,1,1,en,CNA,North-America
 '08d0677c37',extremes,Flood,#030ba1,wmo,Flood Victoria Ovens and King Rivers,2026-09-04T07:23:00+00:00,Australia,0.6260281383422448,1,1,en,CAU,Oceania
 'd6f4b99127',extremes,Flood,#030ba1,wmo,Flooding Atchison KS Leavenworth KS,2026-09-17T07:56:00+00:00,United States,0.6258999905356992,1,1,en,CNA,North-America
+'45bd8d6aca',extremes,Flood,#030ba1,wmo,Flood Victoria Loddon River,2026-09-03T07:20:00+00:00,Australia,0.625736896567726,1,1,en,CAU,Oceania
 'd1bc4d6bd9',extremes,Flood,#030ba1,wmo,Flooding Victoria Broken River,2026-08-10T04:14:00+00:00,Australia,0.6255572439444499,1,1,en,CAU,Oceania
 'caa4e61c5e',extremes,Flood,#030ba1,wmo,Flooding Graham AZ,2026-08-10T04:14:00+00:00,United States,0.6252862653594462,1,1,en,CNA,North-America
 '5189880b23',extremes,Flood,#030ba1,wmo,Flooding Lee IL,2026-08-10T04:14:00+00:00,United States,0.6251655525241102,1,1,en,CNA,North-America
