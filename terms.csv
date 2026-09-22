@@ -24,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-08-22T03:22:00+00:00,United States,0.7363102949725838,0,1,en,CNA,North-America
-'8fad9cb878',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Cork Kerry,2026-09-12T07:19:00+00:00,Ireland,0.7347822207472063,0,1,en,NEU,Europe
 '71a012aaf9',extremes,Flood,#030ba1,wmo,Flood Randolph AR,2026-09-11T07:27:00+00:00,United States,0.7345923213726733,0,1,en,CNA,North-America
 'd577347130',extremes,Earthquake,#870007,usgs,Earthquake Kirakira,2026-08-27T13:00:00+00:00,Solomon Islands,0.7344306331581064,0,1,en,SPO,Pacific Ocean
 '7e1647f26a',extremes,Flood,#030ba1,wmo,Flood Ganga Kahalgaon Bhagalpur Bihar,2026-09-02T07:16:00+00:00,India,0.734347560804998,0,1,en,SAS,Asia
@@ -468,5 +467,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6e640b1b80',extremes,Flood,#030ba1,wmo,Flooding McKean PA Warren PA,2026-09-03T07:20:00+00:00,United States,0.6250645749925817,1,1,en,CNA,North-America
 'f26bbfb5c5',extremes,Flood,#030ba1,wmo,Flooding Auglaize OH Logan OH Shelby OH,2026-08-20T03:26:00+00:00,United States,0.6250612104503408,1,1,en,CNA,North-America
 '1242e03cf5',extremes,Flood,#030ba1,wmo,Flashflood Ganga Bhagalpur Bhagalpur Bihar,2026-09-02T07:16:00+00:00,India,0.625029410517345,1,1,en,SAS,Asia
+'8fad9cb878',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Cork Kerry,2026-09-12T07:19:00+00:00,Ireland,0.6248649176351254,1,1,en,NEU,Europe
 'aa7a229236',extremes,Flood,#030ba1,wmo,Flashflood Tasmania North Esk River,2026-09-03T07:20:00+00:00,Australia,0.62477496291017,1,1,en,CAU,Oceania
 '38a4658305',extremes,Flood,#030ba1,wmo,Flood Madison IN Tipton IN,2026-08-20T03:26:00+00:00,United States,0.6246618099169279,1,1,en,CNA,North-America
