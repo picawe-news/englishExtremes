@@ -15,14 +15,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99549776e6',extremes,Drought,#edc291,edo,Drought Papua New Guinea,2026-09-01T07:58:00+00:00,Papua New Guinea,0.7749653223768995,1,2,en,EPO,Pacific Ocean
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '34339a0a68',extremes,Flood,#030ba1,wmo,Flooding Allen IN,2026-09-18T07:34:00+00:00,United States,0.7661464004493385,1,3,en,CNA,North-America
+'a345aca9eb',extremes,Heat Wave,#c40202,acwe,heatwave Victoria,2026-09-23T07:56:00+00:00,Australia,0.7652360007485807,0,1,en,SAU,Oceania
+'d0ad361cd5',extremes,Precipitation,#d60d2b,acwe,wet spell Victoria,2026-09-23T07:56:00+00:00,Australia,0.7642582529390723,0,1,en,SAU,Oceania
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
+'2072c25fd3',extremes,Drought,#edc291,edo,Dry Spell Guyana,2026-09-21T08:09:00+00:00,Guyana,0.7582325650282664,0,1,en,NSA,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-08-11T04:01:00+00:00,United States,0.7546591709972369,1,3,en,CNA,North-America
+'56ec1d3897',extremes,Drought,#edc291,edo,Drought Uganda,2026-09-14T08:04:00+00:00,Uganda,0.7545586661194377,0,1,en,SEAF,Africa
+'9360b8b9af',extremes,Storm,#b3b2b1,wmo,Storm Salluit Kangiqsujuaq Raglan Lake,2026-09-23T07:55:00+00:00,Canada,0.7507205193125848,0,1,en,NEN,North-America
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-08-31T08:51:00+00:00,Canada,0.7468299318492962,0,1,en,NEN,North-America
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-09-09T07:32:00+00:00,Belize,0.7451201141353099,0,1,en,SCA,North-America
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,Snow New Zealand,2026-09-19T07:30:00+00:00,New Zealand,0.7433793418512221,0,1,en,NZ,Oceania
+'09deb2b40e',extremes,Drought,#edc291,edo,Lack of Rain Belize,2026-09-23T07:55:00+00:00,Belize,0.7409650053550496,0,1,en,SCA,North-America
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-08-22T03:22:00+00:00,United States,0.7363102949725838,0,1,en,CNA,North-America
