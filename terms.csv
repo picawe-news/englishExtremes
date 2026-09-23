@@ -26,11 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-08-22T03:22:00+00:00,United States,0.7363102949725838,0,1,en,CNA,North-America
-'f96d822508',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Pedro Bank area,2026-08-29T09:18:00+00:00,Jamaica,0.7343034629351447,0,1,en,CAR,North-America
-'9e21bacc56',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Pike MO,2026-09-21T08:09:00+00:00,United States,0.7342557100526866,0,1,en,CNA,North-America
-'bbb191592d',extremes,Flood,#030ba1,wmo,Flooding Citrus FL Levy FL Marion FL,2026-09-20T07:53:00+00:00,United States,0.7342403702965483,0,1,en,CNA,North-America
-'209a0b8272',extremes,Flood,#030ba1,wmo,Flood Adams IN Allen IN Van Wert OH,2026-09-21T08:09:00+00:00,United States,0.7341400613235474,0,1,en,CNA,North-America
-'2b5e1e1e05',extremes,Flood,#030ba1,wmo,Flooding Victoria King River,2026-08-28T14:32:00+00:00,Australia,0.7339209196285665,0,1,en,CAU,Oceania
 '8cd64ab8b9',extremes,Flood,#030ba1,wmo,Flooding Sone Maner Patna Bihar,2026-09-02T07:16:00+00:00,India,0.7339155746191385,0,1,en,SAS,Asia
 '4fdf985b19',extremes,Flood,#030ba1,wmo,Flashflood Snyder PA Union PA,2026-09-03T07:20:00+00:00,United States,0.7337821524578736,0,1,en,CNA,North-America
 '98623d4dab',extremes,Wildfire,#d60d2b,acwe,bushfire Western Australia,2026-09-21T08:09:00+00:00,Australia,0.7337606544850996,0,1,en,CAU,Oceania
@@ -473,3 +468,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38a4658305',extremes,Flood,#030ba1,wmo,Flood Madison IN Tipton IN,2026-08-20T03:26:00+00:00,United States,0.6246618099169279,1,1,en,CNA,North-America
 '71a012aaf9',extremes,Flood,#030ba1,wmo,Flood Randolph AR,2026-09-11T07:27:00+00:00,United States,0.6244034731667722,1,1,en,CNA,North-America
 'd577347130',extremes,Earthquake,#870007,usgs,Earthquake Kirakira,2026-08-27T13:00:00+00:00,Solomon Islands,0.6242660381843904,1,1,en,SPO,Pacific Ocean
+'f96d822508',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Pedro Bank area,2026-08-29T09:18:00+00:00,Jamaica,0.624157943494873,1,1,en,CAR,North-America
+'2b5e1e1e05',extremes,Flood,#030ba1,wmo,Flooding Victoria King River,2026-08-28T14:32:00+00:00,Australia,0.6241328116842816,1,1,en,CAU,Oceania
+'9e21bacc56',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Pike MO,2026-09-21T08:09:00+00:00,United States,0.6241173535447836,1,1,en,CNA,North-America
+'bbb191592d',extremes,Flood,#030ba1,wmo,Flooding Citrus FL Levy FL Marion FL,2026-09-20T07:53:00+00:00,United States,0.6241043147520661,1,1,en,CNA,North-America
+'209a0b8272',extremes,Flood,#030ba1,wmo,Flood Adams IN Allen IN Van Wert OH,2026-09-21T08:09:00+00:00,United States,0.6240190521250153,1,1,en,CNA,North-America
