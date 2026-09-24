@@ -114,6 +114,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4fc6c13608',extremes,Flood,#030ba1,wmo,Flood isolated places,2026-09-02T07:16:00+00:00,India,0.7249325031867607,0,1,en,SAS,Asia
 '455ffb5850',extremes,Flood,#030ba1,wmo,Flashflood Polk IA,2026-09-16T07:52:00+00:00,United States,0.7248628253030394,0,1,en,CNA,North-America
 'efc5bd1297',extremes,Flood,#030ba1,wmo,Flooding Coconino AZ,2026-09-14T08:04:00+00:00,United States,0.7248600763389748,0,1,en,CNA,North-America
+'51d222b33f',extremes,Flood,#030ba1,wmo,Flashflood Johnson IA Washington IA,2026-09-23T07:55:00+00:00,United States,0.7246599196358954,0,1,en,CNA,North-America
 '816f369677',extremes,Heat Wave,#c40202,wmo,Heat Wave Catalina and Santa Barbara Islands,2026-09-09T07:32:00+00:00,United States,0.7246409825400588,0,1,en,CNA,North-America
 'cba4e37605',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom Gwent Valleys Caerphilly,2026-08-29T09:18:00+00:00,United Kingdom,0.7246109875327345,0,1,en,NEU,Europe
 'c491b8fbb5',extremes,Flood,#030ba1,wmo,Flood Gilmer WV Lewis WV,2026-09-11T07:27:00+00:00,United States,0.7245519897017823,0,1,en,CNA,North-America
@@ -127,6 +128,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '255621cc4c',extremes,Earthquake,#870007,usgs,Earthquake Panguna,2026-09-17T07:56:00+00:00,Papua New Guinea,0.7239564981068018,0,1,en,EPO,Pacific Ocean
 '8150771e7c',extremes,Snow&Ice,#d60d2b,wmo,Frost Baraga Iron Southern Houghton,2026-09-22T07:54:00+00:00,United States,0.7239530217562216,0,1,en,CNA,North-America
 'cc1e91400a',extremes,Flood,#030ba1,wmo,Flooding Washington OH,2026-08-17T03:28:00+00:00,United States,0.7236970100530241,1,2,en,CNA,North-America
+'9c6690f157',extremes,Heat Wave,#c40202,wmo,Heat Wave Imperial County Southwest,2026-09-08T07:23:00+00:00,United States,0.7235472021365005,0,1,en,CNA,North-America
+'cbfe8af9df',extremes,Flood,#030ba1,wmo,Flashflood Ghaghra Chhappra Saran Bihar,2026-09-05T07:05:00+00:00,India,0.7234159011584534,0,1,en,SAS,Asia
+'13b1522378',extremes,Flood,#030ba1,wmo,Flashflood Lee IA Clark MO Scotland MO,2026-09-16T07:52:00+00:00,United States,0.723219693376122,0,1,en,CNA,North-America
+'a13001759a',extremes,Flood,#030ba1,wmo,Flood Two Rivers Fairbanks Metro Area,2026-09-14T08:04:00+00:00,United States,0.7228899967247272,0,1,en,CNA,North-America
+'1646e2bfe8',extremes,Heat Wave,#c40202,wmo,Heat Wave Yuma,2026-09-08T07:23:00+00:00,United States,0.7228886867702711,0,1,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-08-27T13:01:00+00:00,Australia,0.7208311894895083,1,2,en,SAU,Oceania
 'ab1b8b2754',extremes,Thunderstorm,#53785a,wmo,Severe Weather Belize,2026-08-12T04:23:00+00:00,Belize,0.7205659891428192,1,2,en,SCA,North-America
