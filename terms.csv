@@ -27,9 +27,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,Snow New Zealand,2026-09-19T07:30:00+00:00,New Zealand,0.7433793418512221,0,1,en,NZ,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
 '8d0ed31346',extremes,Snow&Ice,#d60d2b,wmo,Ice Gatineau,2026-09-24T07:46:00+00:00,Canada,0.7392629117174244,0,1,en,NEN,North-America
+'037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-09-17T07:56:00+00:00,United States,0.7384171804333542,0,1,en,CNA,North-America
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,Flood Cass IL Fulton IL Mason IL,2026-08-22T03:22:00+00:00,United States,0.7363102949725838,0,1,en,CNA,North-America
+'c1c92d4087',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island South,2026-09-24T07:46:00+00:00,United States,0.7353988941186838,0,1,en,CNA,North-America
+'869ff000f5',extremes,Precipitation,#d60d2b,wmo,Rain Belize,2026-09-24T07:46:00+00:00,Belize,0.7353542793641713,0,1,en,SCA,North-America
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-08-12T04:23:00+00:00,United States,0.7334786716294248,1,3,en,CNA,North-America
 '14a65bf19e',extremes,Flood,#030ba1,wmo,Flooding Adams IN Allen IN Van Wert OH,2026-09-18T07:34:00+00:00,United States,0.7334351093251504,0,1,en,CNA,North-America
@@ -54,6 +57,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11aee14d0f',extremes,Flood,#030ba1,wmo,Flashflood Citrus FL Levy FL Marion FL,2026-09-17T07:56:00+00:00,United States,0.7319872999880607,0,1,en,CNA,North-America
 '5aac2a6d30',extremes,Storm,#b3b2b1,wmo,Storm India,2026-08-31T08:51:00+00:00,India,0.7319077950558656,0,1,en,SAS,Asia
 'b7543c636c',extremes,Flood,#030ba1,wmo,Flood Pike OH Ross OH,2026-09-13T07:37:00+00:00,United States,0.7317307080115263,0,1,en,CNA,North-America
+'15542b3f56',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Kona,2026-09-24T07:46:00+00:00,United States,0.7316266183359774,0,1,en,CNA,North-America
 '16a17c4630',extremes,Flood,#030ba1,wmo,Flood Adams IN Wells IN,2026-09-18T07:34:00+00:00,United States,0.7314517976163121,0,1,en,CNA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-08-31T08:51:00+00:00,Australia,0.7311598610832024,1,2,en,CAU,Oceania
 '0db6685330',extremes,Precipitation,#d60d2b,wmo,Precipitation The Ruahine Range,2026-09-06T07:16:00+00:00,New Zealand,0.731107506701168,0,1,en,NZ,Oceania
@@ -61,10 +65,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2026-09-01T07:57:00+00:00,Solomon Islands,0.7310001396063944,0,1,en,EPO,Pacific Ocean
 'f708ddc866',extremes,Flood,#030ba1,wmo,Flashflood Anson,2026-08-22T03:22:00+00:00,United States,0.730984289413011,0,1,en,CNA,North-America
 '8fa84157eb',extremes,Flood,#030ba1,wmo,Flood Kosi Kursela Katihar Bihar,2026-08-31T08:51:00+00:00,India,0.7308077184606284,0,1,en,SAS,Asia
+'aafd8ebea1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Big Island Summit,2026-09-24T07:46:00+00:00,United States,0.7306634871486296,0,1,en,CNA,North-America
 '34855192b0',extremes,Flood,#030ba1,wmo,Flooding Ghaghra Darauli Siwan Bihar,2026-08-28T14:32:00+00:00,India,0.7305376559128178,0,1,en,SAS,Asia
 '0fbfeb6f6d',extremes,Earthquake,#870007,usgs,Earthquake Merizo Village,2026-09-13T07:37:00+00:00,Guam,0.730454524463309,0,1,en,NPO,Pacific Ocean
 'bb2c9cd1fe',extremes,Flood,#030ba1,wmo,Flood Pike IL Marion MO,2026-09-21T08:09:00+00:00,United States,0.730275950202855,0,1,en,CNA,North-America
 'd954e9d08c',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tadoule Lake Churchill York,2026-09-11T07:27:00+00:00,Canada,0.7301629609127284,0,1,en,NEN,North-America
+'6171ca62b4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ireland,2026-09-24T07:46:00+00:00,Ireland,0.7301553590619932,0,1,en,NEU,Europe
 '9285bb1a52',extremes,Flood,#030ba1,wmo,Flood San Juan NM,2026-09-19T07:30:00+00:00,United States,0.7301403158032026,0,1,en,CNA,North-America
 'aa86a99742',extremes,Flood,#030ba1,wmo,Flashflood Kosi Baltara Khagaria Bihar,2026-08-27T13:00:00+00:00,India,0.7300452640165772,0,1,en,SAS,Asia
 '33c50fa0d2',extremes,Drought,#edc291,edo,Dry Spell Fiji,2026-09-05T07:05:00+00:00,Fiji,0.7298887582699171,0,1,en,,
