@@ -210,7 +210,7 @@ Boeing,Boeing,ORG,0.10489510489510488,0.34965034965034963,en,1.3
 AMOC,AMOC,ORG,0.0,0.0,en,1.3
 Glentoran,Glentoran,ORG,-0.15384615384615385,0.15384615384615385,en,1.3
 the Office of the Spokesperson,the Office of the Spokesperson,ORG,0.0,0.0,en,1.3
-First Nations,First Nations,ORG,0.16666666666666666,0.25213675213675213,en,1.3
+CBS,CBS,ORG,0.0,0.0,en,1.3
 Army,Army,ORG,0.0,0.0,en,1.3
 Daily Press Briefing,Daily Press Briefing,ORG,0.0,0.0,en,1.3
 IQAir,IQAir,ORG,0.28846153846153844,0.0,en,1.3
@@ -220,7 +220,7 @@ Birnie Plumbing,Birnie Plumbing,ORG,0.46153846153846156,0.34615384615384615,en,1
 Cricket Australia,Cricket Australia,ORG,0.0,0.0,en,1.3
 Yale College,Yale College,ORG,0.0,0.0,en,1.3
 LSD,LSD,ORG,0.0,0.1923076923076923,en,1.3
-CBS,CBS,ORG,0.0,0.0,en,1.3
+First Nations,First Nations,ORG,0.16666666666666666,0.25213675213675213,en,1.3
 Duke Review,Duke Review,ORG,0.0,0.0,en,1.2
 Bhavan Frozen Foods,Bhavan Frozen Foods,ORG,0.0,0.04166666666666667,en,1.2
 the Atlantic Meridional Overturning Circulation,the Atlantic Meridional Overturning Circulation,ORG,-0.09529320987654323,0.21913580246913586,en,1.2
@@ -319,27 +319,27 @@ TGB,TGB,ORG,0.0744047619047619,0.0992063492063492,en,1.2
 LLM,LLM,ORG,0.48611111111111116,0.5208333333333334,en,1.2
 LSE,LSE,ORG,0.0744047619047619,0.0992063492063492,en,1.2
 International Relations,International Relations,ORG,-0.046296296296296294,0.0,en,1.2
-Radio Free Asia,Radio Free Asia,ORG,0.28795770202020204,0.4696969696969698,en,1.2
 EBITDA,EBITDA,ORG,0.0744047619047619,0.0992063492063492,en,1.2
 Taseko Mines Limited,Taseko Mines Limited,ORG,0.0744047619047619,0.0992063492063492,en,1.2
 NDA,NDA,ORG,0.26988636363636365,0.46875,en,1.2
+Radio Free Asia,Radio Free Asia,ORG,0.28795770202020204,0.4696969696969698,en,1.2
 Kia,Kia,ORG,0.4106060606060606,0.3300865800865801,en,1.2
 NYSE American,NYSE American,ORG,0.0744047619047619,0.0992063492063492,en,1.2
 Assam,Assam,ORG,0.11363636363636363,0.3787878787878788,en,1.2
 LIV Golf,LIV Golf,ORG,-0.375,0.36111111111111116,en,1.2
-JDAM,JDAM,ORG,0.14583333333333334,0.8333333333333334,en,1.2
 Times,Times,ORG,0.0,0.0,en,1.2
 Parliament,Parliament,ORG,0.0,0.0,en,1.2
 APC,APC,ORG,0.16666666666666669,0.8333333333333334,en,1.2
 Luxon,Luxon,ORG,0.0,0.8333333333333334,en,1.2
+JDAM,JDAM,ORG,0.14583333333333334,0.8333333333333334,en,1.2
+the Godzilla El Niño,the Godzilla El Niño,ORG,0.27222222222222225,0.0,en,1.0
 Elevra Lithium’s,Elevra Lithium’s,ORG,0.0,0.0,en,1.0
 Elevra or Company,Elevra or Company,ORG,-0.023809523809523808,0.0,en,1.0
 BTE,BTE,ORG,0.024999999999999994,0.0,en,1.0
 Baytex Energy,Baytex Energy,ORG,0.024999999999999994,0.0,en,1.0
 the Pacific Tsunami Warning Center,the Pacific Tsunami Warning Center,ORG,-0.1,0.0,en,1.0
-the Godzilla El Niño,the Godzilla El Niño,ORG,0.27222222222222225,0.0,en,1.0
-Super El Niño 2026,Super El Niño 2026,ORG,0.27222222222222225,0.0,en,1.0
 Bank Holiday,Bank Holiday,ORG,0.0,0.0,en,1.0
+Super El Niño 2026,Super El Niño 2026,ORG,0.27222222222222225,0.0,en,1.0
 Baytex Energy Q1 Earnings Call Highlights,Baytex Energy Q1 Earnings Call Highlights,ORG,0.0,0.0,en,1.0
 healthcare,healthcare,ORG,0.0,0.0,en,1.0
 General Assembly,General Assembly,ORG,0.05000000000000002,0.0,en,1.0
@@ -363,10 +363,10 @@ RTI Act,RTI Act,ORG,0.08333333333333333,0.0,en,1.0
 CSU,CSU,ORG,0.0,0.0,en,1.0
 Belt Publishing: Boston,Belt Publishing: Boston,ORG,0.0,0.0,en,1.0
 30-Years-Family-Owned,30-Years-Family-Owned,ORG,0.0,0.0,en,1.0
-The UK Health Security Agency,The UK Health Security Agency,ORG,0.0,0.0,en,1.0
 The Drover’s,The Drover’s,ORG,0.0,0.0,en,1.0
-sec,sec,ORG,0.0,0.0,en,1.0
+The UK Health Security Agency,The UK Health Security Agency,ORG,0.0,0.0,en,1.0
 Mercedes-Benz 560SL,Mercedes-Benz 560SL,ORG,0.0,0.0,en,1.0
+sec,sec,ORG,0.0,0.0,en,1.0
 Grace Cathedral,Grace Cathedral,ORG,0.0,0.0,en,1.0
 Australian Rules Football,Australian Rules Football,ORG,0.34375,0.0,en,1.0
 CPG,CPG,ORG,0.0,0.0,en,1.0
@@ -376,8 +376,8 @@ Cadbury,Cadbury,ORG,0.0,0.0,en,1.0
 EGU2026 - Five days,EGU2026 - Five days,ORG,0.0,0.0,en,1.0
 FEMA,FEMA,ORG,0.0,0.0,en,1.0
 NORWEGIAN CRUISE LINE,NORWEGIAN CRUISE LINE,ORG,0.43333333333333335,0.0,en,1.0
-Apeiron Labs,Apeiron Labs,ORG,0.5,0.0,en,1.0
 IMFIt,IMFIt,ORG,0.19999999999999998,0.0,en,1.0
+Apeiron Labs,Apeiron Labs,ORG,0.5,0.0,en,1.0
 GRAND,GRAND,ORG,0.43333333333333335,0.0,en,1.0
 NCL,NCL,ORG,0.3888888888888889,0.0,en,1.0
 The New York Rangers,The New York Rangers,ORG,0.06818181818181818,0.0,en,1.0
@@ -489,8 +489,8 @@ Bullitt,Bullitt,ORG,0.0,0.0,en,1.0
 Regal Global Entertainment,Regal Global Entertainment,ORG,0.23666666666666666,0.0,en,1.0
 Patriots 2026,Patriots 2026,ORG,0.0,0.0,en,1.0
 Regal Global Entertainment Builds Strong Momentum,Regal Global Entertainment Builds Strong Momentum,ORG,0.14444444444444443,0.0,en,1.0
-the New England Patriots',the New England Patriots',ORG,-0.13181818181818183,0.0,en,1.0
 New,New,ORG,-0.025568181818181823,0.0,en,1.0
+the New England Patriots',the New England Patriots',ORG,-0.13181818181818183,0.0,en,1.0
 the University of Genoa,the University of Genoa,ORG,0.0,0.0,en,1.0
 InventHelp Inventor Develops Protective Accessory for Cordless Power Tools,InventHelp Inventor Develops Protective Accessory for Cordless Power Tools,ORG,0.0,0.0,en,1.0
 Bacon,Bacon,ORG,-0.025568181818181823,0.0,en,1.0
@@ -879,9 +879,9 @@ Fuller,Fuller,ORG,0.0,0.0,en,1.0
 "Beaton, Larwood","Beaton, Larwood",ORG,0.0,0.0,en,1.0
 Booms & Shakes,Booms & Shakes,ORG,0.0,0.0,en,1.0
 Crypto Briefing,Crypto Briefing,ORG,0.25,0.0,en,1.0
-the San Antonio Spurs,the San Antonio Spurs,ORG,-0.009595959595959616,0.0,en,1.0
-Yokota AB,Yokota AB,ORG,0.0,0.0,en,1.0
 Chilliwack,Chilliwack,ORG,0.0,0.0,en,1.0
+Yokota AB,Yokota AB,ORG,0.0,0.0,en,1.0
+the San Antonio Spurs,the San Antonio Spurs,ORG,-0.009595959595959616,0.0,en,1.0
 friends &,friends &,ORG,0.13333333333333333,0.0,en,1.0
 SpaceX,SpaceX,ORG,0.13333333333333333,0.0,en,1.0
 Elon Musk & SpaceX,Elon Musk & SpaceX,ORG,-0.5,0.0,en,1.0
@@ -1350,8 +1350,8 @@ Ultraefficient,Ultraefficient,ORG,0.5,0.0,en,1.0
 Storm Wipes Out,Storm Wipes Out,ORG,0.0,0.0,en,1.0
 Copper Brown Metallic,Copper Brown Metallic,ORG,0.0,0.0,en,1.0
 Founders,Founders,ORG,0.0,0.0,en,1.0
-KAT6A,KAT6A,ORG,0.0,0.0,en,1.0
 Situating,Situating,ORG,0.0,0.0,en,1.0
+KAT6A,KAT6A,ORG,0.0,0.0,en,1.0
 KFF Health News,KFF Health News,ORG,0.0,0.0,en,1.0
 Planning Commission,Planning Commission,ORG,0.25,0.0,en,1.0
 Idea Exchange,Idea Exchange,ORG,-0.125,0.0,en,1.0
@@ -1442,9 +1442,9 @@ Bitwise,Bitwise,ORG,0.0,0.0,en,1.0
 TCs,TCs,ORG,-0.2,0.0,en,1.0
 Politico University-Rosedale,Politico University-Rosedale,ORG,0.17857142857142858,0.0,en,1.0
 Sigenergy Technology Co.,Sigenergy Technology Co.,ORG,0.0,0.0,en,1.0
+LASV,LASV,ORG,0.08125,0.0,en,1.0
 HLH,HLH,ORG,0.1,0.0,en,1.0
 SFTS,SFTS,ORG,0.1,0.0,en,1.0
-LASV,LASV,ORG,0.08125,0.0,en,1.0
 The Australian Defence Force,The Australian Defence Force,ORG,-0.3333333333333333,0.0,en,1.0
 ADF,ADF,ORG,0.0,0.0,en,1.0
 GardaWorld,GardaWorld,ORG,0.0,0.0,en,1.0
