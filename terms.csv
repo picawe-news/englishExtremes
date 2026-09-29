@@ -25,8 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-08-13T04:26:00+00:00,United Kingdom,0.7669280173433362,1,2,en,NEU,Europe
 '34339a0a68',extremes,Flood,#030ba1,wmo,Flooding Allen IN,2026-09-18T07:34:00+00:00,United States,0.7661464004493385,1,3,en,CNA,North-America
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
-'98b2023d88',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Zimbabwe,2026-09-28T08:54:00+00:00,Zimbabwe,0.7610342818021051,0,1,en,ESAF,Africa
-'0be4651fa9',extremes,Flood,#030ba1,acwe,high water level New South Wales,2026-09-28T08:54:00+00:00,Australia,0.760861700418981,0,1,en,EAU,Oceania
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,warm spell Tasmania,2026-09-28T08:54:00+00:00,Australia,0.7606669521239975,0,1,en,SAU,Oceania
 '20b6055ef8',extremes,Wildfire,#d60d2b,effis,Bushfire Ireland,2026-09-26T07:58:00+00:00,Ireland,0.7590083808415046,0,1,en,NEU,Europe
 'd77f706cf0',extremes,Storm,#b3b2b1,wmo,Storm Gjoa Haven,2026-09-28T08:54:00+00:00,Canada,0.754856661854712,0,1,en,NEN,North-America
@@ -202,7 +200,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1617e554bb',extremes,Storm,#b3b2b1,wmo,Storm Surge Coastal and offshore areas.,2026-09-14T08:04:00+00:00,Belize,0.6684372929539072,1,1,en,SCA,North-America
 '46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,Snow Crown Range Road,2026-08-26T03:34:00+00:00,New Zealand,0.6679206812905077,1,1,en,NZ,Oceania
 '236d7a616f',extremes,Precipitation,#d60d2b,wmo,Precipitation Solomon Islands,2026-08-18T03:24:00+00:00,Solomon Islands,0.6673987924942882,2,2,en,EPO,Oceania
-'44211c95de',extremes,Flood,#030ba1,wmo,Flooding Australia,2026-08-12T04:23:00+00:00,Australia,0.6663653369950423,1,2,en,CAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,Storm Severe wind and rainfall Victoria 2024,2026-08-27T13:01:00+00:00,Australia,0.6656437581752624,1,1,en,SAU,Oceania
 'f90fa202e5',extremes,Precipitation,#d60d2b,wmo,Precipitation The entire country.,2026-09-05T07:05:00+00:00,Botswana,0.664596784607732,1,2,en,WSAF,Africa
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-08-28T14:32:00+00:00,Seychelles,0.6633924989108345,1,1,en,EIO,Africa
@@ -217,6 +214,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da307952db',extremes,Precipitation,#d60d2b,wmo,Downpour Ireland,2026-09-12T07:19:00+00:00,Ireland,0.6615101062545097,1,1,en,NEU,Europe
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,Ice New Zealand,2026-08-15T03:13:00+00:00,New Zealand,0.6612360966448413,1,2,en,NZ,Oceania
 '152914913d',extremes,Heat Wave,#c40202,acwe,heat wave Tasmania,2026-08-23T03:30:00+00:00,Australia,0.6593835764923252,1,1,en,SAU,Oceania
+'0be4651fa9',extremes,Flood,#030ba1,acwe,high water level New South Wales,2026-09-28T08:54:00+00:00,Australia,0.6585076853561338,1,1,en,EAU,Oceania
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-08-30T08:30:00+00:00,New Zealand,0.6584185245708376,1,1,en,NZ,Oceania
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-08-28T14:32:00+00:00,Canada,0.6575783986512229,1,1,en,NEN,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-08-31T08:51:00+00:00,United States,0.657045084796687,1,2,en,CNA,North-America
@@ -233,7 +231,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2026-09-05T07:05:00+00:00,Australia,0.6507035409667472,1,2,en,CAU,Oceania
 'c2ececbbb4',extremes,Drought,#edc291,edo,Dry Spell Belize,2026-09-02T07:17:00+00:00,Belize,0.6506690493640369,1,1,en,SCA,North-America
 '7f706810c1',extremes,Flood,#030ba1,wmo,Flood United Kingdom,2026-09-04T07:23:00+00:00,United Kingdom,0.6500133345117387,1,2,en,NEU,Europe
-'83f66c0c13',extremes,Drought,#edc291,edo,Drought United Kingdom,2026-08-12T04:23:00+00:00,United Kingdom,0.6496268988769323,1,2,en,NEU,Europe
 'cbd214af74',extremes,Drought,#edc291,edo,Dryness Uganda,2026-08-25T03:27:00+00:00,Uganda,0.6494790267510843,1,1,en,SEAF,Africa
 '7e1647f26a',extremes,Flood,#030ba1,wmo,Flood Ganga Kahalgaon Bhagalpur Bihar,2026-09-02T07:16:00+00:00,India,0.6492225447611712,1,1,en,SAS,Asia
 '431910f829',extremes,Flood,#030ba1,wmo,Flooding Wells IN,2026-08-18T03:24:00+00:00,United States,0.6491207775289791,1,2,en,CNA,North-America
@@ -246,6 +243,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78851ec32a',extremes,Precipitation,#d60d2b,meteo,Precipitation Ireland,2026-09-12T07:19:00+00:00,Ireland,0.6477269057996673,1,1,en,NEU,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-08-27T13:00:00+00:00,United States,0.647473293109199,1,2,en,CNA,North-America
 'cb0dc09b04',extremes,Drought,#edc291,edo,Lack of Rain Ireland,2026-08-23T03:30:00+00:00,Ireland,0.6471080901531882,1,2,en,NEU,Europe
+'98b2023d88',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Zimbabwe,2026-09-28T08:54:00+00:00,Zimbabwe,0.6468791395317893,1,1,en,ESAF,Africa
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-08-29T09:19:00+00:00,Kenya,0.6467145345381419,1,1,en,SEAF,Africa
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-08-20T03:26:00+00:00,Uganda,0.6462173609270034,1,1,en,SEAF,Africa
 '90522631da',extremes,Precipitation,#d60d2b,wmo,Precipitation India,2026-09-03T07:20:00+00:00,India,0.6459274408412002,1,2,en,SAS,Asia
