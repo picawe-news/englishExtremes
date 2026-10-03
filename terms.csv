@@ -38,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,Snow New Zealand,2026-09-19T07:30:00+00:00,New Zealand,0.7433793418512221,0,1,en,NZ,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-09-15T07:59:00+00:00,New Zealand,0.739476304302002,0,1,en,NZ,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 '0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,precipitation South Australia,2026-10-02T08:51:00+00:00,Australia,0.7381016006428611,0,1,en,CAU,Oceania
@@ -124,6 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20cd1f89b2',extremes,Heat Wave,#c40202,wmo,Heat Wave Henry Bureau Putnam,2026-09-04T07:23:00+00:00,United States,0.7280602456223824,0,1,en,CNA,North-America
 'ce49293b0b',extremes,Flood,#030ba1,wmo,Flashflood Victoria Avoca River,2026-09-30T08:53:00+00:00,Australia,0.7280482967128113,0,1,en,CAU,Oceania
 '6b5acd7360',extremes,Drought,#edc291,edo,Dry Spell Falkland Islands,2026-09-22T07:54:00+00:00,Falkland Islands,0.7278370856713964,0,1,en,SSA,South-America
+'225e8ff373',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Inland Valleys,2026-10-01T09:18:00+00:00,United States,0.7278273347366752,0,1,en,CNA,North-America
 '62ad6cee29',extremes,Flood,#030ba1,wmo,Flashflood Clay WV Kanawha WV,2026-09-13T07:37:00+00:00,United States,0.7276192063931182,0,1,en,CNA,North-America
 '7a1d28bed6',extremes,Fog,#d60d2b,wmo,Fog Marquette to Munising MI,2026-09-29T08:53:00+00:00,United States,0.727526063125854,0,1,en,CNA,North-America
 '8ec66565d2',extremes,Flood,#030ba1,wmo,Flooding Baker County,2026-09-04T07:23:00+00:00,United States,0.7272540408632082,0,1,en,CNA,North-America
@@ -139,11 +141,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5d35ff5189',extremes,Flood,#030ba1,wmo,Flooding Polk IA,2026-09-09T07:32:00+00:00,United States,0.726648390645574,0,1,en,CNA,North-America
 '386d2eebd7',extremes,Flood,#030ba1,wmo,Flooding Clinton IA Scott IA,2026-09-21T08:09:00+00:00,United States,0.7266260628343976,0,1,en,CNA,North-America
 '79836bd99d',extremes,Flood,#030ba1,wmo,Flood Rio Blanco CO,2026-09-16T07:52:00+00:00,United States,0.7265096572896346,0,1,en,CNA,North-America
+'b267664ec6',extremes,Fog,#d60d2b,wmo,Fog Burke Lee Sumter,2026-10-02T08:51:00+00:00,United States,0.7264537999709767,0,1,en,CNA,North-America
 'f81c28997e',extremes,Storm,#b3b2b1,wmo,Storm Western Australia Eucla Coast,2026-09-09T07:32:00+00:00,Australia,0.7261318026418233,0,1,en,CAU,Oceania
 '376cf72bcf',extremes,Precipitation,#d60d2b,wmo,Rain Lunenburg County,2026-09-14T08:04:00+00:00,Canada,0.7261065583215857,0,1,en,NEN,North-America
 'bdccdbf17e',extremes,Flood,#030ba1,wmo,Flooding Dolores CO,2026-09-19T07:30:00+00:00,United States,0.7259630370263871,0,1,en,CNA,North-America
 '8006472463',extremes,Flood,#030ba1,wmo,Flashflood PunPun Sripalpur Patna Bihar,2026-09-06T07:16:00+00:00,India,0.7256785796403924,0,1,en,SAS,Asia
 '08579e390c',extremes,Earthquake,#870007,usgs,Earthquake Yigo Village,2026-09-20T07:53:00+00:00,Guam,0.725418316232972,0,1,en,NPO,Pacific Ocean
+'8e7e08e80c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Jamaica,2026-10-02T08:51:00+00:00,Jamaica,0.7253453643470332,0,1,en,CAR,North-America
 '4e7faf91d4',extremes,Flood,#030ba1,wmo,Flashflood Carroll MO Chariton MO,2026-09-16T07:52:00+00:00,United States,0.7250555468469245,0,1,en,CNA,North-America
 'e3f478e59c',extremes,Flood,#030ba1,wmo,Flashflood Victoria Ovens and King Rivers,2026-10-01T09:18:00+00:00,Australia,0.7250073739048204,0,1,en,CAU,Oceania
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2026-08-31T08:51:00+00:00,India,0.7249763061178482,0,1,en,SAS,Asia
@@ -165,11 +169,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26b14d04da',extremes,Drought,#edc291,edo,Lack of Rain United Kingdom,2026-09-02T07:17:00+00:00,United Kingdom,0.7241462823048793,0,1,en,NEU,Europe
 '255621cc4c',extremes,Earthquake,#870007,usgs,Earthquake Panguna,2026-09-17T07:56:00+00:00,Papua New Guinea,0.7239564981068018,0,1,en,EPO,Pacific Ocean
 '8150771e7c',extremes,Snow&Ice,#d60d2b,wmo,Frost Baraga Iron Southern Houghton,2026-09-22T07:54:00+00:00,United States,0.7239530217562216,0,1,en,CNA,North-America
+'a40075bdce',extremes,Fog,#d60d2b,wmo,Fog Petersburg Borough,2026-10-02T08:51:00+00:00,United States,0.7237932191134943,0,1,en,CNA,North-America
 'cc1e91400a',extremes,Flood,#030ba1,wmo,Flooding Washington OH,2026-08-17T03:28:00+00:00,United States,0.7236970100530241,1,2,en,CNA,North-America
 '9c6690f157',extremes,Heat Wave,#c40202,wmo,Heat Wave Imperial County Southwest,2026-09-08T07:23:00+00:00,United States,0.7235472021365005,0,1,en,CNA,North-America
 'cbfe8af9df',extremes,Flood,#030ba1,wmo,Flashflood Ghaghra Chhappra Saran Bihar,2026-09-05T07:05:00+00:00,India,0.7234159011584534,0,1,en,SAS,Asia
 'c45708a23a',extremes,Flood,#030ba1,wmo,Flooding Victoria Avon River,2026-09-30T08:53:00+00:00,Australia,0.7232435277297505,0,1,en,CAU,Oceania
 '13b1522378',extremes,Flood,#030ba1,wmo,Flashflood Lee IA Clark MO Scotland MO,2026-09-16T07:52:00+00:00,United States,0.723219693376122,0,1,en,CNA,North-America
+'4ca3b74aa6',extremes,Flood,#030ba1,wmo,Flashflood Llano TX,2026-10-02T08:51:00+00:00,United States,0.7229942622726254,0,1,en,CNA,North-America
 'a13001759a',extremes,Flood,#030ba1,wmo,Flood Two Rivers Fairbanks Metro Area,2026-09-14T08:04:00+00:00,United States,0.7228899967247272,0,1,en,CNA,North-America
 '1646e2bfe8',extremes,Heat Wave,#c40202,wmo,Heat Wave Yuma,2026-09-08T07:23:00+00:00,United States,0.7228886867702711,0,1,en,CNA,North-America
 '8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2026-09-09T07:32:00+00:00,Fiji,0.7228175070892939,0,1,en,SPO,Pacific Ocean
