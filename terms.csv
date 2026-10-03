@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '37d08d7316',extremes,Precipitation,#d60d2b,acwe,wet spell South Australia,2026-09-30T08:54:00+00:00,Australia,0.7785584523169254,1,2,en,SAU,Oceania
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,storm Australia,2026-09-17T07:56:00+00:00,Australia,0.777806224164414,0,1,en,SAU,Oceania
 'a015e9081f',extremes,Drought,#edc291,edo,Dryness United Kingdom,2026-08-14T04:24:00+00:00,United Kingdom,0.7776985448351724,1,2,en,NEU,Europe
-'5b6e7863c8',extremes,Flood,#030ba1,acwe,high water level Victoria,2026-10-03T08:28:00+00:00,Australia,0.777493922201757,0,1,en,SAU,Oceania
 '9b18fbff36',extremes,Flood,#030ba1,wmo,Flood Ganga Munger Munger Bihar,2026-09-05T07:05:00+00:00,India,0.7769025593284585,1,2,en,SAS,Asia
 '93bfbcf0c3',extremes,Flood,#030ba1,wmo,Flood Delaware IN Madison IN,2026-08-14T04:24:00+00:00,United States,0.7765619062936975,1,2,en,CNA,North-America
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-09-18T07:34:00+00:00,Australia,0.7763498529009148,1,3,en,SAU,Oceania
@@ -225,6 +224,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f4bbe1e4f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Zimbabwe,2026-10-01T09:18:00+00:00,Zimbabwe,0.6728731869595269,1,1,en,ESAF,Africa
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,Hail Canada,2026-08-21T03:30:00+00:00,Canada,0.672391005991516,1,2,en,NEN,North-America
 'baf5f94907',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island East,2026-08-15T03:13:00+00:00,United States,0.670797878533978,2,3,en,CNA,North-America
+'5b6e7863c8',extremes,Flood,#030ba1,acwe,high water level Victoria,2026-10-03T08:28:00+00:00,Australia,0.6703702838714933,1,2,en,SAU,Oceania
 '7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,Wildfire Ireland,2026-09-26T07:58:00+00:00,Ireland,0.6685064103918334,1,1,en,NEU,Europe
 '1617e554bb',extremes,Storm,#b3b2b1,wmo,Storm Surge Coastal and offshore areas.,2026-09-14T08:04:00+00:00,Belize,0.6684372929539072,1,1,en,SCA,North-America
 '46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,Snow Crown Range Road,2026-08-26T03:34:00+00:00,New Zealand,0.6679206812905077,1,1,en,NZ,Oceania
