@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood Australia,2026-09-18T07:34:00+00:00,Australia,0.7763498529009148,1,3,en,SAU,Oceania
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,Rain Belize,2026-09-24T07:46:00+00:00,Belize,0.7752011524595456,1,2,en,SCA,North-America
 '99549776e6',extremes,Drought,#edc291,edo,Drought Papua New Guinea,2026-09-01T07:58:00+00:00,Papua New Guinea,0.7749653223768995,1,2,en,EPO,Pacific Ocean
-'60a34b83b0',extremes,Flood,#030ba1,acwe,flooding South Australia,2026-09-28T08:54:00+00:00,Australia,0.7692303239964972,0,1,en,SAU,Oceania
 'a95c685c3e',extremes,Wildfire,#d60d2b,acwe,wildfire New South Wales,2026-09-28T08:54:00+00:00,Australia,0.7683944053379504,1,2,en,EAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-09-29T08:53:00+00:00,Australia,0.7669738285340103,1,3,en,EAU,Oceania
 '34339a0a68',extremes,Flood,#030ba1,wmo,Flooding Allen IN,2026-09-18T07:34:00+00:00,United States,0.7661464004493385,1,3,en,CNA,North-America
@@ -204,6 +203,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56898792ff',extremes,Precipitation,#d60d2b,acwe,heavy rain Tasmania,2026-08-22T03:22:00+00:00,Australia,0.700830236263484,1,1,en,SAU,Oceania
 '7b9635c66a',extremes,Thunderstorm,#53785a,wmo,Hail Nigeria,2026-08-27T13:00:00+00:00,Nigeria,0.7002637767472527,1,1,en,WAF,Africa
 '89b6ac7d7c',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Big Island North,2026-09-26T07:58:00+00:00,United States,0.6998714955372981,1,2,en,CNA,North-America
+'60a34b83b0',extremes,Flood,#030ba1,acwe,flooding South Australia,2026-09-28T08:54:00+00:00,Australia,0.6997056763061135,1,2,en,SAU,Oceania
 '0416619559',extremes,Flood,#030ba1,acwe,flooding Western Australia,2026-09-02T07:17:00+00:00,Australia,0.6981487136141329,1,2,en,CAU,Oceania
 'd2793b8bae',extremes,Drought,#edc291,edo,Drought South Sudan,2026-09-03T07:20:00+00:00,South Sudan,0.6968097127396177,1,1,en,NEAF,Africa
 '90f07d6c4e',extremes,Flood,#030ba1,wmo,Flood PunPun Sripalpur Patna Bihar,2026-09-01T07:58:00+00:00,India,0.6941947564041342,1,1,en,SAS,Asia
