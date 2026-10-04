@@ -178,6 +178,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1646e2bfe8',extremes,Heat Wave,#c40202,wmo,Heat Wave Yuma,2026-09-08T07:23:00+00:00,United States,0.7228886867702711,0,1,en,CNA,North-America
 '8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2026-09-09T07:32:00+00:00,Fiji,0.7228175070892939,0,1,en,SPO,Pacific Ocean
 'f3691c259d',extremes,Flood,#030ba1,wmo,Flood La Salle IL,2026-09-21T08:09:00+00:00,United States,0.722816734215458,0,1,en,CNA,North-America
+'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,Snow Dempster,2026-10-04T08:41:00+00:00,Canada,0.7225765198365613,0,1,en,NEN,North-America
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,Storm Adak to Kiska Bering Side,2026-09-16T07:52:00+00:00,United States,0.7225323722255469,0,1,en,CNA,North-America
 'c6fc7b5440',extremes,Snow&Ice,#d60d2b,wmo,Frost Ashland Iron,2026-10-03T08:28:00+00:00,United States,0.7224790595736401,0,1,en,CNA,North-America
 'bb9ef5ae52',extremes,Flood,#030ba1,wmo,Flood Marshall KS,2026-10-01T09:18:00+00:00,United States,0.722461707443651,0,1,en,CNA,North-America
@@ -185,14 +186,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '381308205e',extremes,Flood,#030ba1,wmo,Flooding Jackson IA,2026-09-20T07:53:00+00:00,United States,0.7223039879233362,0,1,en,CNA,North-America
 '9076dec423',extremes,Flood,#030ba1,wmo,Flooding Lake IL,2026-10-01T09:18:00+00:00,United States,0.7220831350817407,0,1,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
+'2387893afd',extremes,Flood,#030ba1,wmo,Flood Gage NE,2026-10-02T08:51:00+00:00,United States,0.7216100612223577,0,1,en,CNA,North-America
 '11f167424d',extremes,Flood,#030ba1,wmo,Flooding Adams IL Lewis MO,2026-09-21T08:09:00+00:00,United States,0.7214615825713014,0,1,en,CNA,North-America
+'9af7333639',extremes,Fog,#d60d2b,wmo,Fog Taylor Clark,2026-10-01T09:18:00+00:00,United States,0.7213564376455837,0,1,en,CNA,North-America
 'ec097c18fb',extremes,Flood,#030ba1,wmo,Flashflood Gallia OH Mason WV,2026-09-13T07:37:00+00:00,United States,0.721352447531403,0,1,en,CNA,North-America
+'c62d887c53',extremes,Fog,#d60d2b,wmo,Fog Marathon Schreiber,2026-10-01T09:18:00+00:00,Canada,0.7213073260051903,0,1,en,NEN,North-America
 'dd47a7acb8',extremes,Flood,#030ba1,wmo,Flooding Ganga Bhagalpur Bhagalpur Bihar,2026-09-15T07:59:00+00:00,India,0.7211711758370868,0,1,en,SAS,Asia
 '4aada2ec79',extremes,Precipitation,#d60d2b,meteo,Rain United Kingdom,2026-09-26T07:58:00+00:00,United Kingdom,0.721157926454046,0,1,en,NEU,Europe
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-08-27T13:01:00+00:00,Australia,0.7208311894895083,1,2,en,SAU,Oceania
+'9079585b41',extremes,Fog,#d60d2b,wmo,Fog Jenkins Screven Candler Bulloch,2026-10-02T08:51:00+00:00,United States,0.7207589469771589,0,1,en,CNA,North-America
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-09-17T07:56:00+00:00,United States,0.7205163685859483,0,1,en,CNA,North-America
 '37a3ba3d5f',extremes,Flood,#030ba1,wmo,Flooding Bristol MA Plymouth MA,2026-09-28T08:54:00+00:00,United States,0.7204544698010333,0,1,en,CNA,North-America
 'ec98366bcb',extremes,Flood,#030ba1,aidr,Flood south eastern Australia 2016,2026-09-27T08:29:00+00:00,Australia,0.7204488504886309,0,1,en,SAU,Oceania
+'bf140a8e96',extremes,Flood,#030ba1,wmo,Flooding Victoria Ovens and King Rivers,2026-10-02T08:51:00+00:00,Australia,0.7204431863030477,0,1,en,CAU,Oceania
 '2a78b92075',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Uranium City Camsell Portage,2026-09-26T07:58:00+00:00,Canada,0.7201047608272587,0,1,en,NEN,North-America
 '94485cfb64',extremes,Flood,#030ba1,wmo,Flood Victoria Traralgon Creek,2026-09-30T08:53:00+00:00,Australia,0.7200514055722188,0,1,en,CAU,Oceania
 '1653242ea9',extremes,Snow&Ice,#d60d2b,wmo,Frost Crown Range Road,2026-09-19T07:30:00+00:00,New Zealand,0.7199723794289248,0,1,en,NZ,Oceania
