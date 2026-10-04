@@ -36,11 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,Snow New Zealand,2026-09-19T07:30:00+00:00,New Zealand,0.7433793418512221,0,1,en,NZ,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
-'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,Frost Milford Road SH94,2026-09-26T07:58:00+00:00,New Zealand,0.7385645366757252,0,1,en,NZ,Oceania
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
-'a4e41d3dc6',extremes,Snow&Ice,#d60d2b,wmo,Snow Naujaat,2026-09-28T08:54:00+00:00,Canada,0.7379214084395871,0,1,en,NEN,North-America
-'26862b1b5f',extremes,Drought,#edc291,edo,Drought Dominica,2026-10-02T08:51:00+00:00,Dominica,0.7376779065525344,0,1,en,CAR,North-America
-'8dc9f63ca6',extremes,Precipitation,#d60d2b,wmo,Precipitation Zimbabwe,2026-09-30T08:53:00+00:00,Zimbabwe,0.7373220519442222,0,1,en,ESAF,Africa
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-09-25T08:06:00+00:00,Australia,0.7372404980756423,0,1,en,CAU,Oceania
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
 'e703d6d961',extremes,Tsunami,#690191,usgs,Tsunami Port McNeill,2026-09-29T08:53:00+00:00,Canada,0.7351197502917309,0,1,en,NPO,Pacific Ocean
@@ -381,14 +377,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2026-09-17T07:56:00+00:00,Saint Helena,0.6279966668540217,1,1,en,EAO,Atlantic Ocean
 '1f3b00bc47',extremes,Flood,#030ba1,wmo,Flashflood Clinton PA Lycoming PA,2026-09-03T07:20:00+00:00,United States,0.6278540286934662,1,1,en,CNA,North-America
 'ecafa59592',extremes,Flood,#030ba1,wmo,Flood Victoria Kiewa River,2026-09-03T07:20:00+00:00,Australia,0.6278432028093556,1,1,en,CAU,Oceania
+'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,Frost Milford Road SH94,2026-09-26T07:58:00+00:00,New Zealand,0.6277798561743664,1,1,en,NZ,Oceania
 'c71c86364e',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Mersey River,2026-09-05T07:05:00+00:00,Australia,0.6277486786340786,1,1,en,CAU,Oceania
 '421b67f892',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Kauai Mountains,2026-09-07T07:29:00+00:00,United States,0.6276876516171195,1,1,en,CNA,North-America
 '9c82155ed9',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon West Cameron,2026-09-01T07:58:00+00:00,United States,0.6276371871673725,1,1,en,CNA,North-America
 'f527a6c27d',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kauai Southwest,2026-09-07T07:29:00+00:00,United States,0.6274761434023113,1,1,en,CNA,North-America
 '577a43566a',extremes,Precipitation,#d60d2b,wmo,Downpour Belize,2026-09-13T07:37:00+00:00,Belize,0.6274386753152327,1,1,en,SCA,North-America
+'a4e41d3dc6',extremes,Snow&Ice,#d60d2b,wmo,Snow Naujaat,2026-09-28T08:54:00+00:00,Canada,0.627233197173649,1,1,en,NEN,North-America
 'e0ee13f0a6',extremes,Storm,#b3b2b1,wmo,Storm Kachemak Bay,2026-08-27T13:00:00+00:00,United States,0.6270351854246022,1,1,en,CNA,North-America
+'26862b1b5f',extremes,Drought,#edc291,edo,Drought Dominica,2026-10-02T08:51:00+00:00,Dominica,0.6270262205696542,1,1,en,CAR,North-America
 '381ceff412',extremes,Earthquake,#870007,usgs,Earthquake Kimbe,2026-08-26T03:33:00+00:00,Papua New Guinea,0.6269828445401215,1,1,en,EPO,Pacific Ocean
 '0d0b4f15b5',extremes,Snow&Ice,#d60d2b,wmo,Freezing Gatineau,2026-09-22T07:54:00+00:00,Canada,0.6269421637282452,1,1,en,NEN,North-America
+'8dc9f63ca6',extremes,Precipitation,#d60d2b,wmo,Precipitation Zimbabwe,2026-09-30T08:53:00+00:00,Zimbabwe,0.6268737591525888,1,1,en,ESAF,Africa
 '3108c07f63',extremes,Flood,#030ba1,wmo,Flashflood Polk TX,2026-09-02T07:16:00+00:00,United States,0.6266941288274415,1,1,en,CNA,North-America
 '02990345f3',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Macquarie River,2026-09-03T07:20:00+00:00,Australia,0.6266812067673476,1,1,en,CAU,Oceania
 'f471382829',extremes,Heat Wave,#c40202,wmo,Heat Wave Santa Ana Mountains and Foothills,2026-08-25T03:27:00+00:00,United States,0.6265846282627705,1,1,en,CNA,North-America
