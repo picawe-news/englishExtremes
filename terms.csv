@@ -38,13 +38,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-09-25T08:06:00+00:00,Australia,0.7372404980756423,0,1,en,CAU,Oceania
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
-'bcb04bebe0',extremes,Snow&Ice,#d60d2b,wmo,Ice Manitoulin Island,2026-10-06T09:14:00+00:00,Canada,0.736454797216142,0,1,en,NEN,North-America
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-08-12T04:23:00+00:00,United States,0.7334786716294248,1,3,en,CNA,North-America
-'f122e62562',extremes,Flood,#030ba1,wmo,Flashflood Cape May NJ Cumberland NJ,2026-09-05T07:05:00+00:00,United States,0.7333093131176007,0,1,en,CNA,North-America
-'68f369c7b9',extremes,Flood,#030ba1,wmo,Flood Hardin TX Liberty TX Polk TX,2026-09-04T07:23:00+00:00,United States,0.7332985258619934,0,1,en,CNA,North-America
-'d5269b499c',extremes,Flood,#030ba1,wmo,Flood Houston TX Trinity TX,2026-09-03T07:20:00+00:00,United States,0.7331198477054424,0,1,en,CNA,North-America
-'e6d71be0be',extremes,Flood,#030ba1,wmo,Flood Allen IN,2026-09-20T07:53:00+00:00,United States,0.732966262829347,0,1,en,CNA,North-America
 '846fa8fe30',extremes,Storm,#b3b2b1,wmo,Storm Surge Îles de la Madeleine,2026-10-05T09:29:00+00:00,Canada,0.7329512426729929,0,1,en,NEN,North-America
 '812745586a',extremes,Flood,#030ba1,wmo,Flashflood Hardin TX,2026-09-03T07:20:00+00:00,United States,0.7329377190389629,0,1,en,CNA,North-America
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-09-30T08:53:00+00:00,Australia,0.7329084216174436,0,1,en,CAU,Oceania
@@ -242,6 +237,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46b68c9c05',extremes,Snow&Ice,#d60d2b,wmo,Snow Crown Range Road,2026-08-26T03:34:00+00:00,New Zealand,0.6679206812905077,1,1,en,NZ,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,Storm Severe wind and rainfall Victoria 2024,2026-08-27T13:01:00+00:00,Australia,0.6656437581752624,1,1,en,SAU,Oceania
 'f90fa202e5',extremes,Precipitation,#d60d2b,wmo,Precipitation The entire country.,2026-09-05T07:05:00+00:00,Botswana,0.664596784607732,1,2,en,WSAF,Africa
+'e6d71be0be',extremes,Flood,#030ba1,wmo,Flood Allen IN,2026-09-20T07:53:00+00:00,United States,0.6643356647685812,1,2,en,CNA,North-America
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-08-28T14:32:00+00:00,Seychelles,0.6633924989108345,1,1,en,EIO,Africa
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,wet spell Western Australia,2026-08-31T08:51:00+00:00,Australia,0.6631360639066369,1,1,en,CAU,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-09-12T07:19:00+00:00,Canada,0.6629128629037135,1,1,en,NEN,North-America
@@ -398,6 +394,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-08-27T13:00:00+00:00,Papua New Guinea,0.6261717444983674,1,1,en,EPO,Oceania
 '7aa008bd6e',extremes,Flood,#030ba1,wmo,Flashflood Sone Maner Patna Bihar,2026-08-27T13:00:00+00:00,India,0.6260614236475636,1,1,en,SAS,Asia
 '08d0677c37',extremes,Flood,#030ba1,wmo,Flood Victoria Ovens and King Rivers,2026-09-04T07:23:00+00:00,Australia,0.6260281383422448,1,1,en,CAU,Oceania
+'bcb04bebe0',extremes,Snow&Ice,#d60d2b,wmo,Ice Manitoulin Island,2026-10-06T09:14:00+00:00,Canada,0.6259865776337207,1,1,en,NEN,North-America
 'd6f4b99127',extremes,Flood,#030ba1,wmo,Flooding Atchison KS Leavenworth KS,2026-09-17T07:56:00+00:00,United States,0.6258999905356992,1,1,en,CNA,North-America
 '45bd8d6aca',extremes,Flood,#030ba1,wmo,Flood Victoria Loddon River,2026-09-03T07:20:00+00:00,Australia,0.625736896567726,1,1,en,CAU,Oceania
 'c827e93f10',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Big Island Windward Waters,2026-09-24T07:46:00+00:00,United States,0.6257125488725905,1,1,en,CNA,North-America
@@ -432,3 +429,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbff27e12c',extremes,Storm,#b3b2b1,wmo,Storm Lake Winnipeg Southern Shores.,2026-09-15T07:59:00+00:00,Canada,0.623678905891145,1,1,en,NEN,North-America
 '14a65bf19e',extremes,Flood,#030ba1,wmo,Flooding Adams IN Allen IN Van Wert OH,2026-09-18T07:34:00+00:00,United States,0.6234198429263779,1,1,en,CNA,North-America
 '79af82d909',extremes,Flood,#030ba1,wmo,Flooding Hillsborough FL,2026-09-10T07:28:00+00:00,United States,0.6234066371183101,1,1,en,CNA,North-America
+'f122e62562',extremes,Flood,#030ba1,wmo,Flashflood Cape May NJ Cumberland NJ,2026-09-05T07:05:00+00:00,United States,0.6233129161499606,1,1,en,CNA,North-America
+'68f369c7b9',extremes,Flood,#030ba1,wmo,Flood Hardin TX Liberty TX Polk TX,2026-09-04T07:23:00+00:00,United States,0.6233037469826944,1,1,en,CNA,North-America
+'d5269b499c',extremes,Flood,#030ba1,wmo,Flood Houston TX Trinity TX,2026-09-03T07:20:00+00:00,United States,0.623151870549626,1,1,en,CNA,North-America
