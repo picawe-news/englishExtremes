@@ -35,9 +35,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
 '384838564d',extremes,Snow&Ice,#d60d2b,wmo,Ice Crown Range Road,2026-09-22T07:54:00+00:00,New Zealand,0.7389755789463729,0,1,en,NZ,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
+'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-10-06T09:14:00+00:00,Australia,0.7388027820483598,0,1,en,CAU,Oceania
 'b2beae5f3d',extremes,Flood,#030ba1,wmo,Flooding Hamilton IN Marion IN,2026-08-18T03:24:00+00:00,United States,0.7381420153622461,1,2,en,CNA,North-America
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-09-25T08:06:00+00:00,Australia,0.7372404980756423,0,1,en,CAU,Oceania
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
+'bcb04bebe0',extremes,Snow&Ice,#d60d2b,wmo,Ice Manitoulin Island,2026-10-06T09:14:00+00:00,Canada,0.736454797216142,0,1,en,NEN,North-America
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-08-12T04:23:00+00:00,United States,0.7334786716294248,1,3,en,CNA,North-America
 'f122e62562',extremes,Flood,#030ba1,wmo,Flashflood Cape May NJ Cumberland NJ,2026-09-05T07:05:00+00:00,United States,0.7333093131176007,0,1,en,CNA,North-America
@@ -77,6 +79,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ede3b1c93',extremes,Heat Wave,#c40202,wmo,Heat Wave Orange County Coastal,2026-10-01T09:18:00+00:00,United States,0.7310241470822519,0,1,en,CNA,North-America
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,Earthquake Gizo,2026-09-01T07:57:00+00:00,Solomon Islands,0.7310001396063944,0,1,en,EPO,Pacific Ocean
 'f708ddc866',extremes,Flood,#030ba1,wmo,Flashflood Anson,2026-08-22T03:22:00+00:00,United States,0.730984289413011,0,1,en,CNA,North-America
+'f471382829',extremes,Heat Wave,#c40202,wmo,Heat Wave Santa Ana Mountains and Foothills,2026-10-01T09:18:00+00:00,United States,0.730893255336792,0,1,en,CNA,North-America
 '8fa84157eb',extremes,Flood,#030ba1,wmo,Flood Kosi Kursela Katihar Bihar,2026-08-31T08:51:00+00:00,India,0.7308077184606284,0,1,en,SAS,Asia
 'aafd8ebea1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Big Island Summit,2026-09-24T07:46:00+00:00,United States,0.7306634871486296,0,1,en,CNA,North-America
 '34855192b0',extremes,Flood,#030ba1,wmo,Flooding Ghaghra Darauli Siwan Bihar,2026-08-28T14:32:00+00:00,India,0.7305376559128178,0,1,en,SAS,Asia
@@ -91,6 +94,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4071c5fb5',extremes,Earthquake,#870007,usgs,Earthquake Port McNeill,2026-09-28T08:53:00+00:00,Canada,0.7299387405292402,0,1,en,NWN,North-America
 '33c50fa0d2',extremes,Drought,#edc291,edo,Dry Spell Fiji,2026-09-05T07:05:00+00:00,Fiji,0.7298887582699171,0,1,en,,
 'a380e33a02',extremes,Precipitation,#d60d2b,wmo,Downpour The Tararua Range,2026-09-25T08:06:00+00:00,New Zealand,0.729807116374585,0,1,en,NZ,Oceania
+'bdc9e0789f',extremes,Storm,#b3b2b1,wmo,Storm Bay St. George,2026-10-05T09:29:00+00:00,Canada,0.7297356927880804,0,1,en,NEN,North-America
 '4909521a26',extremes,Flood,#030ba1,wmo,Flooding Ganga Buxar Buxar Bihar,2026-09-05T07:05:00+00:00,India,0.7296891426135979,0,1,en,SAS,Asia
 'abb0eecfe2',extremes,Flood,#030ba1,wmo,Flashflood Polk TX San Jacinto TX,2026-09-03T07:20:00+00:00,United States,0.7296144639999949,0,1,en,CNA,North-America
 'a81eb0fdde',extremes,Flood,#030ba1,wmo,Flood Ghaghra Darauli Siwan Bihar,2026-09-07T07:29:00+00:00,India,0.7296118127428798,0,1,en,SAS,Asia
@@ -100,9 +104,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc6467e680',extremes,Flood,#030ba1,wmo,Flashflood Ghaghra Darauli Siwan Bihar,2026-08-27T13:00:00+00:00,India,0.729181566359987,0,1,en,SAS,Asia
 '4e69fb62e2',extremes,Precipitation,#d60d2b,wmo,Downpour Buller,2026-09-26T07:58:00+00:00,New Zealand,0.7291444186717823,0,1,en,NZ,Oceania
 'bc425ed68d',extremes,Storm,#b3b2b1,wmo,Storm South Australia Spencer Gulf,2026-08-25T03:27:00+00:00,Australia,0.7291404077282416,0,1,en,CAU,Oceania
+'1235b2102d',extremes,Fog,#d60d2b,wmo,Fog Columbia River Bar,2026-10-05T09:29:00+00:00,United States,0.7290731268230398,0,1,en,CNA,North-America
 '73bf613080',extremes,Flood,#030ba1,wmo,Flood Kosi Baltara Khagaria Bihar,2026-09-03T07:20:00+00:00,India,0.7290616971797985,0,1,en,SAS,Asia
 'c552693aa1',extremes,Flood,#030ba1,wmo,Flood Dixie FL Taylor FL,2026-08-28T14:32:00+00:00,United States,0.7289527990064095,0,1,en,CNA,North-America
 '55a22f1ed9',extremes,Earthquake,#870007,usgs,Earthquake Kainantu,2026-09-21T08:08:00+00:00,Papua New Guinea,0.7288525001392293,0,1,en,SEA,Oceania
+'63d67b0640',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Coastal Areas,2026-10-03T08:28:00+00:00,United States,0.7288512566242769,0,1,en,CNA,North-America
 '162d98d01a',extremes,Flood,#030ba1,wmo,Flashflood Morgan OH Perry OH,2026-09-10T07:28:00+00:00,United States,0.7287656098434617,0,1,en,CNA,North-America
 '6f64e24418',extremes,Flood,#030ba1,wmo,Flooding Clinton OH Warren OH,2026-09-20T07:53:00+00:00,United States,0.7286498408778388,0,1,en,CNA,North-America
 '136c5b71eb',extremes,Flood,#030ba1,wmo,Flooding Kosi Baltara Khagaria Bihar,2026-08-29T09:18:00+00:00,India,0.7286173750406024,0,1,en,SAS,Asia
