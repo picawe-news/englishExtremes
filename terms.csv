@@ -71,6 +71,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f471382829',extremes,Heat Wave,#c40202,wmo,Heat Wave Santa Ana Mountains and Foothills,2026-10-01T09:18:00+00:00,United States,0.730893255336792,0,1,en,CNA,North-America
 '8fa84157eb',extremes,Flood,#030ba1,wmo,Flood Kosi Kursela Katihar Bihar,2026-08-31T08:51:00+00:00,India,0.7308077184606284,0,1,en,SAS,Asia
 'aafd8ebea1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Big Island Summit,2026-09-24T07:46:00+00:00,United States,0.7306634871486296,0,1,en,CNA,North-America
+'0d8bab83be',extremes,Drought,#edc291,edo,Lack of Rain Fiji,2026-09-20T07:53:00+00:00,Fiji,0.730545199488315,0,1,en,,
 '34855192b0',extremes,Flood,#030ba1,wmo,Flooding Ghaghra Darauli Siwan Bihar,2026-08-28T14:32:00+00:00,India,0.7305376559128178,0,1,en,SAS,Asia
 '0fbfeb6f6d',extremes,Earthquake,#870007,usgs,Earthquake Merizo Village,2026-09-13T07:37:00+00:00,Guam,0.730454524463309,0,1,en,NPO,Pacific Ocean
 'd1a294ec0a',extremes,Drought,#edc291,edo,Drought Guyana,2026-09-26T07:58:00+00:00,Guyana,0.7304252429314676,0,1,en,NSA,South-America
@@ -129,6 +130,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b267664ec6',extremes,Fog,#d60d2b,wmo,Fog Burke Lee Sumter,2026-10-02T08:51:00+00:00,United States,0.7264537999709767,0,1,en,CNA,North-America
 'f81c28997e',extremes,Storm,#b3b2b1,wmo,Storm Western Australia Eucla Coast,2026-09-09T07:32:00+00:00,Australia,0.7261318026418233,0,1,en,CAU,Oceania
 '376cf72bcf',extremes,Precipitation,#d60d2b,wmo,Rain Lunenburg County,2026-09-14T08:04:00+00:00,Canada,0.7261065583215857,0,1,en,NEN,North-America
+'381ceff412',extremes,Earthquake,#870007,usgs,Earthquake Kimbe,2026-09-19T07:30:00+00:00,Papua New Guinea,0.7259959353173806,0,1,en,EPO,Pacific Ocean
 'bdccdbf17e',extremes,Flood,#030ba1,wmo,Flooding Dolores CO,2026-09-19T07:30:00+00:00,United States,0.7259630370263871,0,1,en,CNA,North-America
 '8006472463',extremes,Flood,#030ba1,wmo,Flashflood PunPun Sripalpur Patna Bihar,2026-09-06T07:16:00+00:00,India,0.7256785796403924,0,1,en,SAS,Asia
 '08579e390c',extremes,Earthquake,#870007,usgs,Earthquake Yigo Village,2026-09-20T07:53:00+00:00,Guam,0.725418316232972,0,1,en,NPO,Pacific Ocean
@@ -136,6 +138,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4e7faf91d4',extremes,Flood,#030ba1,wmo,Flashflood Carroll MO Chariton MO,2026-09-16T07:52:00+00:00,United States,0.7250555468469245,0,1,en,CNA,North-America
 'e3f478e59c',extremes,Flood,#030ba1,wmo,Flashflood Victoria Ovens and King Rivers,2026-10-01T09:18:00+00:00,Australia,0.7250073739048204,0,1,en,CAU,Oceania
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2026-08-31T08:51:00+00:00,India,0.7249763061178482,0,1,en,SAS,Asia
+'f9353da6b5',extremes,Flood,#030ba1,wmo,Flood Carroll MO Chariton MO,2026-10-05T09:29:00+00:00,United States,0.7249351423143999,0,1,en,CNA,North-America
 '4fc6c13608',extremes,Flood,#030ba1,wmo,Flood isolated places,2026-09-02T07:16:00+00:00,India,0.7249325031867607,0,1,en,SAS,Asia
 '455ffb5850',extremes,Flood,#030ba1,wmo,Flashflood Polk IA,2026-09-16T07:52:00+00:00,United States,0.7248628253030394,0,1,en,CNA,North-America
 'efc5bd1297',extremes,Flood,#030ba1,wmo,Flooding Coconino AZ,2026-09-14T08:04:00+00:00,United States,0.7248600763389748,0,1,en,CNA,North-America
@@ -160,6 +163,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cbfe8af9df',extremes,Flood,#030ba1,wmo,Flashflood Ghaghra Chhappra Saran Bihar,2026-09-05T07:05:00+00:00,India,0.7234159011584534,0,1,en,SAS,Asia
 'c45708a23a',extremes,Flood,#030ba1,wmo,Flooding Victoria Avon River,2026-09-30T08:53:00+00:00,Australia,0.7232435277297505,0,1,en,CAU,Oceania
 '13b1522378',extremes,Flood,#030ba1,wmo,Flashflood Lee IA Clark MO Scotland MO,2026-09-16T07:52:00+00:00,United States,0.723219693376122,0,1,en,CNA,North-America
+'fbc9f3fe89',extremes,Flood,#030ba1,wmo,Flashflood Louisa IA,2026-09-22T07:54:00+00:00,United States,0.7232175289578925,0,1,en,CNA,North-America
 '4ca3b74aa6',extremes,Flood,#030ba1,wmo,Flashflood Llano TX,2026-10-02T08:51:00+00:00,United States,0.7229942622726254,0,1,en,CNA,North-America
 'a13001759a',extremes,Flood,#030ba1,wmo,Flood Two Rivers Fairbanks Metro Area,2026-09-14T08:04:00+00:00,United States,0.7228899967247272,0,1,en,CNA,North-America
 '1646e2bfe8',extremes,Heat Wave,#c40202,wmo,Heat Wave Yuma,2026-09-08T07:23:00+00:00,United States,0.7228886867702711,0,1,en,CNA,North-America
@@ -173,8 +177,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '381308205e',extremes,Flood,#030ba1,wmo,Flooding Jackson IA,2026-09-20T07:53:00+00:00,United States,0.7223039879233362,0,1,en,CNA,North-America
 '9076dec423',extremes,Flood,#030ba1,wmo,Flooding Lake IL,2026-10-01T09:18:00+00:00,United States,0.7220831350817407,0,1,en,CNA,North-America
 'b18ef8fc73',extremes,Flood,#030ba1,acwe,flooding Northern Territory,2026-08-23T03:30:00+00:00,Australia,0.7220342669345517,1,2,en,NAU,Oceania
+'c78132321f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ashland Iron,2026-10-05T09:29:00+00:00,United States,0.7218777227385864,0,1,en,CNA,North-America
 '2387893afd',extremes,Flood,#030ba1,wmo,Flood Gage NE,2026-10-02T08:51:00+00:00,United States,0.7216100612223577,0,1,en,CNA,North-America
 '11f167424d',extremes,Flood,#030ba1,wmo,Flooding Adams IL Lewis MO,2026-09-21T08:09:00+00:00,United States,0.7214615825713014,0,1,en,CNA,North-America
+'96364cecb2',extremes,Flood,#030ba1,wmo,Flooding Louisa IA Muscatine IA,2026-09-24T07:46:00+00:00,United States,0.721460790090819,0,1,en,CNA,North-America
 '9af7333639',extremes,Fog,#d60d2b,wmo,Fog Taylor Clark,2026-10-01T09:18:00+00:00,United States,0.7213564376455837,0,1,en,CNA,North-America
 'ec097c18fb',extremes,Flood,#030ba1,wmo,Flashflood Gallia OH Mason WV,2026-09-13T07:37:00+00:00,United States,0.721352447531403,0,1,en,CNA,North-America
 'c62d887c53',extremes,Fog,#d60d2b,wmo,Fog Marathon Schreiber,2026-10-01T09:18:00+00:00,Canada,0.7213073260051903,0,1,en,NEN,North-America
