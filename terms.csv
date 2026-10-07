@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-09-07T07:29:00+00:00,Jamaica,0.7923382142244257,1,2,en,CAR,North-America
 'b3e00f492f',extremes,Drought,#edc291,edo,Drought Belize,2026-08-30T08:30:00+00:00,Belize,0.790344953382393,1,2,en,SCA,North-America
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-08-19T03:26:00+00:00,Canada,0.7879353847258307,1,3,en,NEN,North-America
-'b365e828af',extremes,Flood,#030ba1,wmo,Flood Howard IN,2026-08-14T04:24:00+00:00,United States,0.7870547447208524,2,3,en,CNA,North-America
 'f1966df415',extremes,Thunderstorm,#53785a,wmo,Hail Australia,2026-08-31T08:51:00+00:00,Australia,0.7868330945593792,1,3,en,CAU,Oceania
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-09-08T07:23:00+00:00,Canada,0.7845450427598992,1,3,en,NEN,North-America
 '354110e18f',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom,2026-09-26T07:58:00+00:00,United Kingdom,0.7830012612598772,1,2,en,NEU,Europe
@@ -26,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 '20b6055ef8',extremes,Wildfire,#d60d2b,effis,Bushfire Ireland,2026-09-26T07:58:00+00:00,Ireland,0.7590083808415046,0,1,en,NEU,Europe
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
-'615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-08-12T04:23:00+00:00,India,0.7490227937724444,1,3,en,SAS,Asia
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-08-31T08:51:00+00:00,Canada,0.7468299318492962,0,1,en,NEN,North-America
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
@@ -39,10 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-09-25T08:06:00+00:00,Australia,0.7372404980756423,0,1,en,CAU,Oceania
 '2bfc5530eb',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Mountains,2026-08-27T13:00:00+00:00,United States,0.7367826637822574,0,1,en,CNA,North-America
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
-'d57776053a',extremes,Thunderstorm,#53785a,wmo,Thunderstorm United States,2026-08-12T04:23:00+00:00,United States,0.7334786716294248,1,3,en,CNA,North-America
-'879f5a5b36',extremes,Flood,#030ba1,wmo,Flood Hillsborough FL,2026-09-10T07:28:00+00:00,United States,0.7326917775921026,0,1,en,CNA,North-America
-'b206ff93f8',extremes,Flood,#030ba1,wmo,Flooding Victoria Loddon River,2026-08-24T03:32:00+00:00,Australia,0.7326108769996571,0,1,en,CAU,Oceania
-'02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2026-09-17T07:56:00+00:00,Australia,0.7326061029832606,0,1,en,SAU,Oceania
 'ca7cc53b15',extremes,Flood,#030ba1,wmo,Flooding Tasmania Meander River,2026-09-06T07:16:00+00:00,Australia,0.7325898672030897,0,1,en,CAU,Oceania
 '4edbdea66a',extremes,Flood,#030ba1,wmo,Flooding Hawaii in Hawaii HI,2026-09-10T07:28:00+00:00,United States,0.732489775538464,0,1,en,CNA,North-America
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-08-31T08:51:00+00:00,India,0.732333187585664,0,1,en,SAS,Asia
@@ -164,6 +158,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c45708a23a',extremes,Flood,#030ba1,wmo,Flooding Victoria Avon River,2026-09-30T08:53:00+00:00,Australia,0.7232435277297505,0,1,en,CAU,Oceania
 '13b1522378',extremes,Flood,#030ba1,wmo,Flashflood Lee IA Clark MO Scotland MO,2026-09-16T07:52:00+00:00,United States,0.723219693376122,0,1,en,CNA,North-America
 'fbc9f3fe89',extremes,Flood,#030ba1,wmo,Flashflood Louisa IA,2026-09-22T07:54:00+00:00,United States,0.7232175289578925,0,1,en,CNA,North-America
+'02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2026-09-17T07:56:00+00:00,Australia,0.7231215629903169,1,3,en,SAU,Oceania
 '4ca3b74aa6',extremes,Flood,#030ba1,wmo,Flashflood Llano TX,2026-10-02T08:51:00+00:00,United States,0.7229942622726254,0,1,en,CNA,North-America
 'a13001759a',extremes,Flood,#030ba1,wmo,Flood Two Rivers Fairbanks Metro Area,2026-09-14T08:04:00+00:00,United States,0.7228899967247272,0,1,en,CNA,North-America
 '1646e2bfe8',extremes,Heat Wave,#c40202,wmo,Heat Wave Yuma,2026-09-08T07:23:00+00:00,United States,0.7228886867702711,0,1,en,CNA,North-America
@@ -428,3 +423,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '846fa8fe30',extremes,Storm,#b3b2b1,wmo,Storm Surge Îles de la Madeleine,2026-10-05T09:29:00+00:00,Canada,0.623008556272044,1,1,en,NEN,North-America
 '812745586a',extremes,Flood,#030ba1,wmo,Flashflood Hardin TX,2026-09-03T07:20:00+00:00,United States,0.6229970611831185,1,1,en,CNA,North-America
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-09-30T08:53:00+00:00,Australia,0.6229721583748271,1,1,en,CAU,Oceania
+'879f5a5b36',extremes,Flood,#030ba1,wmo,Flood Hillsborough FL,2026-09-10T07:28:00+00:00,United States,0.6227880109532872,1,1,en,CNA,North-America
