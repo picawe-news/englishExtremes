@@ -31,11 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-09-09T07:32:00+00:00,Belize,0.7451201141353099,0,1,en,SCA,North-America
 '03d5c98bdb',extremes,Wildfire,#d60d2b,effis,Wildfire United Kingdom,2026-09-27T08:29:00+00:00,United Kingdom,0.744298213338165,0,1,en,NEU,Europe
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
-'e4368ca7b9',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone North Walton,2026-10-09T09:28:00+00:00,United States,0.7428197841820836,0,1,en,CNA,North-America
-'f8590cb095',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone South Walton,2026-10-09T09:28:00+00:00,United States,0.7423039426001049,0,1,en,CNA,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
-'dd7bff5546',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Central Walton,2026-10-09T09:28:00+00:00,United States,0.7419316127451706,0,1,en,CNA,North-America
-'0eb94d49c4',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Southern Jackson,2026-10-09T09:28:00+00:00,United States,0.7412739203898051,0,1,en,CNA,North-America
 'ce38219493',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Conecuh,2026-10-09T09:28:00+00:00,United States,0.7407723413859532,0,1,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-10-06T09:14:00+00:00,Australia,0.7388027820483598,0,1,en,CAU,Oceania
@@ -342,10 +338,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c60d3daef0',extremes,Snow&Ice,#d60d2b,wmo,Ice Milford Road SH94,2026-09-15T07:59:00+00:00,New Zealand,0.6319871834099635,1,1,en,NZ,Oceania
 'fcb75bb2ab',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Niihau,2026-09-08T07:23:00+00:00,United States,0.6317811227935741,1,1,en,CNA,North-America
 'e14d1ca1b6',extremes,Snow&Ice,#d60d2b,wmo,Frost Anchorage Lower Matanuska Valley,2026-09-02T07:16:00+00:00,United States,0.6315508221234922,1,1,en,CNA,North-America
+'e4368ca7b9',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone North Walton,2026-10-09T09:28:00+00:00,United States,0.6313968165547711,1,1,en,CNA,North-America
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-09-12T07:19:00+00:00,Jamaica,0.6313503017736279,1,1,en,CAR,North-America
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,Hail Seychelles,2026-09-09T07:32:00+00:00,Seychelles,0.6312977883040244,1,1,en,EIO,Africa
+'f8590cb095',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone South Walton,2026-10-09T09:28:00+00:00,United States,0.6309583512100891,1,1,en,CNA,North-America
 '5251c59f20',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kauai Mountains,2026-09-08T07:23:00+00:00,United States,0.6309562412476347,1,1,en,CNA,North-America
 '6c435b8785',extremes,Storm,#b3b2b1,wmo,Storm Surge offshore Morant Bank area,2026-09-14T08:04:00+00:00,Jamaica,0.6309298666560537,1,1,en,CAR,North-America
+'dd7bff5546',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Central Walton,2026-10-09T09:28:00+00:00,United States,0.630641870833395,1,1,en,CNA,North-America
+'0eb94d49c4',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Southern Jackson,2026-10-09T09:28:00+00:00,United States,0.6302328473313343,1,1,en,CNA,North-America
 'e362409cd6',extremes,Flood,#030ba1,wmo,Flashflood Angelina TX Polk TX Trinity TX,2026-09-03T07:20:00+00:00,United States,0.6300032461468448,1,1,en,CNA,North-America
 '0dedeac327',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fiordland,2026-09-14T08:04:00+00:00,New Zealand,0.6298968019712029,1,1,en,NZ,Oceania
 '9c6918ae5a',extremes,Storm,#b3b2b1,wmo,Storm Surge Salluit,2026-09-05T07:05:00+00:00,Canada,0.6298890622548198,1,1,en,NEN,North-America
