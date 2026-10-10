@@ -32,10 +32,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03d5c98bdb',extremes,Wildfire,#d60d2b,effis,Wildfire United Kingdom,2026-09-27T08:29:00+00:00,United Kingdom,0.744298213338165,0,1,en,NEU,Europe
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
-'ce38219493',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Conecuh,2026-10-09T09:28:00+00:00,United States,0.7407723413859532,0,1,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-10-06T09:14:00+00:00,Australia,0.7388027820483598,0,1,en,CAU,Oceania
-'beae210554',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Mobile Inland,2026-10-08T09:21:00+00:00,United States,0.7381354161795781,0,1,en,CNA,North-America
 '32fac4018f',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Southern Jackson,2026-10-08T09:21:00+00:00,United States,0.7379592558441197,0,1,en,CNA,North-America
 'd1e506dfbd',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Santa Rosa Inland,2026-10-08T09:21:00+00:00,United States,0.7376917384133609,0,1,en,CNA,North-America
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-09-25T08:06:00+00:00,Australia,0.7372404980756423,0,1,en,CAU,Oceania
@@ -92,7 +90,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc6467e680',extremes,Flood,#030ba1,wmo,Flashflood Ghaghra Darauli Siwan Bihar,2026-08-27T13:00:00+00:00,India,0.729181566359987,0,1,en,SAS,Asia
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7291444665684937,0,1,en,SAS,Asia
 '4e69fb62e2',extremes,Precipitation,#d60d2b,wmo,Downpour Buller,2026-09-26T07:58:00+00:00,New Zealand,0.7291444186717823,0,1,en,NZ,Oceania
-'bc425ed68d',extremes,Storm,#b3b2b1,wmo,Storm South Australia Spencer Gulf,2026-08-25T03:27:00+00:00,Australia,0.7291404077282416,0,1,en,CAU,Oceania
 '1235b2102d',extremes,Fog,#d60d2b,wmo,Fog Columbia River Bar,2026-10-05T09:29:00+00:00,United States,0.7290731268230398,0,1,en,CNA,North-America
 '73bf613080',extremes,Flood,#030ba1,wmo,Flood Kosi Baltara Khagaria Bihar,2026-09-03T07:20:00+00:00,India,0.7290616971797985,0,1,en,SAS,Asia
 'c552693aa1',extremes,Flood,#030ba1,wmo,Flood Dixie FL Taylor FL,2026-08-28T14:32:00+00:00,United States,0.7289527990064095,0,1,en,CNA,North-America
@@ -247,7 +244,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6d71be0be',extremes,Flood,#030ba1,wmo,Flood Allen IN,2026-09-20T07:53:00+00:00,United States,0.6643356647685812,1,2,en,CNA,North-America
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,wet spell Western Australia,2026-08-31T08:51:00+00:00,Australia,0.6631360639066369,1,1,en,CAU,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-09-12T07:19:00+00:00,Canada,0.6629128629037135,1,1,en,NEN,North-America
-'fd1eb3ee37',extremes,Heat Wave,#c40202,wmo,Heat Wave Grand Canyon Country,2026-08-25T03:27:00+00:00,United States,0.6624914519704593,2,2,en,CNA,North-America
 '3b0171e57c',extremes,Drought,#edc291,edo,Dryness Kenya,2026-08-27T13:00:00+00:00,Kenya,0.6616127023482274,2,2,en,SEAF,Africa
 'da307952db',extremes,Precipitation,#d60d2b,wmo,Downpour Ireland,2026-09-12T07:19:00+00:00,Ireland,0.6615101062545097,1,1,en,NEU,Europe
 '0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,precipitation South Australia,2026-10-02T08:51:00+00:00,Australia,0.6603866605464319,1,1,en,CAU,Oceania
@@ -274,7 +270,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-09-25T08:06:00+00:00,New Zealand,0.6484390117321679,1,2,en,NZ,Oceania
 '78851ec32a',extremes,Precipitation,#d60d2b,meteo,Precipitation Ireland,2026-09-12T07:19:00+00:00,Ireland,0.6477269057996673,1,1,en,NEU,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-08-27T13:00:00+00:00,United States,0.647473293109199,1,2,en,CNA,North-America
-'cb0dc09b04',extremes,Drought,#edc291,edo,Lack of Rain Ireland,2026-08-23T03:30:00+00:00,Ireland,0.6471080901531882,1,2,en,NEU,Europe
 '98b2023d88',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Zimbabwe,2026-09-28T08:54:00+00:00,Zimbabwe,0.6468791395317893,1,1,en,ESAF,Africa
 'cce4634973',extremes,Drought,#edc291,edo,Dry Spell Kenya,2026-08-29T09:19:00+00:00,Kenya,0.6467145345381419,1,1,en,SEAF,Africa
 'bd8ddf35a6',extremes,Thunderstorm,#53785a,wmo,Hail Zimbabwe,2026-09-29T08:53:00+00:00,Zimbabwe,0.646654563972183,1,1,en,ESAF,Africa
@@ -352,6 +347,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0315cb46c4',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Escambia Coastal,2026-10-08T09:21:00+00:00,United States,0.6298286443447559,1,1,en,CNA,North-America
 '09deb2b40e',extremes,Drought,#edc291,edo,Lack of Rain Belize,2026-09-23T07:55:00+00:00,Belize,0.6298202545517921,1,1,en,SCA,North-America
 '5354d93f4a',extremes,Flood,#030ba1,wmo,Flooding Tasmania Derwent River,2026-09-03T07:20:00+00:00,Australia,0.62974696172561,1,1,en,CAU,Oceania
+'ce38219493',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Conecuh,2026-10-09T09:28:00+00:00,United States,0.6296564901780601,1,1,en,CNA,North-America
 '8c2b565540',extremes,Drought,#edc291,edo,Dry Spell Uganda,2026-09-05T07:05:00+00:00,Uganda,0.6296407781709952,1,1,en,SEAF,Africa
 '778d256165',extremes,Flood,#030ba1,wmo,Flashflood India,2026-09-01T07:58:00+00:00,India,0.6296089133275964,1,1,en,SAS,Asia
 '8d0ed31346',extremes,Snow&Ice,#d60d2b,wmo,Ice Gatineau,2026-09-24T07:46:00+00:00,Canada,0.6295735949598108,1,1,en,NEN,North-America
@@ -379,6 +375,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c71c86364e',extremes,Flood,#030ba1,wmo,Flashflood Tasmania Mersey River,2026-09-05T07:05:00+00:00,Australia,0.6277486786340786,1,1,en,CAU,Oceania
 '421b67f892',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Kauai Mountains,2026-09-07T07:29:00+00:00,United States,0.6276876516171195,1,1,en,CNA,North-America
 '9c82155ed9',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon West Cameron,2026-09-01T07:58:00+00:00,United States,0.6276371871673725,1,1,en,CNA,North-America
+'beae210554',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Mobile Inland,2026-10-08T09:21:00+00:00,United States,0.6275651187526414,1,1,en,CNA,North-America
 'f527a6c27d',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kauai Southwest,2026-09-07T07:29:00+00:00,United States,0.6274761434023113,1,1,en,CNA,North-America
 '577a43566a',extremes,Precipitation,#d60d2b,wmo,Downpour Belize,2026-09-13T07:37:00+00:00,Belize,0.6274386753152327,1,1,en,SCA,North-America
 'a4e41d3dc6',extremes,Snow&Ice,#d60d2b,wmo,Snow Naujaat,2026-09-28T08:54:00+00:00,Canada,0.627233197173649,1,1,en,NEN,North-America
