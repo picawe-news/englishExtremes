@@ -28,11 +28,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-08-31T08:51:00+00:00,Canada,0.7468299318492962,0,1,en,NEN,North-America
 '0006615477',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Canada,2026-09-27T08:29:00+00:00,Canada,0.7462994702315768,0,1,en,NEN,North-America
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
+'1eecfd582b',extremes,Drought,#edc291,edo,Dry Spell Puerto Rico,2026-09-25T08:06:00+00:00,Puerto Rico,0.7458681872220674,0,1,en,CAR,North-America
+'cec4746a23',extremes,Fog,#d60d2b,wmo,Fog Bulkley Valley,2026-10-11T09:12:00+00:00,Canada,0.7455113514614583,0,1,en,NEN,North-America
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-09-09T07:32:00+00:00,Belize,0.7451201141353099,0,1,en,SCA,North-America
 '03d5c98bdb',extremes,Wildfire,#d60d2b,effis,Wildfire United Kingdom,2026-09-27T08:29:00+00:00,United Kingdom,0.744298213338165,0,1,en,NEU,Europe
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
+'132af41fc7',extremes,Snow&Ice,#d60d2b,wmo,Frost Qikiqtarjuaq,2026-10-11T09:12:00+00:00,Canada,0.7431512743938684,0,1,en,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
+'19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-09-26T07:58:00+00:00,New Zealand,0.7400203414295383,0,1,en,NZ,Oceania
 '584f6bc0c3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Baldwin Inland,2026-10-08T09:21:00+00:00,United States,0.7389832647955804,0,1,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-10-06T09:14:00+00:00,Australia,0.7388027820483598,0,1,en,CAU,Oceania
@@ -56,6 +60,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fdca6c3d52',extremes,Flood,#030ba1,wmo,Flood Jackson AR Woodruff AR,2026-09-19T07:30:00+00:00,United States,0.7321827852977407,0,1,en,CNA,North-America
 'aa8d0f641e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain India,2026-08-31T08:51:00+00:00,India,0.7321665271470034,0,1,en,SAS,Asia
 '52d69677fc',extremes,Flood,#030ba1,wmo,Flashflood Platte MO,2026-09-16T07:52:00+00:00,United States,0.7321521148361062,0,1,en,CNA,North-America
+'6cdc20533d',extremes,Flood,#030ba1,wmo,Flashflood Geneva AL,2026-10-11T09:12:00+00:00,United States,0.7321417615705165,0,1,en,CNA,North-America
 'd1b13d8307',extremes,Tsunami,#690191,usgs,Tsunami United States,2026-09-03T07:20:00+00:00,United States,0.732058727309481,0,1,en,WNA,North-America
 '901431d3eb',extremes,Storm,#b3b2b1,wmo,Storm Surge Kluane Lake,2026-09-20T07:53:00+00:00,Canada,0.7320462606276034,0,1,en,NEN,North-America
 '9e057d0c8b',extremes,Flood,#030ba1,wmo,Flashflood Athens OH Meigs OH Vinton OH,2026-09-21T08:09:00+00:00,United States,0.7320247382500693,0,1,en,CNA,North-America
@@ -119,6 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62ad6cee29',extremes,Flood,#030ba1,wmo,Flashflood Clay WV Kanawha WV,2026-09-13T07:37:00+00:00,United States,0.7276192063931182,0,1,en,CNA,North-America
 '7a1d28bed6',extremes,Fog,#d60d2b,wmo,Fog Marquette to Munising MI,2026-09-29T08:53:00+00:00,United States,0.727526063125854,0,1,en,CNA,North-America
 '8ec66565d2',extremes,Flood,#030ba1,wmo,Flooding Baker County,2026-09-04T07:23:00+00:00,United States,0.7272540408632082,0,1,en,CNA,North-America
+'62010d07c5',extremes,Flood,#030ba1,wmo,Flooding Imperial CA,2026-10-11T09:12:00+00:00,United States,0.7270941321307567,0,1,en,CNA,North-America
 '6d0448f11b',extremes,Flood,#030ba1,wmo,Flooding Ganga Kahalgaon Bhagalpur Bihar,2026-09-08T07:23:00+00:00,India,0.7269881700865535,0,1,en,SAS,Asia
 '9307e39b7a',extremes,Flood,#030ba1,wmo,Flood South Central Mountains,2026-09-05T07:05:00+00:00,United States,0.7269410453650422,0,1,en,CNA,North-America
 '2dce55beb8',extremes,Flood,#030ba1,wmo,Flood Deuel Keith Perkins Chase,2026-09-06T07:16:00+00:00,United States,0.726861634505512,0,1,en,CNA,North-America
