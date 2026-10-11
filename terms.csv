@@ -47,6 +47,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7a0a69e938',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Conecuh,2026-10-08T09:21:00+00:00,United States,0.7350456439109394,0,1,en,CNA,North-America
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
 '8be24bcd06',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Coastal Levy,2026-10-08T09:21:00+00:00,United States,0.7339448197552961,0,1,en,CNA,North-America
+'550c414dfb',extremes,Storm,#b3b2b1,aidr,Storm Queensland Storms and Floods October 2020,2026-10-10T08:50:00+00:00,Australia,0.7330394271909232,0,1,en,EAU,Oceania
+'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-10-09T09:28:00+00:00,United States,0.7325087915963574,0,1,en,NWN,North-America
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-10-09T09:28:00+00:00,Belize,0.7324753543065043,1,2,en,SCA,North-America
 '3b0ad04cf2',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kohala,2026-09-25T08:06:00+00:00,United States,0.7322580893911582,0,1,en,CNA,North-America
 'baf5f94907',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island East,2026-09-24T07:46:00+00:00,United States,0.7322576752342125,0,1,en,CNA,North-America
@@ -172,6 +174,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1646e2bfe8',extremes,Heat Wave,#c40202,wmo,Heat Wave Yuma,2026-09-08T07:23:00+00:00,United States,0.7228886867702711,0,1,en,CNA,North-America
 '8bf8909453',extremes,Earthquake,#870007,usgs,Earthquake Levuka,2026-09-09T07:32:00+00:00,Fiji,0.7228175070892939,0,1,en,SPO,Pacific Ocean
 'f3691c259d',extremes,Flood,#030ba1,wmo,Flood La Salle IL,2026-09-21T08:09:00+00:00,United States,0.722816734215458,0,1,en,CNA,North-America
+'d285c74ff7',extremes,Flood,#030ba1,wmo,Flooding Lake FL Volusia FL,2026-09-30T08:53:00+00:00,United States,0.7227163762363316,0,1,en,CNA,North-America
 'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,Snow Dempster,2026-10-04T08:41:00+00:00,Canada,0.7225765198365613,0,1,en,NEN,North-America
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,Storm Adak to Kiska Bering Side,2026-09-16T07:52:00+00:00,United States,0.7225323722255469,0,1,en,CNA,North-America
 'c6fc7b5440',extremes,Snow&Ice,#d60d2b,wmo,Frost Ashland Iron,2026-10-03T08:28:00+00:00,United States,0.7224790595736401,0,1,en,CNA,North-America
@@ -182,14 +185,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9076dec423',extremes,Flood,#030ba1,wmo,Flooding Lake IL,2026-10-01T09:18:00+00:00,United States,0.7220831350817407,0,1,en,CNA,North-America
 'c78132321f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ashland Iron,2026-10-05T09:29:00+00:00,United States,0.7218777227385864,0,1,en,CNA,North-America
 '2387893afd',extremes,Flood,#030ba1,wmo,Flood Gage NE,2026-10-02T08:51:00+00:00,United States,0.7216100612223577,0,1,en,CNA,North-America
+'311e54f52c',extremes,Flood,#030ba1,wmo,Flooding Benton IA Iowa IA,2026-10-03T08:28:00+00:00,United States,0.7215664535965115,0,1,en,CNA,North-America
 '11f167424d',extremes,Flood,#030ba1,wmo,Flooding Adams IL Lewis MO,2026-09-21T08:09:00+00:00,United States,0.7214615825713014,0,1,en,CNA,North-America
 '96364cecb2',extremes,Flood,#030ba1,wmo,Flooding Louisa IA Muscatine IA,2026-09-24T07:46:00+00:00,United States,0.721460790090819,0,1,en,CNA,North-America
 '9af7333639',extremes,Fog,#d60d2b,wmo,Fog Taylor Clark,2026-10-01T09:18:00+00:00,United States,0.7213564376455837,0,1,en,CNA,North-America
 'ec097c18fb',extremes,Flood,#030ba1,wmo,Flashflood Gallia OH Mason WV,2026-09-13T07:37:00+00:00,United States,0.721352447531403,0,1,en,CNA,North-America
 'c62d887c53',extremes,Fog,#d60d2b,wmo,Fog Marathon Schreiber,2026-10-01T09:18:00+00:00,Canada,0.7213073260051903,0,1,en,NEN,North-America
+'cac51527ad',extremes,Flood,#030ba1,wmo,Flashflood Pasco FL,2026-10-08T09:21:00+00:00,United States,0.7213027086529531,0,1,en,CNA,North-America
 'd15ffdaa30',extremes,Flood,#030ba1,wmo,Flood Louisa IA,2026-09-21T08:09:00+00:00,United States,0.7212919275218442,0,1,en,CNA,North-America
 'dd47a7acb8',extremes,Flood,#030ba1,wmo,Flooding Ganga Bhagalpur Bhagalpur Bihar,2026-09-15T07:59:00+00:00,India,0.7211711758370868,0,1,en,SAS,Asia
 '4aada2ec79',extremes,Precipitation,#d60d2b,meteo,Rain United Kingdom,2026-09-26T07:58:00+00:00,United Kingdom,0.721157926454046,0,1,en,NEU,Europe
+'d2e975c492',extremes,Flood,#030ba1,wmo,Flooding Brantley GA,2026-10-09T09:28:00+00:00,United States,0.7210677508117785,0,1,en,CNA,North-America
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-08-27T13:01:00+00:00,Australia,0.7208311894895083,1,2,en,SAU,Oceania
 '9079585b41',extremes,Fog,#d60d2b,wmo,Fog Jenkins Screven Candler Bulloch,2026-10-02T08:51:00+00:00,United States,0.7207589469771589,0,1,en,CNA,North-America
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-09-17T07:56:00+00:00,United States,0.7205163685859483,0,1,en,CNA,North-America
