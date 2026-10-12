@@ -128,21 +128,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c2f36e9173',extremes,Earthquake,#870007,usgs,Earthquake Arthurs Point,2026-09-02T07:16:00+00:00,New Zealand,0.7266774490521474,0,1,en,NZ,Oceania
 '5d35ff5189',extremes,Flood,#030ba1,wmo,Flooding Polk IA,2026-09-09T07:32:00+00:00,United States,0.726648390645574,0,1,en,CNA,North-America
 '386d2eebd7',extremes,Flood,#030ba1,wmo,Flooding Clinton IA Scott IA,2026-09-21T08:09:00+00:00,United States,0.7266260628343976,0,1,en,CNA,North-America
+'bb125c9aa5',extremes,Earthquake,#870007,usgs,Earthquake Tezpur,2026-10-06T09:14:00+00:00,India,0.7265824383552711,0,1,en,SAS,Asia
 '79836bd99d',extremes,Flood,#030ba1,wmo,Flood Rio Blanco CO,2026-09-16T07:52:00+00:00,United States,0.7265096572896346,0,1,en,CNA,North-America
 'b267664ec6',extremes,Fog,#d60d2b,wmo,Fog Burke Lee Sumter,2026-10-02T08:51:00+00:00,United States,0.7264537999709767,0,1,en,CNA,North-America
 'f81c28997e',extremes,Storm,#b3b2b1,wmo,Storm Western Australia Eucla Coast,2026-09-09T07:32:00+00:00,Australia,0.7261318026418233,0,1,en,CAU,Oceania
 '885597e0f4',extremes,Wildfire,#d60d2b,acwe,wildfire Australia,2026-10-03T08:28:00+00:00,Australia,0.7261314698270902,0,1,en,CAU,Oceania
 '376cf72bcf',extremes,Precipitation,#d60d2b,wmo,Rain Lunenburg County,2026-09-14T08:04:00+00:00,Canada,0.7261065583215857,0,1,en,NEN,North-America
+'49d777e5e2',extremes,Flood,#030ba1,wmo,Flashflood Imperial CA,2026-10-11T09:12:00+00:00,United States,0.7260140899660675,0,1,en,CNA,North-America
 '381ceff412',extremes,Earthquake,#870007,usgs,Earthquake Kimbe,2026-09-19T07:30:00+00:00,Papua New Guinea,0.7259959353173806,0,1,en,EPO,Pacific Ocean
 'bdccdbf17e',extremes,Flood,#030ba1,wmo,Flooding Dolores CO,2026-09-19T07:30:00+00:00,United States,0.7259630370263871,0,1,en,CNA,North-America
 '8006472463',extremes,Flood,#030ba1,wmo,Flashflood PunPun Sripalpur Patna Bihar,2026-09-06T07:16:00+00:00,India,0.7256785796403924,0,1,en,SAS,Asia
 '08579e390c',extremes,Earthquake,#870007,usgs,Earthquake Yigo Village,2026-09-20T07:53:00+00:00,Guam,0.725418316232972,0,1,en,NPO,Pacific Ocean
 '8e7e08e80c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Jamaica,2026-10-02T08:51:00+00:00,Jamaica,0.7253453643470332,0,1,en,CAR,North-America
+'62dea82beb',extremes,Flood,#030ba1,wmo,Flashflood Grady GA Thomas GA,2026-10-10T08:49:00+00:00,United States,0.7251834681666742,0,1,en,CNA,North-America
 '4e7faf91d4',extremes,Flood,#030ba1,wmo,Flashflood Carroll MO Chariton MO,2026-09-16T07:52:00+00:00,United States,0.7250555468469245,0,1,en,CNA,North-America
 'e3f478e59c',extremes,Flood,#030ba1,wmo,Flashflood Victoria Ovens and King Rivers,2026-10-01T09:18:00+00:00,Australia,0.7250073739048204,0,1,en,CAU,Oceania
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,Severe Weather India,2026-08-31T08:51:00+00:00,India,0.7249763061178482,0,1,en,SAS,Asia
 'f9353da6b5',extremes,Flood,#030ba1,wmo,Flood Carroll MO Chariton MO,2026-10-05T09:29:00+00:00,United States,0.7249351423143999,0,1,en,CNA,North-America
 '4fc6c13608',extremes,Flood,#030ba1,wmo,Flood isolated places,2026-09-02T07:16:00+00:00,India,0.7249325031867607,0,1,en,SAS,Asia
+'3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-10-10T08:49:00+00:00,India,0.7249166374749217,0,1,en,TIB,Asia
 '455ffb5850',extremes,Flood,#030ba1,wmo,Flashflood Polk IA,2026-09-16T07:52:00+00:00,United States,0.7248628253030394,0,1,en,CNA,North-America
 'efc5bd1297',extremes,Flood,#030ba1,wmo,Flooding Coconino AZ,2026-09-14T08:04:00+00:00,United States,0.7248600763389748,0,1,en,CNA,North-America
 '51d222b33f',extremes,Flood,#030ba1,wmo,Flashflood Johnson IA Washington IA,2026-09-23T07:55:00+00:00,United States,0.7246599196358954,0,1,en,CNA,North-America
@@ -195,6 +199,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd47a7acb8',extremes,Flood,#030ba1,wmo,Flooding Ganga Bhagalpur Bhagalpur Bihar,2026-09-15T07:59:00+00:00,India,0.7211711758370868,0,1,en,SAS,Asia
 '4aada2ec79',extremes,Precipitation,#d60d2b,meteo,Rain United Kingdom,2026-09-26T07:58:00+00:00,United Kingdom,0.721157926454046,0,1,en,NEU,Europe
 'd2e975c492',extremes,Flood,#030ba1,wmo,Flooding Brantley GA,2026-10-09T09:28:00+00:00,United States,0.7210677508117785,0,1,en,CNA,North-America
+'5acaec2878',extremes,Flood,#030ba1,wmo,Flood Baldwin AL Escambia FL,2026-10-09T09:28:00+00:00,United States,0.720934287868824,0,1,en,CNA,North-America
+'83569d19b2',extremes,Flood,#030ba1,wmo,Flooding Manatee FL,2026-10-09T09:28:00+00:00,United States,0.7208580589174974,0,1,en,CNA,North-America
 '4c19a49f3d',extremes,Flood,#030ba1,acwe,flooding Tasmania,2026-08-27T13:01:00+00:00,Australia,0.7208311894895083,1,2,en,SAU,Oceania
 '9079585b41',extremes,Fog,#d60d2b,wmo,Fog Jenkins Screven Candler Bulloch,2026-10-02T08:51:00+00:00,United States,0.7207589469771589,0,1,en,CNA,North-America
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-09-17T07:56:00+00:00,United States,0.7205163685859483,0,1,en,CNA,North-America
