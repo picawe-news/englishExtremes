@@ -31,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-09-09T07:32:00+00:00,Belize,0.7451201141353099,0,1,en,SCA,North-America
 '03d5c98bdb',extremes,Wildfire,#d60d2b,effis,Wildfire United Kingdom,2026-09-27T08:29:00+00:00,United Kingdom,0.744298213338165,0,1,en,NEU,Europe
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
-'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-10-07T09:06:00+00:00,United States,0.7420933395704932,0,1,en,CNA,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
 '155b6f14cd',extremes,Storm,#b3b2b1,wmo,Storm Central and Eastern Regions,2026-10-14T07:55:00+00:00,Solomon Islands,0.7408405303838621,0,1,en,EPO,Oceania
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-09-25T08:06:00+00:00,Fiji,0.7389605872438634,0,1,en,SPO,Pacific Ocean
@@ -293,6 +292,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ghana,2026-09-29T08:53:00+00:00,Ghana,0.6463735580273942,1,1,en,WAF,Africa
 '90522631da',extremes,Precipitation,#d60d2b,wmo,Precipitation India,2026-09-03T07:20:00+00:00,India,0.6459274408412002,1,2,en,SAS,Asia
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-09-26T07:58:00+00:00,United Kingdom,0.6449739635834305,1,1,en,NEU,Europe
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-10-07T09:06:00+00:00,United States,0.6449555086349192,1,2,en,CNA,North-America
 'deb4d35fc2',extremes,Drought,#edc291,edo,Lack of Rain Guyana,2026-09-20T07:53:00+00:00,Guyana,0.6449462764618454,1,1,en,NSA,South-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-09-02T07:16:00+00:00,Canada,0.6446754861170864,1,2,en,NEN,North-America
 '2072c25fd3',extremes,Drought,#edc291,edo,Dry Spell Guyana,2026-09-21T08:09:00+00:00,Guyana,0.6444976802740264,1,1,en,NSA,South-America
