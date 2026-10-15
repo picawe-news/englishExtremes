@@ -32,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03d5c98bdb',extremes,Wildfire,#d60d2b,effis,Wildfire United Kingdom,2026-09-27T08:29:00+00:00,United Kingdom,0.744298213338165,0,1,en,NEU,Europe
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
-'155b6f14cd',extremes,Storm,#b3b2b1,wmo,Storm Central and Eastern Regions,2026-10-14T07:55:00+00:00,Solomon Islands,0.7408405303838621,0,1,en,EPO,Oceania
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-09-25T08:06:00+00:00,Fiji,0.7389605872438634,0,1,en,SPO,Pacific Ocean
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-10-06T09:14:00+00:00,Australia,0.7388027820483598,0,1,en,CAU,Oceania
@@ -256,6 +255,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b022d9af6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Far North Region,2026-09-29T08:53:00+00:00,Cameroon,0.6802315042016165,1,1,en,CAF,Africa
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-10-07T09:05:00+00:00,Papua New Guinea,0.6784501163116967,1,1,en,EPO,Oceania
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,heatwave Victoria,2026-09-23T07:56:00+00:00,Australia,0.6763507056362935,1,1,en,SAU,Oceania
+'155b6f14cd',extremes,Storm,#b3b2b1,wmo,Storm Central and Eastern Regions,2026-10-14T07:55:00+00:00,Solomon Islands,0.6755740367353736,1,2,en,EPO,Oceania
 '431910f829',extremes,Flood,#030ba1,wmo,Flooding Wells IN,2026-09-18T07:34:00+00:00,United States,0.6751940926004486,1,2,en,CNA,North-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-09-03T07:20:00+00:00,Canada,0.6744737470630587,2,3,en,NEN,North-America
 '7f4bbe1e4f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Zimbabwe,2026-10-01T09:18:00+00:00,Zimbabwe,0.6728731869595269,1,1,en,ESAF,Africa
