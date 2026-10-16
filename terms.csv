@@ -34,14 +34,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-10-06T09:14:00+00:00,Australia,0.7388027820483598,0,1,en,CAU,Oceania
 '0a0ca0835a',extremes,Storm,#b3b2b1,wmo,Storm Surge Gjoa Haven,2026-10-15T07:40:00+00:00,Canada,0.7376833872311016,0,1,en,NEN,North-America
+'1273061cdc',extremes,Storm,#b3b2b1,wmo,Storm Kangiqsujuaq Raglan Lake Quaqtaq,2026-10-15T07:40:00+00:00,Canada,0.7375666961823544,0,1,en,NEN,North-America
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-10-10T08:49:00+00:00,United States,0.7360558988060296,0,1,en,CNA,North-America
 '54fbd8dcc0',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Lee Itawamba Chickasaw Monroe,2026-10-10T08:49:00+00:00,United States,0.7350859015900331,0,1,en,CNA,North-America
 '7a0a69e938',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Conecuh,2026-10-08T09:21:00+00:00,United States,0.7350456439109394,0,1,en,CNA,North-America
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
 '8be24bcd06',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Coastal Levy,2026-10-08T09:21:00+00:00,United States,0.7339448197552961,0,1,en,CNA,North-America
+'2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,Frost Arthur's Pass SH73,2026-10-15T07:40:00+00:00,New Zealand,0.7333309666459685,0,1,en,NZ,Oceania
 '550c414dfb',extremes,Storm,#b3b2b1,aidr,Storm Queensland Storms and Floods October 2020,2026-10-10T08:50:00+00:00,Australia,0.7330394271909232,0,1,en,EAU,Oceania
 '8449a14faa',extremes,Flood,#030ba1,wmo,Flooding Brewster TX Pecos TX,2026-10-14T07:55:00+00:00,United States,0.7328656207723894,0,1,en,CNA,North-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-10-09T09:28:00+00:00,United States,0.7325087915963574,0,1,en,NWN,North-America
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-10-09T09:28:00+00:00,Belize,0.7324753543065043,1,2,en,SCA,North-America
+'c195d592cd',extremes,Flood,#030ba1,wmo,Flooding Canadian OK Oklahoma OK,2026-10-15T07:40:00+00:00,United States,0.7323608574151319,0,1,en,CNA,North-America
 '3b0ad04cf2',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kohala,2026-09-25T08:06:00+00:00,United States,0.7322580893911582,0,1,en,CNA,North-America
 'baf5f94907',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Big Island East,2026-09-24T07:46:00+00:00,United States,0.7322576752342125,0,1,en,CNA,North-America
 '7aa861ff3e',extremes,Flood,#030ba1,wmo,Flooding Adams IN Wells IN,2026-09-17T07:56:00+00:00,United States,0.7322016330761523,0,1,en,CNA,North-America
@@ -87,6 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a81eb0fdde',extremes,Flood,#030ba1,wmo,Flood Ghaghra Darauli Siwan Bihar,2026-09-07T07:29:00+00:00,India,0.7296118127428798,0,1,en,SAS,Asia
 '77944c1130',extremes,Flood,#030ba1,wmo,Flood Mower MN,2026-09-20T07:53:00+00:00,United States,0.7295933100824433,0,1,en,CNA,North-America
 '7990fcd083',extremes,Snow&Ice,#d60d2b,wmo,Snow Haast Pass SH6,2026-09-16T07:52:00+00:00,New Zealand,0.7294600090706197,0,1,en,NZ,Oceania
+'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-10-15T07:40:00+00:00,New Zealand,0.7294429880420672,0,1,en,NZ,Oceania
 'e81781fef8',extremes,Flood,#030ba1,wmo,Flashflood Brantley GA,2026-10-13T09:41:00+00:00,United States,0.7294251975155632,0,1,en,CNA,North-America
 '14ecb8c2a0',extremes,Drought,#edc291,edo,Drought Nigeria,2026-09-22T07:54:00+00:00,Nigeria,0.7291917554339759,0,1,en,WAF,Africa
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7291444665684937,0,1,en,SAS,Asia
@@ -97,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63d67b0640',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Coastal Areas,2026-10-03T08:28:00+00:00,United States,0.7288512566242769,0,1,en,CNA,North-America
 '162d98d01a',extremes,Flood,#030ba1,wmo,Flashflood Morgan OH Perry OH,2026-09-10T07:28:00+00:00,United States,0.7287656098434617,0,1,en,CNA,North-America
 '6f64e24418',extremes,Flood,#030ba1,wmo,Flooding Clinton OH Warren OH,2026-09-20T07:53:00+00:00,United States,0.7286498408778388,0,1,en,CNA,North-America
+'9f1207cda5',extremes,Flood,#030ba1,wmo,Flooding Sarasota FL,2026-10-15T07:40:00+00:00,United States,0.7286048862637042,0,1,en,CNA,North-America
 '1b0a088319',extremes,Precipitation,#d60d2b,wmo,Rain Northern Peninsula East,2026-09-19T07:30:00+00:00,Canada,0.7283760413331501,0,1,en,NEN,North-America
 '53ebaec875',extremes,Flood,#030ba1,wmo,Flood Gandak Hajipur Vaishali Bihar,2026-09-05T07:05:00+00:00,India,0.7283418262236359,0,1,en,SAS,Asia
 '2c372f5133',extremes,Flood,#030ba1,wmo,Flooding Fayette IA,2026-09-20T07:53:00+00:00,United States,0.7281711532411719,0,1,en,CNA,North-America
