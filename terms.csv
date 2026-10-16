@@ -25,14 +25,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-10-02T08:51:00+00:00,Jamaica,0.7541564314443335,0,1,en,CAR,North-America
-'4c090d7cee',extremes,Heat Wave,#c40202,wmo,Heat Wave Botswana,2026-10-15T07:40:00+00:00,Botswana,0.7478433586428747,0,1,en,WSAF,Africa
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,Flashflood Canada,2026-08-31T08:51:00+00:00,Canada,0.7468299318492962,0,1,en,NEN,North-America
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-08-28T14:32:00+00:00,United Kingdom,0.7461041092678355,1,3,en,NEU,Europe
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-09-09T07:32:00+00:00,Belize,0.7451201141353099,0,1,en,SCA,North-America
-'a5c68ddd24',extremes,Snow&Ice,#d60d2b,wmo,Frost Lewis Pass SH7,2026-10-15T07:40:00+00:00,New Zealand,0.7446503727648689,0,1,en,NZ,Oceania
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
-'3581bfd404',extremes,Storm,#b3b2b1,wmo,Storm Surge Central and Eastern Regions,2026-10-15T07:40:00+00:00,Solomon Islands,0.7440924374180442,0,1,en,EPO,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-10-06T09:14:00+00:00,Australia,0.7388027820483598,0,1,en,CAU,Oceania
@@ -331,11 +328,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40148d763a',extremes,Storm,#b3b2b1,wmo,Storm Paulatuk,2026-10-10T08:49:00+00:00,Canada,0.637020224973339,1,1,en,NEN,North-America
 'c0a78137a9',extremes,Thunderstorm,#53785a,wmo,Hail India,2026-08-31T08:51:00+00:00,India,0.6365259785387235,1,2,en,SAS,Asia
 '3c35edb296',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Botswana,2026-09-04T07:23:00+00:00,Botswana,0.6361152596059846,1,1,en,WSAF,Africa
+'4c090d7cee',extremes,Heat Wave,#c40202,wmo,Heat Wave Botswana,2026-10-15T07:40:00+00:00,Botswana,0.6356668548464435,1,1,en,WSAF,Africa
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-10-13T09:41:00+00:00,New Zealand,0.6346961936525003,1,1,en,NZ,Oceania
 'b47c7fe559',extremes,Snow&Ice,#d60d2b,wmo,Ice Desert Road SH1,2026-09-07T07:29:00+00:00,New Zealand,0.6344877617376927,1,1,en,NZ,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,Torrential Rain New Zealand,2026-10-14T07:55:00+00:00,New Zealand,0.6344558251045688,1,1,en,NZ,Oceania
 '9044bc0335',extremes,Earthquake,#870007,usgs,Earthquake Georgetown,2026-09-14T08:04:00+00:00,Saint Helena,0.6343459769511294,1,1,en,EAO,Atlantic Ocean
 '007242890d',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Tararua Range,2026-10-13T09:41:00+00:00,New Zealand,0.6340839372390727,1,1,en,NZ,Oceania
+'3581bfd404',extremes,Storm,#b3b2b1,wmo,Storm Surge Central and Eastern Regions,2026-10-15T07:40:00+00:00,Solomon Islands,0.6339787218053375,1,1,en,EPO,Oceania
 'a2c72301a8',extremes,Drought,#edc291,edo,Drought Cameroon,2026-09-12T07:19:00+00:00,Cameroon,0.6339679592767455,1,1,en,CAF,Africa
 '8ae1582ca9',extremes,Snow&Ice,#d60d2b,wmo,Ice Lindis Pass SH8,2026-09-09T07:32:00+00:00,New Zealand,0.6339292430617091,1,1,en,NZ,Oceania
 'cec4746a23',extremes,Fog,#d60d2b,wmo,Fog Bulkley Valley,2026-10-11T09:12:00+00:00,Canada,0.6336846487422395,1,1,en,NEN,North-America
@@ -346,6 +345,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,Storm Surge Seychelles,2026-09-16T07:52:00+00:00,Seychelles,0.6333158672684515,1,1,en,EIO,Africa
 '15ce6add21',extremes,Flood,#030ba1,wmo,Flood Inverness Victoria Counties,2026-09-09T07:32:00+00:00,Canada,0.6333117180046932,1,1,en,NEN,North-America
 '355b86f57d',extremes,Snow&Ice,#d60d2b,wmo,Snow Lindis Pass SH8,2026-09-16T07:52:00+00:00,New Zealand,0.633166441538408,1,1,en,NZ,Oceania
+'a5c68ddd24',extremes,Snow&Ice,#d60d2b,wmo,Frost Lewis Pass SH7,2026-10-15T07:40:00+00:00,New Zealand,0.6329528168501386,1,1,en,NZ,Oceania
 'fadb40c11c',extremes,Snow&Ice,#d60d2b,wmo,Frost Porters Pass SH73,2026-09-16T07:52:00+00:00,New Zealand,0.6328871776450442,1,1,en,NZ,Oceania
 '5e82c4455d',extremes,Snow&Ice,#d60d2b,wmo,Ice Porters Pass SH73,2026-09-09T07:32:00+00:00,New Zealand,0.6326417878433042,1,1,en,NZ,Oceania
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-09-17T07:56:00+00:00,United States,0.6326130183683512,1,2,en,CNA,North-America
