@@ -32,12 +32,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-10-06T09:14:00+00:00,Australia,0.7388027820483598,0,1,en,CAU,Oceania
-'f04bdcd4a3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Tinian Saipan,2026-10-17T07:08:00+00:00,United States,0.738096276971322,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-10-10T08:49:00+00:00,United States,0.7360558988060296,0,1,en,CNA,North-America
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-10-09T09:28:00+00:00,Belize,0.7324753543065043,1,2,en,SCA,North-America
-'b7543c636c',extremes,Flood,#030ba1,wmo,Flood Pike OH Ross OH,2026-09-13T07:37:00+00:00,United States,0.7317307080115263,0,1,en,CNA,North-America
-'15542b3f56',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Kona,2026-09-24T07:46:00+00:00,United States,0.7316266183359774,0,1,en,CNA,North-America
 '2b094777d0',extremes,Flood,#030ba1,wmo,Flood Wichita TX Wilbarger TX,2026-10-17T07:08:00+00:00,United States,0.731576344611847,0,1,en,CNA,North-America
 '09649747d6',extremes,Storm,#b3b2b1,wmo,Storm Salluit,2026-10-14T07:55:00+00:00,Canada,0.7314806658052315,0,1,en,NEN,North-America
 '16a17c4630',extremes,Flood,#030ba1,wmo,Flood Adams IN Wells IN,2026-09-18T07:34:00+00:00,United States,0.7314517976163121,0,1,en,CNA,North-America
@@ -382,6 +379,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f527a6c27d',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Kauai Southwest,2026-09-07T07:29:00+00:00,United States,0.6274761434023113,1,1,en,CNA,North-America
 '577a43566a',extremes,Precipitation,#d60d2b,wmo,Downpour Belize,2026-09-13T07:37:00+00:00,Belize,0.6274386753152327,1,1,en,SCA,North-America
 '8d45c460d3',extremes,Heat Wave,#c40202,wmo,Heat Wave Most Districts.,2026-10-13T09:41:00+00:00,Botswana,0.6274287075837582,1,1,en,WSAF,Africa
+'f04bdcd4a3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Tinian Saipan,2026-10-17T07:08:00+00:00,United States,0.6273818354256236,1,1,en,CNA,North-America
 'a4e41d3dc6',extremes,Snow&Ice,#d60d2b,wmo,Snow Naujaat,2026-09-28T08:54:00+00:00,Canada,0.627233197173649,1,1,en,NEN,North-America
 'd1e506dfbd',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Santa Rosa Inland,2026-10-08T09:21:00+00:00,United States,0.6270379776513567,1,1,en,CNA,North-America
 '0a0ca0835a',extremes,Storm,#b3b2b1,wmo,Storm Surge Gjoa Haven,2026-10-15T07:40:00+00:00,Canada,0.6270308791464364,1,1,en,NEN,North-America
@@ -438,3 +436,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '901431d3eb',extremes,Storm,#b3b2b1,wmo,Storm Surge Kluane Lake,2026-09-20T07:53:00+00:00,Canada,0.6222393215334628,1,1,en,NEN,North-America
 '9e057d0c8b',extremes,Flood,#030ba1,wmo,Flashflood Athens OH Meigs OH Vinton OH,2026-09-21T08:09:00+00:00,United States,0.6222210275125589,1,1,en,CNA,North-America
 '11aee14d0f',extremes,Flood,#030ba1,wmo,Flashflood Citrus FL Levy FL Marion FL,2026-09-17T07:56:00+00:00,United States,0.6221892049898515,1,1,en,CNA,North-America
+'15542b3f56',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Kona,2026-09-24T07:46:00+00:00,United States,0.6220326405855808,1,1,en,CNA,North-America
+'b7543c636c',extremes,Flood,#030ba1,wmo,Flood Pike OH Ross OH,2026-09-13T07:37:00+00:00,United States,0.6219711018097973,1,1,en,CNA,North-America
