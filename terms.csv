@@ -23,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72e330c6fb',extremes,Storm,#b3b2b1,wmo,Storm Wicklow,2026-10-02T08:51:00+00:00,Ireland,0.7720785447716667,1,2,en,NEU,Europe
 '9ede3b1c93',extremes,Heat Wave,#c40202,wmo,Heat Wave Orange County Coastal,2026-10-01T09:18:00+00:00,United States,0.7718206300199142,1,2,en,CNA,North-America
 'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-09-05T07:04:00+00:00,Solomon Islands,0.7717340135887889,1,2,en,EPO,Pacific Ocean
+'aafd8ebea1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Big Island Summit,2026-09-24T07:46:00+00:00,United States,0.7712139790763352,1,2,en,CNA,North-America
 'a95c685c3e',extremes,Wildfire,#d60d2b,acwe,wildfire New South Wales,2026-09-28T08:54:00+00:00,Australia,0.7683944053379504,1,2,en,EAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-09-29T08:53:00+00:00,Australia,0.7669738285340103,1,3,en,EAU,Oceania
 '34339a0a68',extremes,Flood,#030ba1,wmo,Flooding Allen IN,2026-09-18T07:34:00+00:00,United States,0.7661464004493385,1,3,en,CNA,North-America
@@ -39,9 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-10-09T09:28:00+00:00,Belize,0.7324753543065043,1,2,en,SCA,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-08-31T08:51:00+00:00,Australia,0.7311598610832024,1,2,en,CAU,Oceania
-'f471382829',extremes,Heat Wave,#c40202,wmo,Heat Wave Santa Ana Mountains and Foothills,2026-10-01T09:18:00+00:00,United States,0.730893255336792,0,1,en,CNA,North-America
-'4ee7fb75e2',extremes,Flood,#030ba1,wmo,Flashflood Jackson OK Kiowa OK Tillman OK,2026-10-16T07:27:00+00:00,United States,0.7307914970154323,0,1,en,CNA,North-America
-'aafd8ebea1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Big Island Summit,2026-09-24T07:46:00+00:00,United States,0.7306634871486296,0,1,en,CNA,North-America
 '0d8bab83be',extremes,Drought,#edc291,edo,Lack of Rain Fiji,2026-09-20T07:53:00+00:00,Fiji,0.730545199488315,0,1,en,,
 '0fbfeb6f6d',extremes,Earthquake,#870007,usgs,Earthquake Merizo Village,2026-09-13T07:37:00+00:00,Guam,0.730454524463309,0,1,en,NPO,Pacific Ocean
 'd1a294ec0a',extremes,Drought,#edc291,edo,Drought Guyana,2026-09-26T07:58:00+00:00,Guyana,0.7304252429314676,0,1,en,NSA,South-America
@@ -445,3 +443,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16a17c4630',extremes,Flood,#030ba1,wmo,Flood Adams IN Wells IN,2026-09-18T07:34:00+00:00,United States,0.6218840429738652,1,1,en,CNA,North-America
 '2b094777d0',extremes,Flood,#030ba1,wmo,Flood Wichita TX Wilbarger TX,2026-10-17T07:08:00+00:00,United States,0.6218398929200699,1,1,en,CNA,North-America
 '09649747d6',extremes,Storm,#b3b2b1,wmo,Storm Salluit,2026-10-14T07:55:00+00:00,Canada,0.6217585659344468,1,1,en,NEN,North-America
+'f471382829',extremes,Heat Wave,#c40202,wmo,Heat Wave Santa Ana Mountains and Foothills,2026-10-01T09:18:00+00:00,United States,0.6212592670362731,1,1,en,CNA,North-America
+'4ee7fb75e2',extremes,Flood,#030ba1,wmo,Flashflood Jackson OK Kiowa OK Tillman OK,2026-10-16T07:27:00+00:00,United States,0.6211727724631174,1,1,en,CNA,North-America
