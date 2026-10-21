@@ -34,17 +34,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
-'375d80268a',extremes,Storm,#b3b2b1,wmo,Storm Surge Teslin Atlin,2026-10-20T07:51:00+00:00,Canada,0.7388998852363678,0,1,en,NEN,North-America
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-10-06T09:14:00+00:00,Australia,0.7388027820483598,0,1,en,CAU,Oceania
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-10-10T08:49:00+00:00,United States,0.7360558988060296,0,1,en,CNA,North-America
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
-'da846d6a75',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom Bridgend and Neath Port Talbot Neath Port Talbot,2026-10-20T07:51:00+00:00,United Kingdom,0.7348361591113256,0,1,en,NEU,Europe
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-10-09T09:28:00+00:00,Belize,0.7324753543065043,1,2,en,SCA,North-America
-'1832ba612c',extremes,Flood,#030ba1,wmo,Flashflood Okaloosa FL,2026-10-06T09:14:00+00:00,United States,0.729716880601408,0,1,en,CNA,North-America
-'a81eb0fdde',extremes,Flood,#030ba1,wmo,Flood Ghaghra Darauli Siwan Bihar,2026-09-07T07:29:00+00:00,India,0.7296118127428798,0,1,en,SAS,Asia
-'77944c1130',extremes,Flood,#030ba1,wmo,Flood Mower MN,2026-09-20T07:53:00+00:00,United States,0.7295933100824433,0,1,en,CNA,North-America
-'7990fcd083',extremes,Snow&Ice,#d60d2b,wmo,Snow Haast Pass SH6,2026-09-16T07:52:00+00:00,New Zealand,0.7294600090706197,0,1,en,NZ,Oceania
-'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-10-15T07:40:00+00:00,New Zealand,0.7294429880420672,0,1,en,NZ,Oceania
 'e81781fef8',extremes,Flood,#030ba1,wmo,Flashflood Brantley GA,2026-10-13T09:41:00+00:00,United States,0.7294251975155632,0,1,en,CNA,North-America
 '14ecb8c2a0',extremes,Drought,#edc291,edo,Drought Nigeria,2026-09-22T07:54:00+00:00,Nigeria,0.7291917554339759,0,1,en,WAF,Africa
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7291444665684937,0,1,en,SAS,Asia
@@ -313,6 +306,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd696a3ae3d',extremes,Wildfire,#d60d2b,effis,Wild Fire Central Valleys United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.635875371117279,1,1,en,NEU,Europe
 '4c090d7cee',extremes,Heat Wave,#c40202,wmo,Heat Wave Botswana,2026-10-15T07:40:00+00:00,Botswana,0.6356668548464435,1,1,en,WSAF,Africa
 'b9da3355a3',extremes,Storm,#b3b2b1,wmo,Storm Port Saunders and the Straits,2026-10-19T08:01:00+00:00,Canada,0.6350692485261675,1,1,en,NEN,North-America
+'ad505bcab8',extremes,Snow&Ice,#d60d2b,wmo,Freezing New Zealand,2026-10-15T07:40:00+00:00,New Zealand,0.6349412455500427,1,2,en,NZ,Oceania
 'c896e5d964',extremes,Snow&Ice,#d60d2b,wmo,Ice Western US Arctic Offshore,2026-10-17T07:08:00+00:00,United States,0.6349270396349991,1,1,en,CNA,North-America
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,Downpour New Zealand,2026-10-13T09:41:00+00:00,New Zealand,0.6346961936525003,1,1,en,NZ,Oceania
 '3485b9483d',extremes,Wildfire,#d60d2b,effis,Bushfire Bridgend and Neath Port Talbot United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.6346221436161011,1,1,en,NEU,Europe
@@ -361,6 +355,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2026-10-14T07:55:00+00:00,United States,0.62814636731079,1,1,en,CNA,North-America
 '584f6bc0c3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Baldwin Inland,2026-10-08T09:21:00+00:00,United States,0.6281357750762433,1,1,en,CNA,North-America
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-09-25T08:06:00+00:00,Fiji,0.6281164991572838,1,1,en,SPO,Pacific Ocean
+'375d80268a',extremes,Storm,#b3b2b1,wmo,Storm Surge Teslin Atlin,2026-10-20T07:51:00+00:00,Canada,0.6280649024509126,1,1,en,NEN,North-America
 '3336c980ab',extremes,Earthquake,#870007,usgs,Earthquake Saint Helena,2026-09-17T07:56:00+00:00,Saint Helena,0.6279966668540217,1,1,en,EAO,Atlantic Ocean
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,Frost Milford Road SH94,2026-09-26T07:58:00+00:00,New Zealand,0.6277798561743664,1,1,en,NZ,Oceania
 'beae210554',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Mobile Inland,2026-10-08T09:21:00+00:00,United States,0.6275651187526414,1,1,en,CNA,North-America
@@ -394,6 +389,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee3251f277',extremes,Storm,#b3b2b1,wmo,Storm New South Wales Eden Coast,2026-09-15T07:59:00+00:00,Australia,0.6248128243956497,1,1,en,CAU,Oceania
 '7a0a69e938',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Conecuh,2026-10-08T09:21:00+00:00,United States,0.6247887973242985,1,1,en,CNA,North-America
 'fe3012d17e',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fiordland north of Doubtful Sound,2026-10-01T09:18:00+00:00,New Zealand,0.6246768798142983,1,1,en,NZ,Oceania
+'da846d6a75',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom Bridgend and Neath Port Talbot Neath Port Talbot,2026-10-20T07:51:00+00:00,United Kingdom,0.6246107352446267,1,1,en,NEU,Europe
 '71a012aaf9',extremes,Flood,#030ba1,wmo,Flood Randolph AR,2026-09-11T07:27:00+00:00,United States,0.6244034731667722,1,1,en,CNA,North-America
 'e3fbb284a6',extremes,Precipitation,#d60d2b,wmo,Torrential Rain The Tararua Range,2026-09-26T07:58:00+00:00,New Zealand,0.6242975103408039,1,1,en,NZ,Oceania
 '9e21bacc56',extremes,Flood,#030ba1,wmo,Flood Calhoun IL Pike MO,2026-09-21T08:09:00+00:00,United States,0.6241173535447836,1,1,en,CNA,North-America
@@ -436,3 +432,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9285bb1a52',extremes,Flood,#030ba1,wmo,Flood San Juan NM,2026-09-19T07:30:00+00:00,United States,0.6206192684327222,1,1,en,CNA,North-America
 'c4071c5fb5',extremes,Earthquake,#870007,usgs,Earthquake Port McNeill,2026-09-28T08:53:00+00:00,Canada,0.6204479294498542,1,1,en,NWN,North-America
 'a380e33a02',extremes,Precipitation,#d60d2b,wmo,Downpour The Tararua Range,2026-09-25T08:06:00+00:00,New Zealand,0.6203360489183972,1,1,en,NZ,Oceania
+'1832ba612c',extremes,Flood,#030ba1,wmo,Flashflood Okaloosa FL,2026-10-06T09:14:00+00:00,United States,0.6202593485111968,1,1,en,CNA,North-America
+'77944c1130',extremes,Flood,#030ba1,wmo,Flood Mower MN,2026-09-20T07:53:00+00:00,United States,0.6201543135700768,1,1,en,CNA,North-America
+'7990fcd083',extremes,Snow&Ice,#d60d2b,wmo,Snow Haast Pass SH6,2026-09-16T07:52:00+00:00,New Zealand,0.6200410077100267,1,1,en,NZ,Oceania
