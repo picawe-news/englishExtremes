@@ -25,12 +25,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aafd8ebea1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Big Island Summit,2026-09-24T07:46:00+00:00,United States,0.7712139790763352,1,2,en,CNA,North-America
 '63d67b0640',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Coastal Areas,2026-10-03T08:28:00+00:00,United States,0.7707237481306354,1,2,en,CNA,North-America
 'a95c685c3e',extremes,Wildfire,#d60d2b,acwe,wildfire New South Wales,2026-09-28T08:54:00+00:00,Australia,0.7683944053379504,1,2,en,EAU,Oceania
+'6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-10-23T07:51:00+00:00,Australia,0.7680988302226907,0,1,en,SAU,Oceania
+'5b34407f4a',extremes,Wildfire,#d60d2b,acwe,wildfire Tasmania,2026-10-23T07:51:00+00:00,Australia,0.7680262430672442,0,1,en,SAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-09-29T08:53:00+00:00,Australia,0.7669738285340103,1,3,en,EAU,Oceania
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,Precipitation Canada,2026-09-28T08:54:00+00:00,Canada,0.7665471337692954,1,3,en,NEN,North-America
 '34339a0a68',extremes,Flood,#030ba1,wmo,Flooding Allen IN,2026-09-18T07:34:00+00:00,United States,0.7661464004493385,1,3,en,CNA,North-America
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7656350824923106,1,3,en,SAS,Asia
+'9978c51a63',extremes,Heat Wave,#c40202,acwe,mild winter Victoria,2026-10-23T07:51:00+00:00,Australia,0.7640536372539372,0,1,en,SAU,Oceania
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
+'854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-10-23T07:50:00+00:00,Canada,0.748986046222937,0,1,en,NEN,North-America
+'d26843e677',extremes,Snow&Ice,#d60d2b,wmo,Freezing Mississauga Brampton,2026-10-23T07:50:00+00:00,Canada,0.7484499636703934,0,1,en,NEN,North-America
+'6a71f36756',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom Central Valleys Rhondda Cynon Taf,2026-10-20T07:51:00+00:00,United Kingdom,0.7477547314040209,0,1,en,NEU,Europe
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-09-09T07:32:00+00:00,Belize,0.7451201141353099,0,1,en,SCA,North-America
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
