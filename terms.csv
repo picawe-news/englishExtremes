@@ -38,9 +38,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,Storm Coastal and offshore areas.,2026-09-09T07:32:00+00:00,Belize,0.7451201141353099,0,1,en,SCA,North-America
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
+'601e15e2e6',extremes,Flood,#030ba1,wmo,Flashflood Rio Arriba NM,2026-10-23T07:50:00+00:00,United States,0.7403889885586374,0,1,en,CNA,North-America
+'c29304b0e8',extremes,Flood,#030ba1,wmo,Flashflood Mesa CO Montrose CO Grand UT,2026-10-23T07:50:00+00:00,United States,0.7396326266188481,0,1,en,CNA,North-America
+'c14251eb81',extremes,Fog,#d60d2b,wmo,Fog Mason Oceana,2026-10-23T07:50:00+00:00,United States,0.7390778702792613,0,1,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
+'d5a68fc886',extremes,Flood,#030ba1,wmo,Flooding Montezuma CO San Juan UT,2026-10-23T07:50:00+00:00,United States,0.738865414849549,0,1,en,CNA,North-America
 'f158ddef73',extremes,Snow&Ice,#d60d2b,wmo,Ice Australia,2026-10-06T09:14:00+00:00,Australia,0.7388027820483598,0,1,en,CAU,Oceania
+'19c5cbf5c4',extremes,Flood,#030ba1,wmo,Flashflood San Juan UT,2026-10-23T07:50:00+00:00,United States,0.7385748075634574,0,1,en,CNA,North-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-10-10T08:49:00+00:00,United States,0.7360558988060296,0,1,en,CNA,North-America
+'f77dd544c5',extremes,Flood,#030ba1,wmo,Flooding Archuleta CO,2026-10-23T07:50:00+00:00,United States,0.7354958081593004,0,1,en,CNA,North-America
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-10-09T09:28:00+00:00,Belize,0.7324753543065043,1,2,en,SCA,North-America
 '162d98d01a',extremes,Flood,#030ba1,wmo,Flashflood Morgan OH Perry OH,2026-09-10T07:28:00+00:00,United States,0.7287656098434617,0,1,en,CNA,North-America
