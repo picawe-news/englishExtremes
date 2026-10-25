@@ -24,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '32fac4018f',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Southern Jackson,2026-10-08T09:21:00+00:00,United States,0.7732728253246446,1,3,en,CNA,North-America
 'd1b13d8307',extremes,Tsunami,#690191,usgs,Tsunami United States,2026-09-03T07:20:00+00:00,United States,0.7723634982130587,1,3,en,WNA,North-America
 '72e330c6fb',extremes,Storm,#b3b2b1,wmo,Storm Wicklow,2026-10-02T08:51:00+00:00,Ireland,0.7720785447716667,1,2,en,NEU,Europe
-'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7720723149026919,0,1,en,SAU,Oceania
 '9ede3b1c93',extremes,Heat Wave,#c40202,wmo,Heat Wave Orange County Coastal,2026-10-01T09:18:00+00:00,United States,0.7718206300199142,1,2,en,CNA,North-America
 'aafd8ebea1',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Big Island Summit,2026-09-24T07:46:00+00:00,United States,0.7712139790763352,1,2,en,CNA,North-America
 '63d67b0640',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Coastal Areas,2026-10-03T08:28:00+00:00,United States,0.7707237481306354,1,2,en,CNA,North-America
@@ -38,6 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 '6af3e7612f',extremes,Storm,#b3b2b1,wmo,Storm Christchurch,2026-10-25T07:45:00+00:00,New Zealand,0.7546645859129263,0,1,en,NZ,Oceania
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
+'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
 'ff0ed04649',extremes,Precipitation,#d60d2b,wmo,Precipitation Westland District,2026-10-25T07:45:00+00:00,New Zealand,0.750754372978298,0,1,en,NZ,Oceania
 '69a1fef1a4',extremes,Precipitation,#d60d2b,wmo,Rain Grey and Buller districts,2026-10-25T07:45:00+00:00,New Zealand,0.7497773187994187,0,1,en,NZ,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-10-24T07:32:00+00:00,Solomon Islands,0.7486475001395335,0,1,en,EPO,Oceania
