@@ -42,12 +42,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69a1fef1a4',extremes,Precipitation,#d60d2b,wmo,Rain Grey and Buller districts,2026-10-25T07:45:00+00:00,New Zealand,0.7497773187994187,0,1,en,NZ,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-10-24T07:32:00+00:00,Solomon Islands,0.7486475001395335,0,1,en,EPO,Oceania
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-10-17T07:08:00+00:00,Canada,0.7486273929343341,0,1,en,NEN,North-America
+'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-10-25T07:45:00+00:00,United States,0.7484754507690405,0,1,en,CNA,North-America
+'afd06422c3',extremes,Storm,#b3b2b1,wmo,Storm Wellington,2026-10-25T07:45:00+00:00,New Zealand,0.7481691284514056,0,1,en,NZ,Oceania
+'98f71c2b8b',extremes,Storm,#b3b2b1,wmo,Storm Surge Tararua District,2026-10-25T07:45:00+00:00,New Zealand,0.7481280609858755,0,1,en,NZ,Oceania
 '6a71f36756',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom Central Valleys Rhondda Cynon Taf,2026-10-20T07:51:00+00:00,United Kingdom,0.7477547314040209,0,1,en,NEU,Europe
 'cbe591e3a2',extremes,Storm,#b3b2b1,wmo,Storm Otago,2026-10-24T07:32:00+00:00,New Zealand,0.747441005355449,0,1,en,NZ,Oceania
+'af8d91c7e8',extremes,Storm,#b3b2b1,wmo,Storm Marlborough,2026-10-25T07:45:00+00:00,New Zealand,0.7473108982918315,0,1,en,NZ,Oceania
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-10-24T07:32:00+00:00,United Kingdom,0.7472005444983626,0,1,en,NEU,Europe
+'38af90da81',extremes,Storm,#b3b2b1,wmo,Storm Surge South Australia Spencer Gulf,2026-10-25T07:45:00+00:00,Australia,0.7465890866168142,0,1,en,CAU,Oceania
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
 'bc62ce389c',extremes,Flood,#030ba1,wmo,Flooding Queensland Maroochy River,2026-10-24T07:32:00+00:00,Australia,0.7453651612308618,0,1,en,CAU,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-10-24T07:32:00+00:00,Canada,0.7453466627639861,0,1,en,NEN,North-America
+'8f4356e24a',extremes,Flood,#030ba1,wmo,Flood Queensland Mungallala Creek,2026-10-25T07:45:00+00:00,Australia,0.7453060093625932,0,1,en,CAU,Oceania
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
 '99a031e9a3',extremes,Flood,#030ba1,wmo,Flashflood Queensland Mungallala Creek,2026-10-24T07:32:00+00:00,Australia,0.743535947292696,0,1,en,CAU,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
