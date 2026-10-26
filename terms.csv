@@ -35,12 +35,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6af3e7612f',extremes,Storm,#b3b2b1,wmo,Storm Christchurch,2026-10-25T07:45:00+00:00,New Zealand,0.76584233575326,1,2,en,NZ,Oceania
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7656350824923106,1,3,en,SAS,Asia
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
-'d0e3e5206a',extremes,Storm,#b3b2b1,wmo,Storm Surge Wairarapa,2026-10-26T08:02:00+00:00,New Zealand,0.7557828899258431,0,1,en,NZ,Oceania
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
-'0dedeac327',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fiordland,2026-10-24T07:32:00+00:00,New Zealand,0.7494183719921866,0,1,en,NZ,Oceania
-'27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-10-24T07:32:00+00:00,Solomon Islands,0.7486475001395335,0,1,en,EPO,Oceania
-'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-10-17T07:08:00+00:00,Canada,0.7486273929343341,0,1,en,NEN,North-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-10-25T07:45:00+00:00,United States,0.7484754507690405,0,1,en,CNA,North-America
 'afd06422c3',extremes,Storm,#b3b2b1,wmo,Storm Wellington,2026-10-25T07:45:00+00:00,New Zealand,0.7481691284514056,0,1,en,NZ,Oceania
 '5ec8a07269',extremes,Heat Wave,#c40202,wmo,Heat Wave Queensland Gulf Country District.,2026-10-26T08:02:00+00:00,Australia,0.7481679918345063,0,1,en,CAU,Oceania
@@ -294,12 +290,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7c0a9688e8',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom Powys Powys,2026-10-21T07:55:00+00:00,United Kingdom,0.6429129584398834,1,1,en,NEU,Europe
 '21c16ecf53',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom Central Valleys Rhondda Cynon Taf,2026-10-20T07:51:00+00:00,United Kingdom,0.6427285341055087,1,1,en,NEU,Europe
 'd4ee042838',extremes,Wildfire,#d60d2b,effis,Wild Fire Powys United Kingdom,2026-10-21T07:55:00+00:00,United Kingdom,0.6425194195525161,1,1,en,NEU,Europe
+'d0e3e5206a',extremes,Storm,#b3b2b1,wmo,Storm Surge Wairarapa,2026-10-26T08:02:00+00:00,New Zealand,0.6424154564369666,1,1,en,NZ,Oceania
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-09-09T07:32:00+00:00,Canada,0.6421573800447374,1,2,en,NEN,North-America
 '0fbe8e5718',extremes,Storm,#b3b2b1,wmo,Storm Surge Australia,2026-10-11T09:12:00+00:00,Australia,0.6420910755755445,1,1,en,CAU,Oceania
 '7c626bfc6a',extremes,Precipitation,#d60d2b,wmo,Precipitation The ranges of The Westland District,2026-09-15T07:59:00+00:00,New Zealand,0.6420444199088967,1,1,en,NZ,Oceania
 '453697199c',extremes,Storm,#b3b2b1,wmo,Storm Ghana,2026-10-22T07:51:00+00:00,Ghana,0.641871870424289,1,2,en,WAF,Africa
 'd77f706cf0',extremes,Storm,#b3b2b1,wmo,Storm Gjoa Haven,2026-09-28T08:54:00+00:00,Canada,0.6416281625765052,1,1,en,NEN,North-America
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2026-10-11T09:12:00+00:00,Australia,0.6414796705279582,1,1,en,EAU,Oceania
+'0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-10-17T07:08:00+00:00,Canada,0.641291443994184,1,2,en,NEN,North-America
 '485794e3d4',extremes,Earthquake,#870007,usgs,Earthquake Canada,2026-09-28T08:53:00+00:00,Canada,0.6407533808178213,1,2,en,NPO,Pacific Ocean
 '524d66060f',extremes,Drought,#edc291,edo,Dryness South Sudan,2026-10-03T08:28:00+00:00,South Sudan,0.6407405852860818,1,1,en,NEAF,Africa
 '393400b105',extremes,Drought,#edc291,edo,Dryness Puerto Rico,2026-10-06T09:15:00+00:00,Puerto Rico,0.6405198849180004,1,1,en,CAR,North-America
@@ -319,9 +317,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,Earthquake New Zealand,2026-09-23T07:55:00+00:00,New Zealand,0.6374289473453133,1,2,en,NZ,Oceania
 '3e806f55ec',extremes,Precipitation,#d60d2b,wmo,Downpour The ranges of Westland,2026-10-24T07:32:00+00:00,New Zealand,0.6371280890917855,1,1,en,NZ,Oceania
 '40148d763a',extremes,Storm,#b3b2b1,wmo,Storm Paulatuk,2026-10-10T08:49:00+00:00,Canada,0.637020224973339,1,1,en,NEN,North-America
+'0dedeac327',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fiordland,2026-10-24T07:32:00+00:00,New Zealand,0.6370056161933586,1,1,en,NZ,Oceania
 '2e6a65f401',extremes,Wildfire,#d60d2b,effis,Wildfire United Kingdom Central Valleys Rhondda Cynon Taf,2026-10-20T07:51:00+00:00,United Kingdom,0.6367732512007417,1,1,en,NEU,Europe
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-10-09T09:28:00+00:00,United States,0.6366749419478129,1,2,en,NWN,North-America
 'c2ececbbb4',extremes,Drought,#edc291,edo,Dry Spell Belize,2026-10-18T07:23:00+00:00,Belize,0.6364595137660461,1,1,en,SCA,North-America
+'27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-10-24T07:32:00+00:00,Solomon Islands,0.6363503751186035,1,1,en,EPO,Oceania
 '19f8097297',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Seychelles,2026-10-21T07:55:00+00:00,Seychelles,0.636105440937633,1,1,en,EIO,Africa
 'd696a3ae3d',extremes,Wildfire,#d60d2b,effis,Wild Fire Central Valleys United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.635875371117279,1,1,en,NEU,Europe
 '4c090d7cee',extremes,Heat Wave,#c40202,wmo,Heat Wave Botswana,2026-10-15T07:40:00+00:00,Botswana,0.6356668548464435,1,1,en,WSAF,Africa
