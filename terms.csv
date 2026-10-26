@@ -35,18 +35,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6af3e7612f',extremes,Storm,#b3b2b1,wmo,Storm Christchurch,2026-10-25T07:45:00+00:00,New Zealand,0.76584233575326,1,2,en,NZ,Oceania
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7656350824923106,1,3,en,SAS,Asia
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
+'d0e3e5206a',extremes,Storm,#b3b2b1,wmo,Storm Surge Wairarapa,2026-10-26T08:02:00+00:00,New Zealand,0.7557828899258431,0,1,en,NZ,Oceania
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
+'0dedeac327',extremes,Precipitation,#d60d2b,wmo,Torrential Rain Fiordland,2026-10-24T07:32:00+00:00,New Zealand,0.7494183719921866,0,1,en,NZ,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-10-24T07:32:00+00:00,Solomon Islands,0.7486475001395335,0,1,en,EPO,Oceania
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,Ice Canada,2026-10-17T07:08:00+00:00,Canada,0.7486273929343341,0,1,en,NEN,North-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-10-25T07:45:00+00:00,United States,0.7484754507690405,0,1,en,CNA,North-America
 'afd06422c3',extremes,Storm,#b3b2b1,wmo,Storm Wellington,2026-10-25T07:45:00+00:00,New Zealand,0.7481691284514056,0,1,en,NZ,Oceania
+'5ec8a07269',extremes,Heat Wave,#c40202,wmo,Heat Wave Queensland Gulf Country District.,2026-10-26T08:02:00+00:00,Australia,0.7481679918345063,0,1,en,CAU,Oceania
 '98f71c2b8b',extremes,Storm,#b3b2b1,wmo,Storm Surge Tararua District,2026-10-25T07:45:00+00:00,New Zealand,0.7481280609858755,0,1,en,NZ,Oceania
 '6a71f36756',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom Central Valleys Rhondda Cynon Taf,2026-10-20T07:51:00+00:00,United Kingdom,0.7477547314040209,0,1,en,NEU,Europe
 'cbe591e3a2',extremes,Storm,#b3b2b1,wmo,Storm Otago,2026-10-24T07:32:00+00:00,New Zealand,0.747441005355449,0,1,en,NZ,Oceania
 'af8d91c7e8',extremes,Storm,#b3b2b1,wmo,Storm Marlborough,2026-10-25T07:45:00+00:00,New Zealand,0.7473108982918315,0,1,en,NZ,Oceania
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-10-24T07:32:00+00:00,United Kingdom,0.7472005444983626,0,1,en,NEU,Europe
 '38af90da81',extremes,Storm,#b3b2b1,wmo,Storm Surge South Australia Spencer Gulf,2026-10-25T07:45:00+00:00,Australia,0.7465890866168142,0,1,en,CAU,Oceania
+'25007c63f2',extremes,Flood,#030ba1,wmo,Flooding Queensland Mungallala Creek,2026-10-26T08:02:00+00:00,Australia,0.7462409216769746,0,1,en,CAU,Oceania
+'21aba01270',extremes,Storm,#b3b2b1,wmo,Storm Horowhenua and Kapiti,2026-10-26T08:02:00+00:00,New Zealand,0.7457001693850596,0,1,en,NZ,Oceania
+'6aec7d3876',extremes,Precipitation,#d60d2b,wmo,Downpour Westland District,2026-10-26T08:02:00+00:00,New Zealand,0.7456040321012821,0,1,en,NZ,Oceania
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
 'bc62ce389c',extremes,Flood,#030ba1,wmo,Flooding Queensland Maroochy River,2026-10-24T07:32:00+00:00,Australia,0.7453651612308618,0,1,en,CAU,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-10-24T07:32:00+00:00,Canada,0.7453466627639861,0,1,en,NEN,North-America
