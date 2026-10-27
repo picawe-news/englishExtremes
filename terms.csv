@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
-'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-10-22T07:51:00+00:00,Canada,0.7501824200707987,0,1,en,NEN,North-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-10-12T09:36:00+00:00,New Zealand,0.7500128781082885,0,1,en,NZ,Oceania
 '5ec8a07269',extremes,Heat Wave,#c40202,wmo,Heat Wave Queensland Gulf Country District.,2026-10-26T08:02:00+00:00,Australia,0.7481679918345063,0,1,en,CAU,Oceania
 '98f71c2b8b',extremes,Storm,#b3b2b1,wmo,Storm Surge Tararua District,2026-10-25T07:45:00+00:00,New Zealand,0.7481280609858755,0,1,en,NZ,Oceania
@@ -265,6 +264,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b6e7863c8',extremes,Flood,#030ba1,acwe,high water level Victoria,2026-10-03T08:28:00+00:00,Australia,0.6703702838714933,1,2,en,SAU,Oceania
 '7bb33e1fd2',extremes,Wildfire,#d60d2b,effis,Wildfire Ireland,2026-09-26T07:58:00+00:00,Ireland,0.6685064103918334,1,1,en,NEU,Europe
 '4e80aceb89',extremes,Storm,#b3b2b1,wmo,Storm Eastern and Central Regions,2026-10-09T09:28:00+00:00,Solomon Islands,0.6661478156575352,1,2,en,EPO,Oceania
+'3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,Frost Canada,2026-10-22T07:51:00+00:00,Canada,0.6653331697874516,1,2,en,NEN,North-America
 'e6d71be0be',extremes,Flood,#030ba1,wmo,Flood Allen IN,2026-09-20T07:53:00+00:00,United States,0.6643356647685812,1,2,en,CNA,North-America
 'd79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-09-25T08:06:00+00:00,Australia,0.6634237901824777,1,2,en,CAU,Oceania
 '56898792ff',extremes,Precipitation,#d60d2b,acwe,heavy rain Tasmania,2026-10-24T07:32:00+00:00,Australia,0.660695949657659,1,1,en,SAU,Oceania
