@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
-'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-10-25T07:45:00+00:00,United States,0.7484754507690405,0,1,en,CNA,North-America
 'afd06422c3',extremes,Storm,#b3b2b1,wmo,Storm Wellington,2026-10-25T07:45:00+00:00,New Zealand,0.7481691284514056,0,1,en,NZ,Oceania
 '5ec8a07269',extremes,Heat Wave,#c40202,wmo,Heat Wave Queensland Gulf Country District.,2026-10-26T08:02:00+00:00,Australia,0.7481679918345063,0,1,en,CAU,Oceania
 '98f71c2b8b',extremes,Storm,#b3b2b1,wmo,Storm Surge Tararua District,2026-10-25T07:45:00+00:00,New Zealand,0.7481280609858755,0,1,en,NZ,Oceania
@@ -98,6 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bdccdbf17e',extremes,Flood,#030ba1,wmo,Flooding Dolores CO,2026-09-19T07:30:00+00:00,United States,0.7259630370263871,0,1,en,CNA,North-America
 '7d3c57318d',extremes,Flood,#030ba1,wmo,Flashflood Lake FL Volusia FL,2026-09-24T07:46:00+00:00,United States,0.7259275764683919,0,1,en,CNA,North-America
 '08579e390c',extremes,Earthquake,#870007,usgs,Earthquake Yigo Village,2026-09-20T07:53:00+00:00,Guam,0.725418316232972,0,1,en,NPO,Pacific Ocean
+'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-10-25T07:45:00+00:00,United States,0.7253801231536844,1,3,en,CNA,North-America
 '8e7e08e80c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Jamaica,2026-10-02T08:51:00+00:00,Jamaica,0.7253453643470332,0,1,en,CAR,North-America
 '62dea82beb',extremes,Flood,#030ba1,wmo,Flashflood Grady GA Thomas GA,2026-10-10T08:49:00+00:00,United States,0.7251834681666742,0,1,en,CNA,North-America
 '4e7faf91d4',extremes,Flood,#030ba1,wmo,Flashflood Carroll MO Chariton MO,2026-09-16T07:52:00+00:00,United States,0.7250555468469245,0,1,en,CNA,North-America
