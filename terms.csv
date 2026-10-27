@@ -52,8 +52,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bc62ce389c',extremes,Flood,#030ba1,wmo,Flooding Queensland Maroochy River,2026-10-24T07:32:00+00:00,Australia,0.7453651612308618,0,1,en,CAU,Oceania
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,Storm Surge Canada,2026-10-24T07:32:00+00:00,Canada,0.7453466627639861,0,1,en,NEN,North-America
 '8f4356e24a',extremes,Flood,#030ba1,wmo,Flood Queensland Mungallala Creek,2026-10-25T07:45:00+00:00,Australia,0.7453060093625932,0,1,en,CAU,Oceania
+'ba6a416d46',extremes,Storm,#b3b2b1,wmo,Storm Surge Otago,2026-10-25T07:45:00+00:00,New Zealand,0.7452853381363153,0,1,en,NZ,Oceania
+'65ee6182b7',extremes,Flood,#030ba1,wmo,Flooding Mesa CO Montrose CO Grand UT,2026-10-24T07:32:00+00:00,United States,0.7451937163640503,0,1,en,CNA,North-America
+'c1cf50f134',extremes,Precipitation,#d60d2b,wmo,Precipitation Tararua Range,2026-10-25T07:45:00+00:00,New Zealand,0.7448346329417452,0,1,en,NZ,Oceania
+'3667b11378',extremes,Flood,#030ba1,wmo,Flashflood Queensland Langlo and Ward Rivers,2026-10-23T07:50:00+00:00,Australia,0.7444037887961661,0,1,en,CAU,Oceania
 '364e1752b6',extremes,Snow&Ice,#d60d2b,wmo,Snow Desert Road SH1,2026-09-27T08:29:00+00:00,New Zealand,0.7442887092082268,0,1,en,NZ,Oceania
+'7aae89b8a6',extremes,Flood,#030ba1,wmo,Flashflood Queensland Maroochy River,2026-10-25T07:45:00+00:00,Australia,0.7437253708757302,0,1,en,CAU,Oceania
 '99a031e9a3',extremes,Flood,#030ba1,wmo,Flashflood Queensland Mungallala Creek,2026-10-24T07:32:00+00:00,Australia,0.743535947292696,0,1,en,CAU,Oceania
+'6278bf1264',extremes,Storm,#b3b2b1,wmo,Storm Wollaston Lake Collins Bay,2026-10-25T07:45:00+00:00,Canada,0.7429961611313731,0,1,en,NEN,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
 '601e15e2e6',extremes,Flood,#030ba1,wmo,Flashflood Rio Arriba NM,2026-10-23T07:50:00+00:00,United States,0.7403889885586374,0,1,en,CNA,North-America
 'c29304b0e8',extremes,Flood,#030ba1,wmo,Flashflood Mesa CO Montrose CO Grand UT,2026-10-23T07:50:00+00:00,United States,0.7396326266188481,0,1,en,CNA,North-America
