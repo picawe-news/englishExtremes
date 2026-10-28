@@ -36,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
+'d3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-10-07T09:06:00+00:00,Jamaica,0.7505782326355491,0,1,en,CAR,North-America
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-10-24T07:32:00+00:00,United Kingdom,0.7472005444983626,0,1,en,NEU,Europe
 '38af90da81',extremes,Storm,#b3b2b1,wmo,Storm Surge South Australia Spencer Gulf,2026-10-25T07:45:00+00:00,Australia,0.7465890866168142,0,1,en,CAU,Oceania
 '25007c63f2',extremes,Flood,#030ba1,wmo,Flooding Queensland Mungallala Creek,2026-10-26T08:02:00+00:00,Australia,0.7462409216769746,0,1,en,CAU,Oceania
@@ -64,8 +65,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a2ec9b2a4',extremes,Flood,#030ba1,wmo,Flashflood Mineral CO Rio Grande CO,2026-10-24T07:32:00+00:00,United States,0.7411265523309717,0,1,en,CNA,North-America
 '0cb7e027f5',extremes,Flood,#030ba1,wmo,Flood Queensland Langlo and Ward Rivers,2026-10-23T07:50:00+00:00,Australia,0.7410120040316573,0,1,en,CAU,Oceania
 '1617e554bb',extremes,Storm,#b3b2b1,wmo,Storm Surge Coastal and offshore areas.,2026-10-12T09:36:00+00:00,Belize,0.7406431712874172,0,1,en,SCA,North-America
+'cc236a4cfe',extremes,Flood,#030ba1,wmo,Flooding Rio Arriba NM,2026-10-25T07:45:00+00:00,United States,0.7405411950787453,0,1,en,CNA,North-America
 '601e15e2e6',extremes,Flood,#030ba1,wmo,Flashflood Rio Arriba NM,2026-10-23T07:50:00+00:00,United States,0.7403889885586374,0,1,en,CNA,North-America
+'3e53d70366',extremes,Flood,#030ba1,wmo,Flooding Trout River,2026-10-10T08:49:00+00:00,United States,0.740380003575911,0,1,en,CNA,North-America
 'c29304b0e8',extremes,Flood,#030ba1,wmo,Flashflood Mesa CO Montrose CO Grand UT,2026-10-23T07:50:00+00:00,United States,0.7396326266188481,0,1,en,CNA,North-America
+'d567d1b2ba',extremes,Flood,#030ba1,wmo,Flood El Paso TX,2026-10-26T08:02:00+00:00,United States,0.739631373161863,0,1,en,CNA,North-America
+'f0f611b883',extremes,Storm,#b3b2b1,wmo,Storm Churchill,2026-10-24T07:32:00+00:00,Canada,0.7396086818873417,0,1,en,NEN,North-America
+'cbb83acd93',extremes,Flood,#030ba1,wmo,Flashflood Northwest Plateau,2026-10-24T07:32:00+00:00,United States,0.7391997713571756,0,1,en,CNA,North-America
 'c14251eb81',extremes,Fog,#d60d2b,wmo,Fog Mason Oceana,2026-10-23T07:50:00+00:00,United States,0.7390778702792613,0,1,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 'd5a68fc886',extremes,Flood,#030ba1,wmo,Flooding Montezuma CO San Juan UT,2026-10-23T07:50:00+00:00,United States,0.738865414849549,0,1,en,CNA,North-America
