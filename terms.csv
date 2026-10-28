@@ -36,7 +36,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
-'d3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-10-07T09:06:00+00:00,Jamaica,0.7505782326355491,0,1,en,CAR,North-America
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-10-24T07:32:00+00:00,United Kingdom,0.7472005444983626,0,1,en,NEU,Europe
 '38af90da81',extremes,Storm,#b3b2b1,wmo,Storm Surge South Australia Spencer Gulf,2026-10-25T07:45:00+00:00,Australia,0.7465890866168142,0,1,en,CAU,Oceania
 '25007c63f2',extremes,Flood,#030ba1,wmo,Flooding Queensland Mungallala Creek,2026-10-26T08:02:00+00:00,Australia,0.7462409216769746,0,1,en,CAU,Oceania
@@ -318,6 +317,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b13d8429b3',extremes,Storm,#b3b2b1,wmo,Storm Northeastern Ghana,2026-09-17T07:56:00+00:00,Ghana,0.6394021235728924,1,1,en,WAF,Africa
 '14ecb8c2a0',extremes,Drought,#edc291,edo,Drought Nigeria,2026-09-22T07:54:00+00:00,Nigeria,0.6386760321188794,1,2,en,WAF,Africa
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-09-18T07:34:00+00:00,New Zealand,0.6385197691442569,1,1,en,NZ,Oceania
+'d3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-10-07T09:06:00+00:00,Jamaica,0.6382915427402167,1,1,en,CAR,North-America
 'ff0ed04649',extremes,Precipitation,#d60d2b,wmo,Precipitation Westland District,2026-10-25T07:45:00+00:00,New Zealand,0.6381412170315532,1,1,en,NZ,Oceania
 '9360b8b9af',extremes,Storm,#b3b2b1,wmo,Storm Salluit Kangiqsujuaq Raglan Lake,2026-09-23T07:55:00+00:00,Canada,0.638112441415697,1,1,en,NEN,North-America
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,Rain Seychelles,2026-09-20T07:53:00+00:00,Seychelles,0.638030791909975,1,1,en,EIO,Africa
