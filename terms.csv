@@ -35,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6af3e7612f',extremes,Storm,#b3b2b1,wmo,Storm Christchurch,2026-10-25T07:45:00+00:00,New Zealand,0.76584233575326,1,2,en,NZ,Oceania
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7656350824923106,1,3,en,SAS,Asia
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
-'68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-10-13T09:41:00+00:00,New Zealand,0.756513877183609,0,1,en,NZ,Oceania
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
@@ -296,6 +295,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2072c25fd3',extremes,Drought,#edc291,edo,Dry Spell Guyana,2026-09-21T08:09:00+00:00,Guyana,0.6444976802740264,1,1,en,NSA,South-America
 'b8b3dce5ca',extremes,Wildfire,#d60d2b,effis,Bushfire Powys United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.6436351634597369,1,1,en,NEU,Europe
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,Rain New Zealand,2026-10-13T09:41:00+00:00,New Zealand,0.6434247727441063,1,2,en,NZ,Oceania
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,Storm Surge New Zealand,2026-10-13T09:41:00+00:00,New Zealand,0.6433368256060676,1,1,en,NZ,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,warm spell Australia,2026-10-21T07:55:00+00:00,Australia,0.643330366819539,1,1,en,CAU,Oceania
 '6dbede6031',extremes,Wildfire,#d60d2b,effis,Bushfire Central Valleys United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.6432900342259208,1,1,en,NEU,Europe
 'e84b4cec74',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom Powys Powys,2026-10-20T07:51:00+00:00,United Kingdom,0.6432048180959284,1,1,en,NEU,Europe
