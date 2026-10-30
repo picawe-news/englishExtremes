@@ -37,9 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
-'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2026-10-23T07:50:00+00:00,United Kingdom,0.7426147178402327,0,1,en,NEU,Europe
-'b113e89c9d',extremes,Snow&Ice,#d60d2b,wmo,Ice Ivujivik Salluit,2026-10-26T08:02:00+00:00,Canada,0.742183331729397,0,1,en,NEN,North-America
-'97353eb30f',extremes,Flood,#030ba1,wmo,Flooding San Juan NM,2026-10-24T07:32:00+00:00,United States,0.7421154443203744,0,1,en,CNA,North-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7420299258201009,0,1,en,NEN,North-America
 '5810a30c61',extremes,Flood,#030ba1,wmo,Flashflood San Juan NM,2026-10-23T07:50:00+00:00,United States,0.7418333804088661,0,1,en,CNA,North-America
 'ddd16272c4',extremes,Flood,#030ba1,wmo,Flood Montezuma CO San Juan UT,2026-10-24T07:32:00+00:00,United States,0.7415770070215825,0,1,en,CNA,North-America
@@ -371,7 +368,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '872efa97c6',extremes,Snow&Ice,#d60d2b,wmo,Frost Dempster,2026-10-20T07:51:00+00:00,Canada,0.6314604554400168,1,1,en,NEN,North-America
 'e4368ca7b9',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone North Walton,2026-10-09T09:28:00+00:00,United States,0.6313968165547711,1,1,en,CNA,North-America
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,Frost New Zealand,2026-09-26T07:58:00+00:00,New Zealand,0.6312675152151076,1,1,en,NZ,Oceania
+'bc92de09b1',extremes,Flood,#030ba1,wmo,Flashflood United Kingdom,2026-10-23T07:50:00+00:00,United Kingdom,0.6312225101641977,1,1,en,NEU,Europe
 'f8590cb095',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone South Walton,2026-10-09T09:28:00+00:00,United States,0.6309583512100891,1,1,en,CNA,North-America
+'97353eb30f',extremes,Flood,#030ba1,wmo,Flooding San Juan NM,2026-10-24T07:32:00+00:00,United States,0.6309481426723181,1,1,en,CNA,North-America
+'b113e89c9d',extremes,Snow&Ice,#d60d2b,wmo,Ice Ivujivik Salluit,2026-10-26T08:02:00+00:00,Canada,0.6308558319699874,1,1,en,NEN,North-America
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-09-28T08:54:00+00:00,Seychelles,0.6308246816330673,1,1,en,EIO,Africa
 '6e78669cad',extremes,Flood,#030ba1,wmo,Flooding Queensland Langlo and Ward Rivers,2026-10-22T07:51:00+00:00,Australia,0.6306797251975396,1,1,en,CAU,Oceania
 'dd7bff5546',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Central Walton,2026-10-09T09:28:00+00:00,United States,0.630641870833395,1,1,en,CNA,North-America
