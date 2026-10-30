@@ -70,8 +70,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bea90aebe5',extremes,Flood,#030ba1,wmo,Flooding Keswick Campsite,2026-10-25T07:45:00+00:00,United Kingdom,0.7360802859420684,0,1,en,NEU,Europe
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,Freezing United States,2026-10-10T08:49:00+00:00,United States,0.7360558988060296,0,1,en,CNA,North-America
 '07e9351cc5',extremes,Flood,#030ba1,wmo,Flashflood Dorchester Wicomico Somerset,2026-10-24T07:32:00+00:00,United States,0.7359297672047049,0,1,en,CNA,North-America
+'e40f8944db',extremes,Fog,#d60d2b,wmo,Fog Converse County Lower Elevations,2026-10-27T08:14:00+00:00,United States,0.7358899005468064,0,1,en,CNA,North-America
+'8af55de33c',extremes,Storm,#b3b2b1,wmo,Storm Akulivik Puvirnituq,2026-10-25T07:45:00+00:00,Canada,0.7355442925016273,0,1,en,NEN,North-America
 'f77dd544c5',extremes,Flood,#030ba1,wmo,Flooding Archuleta CO,2026-10-23T07:50:00+00:00,United States,0.7354958081593004,0,1,en,CNA,North-America
+'cdfc295f7f',extremes,Flood,#030ba1,wmo,Flooding North Sea at Scarborough Sandside,2026-10-24T07:32:00+00:00,United Kingdom,0.7350173603388751,0,1,en,NEU,Europe
 '0c844be7b0',extremes,Storm,#b3b2b1,wmo,Storm Surge Eastern Region,2026-09-24T07:46:00+00:00,Solomon Islands,0.7349820741652753,1,2,en,EPO,Oceania
+'c7e10fb981',extremes,Flood,#030ba1,wmo,Flashflood Grand UT San Juan UT,2026-10-23T07:50:00+00:00,United States,0.7346959487718803,0,1,en,CNA,North-America
+'3d9ce39ad5',extremes,Flood,#030ba1,wmo,Flooding Queensland Six Mile Creek,2026-10-27T08:14:00+00:00,Australia,0.7346542324823109,0,1,en,CAU,Oceania
+'b55f467e15',extremes,Flood,#030ba1,wmo,Flashflood Charles King George,2026-10-22T07:51:00+00:00,United States,0.7345386714945725,0,1,en,CNA,North-America
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-10-09T09:28:00+00:00,Belize,0.7324753543065043,1,2,en,SCA,North-America
 '6f64e24418',extremes,Flood,#030ba1,wmo,Flooding Clinton OH Warren OH,2026-09-20T07:53:00+00:00,United States,0.7286498408778388,0,1,en,CNA,North-America
 '9f1207cda5',extremes,Flood,#030ba1,wmo,Flooding Sarasota FL,2026-10-15T07:40:00+00:00,United States,0.7286048862637042,0,1,en,CNA,North-America
