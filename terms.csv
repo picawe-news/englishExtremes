@@ -41,6 +41,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cc236a4cfe',extremes,Flood,#030ba1,wmo,Flooding Rio Arriba NM,2026-10-25T07:45:00+00:00,United States,0.7405411950787453,0,1,en,CNA,North-America
 '601e15e2e6',extremes,Flood,#030ba1,wmo,Flashflood Rio Arriba NM,2026-10-23T07:50:00+00:00,United States,0.7403889885586374,0,1,en,CNA,North-America
 '3e53d70366',extremes,Flood,#030ba1,wmo,Flooding Trout River,2026-10-10T08:49:00+00:00,United States,0.740380003575911,0,1,en,CNA,North-America
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-10-09T09:28:00+00:00,Canada,0.7402760758366402,0,1,en,NEN,North-America
 'c29304b0e8',extremes,Flood,#030ba1,wmo,Flashflood Mesa CO Montrose CO Grand UT,2026-10-23T07:50:00+00:00,United States,0.7396326266188481,0,1,en,CNA,North-America
 'd567d1b2ba',extremes,Flood,#030ba1,wmo,Flood El Paso TX,2026-10-26T08:02:00+00:00,United States,0.739631373161863,0,1,en,CNA,North-America
 'f0f611b883',extremes,Storm,#b3b2b1,wmo,Storm Churchill,2026-10-24T07:32:00+00:00,Canada,0.7396086818873417,0,1,en,NEN,North-America
@@ -74,6 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b55f467e15',extremes,Flood,#030ba1,wmo,Flashflood Charles King George,2026-10-22T07:51:00+00:00,United States,0.7345386714945725,0,1,en,CNA,North-America
 '577a43566a',extremes,Precipitation,#d60d2b,wmo,Downpour Belize,2026-10-17T07:08:00+00:00,Belize,0.7344332933302351,0,1,en,SCA,North-America
 '5c8ef0eb4f',extremes,Flood,#030ba1,wmo,Flood Northwest Plateau,2026-10-22T07:51:00+00:00,United States,0.734428868141601,0,1,en,CNA,North-America
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-10-24T07:32:00+00:00,United States,0.7343385567768834,0,1,en,CNA,North-America
 'a2774af8f4',extremes,Flood,#030ba1,wmo,Flood Coconino AZ Navajo AZ,2026-10-26T08:02:00+00:00,United States,0.7341284344582099,0,1,en,CNA,North-America
 '0ac83dc83d',extremes,Flood,#030ba1,wmo,Flashflood Apache AZ,2026-10-23T07:50:00+00:00,United States,0.7338013629722925,0,1,en,CNA,North-America
 '4ccb25d235',extremes,Flood,#030ba1,wmo,Flood Virginia Beach,2026-10-22T07:51:00+00:00,United States,0.7336990245944972,0,1,en,CNA,North-America
@@ -83,6 +85,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c7a4379e8',extremes,Flood,#030ba1,wmo,Flood Ocracoke Island,2026-10-24T07:32:00+00:00,United States,0.7326698415677965,0,1,en,CNA,North-America
 '7e75318f27',extremes,Flood,#030ba1,wmo,Flooding Bering Strait Coast,2026-10-24T07:32:00+00:00,United States,0.7325469993051658,0,1,en,CNA,North-America
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-10-09T09:28:00+00:00,Belize,0.7324753543065043,1,2,en,SCA,North-America
+'9bb8c0a528',extremes,Flood,#030ba1,wmo,Flooding Boise Mountains,2026-10-23T07:50:00+00:00,United States,0.7324229250449,0,1,en,CNA,North-America
+'2dfb86050b',extremes,Fog,#d60d2b,wmo,Fog Osceola Clare,2026-10-23T07:50:00+00:00,United States,0.731925816362897,0,1,en,CNA,North-America
+'dc331f4837',extremes,Storm,#b3b2b1,wmo,Storm Surge Howe Sound,2026-10-25T07:45:00+00:00,Canada,0.7313703760036377,0,1,en,NEN,North-America
+'35fa574ff8',extremes,Flood,#030ba1,wmo,Flood Alamosa CO,2026-10-26T08:02:00+00:00,United States,0.7312545084536515,0,1,en,CNA,North-America
 '6f64e24418',extremes,Flood,#030ba1,wmo,Flooding Clinton OH Warren OH,2026-09-20T07:53:00+00:00,United States,0.7286498408778388,0,1,en,CNA,North-America
 '9f1207cda5',extremes,Flood,#030ba1,wmo,Flooding Sarasota FL,2026-10-15T07:40:00+00:00,United States,0.7286048862637042,0,1,en,CNA,North-America
 '1b0a088319',extremes,Precipitation,#d60d2b,wmo,Rain Northern Peninsula East,2026-09-19T07:30:00+00:00,Canada,0.7283760413331501,0,1,en,NEN,North-America
