@@ -79,6 +79,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c8ef0eb4f',extremes,Flood,#030ba1,wmo,Flood Northwest Plateau,2026-10-22T07:51:00+00:00,United States,0.734428868141601,0,1,en,CNA,North-America
 'a2774af8f4',extremes,Flood,#030ba1,wmo,Flood Coconino AZ Navajo AZ,2026-10-26T08:02:00+00:00,United States,0.7341284344582099,0,1,en,CNA,North-America
 '0ac83dc83d',extremes,Flood,#030ba1,wmo,Flashflood Apache AZ,2026-10-23T07:50:00+00:00,United States,0.7338013629722925,0,1,en,CNA,North-America
+'4ccb25d235',extremes,Flood,#030ba1,wmo,Flood Virginia Beach,2026-10-22T07:51:00+00:00,United States,0.7336990245944972,0,1,en,CNA,North-America
+'e0bb0d7e8a',extremes,Flood,#030ba1,wmo,Flood Lake FL Volusia FL,2026-10-27T08:14:00+00:00,United States,0.7335494666986241,0,1,en,CNA,North-America
+'9287c99e36',extremes,Flood,#030ba1,wmo,Flood Trout River,2026-10-09T09:28:00+00:00,United States,0.7330625788980462,0,1,en,CNA,North-America
+'62423e6c71',extremes,Flood,#030ba1,wmo,Flashflood Cibola NM Valencia NM,2026-10-26T08:02:00+00:00,United States,0.7329346372153667,0,1,en,CNA,North-America
+'9c7a4379e8',extremes,Flood,#030ba1,wmo,Flood Ocracoke Island,2026-10-24T07:32:00+00:00,United States,0.7326698415677965,0,1,en,CNA,North-America
+'7e75318f27',extremes,Flood,#030ba1,wmo,Flooding Bering Strait Coast,2026-10-24T07:32:00+00:00,United States,0.7325469993051658,0,1,en,CNA,North-America
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,Storm Belize,2026-10-09T09:28:00+00:00,Belize,0.7324753543065043,1,2,en,SCA,North-America
 '6f64e24418',extremes,Flood,#030ba1,wmo,Flooding Clinton OH Warren OH,2026-09-20T07:53:00+00:00,United States,0.7286498408778388,0,1,en,CNA,North-America
 '9f1207cda5',extremes,Flood,#030ba1,wmo,Flooding Sarasota FL,2026-10-15T07:40:00+00:00,United States,0.7286048862637042,0,1,en,CNA,North-America
