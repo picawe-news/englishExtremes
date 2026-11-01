@@ -84,6 +84,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2dfb86050b',extremes,Fog,#d60d2b,wmo,Fog Osceola Clare,2026-10-23T07:50:00+00:00,United States,0.731925816362897,0,1,en,CNA,North-America
 'dc331f4837',extremes,Storm,#b3b2b1,wmo,Storm Surge Howe Sound,2026-10-25T07:45:00+00:00,Canada,0.7313703760036377,0,1,en,NEN,North-America
 '35fa574ff8',extremes,Flood,#030ba1,wmo,Flood Alamosa CO,2026-10-26T08:02:00+00:00,United States,0.7312545084536515,0,1,en,CNA,North-America
+'b038b7c94e',extremes,Earthquake,#870007,usgs,Earthquake Solomon Islands,2026-10-17T07:08:00+00:00,Solomon Islands,0.7310734677190441,0,1,en,SPO,Pacific Ocean
+'ee3251f277',extremes,Storm,#b3b2b1,wmo,Storm New South Wales Eden Coast,2026-10-26T08:02:00+00:00,Australia,0.7310630832546585,0,1,en,CAU,Oceania
+'50afd5e593',extremes,Flood,#030ba1,wmo,Flood Presidio TX,2026-10-27T08:14:00+00:00,United States,0.7309619757919115,0,1,en,CNA,North-America
+'6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,Freezing Australia,2026-10-25T07:45:00+00:00,Australia,0.7302400852143317,0,1,en,CAU,Oceania
+'6844d7c96e',extremes,Snow&Ice,#d60d2b,wmo,Ice Shishmaref Bering Strait Coast,2026-10-23T07:50:00+00:00,United States,0.7301343347037805,0,1,en,CNA,North-America
+'1956cfff74',extremes,Wildfire,#d60d2b,acwe,fire ban Victoria,2026-10-26T08:02:00+00:00,Australia,0.7299051621686238,0,1,en,SAU,Oceania
 '6f64e24418',extremes,Flood,#030ba1,wmo,Flooding Clinton OH Warren OH,2026-09-20T07:53:00+00:00,United States,0.7286498408778388,0,1,en,CNA,North-America
 '9f1207cda5',extremes,Flood,#030ba1,wmo,Flooding Sarasota FL,2026-10-15T07:40:00+00:00,United States,0.7286048862637042,0,1,en,CNA,North-America
 '1b0a088319',extremes,Precipitation,#d60d2b,wmo,Rain Northern Peninsula East,2026-09-19T07:30:00+00:00,Canada,0.7283760413331501,0,1,en,NEN,North-America
