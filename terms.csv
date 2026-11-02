@@ -92,20 +92,26 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f64e24418',extremes,Flood,#030ba1,wmo,Flooding Clinton OH Warren OH,2026-09-20T07:53:00+00:00,United States,0.7286498408778388,0,1,en,CNA,North-America
 '9f1207cda5',extremes,Flood,#030ba1,wmo,Flooding Sarasota FL,2026-10-15T07:40:00+00:00,United States,0.7286048862637042,0,1,en,CNA,North-America
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-10-26T08:02:00+00:00,Australia,0.7285929366609624,0,1,en,SAU,Oceania
+'3c5b48cfca',extremes,Fog,#d60d2b,wmo,Fog Hardin Mercer Auglaize,2026-10-24T07:32:00+00:00,United States,0.7284179866805254,0,1,en,CNA,North-America
 '1b0a088319',extremes,Precipitation,#d60d2b,wmo,Rain Northern Peninsula East,2026-09-19T07:30:00+00:00,Canada,0.7283760413331501,0,1,en,NEN,North-America
 '2c372f5133',extremes,Flood,#030ba1,wmo,Flooding Fayette IA,2026-09-20T07:53:00+00:00,United States,0.7281711532411719,0,1,en,CNA,North-America
+'9285bb1a52',extremes,Flood,#030ba1,wmo,Flood San Juan NM,2026-10-23T07:50:00+00:00,United States,0.7281619779899315,0,1,en,CNA,North-America
 'aaa5adeda5',extremes,Storm,#b3b2b1,wmo,Storm Surge Victoria East Gippsland Coast,2026-09-19T07:30:00+00:00,Australia,0.7280704163035429,0,1,en,CAU,Oceania
 'ce49293b0b',extremes,Flood,#030ba1,wmo,Flashflood Victoria Avoca River,2026-09-30T08:53:00+00:00,Australia,0.7280482967128113,0,1,en,CAU,Oceania
 'd29253d0b5',extremes,Flood,#030ba1,wmo,Flooding Val Verde TX,2026-09-30T08:53:00+00:00,United States,0.7278983928914221,0,1,en,CNA,North-America
 '6b5acd7360',extremes,Drought,#edc291,edo,Dry Spell Falkland Islands,2026-09-22T07:54:00+00:00,Falkland Islands,0.7278370856713964,0,1,en,SSA,South-America
 '225e8ff373',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Inland Valleys,2026-10-01T09:18:00+00:00,United States,0.7278273347366752,0,1,en,CNA,North-America
+'a25ea03228',extremes,Earthquake,#870007,usgs,Earthquake Namibia,2026-10-22T07:51:00+00:00,Namibia,0.7276562552866632,0,1,en,WSAF,Africa
+'8a37e11c8f',extremes,Fog,#d60d2b,wmo,Fog Washington Ozaukee,2026-10-24T07:32:00+00:00,United States,0.727639442442398,0,1,en,CNA,North-America
 '7a1d28bed6',extremes,Fog,#d60d2b,wmo,Fog Marquette to Munising MI,2026-09-29T08:53:00+00:00,United States,0.727526063125854,0,1,en,CNA,North-America
+'799977881b',extremes,Flood,#030ba1,wmo,Flooding Alamosa CO Conejos CO,2026-10-26T08:02:00+00:00,United States,0.7274623744018788,0,1,en,CNA,North-America
 '62010d07c5',extremes,Flood,#030ba1,wmo,Flooding Imperial CA,2026-10-11T09:12:00+00:00,United States,0.7270941321307567,0,1,en,CNA,North-America
 '8d1d12e298',extremes,Heat Wave,#c40202,wmo,Heat Wave Orange County Inland,2026-10-01T09:18:00+00:00,United States,0.7268048258162308,0,1,en,CNA,North-America
 'c47d302a31',extremes,Flood,#030ba1,wmo,Flood Vernon WI,2026-09-20T07:53:00+00:00,United States,0.7267590891394842,0,1,en,CNA,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,Downpour Canada,2026-09-25T08:06:00+00:00,Canada,0.7267471132398948,0,1,en,NEN,North-America
 '386d2eebd7',extremes,Flood,#030ba1,wmo,Flooding Clinton IA Scott IA,2026-09-21T08:09:00+00:00,United States,0.7266260628343976,0,1,en,CNA,North-America
 'bb125c9aa5',extremes,Earthquake,#870007,usgs,Earthquake Tezpur,2026-10-06T09:14:00+00:00,India,0.7265824383552711,0,1,en,SAS,Asia
+'3587237ed8',extremes,Flood,#030ba1,wmo,Flood Northern Outer Banks,2026-10-27T08:14:00+00:00,United States,0.7264643623059487,0,1,en,CNA,North-America
 'b267664ec6',extremes,Fog,#d60d2b,wmo,Fog Burke Lee Sumter,2026-10-02T08:51:00+00:00,United States,0.7264537999709767,0,1,en,CNA,North-America
 '091c5d3f02',extremes,Fog,#d60d2b,wmo,Fog Sheboygan,2026-10-13T09:41:00+00:00,United States,0.7263369107128976,0,1,en,CNA,North-America
 '62d2093048',extremes,Flood,#030ba1,wmo,Flood Blaine OK Caddo OK,2026-10-14T07:55:00+00:00,United States,0.7263176592179108,0,1,en,CNA,North-America
