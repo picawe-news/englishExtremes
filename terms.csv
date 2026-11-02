@@ -38,16 +38,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6af3e7612f',extremes,Storm,#b3b2b1,wmo,Storm Christchurch,2026-10-25T07:45:00+00:00,New Zealand,0.76584233575326,1,2,en,NZ,Oceania
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7656350824923106,1,3,en,SAS,Asia
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
-'2072c25fd3',extremes,Drought,#edc291,edo,Dry Spell Guyana,2026-10-11T09:12:00+00:00,Guyana,0.760754290500906,0,1,en,NSA,South-America
 'b1eb375b87',extremes,Drought,#edc291,edo,Lack of Rain Uganda,2026-09-30T08:54:00+00:00,Uganda,0.7544102680985972,0,1,en,SEAF,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
-'dd534a2468',extremes,Flood,#030ba1,wmo,Flooding Coconino AZ Navajo AZ,2026-10-24T07:32:00+00:00,United States,0.7386069336913185,0,1,en,CNA,North-America
-'19c5cbf5c4',extremes,Flood,#030ba1,wmo,Flashflood San Juan UT,2026-10-23T07:50:00+00:00,United States,0.7385748075634574,0,1,en,CNA,North-America
-'ed9de68927',extremes,Flood,#030ba1,wmo,Flood Queensland Six Mile Creek,2026-10-27T08:14:00+00:00,Australia,0.7379017235808857,0,1,en,CAU,Oceania
-'0686dda28c',extremes,Flood,#030ba1,wmo,Flood Monroe Upper Keys,2026-10-25T07:45:00+00:00,United States,0.7378949860979275,0,1,en,CNA,North-America
-'08c4e422cd',extremes,Flood,#030ba1,wmo,Flooding Rio Grande CO,2026-10-25T07:45:00+00:00,United States,0.7378539408890598,0,1,en,CNA,North-America
 '59f812aa81',extremes,Earthquake,#870007,usgs,Earthquake Khorixas,2026-10-23T07:50:00+00:00,Namibia,0.7375147481312966,0,1,en,WSAF,Africa
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-10-23T07:50:00+00:00,Canada,0.7370442447440418,1,3,en,NEN,North-America
 'b6b9c97c91',extremes,Flood,#030ba1,wmo,Flashflood Kane UT San Juan UT,2026-10-25T07:45:00+00:00,United States,0.7370403575353075,0,1,en,CNA,North-America
@@ -297,6 +291,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03d5c98bdb',extremes,Wildfire,#d60d2b,effis,Wildfire United Kingdom,2026-09-27T08:29:00+00:00,United Kingdom,0.6469536763374403,1,1,en,NEU,Europe
 '98b2023d88',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Zimbabwe,2026-09-28T08:54:00+00:00,Zimbabwe,0.6468791395317893,1,1,en,ESAF,Africa
 'bd8ddf35a6',extremes,Thunderstorm,#53785a,wmo,Hail Zimbabwe,2026-09-29T08:53:00+00:00,Zimbabwe,0.646654563972183,1,1,en,ESAF,Africa
+'2072c25fd3',extremes,Drought,#edc291,edo,Dry Spell Guyana,2026-10-11T09:12:00+00:00,Guyana,0.6466411469257701,1,1,en,NSA,South-America
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,warm spell Tasmania,2026-09-28T08:54:00+00:00,Australia,0.6465669093053978,1,1,en,SAU,Oceania
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-10-12T09:36:00+00:00,United States,0.6464360863619129,1,2,en,CNA,North-America
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ghana,2026-09-29T08:53:00+00:00,Ghana,0.6463735580273942,1,1,en,WAF,Africa
@@ -416,14 +411,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e797c4058',extremes,Earthquake,#870007,usgs,Earthquake Fiji,2026-09-25T08:06:00+00:00,Fiji,0.6281164991572838,1,1,en,SPO,Pacific Ocean
 '375d80268a',extremes,Storm,#b3b2b1,wmo,Storm Surge Teslin Atlin,2026-10-20T07:51:00+00:00,Canada,0.6280649024509126,1,1,en,NEN,North-America
 'd5a68fc886',extremes,Flood,#030ba1,wmo,Flooding Montezuma CO San Juan UT,2026-10-23T07:50:00+00:00,United States,0.6280356026221167,1,1,en,CNA,North-America
+'dd534a2468',extremes,Flood,#030ba1,wmo,Flooding Coconino AZ Navajo AZ,2026-10-24T07:32:00+00:00,United States,0.6278158936376207,1,1,en,CNA,North-America
+'19c5cbf5c4',extremes,Flood,#030ba1,wmo,Flashflood San Juan UT,2026-10-23T07:50:00+00:00,United States,0.6277885864289388,1,1,en,CNA,North-America
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,Frost Milford Road SH94,2026-09-26T07:58:00+00:00,New Zealand,0.6277798561743664,1,1,en,NZ,Oceania
 'beae210554',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Mobile Inland,2026-10-08T09:21:00+00:00,United States,0.6275651187526414,1,1,en,CNA,North-America
 'c36f3e3bd2',extremes,Earthquake,#870007,usgs,Earthquake Inglewood,2026-10-06T09:14:00+00:00,New Zealand,0.6275048225033507,1,1,en,NZ,Oceania
 '8d45c460d3',extremes,Heat Wave,#c40202,wmo,Heat Wave Most Districts.,2026-10-13T09:41:00+00:00,Botswana,0.6274287075837582,1,1,en,WSAF,Africa
 'f04bdcd4a3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Tinian Saipan,2026-10-17T07:08:00+00:00,United States,0.6273818354256236,1,1,en,CNA,North-America
+'08c4e422cd',extremes,Flood,#030ba1,wmo,Flooding Rio Grande CO,2026-10-25T07:45:00+00:00,United States,0.6273258647557007,1,1,en,CNA,North-America
 'ba773c91ed',extremes,Storm,#b3b2b1,wmo,Storm Surge Resolute,2026-10-22T07:51:00+00:00,Canada,0.6272919479349603,1,1,en,NEN,North-America
 '7854de7144',extremes,Flood,#030ba1,wmo,Flood Queensland Maroochy River,2026-10-22T07:51:00+00:00,Australia,0.6272358869654759,1,1,en,CAU,Oceania
 'a4e41d3dc6',extremes,Snow&Ice,#d60d2b,wmo,Snow Naujaat,2026-09-28T08:54:00+00:00,Canada,0.627233197173649,1,1,en,NEN,North-America
+'ed9de68927',extremes,Flood,#030ba1,wmo,Flood Queensland Six Mile Creek,2026-10-27T08:14:00+00:00,Australia,0.6272164650437528,1,1,en,CAU,Oceania
+'0686dda28c',extremes,Flood,#030ba1,wmo,Flood Monroe Upper Keys,2026-10-25T07:45:00+00:00,United States,0.6272107381832384,1,1,en,CNA,North-America
 'd1e506dfbd',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Santa Rosa Inland,2026-10-08T09:21:00+00:00,United States,0.6270379776513567,1,1,en,CNA,North-America
 '0a0ca0835a',extremes,Storm,#b3b2b1,wmo,Storm Surge Gjoa Haven,2026-10-15T07:40:00+00:00,Canada,0.6270308791464364,1,1,en,NEN,North-America
 '26862b1b5f',extremes,Drought,#edc291,edo,Drought Dominica,2026-10-02T08:51:00+00:00,Dominica,0.6270262205696542,1,1,en,CAR,North-America
