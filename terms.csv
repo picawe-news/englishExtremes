@@ -117,6 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,Heat Wave United States,2026-10-25T07:45:00+00:00,United States,0.7253801231536844,1,3,en,CNA,North-America
 '8e7e08e80c',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Jamaica,2026-10-02T08:51:00+00:00,Jamaica,0.7253453643470332,0,1,en,CAR,North-America
 '62dea82beb',extremes,Flood,#030ba1,wmo,Flashflood Grady GA Thomas GA,2026-10-10T08:49:00+00:00,United States,0.7251834681666742,0,1,en,CNA,North-America
+'a882535a75',extremes,Flood,#030ba1,wmo,Flashflood Hudspeth TX,2026-10-25T07:45:00+00:00,United States,0.7250428845162904,0,1,en,CNA,North-America
 'e3f478e59c',extremes,Flood,#030ba1,wmo,Flashflood Victoria Ovens and King Rivers,2026-10-01T09:18:00+00:00,Australia,0.7250073739048204,0,1,en,CAU,Oceania
 'f9353da6b5',extremes,Flood,#030ba1,wmo,Flood Carroll MO Chariton MO,2026-10-05T09:29:00+00:00,United States,0.7249351423143999,0,1,en,CNA,North-America
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,Earthquake India,2026-10-10T08:49:00+00:00,India,0.7249166374749217,0,1,en,TIB,Asia
@@ -124,11 +125,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7127511dcb',extremes,Wildfire,#d60d2b,effis,Wildfire South East Ireland,2026-09-26T07:58:00+00:00,Ireland,0.7246206143192498,0,1,en,NEU,Europe
 '26ebc0acee',extremes,Tsunami,#690191,usgs,Tsunami Canada,2026-09-28T08:53:00+00:00,Canada,0.7246191952546334,0,1,en,NPO,Pacific Ocean
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,wet spell New South Wales,2026-10-03T08:28:00+00:00,Australia,0.7245620399400211,0,1,en,EAU,Oceania
+'b4a15007a9',extremes,Fog,#d60d2b,wmo,Fog Norman Wells Tulita Region,2026-10-24T07:32:00+00:00,Canada,0.7244222444781826,0,1,en,NEN,North-America
 '3ce9863fa9',extremes,Flood,#030ba1,wmo,Flood Wells IN,2026-09-19T07:30:00+00:00,United States,0.7244129833498685,0,1,en,CNA,North-America
 '471650486f',extremes,Flood,#030ba1,wmo,Flood Calhoun WV Jackson WV Roane WV,2026-09-21T08:09:00+00:00,United States,0.7243248554267205,0,1,en,CNA,North-America
 '4bfbd1e28d',extremes,Drought,#edc291,edo,Dryness Kiribati,2026-09-22T07:54:00+00:00,Kiribati,0.7242764627336356,0,1,en,EAO,Atlantic Ocean
 '8150771e7c',extremes,Snow&Ice,#d60d2b,wmo,Frost Baraga Iron Southern Houghton,2026-09-22T07:54:00+00:00,United States,0.7239530217562216,0,1,en,CNA,North-America
 'a40075bdce',extremes,Fog,#d60d2b,wmo,Fog Petersburg Borough,2026-10-02T08:51:00+00:00,United States,0.7237932191134943,0,1,en,CNA,North-America
+'0f62c5618c',extremes,Storm,#b3b2b1,wmo,Storm Surge United States,2026-10-07T09:06:00+00:00,United States,0.7237561130675245,0,1,en,CNA,North-America
+'cb1c4211d6',extremes,Snow&Ice,#d60d2b,wmo,Frost Little Belt and Highwood Mountains,2026-10-22T07:51:00+00:00,United States,0.7236775289507568,0,1,en,CNA,North-America
+'6b6bffc329',extremes,Flood,#030ba1,wmo,Flooding Bosham and West Itchenor,2026-10-26T08:02:00+00:00,United Kingdom,0.7236454522852586,0,1,en,NEU,Europe
+'5116a2b958',extremes,Fog,#d60d2b,wmo,Fog Ingham Jackson,2026-10-25T07:45:00+00:00,United States,0.723601563385231,0,1,en,CNA,North-America
 'c45708a23a',extremes,Flood,#030ba1,wmo,Flooding Victoria Avon River,2026-09-30T08:53:00+00:00,Australia,0.7232435277297505,0,1,en,CAU,Oceania
 'fbc9f3fe89',extremes,Flood,#030ba1,wmo,Flashflood Louisa IA,2026-09-22T07:54:00+00:00,United States,0.7232175289578925,0,1,en,CNA,North-America
 '02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2026-09-17T07:56:00+00:00,Australia,0.7231215629903169,1,3,en,SAU,Oceania
