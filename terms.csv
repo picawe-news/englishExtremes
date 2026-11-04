@@ -198,11 +198,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '987ade486c',extremes,Flood,#030ba1,wmo,Flashflood Jackson MO Lafayette MO Ray MO,2026-10-01T09:18:00+00:00,United States,0.7183038819479718,0,1,en,CNA,North-America
 '75b45b65f3',extremes,Flood,#030ba1,wmo,Flood Lake IL,2026-09-26T07:58:00+00:00,United States,0.7182608539751847,0,1,en,CNA,North-America
 'd6857d0f09',extremes,Earthquake,#870007,usgs,Earthquake Otorohanga,2026-10-15T07:40:00+00:00,New Zealand,0.7181078896776287,0,1,en,NZ,Oceania
+'cf98678dec',extremes,Flood,#030ba1,wmo,Flashflood Shishmaref Bering Strait Coast,2026-10-22T07:51:00+00:00,United States,0.7180091239229189,0,1,en,CNA,North-America
 'af2568614c',extremes,Flood,#030ba1,wmo,Flood Brewster TX,2026-10-15T07:40:00+00:00,United States,0.7179873989584191,0,1,en,CNA,North-America
 '36a24b8060',extremes,Precipitation,#d60d2b,wmo,Rain Hopedale and vicinity,2026-10-06T09:14:00+00:00,Canada,0.7179439087638564,0,1,en,NEN,North-America
 '0de7f7e548',extremes,Drought,#edc291,edo,Drought Kenya,2026-09-25T08:06:00+00:00,Kenya,0.7179008600418092,0,1,en,SEAF,Africa
 'a020364a2e',extremes,Drought,#edc291,edo,Drought Fiji,2026-10-06T09:15:00+00:00,Fiji,0.7178146553913382,0,1,en,,
 '78389f5d88',extremes,Flood,#030ba1,wmo,Flood Marion IA Polk IA Warren IA,2026-10-02T08:51:00+00:00,United States,0.7177677308520315,0,1,en,CNA,North-America
+'88eb4187d9',extremes,Flood,#030ba1,wmo,Flooding Northwest Plateau,2026-10-21T07:55:00+00:00,United States,0.717710082428181,0,1,en,CNA,North-America
 'ecafa59592',extremes,Flood,#030ba1,wmo,Flood Victoria Kiewa River,2026-09-30T08:53:00+00:00,Australia,0.7176587395707422,0,1,en,CAU,Oceania
 'f9a6098b76',extremes,Flood,#030ba1,wmo,Flashflood Carroll MO,2026-10-02T08:51:00+00:00,United States,0.7173097654143171,0,1,en,CNA,North-America
 '85e8674fbe',extremes,Snow&Ice,#d60d2b,wmo,Frost Fleming Montgomery Bath Rowan,2026-10-17T07:08:00+00:00,United States,0.7170771666458337,0,1,en,CNA,North-America
@@ -211,8 +213,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2eaa188270',extremes,Fog,#d60d2b,wmo,Fog Lyon,2026-09-28T08:54:00+00:00,United States,0.7167489134608347,0,1,en,CNA,North-America
 'fe7b2ba3a0',extremes,Flood,#030ba1,wmo,Flood Cedar IA Jones IA Linn IA,2026-10-05T09:29:00+00:00,United States,0.7165138303397014,0,1,en,CNA,North-America
 'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,Storm Surge All waters,2026-09-14T08:04:00+00:00,Solomon Islands,0.7164603633007764,1,3,en,EPO,Oceania
+'ae11a12503',extremes,Snow&Ice,#d60d2b,wmo,Frost Mono,2026-10-22T07:51:00+00:00,United States,0.7164232420332428,0,1,en,CNA,North-America
 '9e45557e7d',extremes,Flood,#030ba1,wmo,Flashflood Oldham TX Potter TX,2026-09-30T08:53:00+00:00,United States,0.7163186559394445,0,1,en,CNA,North-America
+'c39ebe40a1',extremes,Flood,#030ba1,wmo,Flashflood Monroe Middle Keys,2026-10-21T07:55:00+00:00,United States,0.716314303804702,0,1,en,CNA,North-America
 'afdd13ff9f',extremes,Flood,#030ba1,wmo,Flashflood Victoria Seven and Castle Creeks,2026-10-02T08:51:00+00:00,Australia,0.7161226579767158,0,1,en,CAU,Oceania
+'f4e15912b7',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Seychelles,2026-10-24T07:32:00+00:00,Seychelles,0.716064992618922,0,1,en,EIO,Africa
 'ac883452de',extremes,Flood,#030ba1,wmo,Flashflood Washington UT,2026-10-12T09:36:00+00:00,United States,0.7159674807105642,0,1,en,CNA,North-America
 'b21ca03234',extremes,Flood,#030ba1,wmo,Flooding Saline NE Seward NE,2026-10-03T08:28:00+00:00,United States,0.7159471878718734,0,1,en,CNA,North-America
 'ad55d4376d',extremes,Flood,#030ba1,wmo,Flood Jasper IA Marion IA Polk IA,2026-10-04T08:41:00+00:00,United States,0.7158393444671339,0,1,en,CNA,North-America
@@ -222,6 +227,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10227bea17',extremes,Flood,#030ba1,wmo,Flood Callaway MO Osage MO,2026-10-05T09:29:00+00:00,United States,0.7155030276995601,0,1,en,CNA,North-America
 'aa1a2b2faf',extremes,Flood,#030ba1,wmo,Flashflood Benton IA Iowa IA,2026-10-08T09:21:00+00:00,United States,0.715498915353749,0,1,en,CNA,North-America
 '9b4ab65613',extremes,Flood,#030ba1,wmo,Flood Washington UT,2026-09-29T08:53:00+00:00,United States,0.7153597761197097,0,1,en,CNA,North-America
+'b709798bf8',extremes,Flood,#030ba1,wmo,Flooding Coastal Horry,2026-10-27T08:14:00+00:00,United States,0.7151949143059166,0,1,en,CNA,North-America
 '6dca5a85c2',extremes,Flood,#030ba1,wmo,Flood Polk IA Story IA,2026-10-02T08:51:00+00:00,United States,0.7150633051657004,0,1,en,CNA,North-America
 'c6a5660764',extremes,Flood,#030ba1,wmo,Flooding Marshall KS Washington KS,2026-10-01T09:18:00+00:00,United States,0.7150550662326466,0,1,en,CNA,North-America
 '42caaf65d3',extremes,Earthquake,#870007,usgs,Earthquake Hicks Bay,2026-09-29T08:53:00+00:00,New Zealand,0.7149262704910099,0,1,en,NZ,Oceania
