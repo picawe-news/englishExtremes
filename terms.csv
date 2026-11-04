@@ -25,6 +25,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,Rain Belize,2026-09-24T07:46:00+00:00,Belize,0.7752011524595456,1,2,en,SCA,North-America
 '5c8ef0eb4f',extremes,Flood,#030ba1,wmo,Flood Northwest Plateau,2026-10-22T07:51:00+00:00,United States,0.7747145829203609,1,2,en,CNA,North-America
 '32fac4018f',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Southern Jackson,2026-10-08T09:21:00+00:00,United States,0.7732728253246446,1,3,en,CNA,North-America
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-10-20T07:51:00+00:00,Canada,0.7727542764803321,1,3,en,NEN,North-America
 'afd06422c3',extremes,Storm,#b3b2b1,wmo,Storm Wellington,2026-10-25T07:45:00+00:00,New Zealand,0.7724439091836948,1,2,en,NZ,Oceania
 '72e330c6fb',extremes,Storm,#b3b2b1,wmo,Storm Wicklow,2026-10-02T08:51:00+00:00,Ireland,0.7720785447716667,1,2,en,NEU,Europe
 '9ede3b1c93',extremes,Heat Wave,#c40202,wmo,Heat Wave Orange County Coastal,2026-10-01T09:18:00+00:00,United States,0.7718206300199142,1,2,en,CNA,North-America
@@ -39,10 +40,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6af3e7612f',extremes,Storm,#b3b2b1,wmo,Storm Christchurch,2026-10-25T07:45:00+00:00,New Zealand,0.76584233575326,1,2,en,NZ,Oceania
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7656350824923106,1,3,en,SAS,Asia
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
-'09deb2b40e',extremes,Drought,#edc291,edo,Lack of Rain Belize,2026-10-17T07:08:00+00:00,Belize,0.7598957189432146,0,1,en,SCA,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-10-24T07:32:00+00:00,United States,0.7518661409876236,1,3,en,CNA,North-America
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
-'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,Snow Canada,2026-10-20T07:51:00+00:00,Canada,0.7482159172495886,0,1,en,NEN,North-America
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-10-07T09:06:00+00:00,United States,0.7453966954945286,0,1,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
@@ -293,6 +292,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,warm spell Tasmania,2026-09-28T08:54:00+00:00,Australia,0.6465669093053978,1,1,en,SAU,Oceania
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,Snow United States,2026-10-12T09:36:00+00:00,United States,0.6464360863619129,1,2,en,CNA,North-America
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Ghana,2026-09-29T08:53:00+00:00,Ghana,0.6463735580273942,1,1,en,WAF,Africa
+'09deb2b40e',extremes,Drought,#edc291,edo,Lack of Rain Belize,2026-10-17T07:08:00+00:00,Belize,0.6459113611017324,1,1,en,SCA,North-America
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-09-26T07:58:00+00:00,United Kingdom,0.6449739635834305,1,1,en,NEU,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,Fog United States,2026-10-07T09:06:00+00:00,United States,0.6449555086349192,1,2,en,CNA,North-America
 'b8b3dce5ca',extremes,Wildfire,#d60d2b,effis,Bushfire Powys United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.6436351634597369,1,1,en,NEU,Europe
