@@ -236,6 +236,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fecd6af2cd',extremes,Flood,#030ba1,wmo,Flashflood Holmes FL Washington FL,2026-10-11T09:12:00+00:00,United States,0.7123189174472663,0,1,en,CNA,North-America
 '277ccc7058',extremes,Flood,#030ba1,wmo,Flashflood Ocracoke Island,2026-10-18T07:23:00+00:00,United States,0.7121052226470377,0,1,en,CNA,North-America
 'cb43d7050e',extremes,Flood,#030ba1,wmo,Flashflood Harper KS Kingman KS,2026-10-14T07:55:00+00:00,United States,0.7120518042181977,0,1,en,CNA,North-America
+'44893a357a',extremes,Flood,#030ba1,wmo,Flooding Cotton OK,2026-10-16T07:27:00+00:00,United States,0.711817180706155,0,1,en,CNA,North-America
+'67e2f29e55',extremes,Flood,#030ba1,wmo,Flood Leon FL Wakulla FL,2026-10-09T09:28:00+00:00,United States,0.711356485034542,0,1,en,CNA,North-America
+'ba4bd3781e',extremes,Flood,#030ba1,wmo,Flooding Lexington SC Richland SC,2026-10-13T09:41:00+00:00,United States,0.7111858450114743,0,1,en,CNA,North-America
+'743733c404',extremes,Snow&Ice,#d60d2b,wmo,Ice Southern Denali Borough,2026-10-10T08:49:00+00:00,United States,0.7108677003195822,0,1,en,CNA,North-America
+'1048a4f212',extremes,Storm,#b3b2b1,wmo,Storm Victoria East Gippsland Coast,2026-10-17T07:08:00+00:00,Australia,0.7104647841729337,0,1,en,CAU,Oceania
+'fd39411ad8',extremes,Wildfire,#d60d2b,effis,Wildfire United Kingdom Bridgend and Neath Port Talbot Neath Port Talbot,2026-10-21T07:55:00+00:00,United Kingdom,0.7101107395067168,0,1,en,NEU,Europe
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,Snow New Zealand,2026-09-19T07:30:00+00:00,New Zealand,0.7095503583008115,1,3,en,NZ,Oceania
 '1eecfd582b',extremes,Drought,#edc291,edo,Dry Spell Puerto Rico,2026-09-25T08:06:00+00:00,Puerto Rico,0.7092879891387572,1,2,en,CAR,North-America
 '2668be505a',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Rota,2026-10-17T07:08:00+00:00,United States,0.7078874310301458,1,2,en,CNA,North-America
