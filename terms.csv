@@ -118,7 +118,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5116a2b958',extremes,Fog,#d60d2b,wmo,Fog Ingham Jackson,2026-10-25T07:45:00+00:00,United States,0.723601563385231,0,1,en,CNA,North-America
 'c45708a23a',extremes,Flood,#030ba1,wmo,Flooding Victoria Avon River,2026-09-30T08:53:00+00:00,Australia,0.7232435277297505,0,1,en,CAU,Oceania
 'fbc9f3fe89',extremes,Flood,#030ba1,wmo,Flashflood Louisa IA,2026-09-22T07:54:00+00:00,United States,0.7232175289578925,0,1,en,CNA,North-America
-'02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2026-09-17T07:56:00+00:00,Australia,0.7231215629903169,1,3,en,SAU,Oceania
 '504f75df4a',extremes,Flood,#030ba1,wmo,Flashflood Cleveland OK McClain OK,2026-10-16T07:27:00+00:00,United States,0.723084802308303,0,1,en,CNA,North-America
 '7dbbb6176e',extremes,Earthquake,#870007,usgs,Earthquake Rabaul,2026-10-12T09:36:00+00:00,Papua New Guinea,0.723068375489633,0,1,en,EPO,Pacific Ocean
 '4ca3b74aa6',extremes,Flood,#030ba1,wmo,Flashflood Llano TX,2026-10-02T08:51:00+00:00,United States,0.7229942622726254,0,1,en,CNA,North-America
@@ -363,6 +362,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f4356e24a',extremes,Flood,#030ba1,wmo,Flood Queensland Mungallala Creek,2026-10-25T07:45:00+00:00,Australia,0.6335101079582042,1,1,en,CAU,Oceania
 'ba6a416d46',extremes,Storm,#b3b2b1,wmo,Storm Surge Otago,2026-10-25T07:45:00+00:00,New Zealand,0.633492537415868,1,1,en,NZ,Oceania
 '65ee6182b7',extremes,Flood,#030ba1,wmo,Flooding Mesa CO Montrose CO Grand UT,2026-10-24T07:32:00+00:00,United States,0.6334146589094427,1,1,en,CNA,North-America
+'02f56319a7',extremes,Flood,#030ba1,aidr,flood Australia,2026-09-17T07:56:00+00:00,Australia,0.633241747178133,2,3,en,SAU,Oceania
 'c1cf50f134',extremes,Precipitation,#d60d2b,wmo,Precipitation Tararua Range,2026-10-25T07:45:00+00:00,New Zealand,0.6331094380004835,1,1,en,NZ,Oceania
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,Hail Seychelles,2026-10-02T08:51:00+00:00,Seychelles,0.6330173071538542,1,1,en,EIO,Africa
 'a5c68ddd24',extremes,Snow&Ice,#d60d2b,wmo,Frost Lewis Pass SH7,2026-10-15T07:40:00+00:00,New Zealand,0.6329528168501386,1,1,en,NZ,Oceania
