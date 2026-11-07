@@ -238,7 +238,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,Snow New Zealand,2026-09-19T07:30:00+00:00,New Zealand,0.7095503583008115,1,3,en,NZ,Oceania
 'a045edefec',extremes,Storm,#b3b2b1,wmo,Storm Bering Sea Offshore East of 171W,2026-10-22T07:51:00+00:00,United States,0.7094767827162087,0,1,en,CNA,North-America
 '1eecfd582b',extremes,Drought,#edc291,edo,Dry Spell Puerto Rico,2026-09-25T08:06:00+00:00,Puerto Rico,0.7092879891387572,1,2,en,CAR,North-America
+'3244226d23',extremes,Storm,#b3b2b1,wmo,Storm Southern Hancock,2026-10-09T09:28:00+00:00,United States,0.7092442439456886,0,1,en,CNA,North-America
+'9ca5237e49',extremes,Snow&Ice,#d60d2b,wmo,Frost Upper Rio Grande Valley,2026-10-14T07:55:00+00:00,United States,0.7086837015487041,0,1,en,CNA,North-America
+'fc46dd8ed6',extremes,Flood,#030ba1,wmo,Flooding Sawtooth Stanley Basin,2026-10-22T07:51:00+00:00,United States,0.7085232989691573,0,1,en,CNA,North-America
+'a4ad8a53d5',extremes,Snow&Ice,#d60d2b,wmo,Freezing Grande Ronde Valley Central Oregon,2026-10-09T09:28:00+00:00,United States,0.7082735682083825,0,1,en,CNA,North-America
+'995639f10c',extremes,Earthquake,#870007,usgs,Earthquake Inarajan Village,2026-10-24T07:32:00+00:00,Guam,0.7081606902022859,0,1,en,NPO,Pacific Ocean
 '2668be505a',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Rota,2026-10-17T07:08:00+00:00,United States,0.7078874310301458,1,2,en,CNA,North-America
+'454f774994',extremes,Storm,#b3b2b1,wmo,Storm Coastal Franklin,2026-10-08T09:21:00+00:00,United States,0.7077912201286669,0,1,en,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-10-07T09:06:00+00:00,United States,0.7067229993521674,1,2,en,CNA,North-America
 '152914913d',extremes,Heat Wave,#c40202,acwe,heat wave Tasmania,2026-10-25T07:46:00+00:00,Australia,0.706660883101263,1,2,en,SAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-09-21T08:09:00+00:00,United States,0.704137138111297,1,3,en,CNA,North-America
