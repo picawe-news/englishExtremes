@@ -40,9 +40,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34339a0a68',extremes,Flood,#030ba1,wmo,Flooding Allen IN,2026-09-18T07:34:00+00:00,United States,0.7661464004493385,1,3,en,CNA,North-America
 '6af3e7612f',extremes,Storm,#b3b2b1,wmo,Storm Christchurch,2026-10-25T07:45:00+00:00,New Zealand,0.76584233575326,1,2,en,NZ,Oceania
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7656350824923106,1,3,en,SAS,Asia
+'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.7650435016684338,0,1,en,NEU,Europe
 '832aa2c29e',extremes,Storm,#b3b2b1,wmo,Storm All waters,2026-09-15T07:59:00+00:00,Solomon Islands,0.7635918078491718,1,3,en,EPO,Oceania
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,Frost United States,2026-10-24T07:32:00+00:00,United States,0.7518661409876236,1,3,en,CNA,North-America
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-10-07T09:06:00+00:00,Australia,0.7467726114700673,0,1,en,CAU,Oceania
 '69ae05f9b4',extremes,Wildfire,#d60d2b,acwe,fire ban Tasmania,2026-09-22T07:54:00+00:00,Australia,0.7454223271199256,1,2,en,SAU,Oceania
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-10-11T09:12:00+00:00,Australia,0.7425166098020791,0,1,en,CAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
@@ -239,8 +241,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '995639f10c',extremes,Earthquake,#870007,usgs,Earthquake Inarajan Village,2026-10-24T07:32:00+00:00,Guam,0.7081606902022859,0,1,en,NPO,Pacific Ocean
 '2668be505a',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Rota,2026-10-17T07:08:00+00:00,United States,0.7078874310301458,1,2,en,CNA,North-America
 '454f774994',extremes,Storm,#b3b2b1,wmo,Storm Coastal Franklin,2026-10-08T09:21:00+00:00,United States,0.7077912201286669,0,1,en,CNA,North-America
+'a485479362',extremes,Storm,#b3b2b1,wmo,Storm South Walton,2026-10-08T09:21:00+00:00,United States,0.7074548621906573,0,1,en,CNA,North-America
+'0d99bdfe5f',extremes,Flood,#030ba1,wmo,Flashflood North Bay Interior Valleys,2026-10-14T07:55:00+00:00,United States,0.7074340518620649,0,1,en,CNA,North-America
+'31915448f5',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Baldwin Central,2026-10-09T09:28:00+00:00,United States,0.7067913072422186,0,1,en,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,Flood United States,2026-10-07T09:06:00+00:00,United States,0.7067229993521674,1,2,en,CNA,North-America
 '152914913d',extremes,Heat Wave,#c40202,acwe,heat wave Tasmania,2026-10-25T07:46:00+00:00,Australia,0.706660883101263,1,2,en,SAU,Oceania
+'74c4e8d57a',extremes,Flood,#030ba1,wmo,Flashflood Coastal Georgetown,2026-10-27T08:14:00+00:00,United States,0.7064900666892105,0,1,en,CNA,North-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-09-21T08:09:00+00:00,United States,0.704137138111297,1,3,en,CNA,North-America
 '384838564d',extremes,Snow&Ice,#d60d2b,wmo,Ice Crown Range Road,2026-09-22T07:54:00+00:00,New Zealand,0.7034292721044169,1,2,en,NZ,Oceania
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,wildfire Tasmania,2026-10-23T07:51:00+00:00,Australia,0.7032723516071575,1,1,en,SAU,Oceania
