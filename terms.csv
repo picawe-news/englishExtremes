@@ -266,7 +266,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-10-07T09:05:00+00:00,Papua New Guinea,0.6784501163116967,1,1,en,EPO,Oceania
 '155b6f14cd',extremes,Storm,#b3b2b1,wmo,Storm Central and Eastern Regions,2026-10-14T07:55:00+00:00,Solomon Islands,0.6755740367353736,1,2,en,EPO,Oceania
 '7f4bbe1e4f',extremes,Thunderstorm,#53785a,wmo,Severe Weather Zimbabwe,2026-10-01T09:18:00+00:00,Zimbabwe,0.6728731869595269,1,1,en,ESAF,Africa
-'9693b51bd6',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Escambia Inland,2026-10-09T09:28:00+00:00,United States,0.6715887891399503,1,1,en,CNA,North-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-10-02T08:51:00+00:00,Jamaica,0.6705334167276835,1,2,en,CAR,North-America
 '5b6e7863c8',extremes,Flood,#030ba1,acwe,high water level Victoria,2026-10-03T08:28:00+00:00,Australia,0.6703702838714933,1,2,en,SAU,Oceania
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-10-12T09:36:00+00:00,New Zealand,0.6682610213920452,1,1,en,NZ,Oceania
@@ -332,7 +331,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f200ff28aa',extremes,Earthquake,#870007,usgs,Earthquake United States,2026-10-09T09:28:00+00:00,United States,0.6366749419478129,1,2,en,NWN,North-America
 'c2ececbbb4',extremes,Drought,#edc291,edo,Dry Spell Belize,2026-10-18T07:23:00+00:00,Belize,0.6364595137660461,1,1,en,SCA,North-America
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,Storm Solomon Islands,2026-10-24T07:32:00+00:00,Solomon Islands,0.6363503751186035,1,1,en,EPO,Oceania
-'19f8097297',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Seychelles,2026-10-21T07:55:00+00:00,Seychelles,0.636105440937633,1,1,en,EIO,Africa
 '5ec8a07269',extremes,Heat Wave,#c40202,wmo,Heat Wave Queensland Gulf Country District.,2026-10-26T08:02:00+00:00,Australia,0.6359427930593303,1,1,en,CAU,Oceania
 'd696a3ae3d',extremes,Wildfire,#d60d2b,effis,Wild Fire Central Valleys United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.635875371117279,1,1,en,NEU,Europe
 'cbe591e3a2',extremes,Storm,#b3b2b1,wmo,Storm Otago,2026-10-24T07:32:00+00:00,New Zealand,0.6357748995521316,1,1,en,NZ,Oceania
@@ -470,9 +468,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '88eb4187d9',extremes,Flood,#030ba1,wmo,Flooding Northwest Plateau,2026-10-21T07:55:00+00:00,United States,0.6105036150639539,1,1,en,CNA,North-America
 'b21ca03234',extremes,Flood,#030ba1,wmo,Flooding Saline NE Seward NE,2026-10-03T08:28:00+00:00,United States,0.6085551096910924,1,1,en,CNA,North-America
 '10227bea17',extremes,Flood,#030ba1,wmo,Flood Callaway MO Osage MO,2026-10-05T09:29:00+00:00,United States,0.6081775735446261,1,1,en,CNA,North-America
+'9693b51bd6',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Escambia Inland,2026-10-09T09:28:00+00:00,United States,0.6055339541022912,2,1,en,CNA,North-America
 'aa99df21d8',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Canada,2026-10-22T07:51:00+00:00,Canada,0.5897372174262686,2,2,en,NEN,North-America
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2026-10-11T09:12:00+00:00,Australia,0.5757829599487645,2,1,en,EAU,Oceania
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-10-11T09:12:00+00:00,Solomon Islands,0.5458315551681587,2,1,en,EPO,Oceania
+'19f8097297',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Seychelles,2026-10-21T07:55:00+00:00,Seychelles,0.540689624796988,2,1,en,EIO,Africa
 '98f71c2b8b',extremes,Storm,#b3b2b1,wmo,Storm Surge Tararua District,2026-10-25T07:45:00+00:00,New Zealand,0.5405225240622951,2,1,en,NZ,Oceania
 'b9da3355a3',extremes,Storm,#b3b2b1,wmo,Storm Port Saunders and the Straits,2026-10-19T08:01:00+00:00,Canada,0.5398088612472424,2,1,en,NEN,North-America
 'c14251eb81',extremes,Fog,#d60d2b,wmo,Fog Mason Oceana,2026-10-23T07:50:00+00:00,United States,0.5339837612767663,2,1,en,CNA,North-America
