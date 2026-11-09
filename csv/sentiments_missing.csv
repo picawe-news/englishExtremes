@@ -795,7 +795,7 @@ MX,MX,PRODUCT,,,en,1.0
 Pikes Peak,Pikes Peak,FAC,,,en,1.0
 23°C to,23°C to,PERCENT,,,en,1.0
 "59,000","59,000",CARDINAL,,,en,1.0
-At least 98,At least 98,CARDINAL,,,en,1.0
+189,189,CARDINAL,,,en,1.0
 787-9 Dreamliner,787-9 Dreamliner,PRODUCT,,,en,1.0
 OnePlus 15R,OnePlus 15R,PRODUCT,,,en,1.0
 "1,300","1,300",CARDINAL,,,en,1.0
@@ -819,7 +819,7 @@ Almost 300,Almost 300,CARDINAL,,,en,1.0
 168,168,CARDINAL,,,en,1.0
 the academic year earlier,the academic year earlier,DATE,,,en,1.0
 Centennial Olympic Park,Centennial Olympic Park,FAC,,,en,1.0
-189,189,CARDINAL,,,en,1.0
+At least 98,At least 98,CARDINAL,,,en,1.0
 Ninja Slishi Twist,Ninja Slishi Twist,PRODUCT,,,en,1.0
 only four months,only four months,DATE,,,en,1.0
 iPhone 18,iPhone 18,PRODUCT,,,en,1.0
@@ -959,7 +959,7 @@ the PGA Championship,the PGA Championship,EVENT,,,en,1.0
 59,59,CARDINAL,,,en,1.0
 Arabs,Arabs,NORP,,,en,1.0
 a strong first quarter,a strong first quarter,DATE,,,en,1.0
-Summer Reading Guide,Summer Reading Guide,EVENT,,,en,1.0
+Preview,Preview,WORK_OF_ART,,,en,1.0
 52,52,CARDINAL,,,en,1.0
 100 kmph,100 kmph,QUANTITY,,,en,1.0
 Aug 16,Aug 16,DATE,,,en,1.0
@@ -984,9 +984,9 @@ $1M,$1M,MONEY,,,en,1.0
 $1 million,$1 million,MONEY,,,en,1.0
 two weeks,two weeks,DATE,,,en,1.0
 At least seven,At least seven,CARDINAL,,,en,1.0
-Preview,Preview,WORK_OF_ART,,,en,1.0
-an entire night,an entire night,TIME,,,en,1.0
 the annual festival,the annual festival,EVENT,,,en,1.0
+an entire night,an entire night,TIME,,,en,1.0
+NRL Magic Round 2026,NRL Magic Round 2026,WORK_OF_ART,,,en,1.0
 Summer 2000: The X-Cetra Story,Summer 2000: The X-Cetra Story,WORK_OF_ART,,,en,1.0
 Take Me Home,Take Me Home,WORK_OF_ART,,,en,1.0
 Maddie,Maddie,WORK_OF_ART,,,en,1.0
@@ -1009,7 +1009,7 @@ International Centre for Integrated Mountain Development,International Centre fo
 New Movies and Series,New Movies and Series,EVENT,,,en,1.0
 the next few months,the next few months,DATE,,,en,1.0
 two-year-old,two-year-old,DATE,,,en,1.0
-NRL Magic Round 2026,NRL Magic Round 2026,WORK_OF_ART,,,en,1.0
+Summer Reading Guide,Summer Reading Guide,EVENT,,,en,1.0
 Amber Pearl,Amber Pearl,FAC,,,en,1.0
 41,41,MONEY,,,en,1.0
 USD 65.29 Billion,USD 65.29 Billion,MONEY,,,en,1.0
@@ -1769,11 +1769,11 @@ up to 300,up to 300,CARDINAL,,,en,1.0
 Great Ocean Road,Great Ocean Road,FAC,,,en,1.0
 Weeks,Weeks,DATE,,,en,1.0
 101,101,CARDINAL,,,en,1.0
+I Love Boosters,I Love Boosters,WORK_OF_ART,,,en,1.0
+Margo's Got Money Troubles,Margo's Got Money Troubles,WORK_OF_ART,,,en,1.0
 Got Money Troubles,Got Money Troubles,WORK_OF_ART,,,en,1.0
 Boots Riley,Boots Riley,WORK_OF_ART,,,en,1.0
 Ready or Not 2: Here I Come,Ready or Not 2: Here I Come,WORK_OF_ART,,,en,1.0
-I Love Boosters,I Love Boosters,WORK_OF_ART,,,en,1.0
-Margo's Got Money Troubles,Margo's Got Money Troubles,WORK_OF_ART,,,en,1.0
 SXSW 2026 Film,SXSW 2026 Film,EVENT,,,en,1.0
 March 12-18,March 12-18,DATE,,,en,1.0
 33rd,33rd,ORDINAL,,,en,1.0
@@ -2439,8 +2439,8 @@ Tens of Millions,Tens of Millions,CARDINAL,,,en,1.0
 just hours,just hours,TIME,,,en,1.0
 Between 2015 and 2024,Between 2015 and 2024,CARDINAL,,,en,1.0
 Woncha Come on Home,Woncha Come on Home,WORK_OF_ART,,,en,1.0
-About a third,About a third,CARDINAL,,,en,1.0
 The late ‘90s and 2000s,The late ‘90s and 2000s,DATE,,,en,1.0
+About a third,About a third,CARDINAL,,,en,1.0
 $562 million,$562 million,MONEY,,,en,1.0
 $562 Million,$562 Million,MONEY,,,en,1.0
 16 2026,16 2026,DATE,,,en,1.0
