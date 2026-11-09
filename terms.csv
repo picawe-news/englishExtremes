@@ -249,6 +249,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f46099315c',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Adak to Kiska Bering Side,2026-10-08T09:21:00+00:00,United States,0.702794989122941,0,1,en,CNA,North-America
 '127267c6be',extremes,Flood,#030ba1,wmo,Flashflood Val Verde,2026-10-16T07:27:00+00:00,United States,0.7027052587666874,0,1,en,CNA,North-America
 '5671abd853',extremes,Flood,#030ba1,wmo,Flooding Caddo OK,2026-10-18T07:23:00+00:00,United States,0.7023629181911948,0,1,en,CNA,North-America
+'3b65176ec5',extremes,Storm,#b3b2b1,wmo,Storm Saint Matthew Island Waters,2026-10-09T09:28:00+00:00,United States,0.7021253605773242,0,1,en,CNA,North-America
+'33c50fa0d2',extremes,Drought,#edc291,edo,Dry Spell Fiji,2026-10-23T07:51:00+00:00,Fiji,0.7017111683547852,0,1,en,,
+'23fcff8266',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom Bridgend and Neath Port Talbot Neath Port Talbot,2026-10-22T07:51:00+00:00,United Kingdom,0.7014490144064282,0,1,en,NEU,Europe
+'85d0becab8',extremes,Drought,#edc291,edo,Dryness Gambia,2026-10-14T07:56:00+00:00,Gambia,0.7009626782230176,0,1,en,WAF,Africa
+'7717ff5f44',extremes,Flood,#030ba1,wmo,Flood Coffee AL Dale AL Geneva AL,2026-10-10T08:49:00+00:00,United States,0.7007501595203637,0,1,en,CNA,North-America
+'b827775445',extremes,Snow&Ice,#d60d2b,wmo,Ice Wallowa County,2026-10-09T09:28:00+00:00,United States,0.7002917818178246,0,1,en,CNA,North-America
 '89b6ac7d7c',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Big Island North,2026-09-26T07:58:00+00:00,United States,0.6998714955372981,1,2,en,CNA,North-America
 '60a34b83b0',extremes,Flood,#030ba1,acwe,flooding South Australia,2026-09-28T08:54:00+00:00,Australia,0.6997056763061135,1,2,en,SAU,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-09-22T07:54:00+00:00,Australia,0.6969930459894655,1,2,en,SAU,Oceania
