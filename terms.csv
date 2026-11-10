@@ -257,6 +257,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '60a34b83b0',extremes,Flood,#030ba1,acwe,flooding South Australia,2026-09-28T08:54:00+00:00,Australia,0.6997056763061135,1,2,en,SAU,Oceania
 '5e4ff3ba84',extremes,Flood,#030ba1,wmo,Flashflood Beckham OK Greer OK,2026-10-14T07:55:00+00:00,United States,0.6996820512971301,0,1,en,CNA,North-America
 '776c386188',extremes,Snow&Ice,#d60d2b,wmo,Snow Little Belt and Highwood Mountains,2026-10-23T07:50:00+00:00,United States,0.6995883038905667,0,1,en,CNA,North-America
+'f3541f7cd6',extremes,Flood,#030ba1,wmo,Flashflood Tyrrell,2026-10-19T08:01:00+00:00,United States,0.6995853598119287,0,1,en,CNA,North-America
+'f6929ef871',extremes,Snow&Ice,#d60d2b,wmo,Freezing Winnebago Boone Ogle,2026-10-16T07:27:00+00:00,United States,0.6994898635481115,0,1,en,CNA,North-America
+'8f3610b091',extremes,Drought,#edc291,edo,Lack of Rain Christmas Island,2026-10-12T09:36:00+00:00,Christmas Island,0.6991169502960308,0,1,en,SIO,Oceania
+'4cf93398d7',extremes,Snow&Ice,#d60d2b,wmo,Frost Owens Valley North,2026-10-12T09:36:00+00:00,United States,0.6991162504663008,0,1,en,CNA,North-America
+'c0c306510d',extremes,Storm,#b3b2b1,wmo,Storm Pribilof Islands Nearshore Waters,2026-10-08T09:21:00+00:00,United States,0.6990482281809514,0,1,en,CNA,North-America
+'98ab5de1f3',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Adak to Kiska Bering Side,2026-10-08T09:21:00+00:00,United States,0.6990265162079184,0,1,en,CNA,North-America
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,river flooding Australia,2026-09-22T07:54:00+00:00,Australia,0.6969930459894655,1,2,en,SAU,Oceania
 '6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-10-23T07:51:00+00:00,Australia,0.690984065689287,1,1,en,SAU,Oceania
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-10-18T07:23:00+00:00,Australia,0.6863536122544174,2,1,en,SAU,Oceania
