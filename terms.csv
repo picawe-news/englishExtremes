@@ -261,6 +261,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7888db63e1',extremes,Storm,#b3b2b1,wmo,Storm Surge Lower St. Bernard,2026-10-09T09:28:00+00:00,United States,0.6984276509387656,0,1,en,CNA,North-America
 'a7fe98a481',extremes,Snow&Ice,#d60d2b,wmo,Ice Southern Seward Peninsula Coast,2026-10-22T07:51:00+00:00,United States,0.6980299245258432,0,1,en,CNA,North-America
 'dd60fd52a4',extremes,Snow&Ice,#d60d2b,wmo,Ice Middle Chehalis River Valley,2026-10-11T09:12:00+00:00,United States,0.6978387597963976,0,1,en,CNA,North-America
+'ab76ab1b42',extremes,Snow&Ice,#d60d2b,wmo,Ice Northern Susitna Valley,2026-10-25T07:45:00+00:00,United States,0.6978003098818786,0,1,en,CNA,North-America
+'ac1eccdde2',extremes,Storm,#b3b2b1,wmo,Storm Surge Bullock,2026-10-09T09:28:00+00:00,United States,0.6969774081272158,0,1,en,CNA,North-America
+'b6456e96d4',extremes,Snow&Ice,#d60d2b,wmo,Frost Grande Ronde Valley,2026-10-12T09:36:00+00:00,United States,0.6969017951377391,0,1,en,CNA,North-America
+'bed5fb97f8',extremes,Precipitation,#d60d2b,acwe,precipitation Victoria,2026-10-24T07:32:00+00:00,Australia,0.6966227131582865,0,1,en,SAU,Oceania
+'55c1abf321',extremes,Snow&Ice,#d60d2b,wmo,Frost Southern Denali Borough,2026-10-11T09:12:00+00:00,United States,0.6964752884076472,0,1,en,CNA,North-America
+'26b4e7a767',extremes,Flood,#030ba1,wmo,Flooding Northern Outer Banks,2026-10-18T07:23:00+00:00,United States,0.6962476793939298,0,1,en,CNA,North-America
 '6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-10-23T07:51:00+00:00,Australia,0.690984065689287,1,1,en,SAU,Oceania
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-10-18T07:23:00+00:00,Australia,0.6863536122544174,2,1,en,SAU,Oceania
 'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2026-09-26T07:58:00+00:00,Ireland,0.6850073437672151,1,2,en,NEU,Europe
