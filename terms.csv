@@ -258,6 +258,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bed5fb97f8',extremes,Precipitation,#d60d2b,acwe,precipitation Victoria,2026-10-24T07:32:00+00:00,Australia,0.6966227131582865,0,1,en,SAU,Oceania
 '55c1abf321',extremes,Snow&Ice,#d60d2b,wmo,Frost Southern Denali Borough,2026-10-11T09:12:00+00:00,United States,0.6964752884076472,0,1,en,CNA,North-America
 '26b4e7a767',extremes,Flood,#030ba1,wmo,Flooding Northern Outer Banks,2026-10-18T07:23:00+00:00,United States,0.6962476793939298,0,1,en,CNA,North-America
+'9394431198',extremes,Snow&Ice,#d60d2b,wmo,Frost Laramie Valley,2026-10-15T07:40:00+00:00,United States,0.6961181287805109,0,1,en,CNA,North-America
+'0cf92c7bad',extremes,Flood,#030ba1,wmo,Flashflood Newport News,2026-10-19T08:01:00+00:00,United States,0.6954186127363444,0,1,en,CNA,North-America
+'de9ee7d9af',extremes,Flood,#030ba1,wmo,Flashflood Queensland Coochin Creek,2026-10-22T07:51:00+00:00,Australia,0.6954155483961536,0,1,en,CAU,Oceania
+'b1e00975bd',extremes,Drought,#edc291,edo,Dry Spell Saint Helena,2026-10-13T09:41:00+00:00,Saint Helena,0.6946640374043868,0,1,en,SAO,Atlantic Ocean
+'3adb2fdbbf',extremes,Storm,#b3b2b1,wmo,Storm Kiska to Attu Pacific Side,2026-10-25T07:45:00+00:00,United States,0.694340308630553,0,1,en,CNA,North-America
+'99b4d7585f',extremes,Flood,#030ba1,wmo,Flood Ketchikan Gateway Borough,2026-10-16T07:27:00+00:00,United States,0.6942982828418328,0,1,en,CNA,North-America
 '6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-10-23T07:51:00+00:00,Australia,0.690984065689287,1,1,en,SAU,Oceania
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-10-18T07:23:00+00:00,Australia,0.6863536122544174,2,1,en,SAU,Oceania
 'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2026-09-26T07:58:00+00:00,Ireland,0.6850073437672151,1,2,en,NEU,Europe
