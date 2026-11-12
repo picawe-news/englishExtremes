@@ -37,9 +37,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cef1295ec5',extremes,Wildfire,#d60d2b,effis,Wild Fire United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.7650435016684338,0,1,en,NEU,Europe
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-10-22T07:51:00+00:00,Seychelles,0.7562160360804947,0,1,en,EIO,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
+'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-10-24T07:32:00+00:00,New Zealand,0.7499661210644344,0,1,en,NZ,Oceania
 '44211c95de',extremes,Flood,#030ba1,aidr,flooding Australia,2026-10-15T07:40:00+00:00,Australia,0.7480211515466823,0,1,en,SAU,Oceania
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-10-22T07:51:00+00:00,Australia,0.7474335648711166,0,1,en,CAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-10-07T09:06:00+00:00,Australia,0.7467726114700673,0,1,en,CAU,Oceania
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-10-11T09:12:00+00:00,United States,0.7462280849496296,0,1,en,CNA,North-America
 '7d3c57318d',extremes,Flood,#030ba1,wmo,Flashflood Lake FL Volusia FL,2026-10-15T07:40:00+00:00,United States,0.742906890797513,0,1,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-10-11T09:12:00+00:00,Australia,0.7425166098020791,0,1,en,CAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
@@ -260,6 +262,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30dd1a71a3',extremes,Storm,#b3b2b1,wmo,Storm Surge Saint Matthew Island Waters,2026-10-23T07:50:00+00:00,United States,0.6936763784785983,0,1,en,CNA,North-America
 '690da12f9f',extremes,Flood,#030ba1,wmo,Flooding Coastal Palm Beach County,2026-10-21T07:55:00+00:00,United States,0.6933303017239796,0,1,en,CNA,North-America
 '474905c6c6',extremes,Drought,#edc291,edo,Lack of Rain Namibia,2026-10-12T09:36:00+00:00,Namibia,0.6925299828078693,0,1,en,WSAF,Africa
+'772de7830b',extremes,Storm,#b3b2b1,wmo,Storm Surge Baldwin Central,2026-10-08T09:21:00+00:00,United States,0.6924954790338435,0,1,en,CNA,North-America
+'6e953b21de',extremes,Storm,#b3b2b1,wmo,Storm Eastern Orleans,2026-10-08T09:21:00+00:00,United States,0.6921559650253146,0,1,en,CNA,North-America
+'fd5ec125d0',extremes,Earthquake,#870007,usgs,Earthquake Korumburra,2026-10-07T09:05:00+00:00,Australia,0.6921211778939582,0,1,en,SAU,Oceania
+'6f68e738c2',extremes,Drought,#edc291,edo,Dry Spell Gambia,2026-10-12T09:36:00+00:00,Gambia,0.6920679082844606,0,1,en,WAF,Africa
 '6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-10-23T07:51:00+00:00,Australia,0.690984065689287,1,1,en,SAU,Oceania
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-10-18T07:23:00+00:00,Australia,0.6863536122544174,2,1,en,SAU,Oceania
 'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2026-09-26T07:58:00+00:00,Ireland,0.6850073437672151,1,2,en,NEU,Europe
