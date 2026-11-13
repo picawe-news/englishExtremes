@@ -43,6 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-10-11T09:12:00+00:00,Australia,0.7425166098020791,0,1,en,CAU,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-10-23T07:50:00+00:00,Canada,0.7370442447440418,1,3,en,NEN,North-America
+'255621cc4c',extremes,Earthquake,#870007,usgs,Earthquake Panguna,2026-10-07T09:05:00+00:00,Papua New Guinea,0.7362728917117423,0,1,en,EPO,Pacific Ocean
 '08579e390c',extremes,Earthquake,#870007,usgs,Earthquake Yigo Village,2026-10-10T08:49:00+00:00,Guam,0.7360087334062131,0,1,en,NPO,Pacific Ocean
 'e0bb0d7e8a',extremes,Flood,#030ba1,wmo,Flood Lake FL Volusia FL,2026-10-27T08:14:00+00:00,United States,0.7335494666986241,0,1,en,CNA,North-America
 '9287c99e36',extremes,Flood,#030ba1,wmo,Flood Trout River,2026-10-09T09:28:00+00:00,United States,0.7330625788980462,0,1,en,CNA,North-America
@@ -257,6 +258,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b6c367214f',extremes,Storm,#b3b2b1,wmo,Storm Inland Wakulla,2026-10-09T09:28:00+00:00,United States,0.6911813665621271,0,1,en,CNA,North-America
 'eba9e57edd',extremes,Snow&Ice,#d60d2b,wmo,Ice Wasatch Mountains South of I 80,2026-10-14T07:55:00+00:00,United States,0.6911432318841748,0,1,en,CNA,North-America
 '6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-10-23T07:51:00+00:00,Australia,0.690984065689287,1,1,en,SAU,Oceania
+'c47b93a96c',extremes,Drought,#edc291,edo,Dryness Falkland Islands,2026-10-24T07:32:00+00:00,Falkland Islands,0.6906869792542907,0,1,en,SSA,South-America
+'6d834cc589',extremes,Flood,#030ba1,wmo,Flood North Bay Interior Valleys,2026-10-08T09:21:00+00:00,United States,0.6901034318927015,0,1,en,CNA,North-America
+'08660fb7c1',extremes,Flood,#030ba1,wmo,Flooding Eastern Currituck Virginia Beach,2026-10-18T07:23:00+00:00,United States,0.6898606803401097,0,1,en,CNA,North-America
+'4edbdea66a',extremes,Flood,#030ba1,wmo,Flooding Hawaii in Hawaii HI,2026-10-09T09:28:00+00:00,United States,0.6897503443569983,0,1,en,CNA,North-America
+'a19127d60a',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Escambia Inland,2026-10-08T09:21:00+00:00,United States,0.6894908250689057,0,1,en,CNA,North-America
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-10-18T07:23:00+00:00,Australia,0.6863536122544174,2,1,en,SAU,Oceania
 'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2026-09-26T07:58:00+00:00,Ireland,0.6850073437672151,1,2,en,NEU,Europe
 '9978c51a63',extremes,Heat Wave,#c40202,acwe,mild winter Victoria,2026-10-23T07:51:00+00:00,Australia,0.6801956666658466,1,1,en,SAU,Oceania
