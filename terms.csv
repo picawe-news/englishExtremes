@@ -262,6 +262,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6e953b21de',extremes,Storm,#b3b2b1,wmo,Storm Eastern Orleans,2026-10-08T09:21:00+00:00,United States,0.6921559650253146,0,1,en,CNA,North-America
 'fd5ec125d0',extremes,Earthquake,#870007,usgs,Earthquake Korumburra,2026-10-07T09:05:00+00:00,Australia,0.6921211778939582,0,1,en,SAU,Oceania
 '6f68e738c2',extremes,Drought,#edc291,edo,Dry Spell Gambia,2026-10-12T09:36:00+00:00,Gambia,0.6920679082844606,0,1,en,WAF,Africa
+'e5e16d5403',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Santa Rosa Inland,2026-10-09T09:28:00+00:00,United States,0.691779732712518,0,1,en,CNA,North-America
+'9c69472ddf',extremes,Flood,#030ba1,wmo,Flashflood Cherokee SC,2026-10-11T09:12:00+00:00,United States,0.6914263867025083,0,1,en,CNA,North-America
+'d79796a1fe',extremes,Thunderstorm,#53785a,wmo,Severe Weather Australia,2026-10-17T07:08:00+00:00,Australia,0.6914137932086123,0,1,en,CAU,Oceania
+'78851ec32a',extremes,Precipitation,#d60d2b,wmo,Precipitation Ireland,2026-10-24T07:32:00+00:00,Ireland,0.6913834344249461,0,1,en,NEU,Europe
+'b6c367214f',extremes,Storm,#b3b2b1,wmo,Storm Inland Wakulla,2026-10-09T09:28:00+00:00,United States,0.6911813665621271,0,1,en,CNA,North-America
+'eba9e57edd',extremes,Snow&Ice,#d60d2b,wmo,Ice Wasatch Mountains South of I 80,2026-10-14T07:55:00+00:00,United States,0.6911432318841748,0,1,en,CNA,North-America
 '6ebf25a0b6',extremes,Flood,#030ba1,acwe,high water level Tasmania,2026-10-23T07:51:00+00:00,Australia,0.690984065689287,1,1,en,SAU,Oceania
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-10-18T07:23:00+00:00,Australia,0.6863536122544174,2,1,en,SAU,Oceania
 'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2026-09-26T07:58:00+00:00,Ireland,0.6850073437672151,1,2,en,NEU,Europe
@@ -474,4 +480,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2774af8f4',extremes,Flood,#030ba1,wmo,Flood Coconino AZ Navajo AZ,2026-10-26T08:02:00+00:00,United States,0.5304077938960566,2,1,en,CNA,North-America
 '2b094777d0',extremes,Flood,#030ba1,wmo,Flood Wichita TX Wilbarger TX,2026-10-17T07:08:00+00:00,United States,0.5285639089820594,2,1,en,CNA,North-America
 '85d0becab8',extremes,Drought,#edc291,edo,Dryness Gambia,2026-10-14T07:56:00+00:00,Gambia,0.5064455350161302,2,1,en,WAF,Africa
-'ddd16272c4',extremes,Flood,#030ba1,wmo,Flood Montezuma CO San Juan UT,2026-10-24T07:32:00+00:00,United States,0.45542097943712934,3,1,en,CNA,North-America
+'ddd16272c4',extremes,Flood,#030ba1,wmo,Flood Montezuma CO San Juan UT,2026-10-24T07:32:00+00:00,United States,0.4554209794371293,3,1,en,CNA,North-America
