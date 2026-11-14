@@ -262,6 +262,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '08660fb7c1',extremes,Flood,#030ba1,wmo,Flooding Eastern Currituck Virginia Beach,2026-10-18T07:23:00+00:00,United States,0.6898606803401097,0,1,en,CNA,North-America
 '4edbdea66a',extremes,Flood,#030ba1,wmo,Flooding Hawaii in Hawaii HI,2026-10-09T09:28:00+00:00,United States,0.6897503443569983,0,1,en,CNA,North-America
 'a19127d60a',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Escambia Inland,2026-10-08T09:21:00+00:00,United States,0.6894908250689057,0,1,en,CNA,North-America
+'4162b72f7d',extremes,Flood,#030ba1,wmo,Flood Rio Grande CO,2026-10-23T07:50:00+00:00,United States,0.6891552652455757,0,1,en,CNA,North-America
+'0465a121a4',extremes,Storm,#b3b2b1,wmo,Storm Tasmania Central West Coast,2026-10-18T07:23:00+00:00,Australia,0.6891089913239483,0,1,en,CAU,Oceania
+'8bf3cc433f',extremes,Wildfire,#d60d2b,effis,Wild Fire Greece,2026-10-14T07:55:00+00:00,Greece,0.6887096867388948,0,1,en,MED,Europe
+'cf0f9aa3a7',extremes,Storm,#b3b2b1,wmo,Storm Santa Rosa Coastal,2026-10-09T09:28:00+00:00,United States,0.6886475672472101,0,1,en,CNA,North-America
+'bbc99646d3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Escambia,2026-10-08T09:21:00+00:00,United States,0.6885769703918327,0,1,en,CNA,North-America
+'bf47b82a91',extremes,Heat Wave,#c40202,acwe,heat wave Western Australia,2026-10-23T07:51:00+00:00,Australia,0.6883337931513215,0,1,en,CAU,Oceania
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-10-18T07:23:00+00:00,Australia,0.6863536122544174,2,1,en,SAU,Oceania
 '2ec364b722',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Mobile Coastal,2026-10-08T09:21:00+00:00,United States,0.6851832832082896,2,2,en,CNA,North-America
 'b1a93876e8',extremes,Precipitation,#d60d2b,wmo,Rain Ireland,2026-09-26T07:58:00+00:00,Ireland,0.6850073437672151,1,2,en,NEU,Europe
