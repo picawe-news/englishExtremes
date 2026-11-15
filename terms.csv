@@ -267,7 +267,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c80b434bfd',extremes,Snow&Ice,#d60d2b,wmo,Frost Maries,2026-10-18T07:23:00+00:00,United States,0.6880199179888998,0,1,en,CNA,North-America
 '04ace15051',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lackawanna Luzerne,2026-10-17T07:08:00+00:00,United States,0.6876538164928836,0,1,en,CNA,North-America
 'ee76108475',extremes,Wildfire,#d60d2b,effis,Bushfire Greece,2026-10-13T09:40:00+00:00,Greece,0.6874673608086203,0,1,en,MED,Europe
+'57d6005361',extremes,Storm,#b3b2b1,wmo,Storm Surge Houston,2026-10-10T08:49:00+00:00,United States,0.6873632158229009,0,1,en,CNA,North-America
+'0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,Storm Barren Islands East,2026-10-09T09:28:00+00:00,United States,0.6872355449067146,0,1,en,CNA,North-America
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-10-18T07:23:00+00:00,Australia,0.6863536122544174,2,1,en,SAU,Oceania
+'06248c85a6',extremes,Flood,#030ba1,wmo,Flashflood Eastern Currituck Virginia Beach,2026-10-20T07:51:00+00:00,United States,0.6863455755201749,0,1,en,CNA,North-America
+'750163879f',extremes,Flood,#030ba1,wmo,Flashflood Lexington SC Richland SC,2026-10-12T09:36:00+00:00,United States,0.686016421560048,0,1,en,CNA,North-America
+'99548f4e12',extremes,Storm,#b3b2b1,wmo,Storm Valdez Narrows,2026-10-27T08:14:00+00:00,United States,0.685975864201911,0,1,en,CNA,North-America
+'b5afdac008',extremes,Flood,#030ba1,wmo,Flashflood Columbia GA Richmond GA,2026-10-11T09:12:00+00:00,United States,0.6859635987600035,0,1,en,CNA,North-America
 '2ec364b722',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Mobile Coastal,2026-10-08T09:21:00+00:00,United States,0.6851832832082896,2,2,en,CNA,North-America
 '9978c51a63',extremes,Heat Wave,#c40202,acwe,mild winter Victoria,2026-10-23T07:51:00+00:00,Australia,0.6801956666658466,1,1,en,SAU,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-10-09T09:28:00+00:00,Canada,0.6796458099156897,1,2,en,NEN,North-America
