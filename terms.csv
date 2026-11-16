@@ -24,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1a294ec0a',extremes,Drought,#edc291,edo,Drought Guyana,2026-10-20T07:51:00+00:00,Guyana,0.7699026955034924,0,1,en,NSA,South-America
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-09-29T08:53:00+00:00,Australia,0.7669738285340103,1,3,en,EAU,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7667767719470857,1,3,en,NEN,North-America
+'354110e18f',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.7666638483616731,0,1,en,NEU,Europe
 '6af3e7612f',extremes,Storm,#b3b2b1,wmo,Storm Christchurch,2026-10-25T07:45:00+00:00,New Zealand,0.76584233575326,1,2,en,NZ,Oceania
 '03d5c98bdb',extremes,Wildfire,#d60d2b,effis,Wildfire United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.7657971897104524,0,1,en,NEU,Europe
 '615a4551a5',extremes,Flood,#030ba1,wmo,Flooding India,2026-09-21T08:09:00+00:00,India,0.7656350824923106,1,3,en,SAS,Asia
@@ -273,6 +274,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2b8c3f7082',extremes,Flood,#030ba1,wmo,Flashflood Conejos CO,2026-10-24T07:32:00+00:00,United States,0.6853171200945274,0,1,en,CNA,North-America
 '2ec364b722',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Mobile Coastal,2026-10-08T09:21:00+00:00,United States,0.6851832832082896,2,2,en,CNA,North-America
 '12045a3d28',extremes,Flood,#030ba1,wmo,Flashflood City and Borough of Juneau,2026-10-16T07:27:00+00:00,United States,0.6848748170751843,0,1,en,CNA,North-America
+'31949199fb',extremes,Snow&Ice,#d60d2b,wmo,Snow Upper Rio Grande Valley,2026-10-13T09:41:00+00:00,United States,0.684481583464127,0,1,en,CNA,North-America
+'736286d2ec',extremes,Storm,#b3b2b1,wmo,Storm Surge Tasmania Lower East Coast,2026-10-16T07:27:00+00:00,Australia,0.6843667498355416,0,1,en,CAU,Oceania
+'3eaa85e3c7',extremes,Flood,#030ba1,wmo,Flood Tidal Berkeley,2026-10-10T08:49:00+00:00,United States,0.6840915229407646,0,1,en,CNA,North-America
+'c490efc7db',extremes,Drought,#edc291,edo,Drought Kiribati,2026-10-20T07:51:00+00:00,Kiribati,0.6839885384924197,0,1,en,EAO,Atlantic Ocean
+'f1a0c31f02',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane South Walton,2026-10-08T09:21:00+00:00,United States,0.6838387418958721,0,1,en,CNA,North-America
 '9978c51a63',extremes,Heat Wave,#c40202,acwe,mild winter Victoria,2026-10-23T07:51:00+00:00,Australia,0.6801956666658466,1,1,en,SAU,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-10-09T09:28:00+00:00,Canada,0.6796458099156897,1,2,en,NEN,North-America
 '8c2b565540',extremes,Drought,#edc291,edo,Dry Spell Uganda,2026-09-29T08:53:00+00:00,Uganda,0.6788735464180335,1,2,en,SEAF,Africa
