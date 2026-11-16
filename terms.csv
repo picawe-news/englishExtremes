@@ -32,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-10-22T07:51:00+00:00,Seychelles,0.7562160360804947,0,1,en,EIO,Africa
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-10-24T07:32:00+00:00,New Zealand,0.7499661210644344,0,1,en,NZ,Oceania
+'40148d763a',extremes,Storm,#b3b2b1,wmo,Storm Paulatuk,2026-10-10T08:49:00+00:00,Canada,0.7492590705568695,0,1,en,NEN,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-10-18T07:23:00+00:00,Australia,0.7489812479427607,0,1,en,CAU,Oceania
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,wildfire Tasmania,2026-10-23T07:51:00+00:00,Australia,0.7482315438660839,2,2,en,SAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,aidr,flooding Australia,2026-10-15T07:40:00+00:00,Australia,0.7480211515466823,0,1,en,SAU,Oceania
@@ -268,6 +269,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3eaa85e3c7',extremes,Flood,#030ba1,wmo,Flood Tidal Berkeley,2026-10-10T08:49:00+00:00,United States,0.6840915229407646,0,1,en,CNA,North-America
 'c490efc7db',extremes,Drought,#edc291,edo,Drought Kiribati,2026-10-20T07:51:00+00:00,Kiribati,0.6839885384924197,0,1,en,EAO,Atlantic Ocean
 'f1a0c31f02',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane South Walton,2026-10-08T09:21:00+00:00,United States,0.6838387418958721,0,1,en,CNA,North-America
+'74126f3d38',extremes,Drought,#edc291,edo,Drought Brunei,2026-10-18T07:23:00+00:00,Brunei,0.6837928335477217,0,1,en,SEA,Asia
+'6777bdaf55',extremes,Storm,#b3b2b1,wmo,Storm Yukon Delta Coast,2026-10-08T09:21:00+00:00,United States,0.683565483728767,0,1,en,CNA,North-America
+'adad7ac35a',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Mobile Inland,2026-10-09T09:28:00+00:00,United States,0.6834299476320075,0,1,en,CNA,North-America
+'c4d4dcfce5',extremes,Snow&Ice,#d60d2b,wmo,Ice Upper Hood River Valley,2026-10-09T09:28:00+00:00,United States,0.6831575221581633,0,1,en,CNA,North-America
+'aa6e09c2bd',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lebanon Lancaster,2026-10-19T08:01:00+00:00,United States,0.6829143901331648,0,1,en,CNA,North-America
 '9978c51a63',extremes,Heat Wave,#c40202,acwe,mild winter Victoria,2026-10-23T07:51:00+00:00,Australia,0.6801956666658466,1,1,en,SAU,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-10-09T09:28:00+00:00,Canada,0.6796458099156897,1,2,en,NEN,North-America
 '8c2b565540',extremes,Drought,#edc291,edo,Dry Spell Uganda,2026-09-29T08:53:00+00:00,Uganda,0.6788735464180335,1,2,en,SEAF,Africa
