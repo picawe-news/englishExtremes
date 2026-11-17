@@ -103,6 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b02b9cd9c',extremes,Snow&Ice,#d60d2b,wmo,Frost Kittitas Valley,2026-10-11T09:12:00+00:00,United States,0.7207891724342963,0,1,en,CNA,North-America
 '90fb403cd8',extremes,Flood,#030ba1,wmo,Flood Baker FL Nassau FL Charlton GA,2026-10-06T09:14:00+00:00,United States,0.7205083314059514,0,1,en,CNA,North-America
 'bf140a8e96',extremes,Flood,#030ba1,wmo,Flooding Victoria Ovens and King Rivers,2026-10-02T08:51:00+00:00,Australia,0.7204431863030477,0,1,en,CAU,Oceania
+'bf47b82a91',extremes,Heat Wave,#c40202,acwe,heat wave Western Australia,2026-10-23T07:51:00+00:00,Australia,0.7197671925119565,1,2,en,CAU,Oceania
 'b1b3df41d6',extremes,Thunderstorm,#53785a,wmo,Thunderstorm Australia,2026-10-15T07:40:00+00:00,Australia,0.7197189442273277,0,1,en,CAU,Oceania
 'd100b7ccb2',extremes,Flood,#030ba1,wmo,Flooding Gage NE Saline NE,2026-10-03T08:28:00+00:00,United States,0.7197031204479756,0,1,en,CNA,North-America
 'f3b5f7d52b',extremes,Flood,#030ba1,wmo,Flashflood Catalina and Santa Barbara Islands,2026-10-10T08:49:00+00:00,United States,0.7196609990617803,0,1,en,CNA,North-America
@@ -243,7 +244,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8bf3cc433f',extremes,Wildfire,#d60d2b,effis,Wild Fire Greece,2026-10-14T07:55:00+00:00,Greece,0.6887096867388948,0,1,en,MED,Europe
 'cf0f9aa3a7',extremes,Storm,#b3b2b1,wmo,Storm Santa Rosa Coastal,2026-10-09T09:28:00+00:00,United States,0.6886475672472101,0,1,en,CNA,North-America
 'bbc99646d3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Escambia,2026-10-08T09:21:00+00:00,United States,0.6885769703918327,0,1,en,CNA,North-America
-'bf47b82a91',extremes,Heat Wave,#c40202,acwe,heat wave Western Australia,2026-10-23T07:51:00+00:00,Australia,0.6883337931513215,0,1,en,CAU,Oceania
 '6ec669aebe',extremes,Flood,#030ba1,wmo,Flooding Guam Rota Tinian Saipan,2026-10-16T07:27:00+00:00,United States,0.688230083422769,0,1,en,CNA,North-America
 '3dcef39465',extremes,Wildfire,#d60d2b,effis,Wildfire Greece,2026-10-20T07:51:00+00:00,Greece,0.6880920154971799,0,1,en,MED,Europe
 'c80b434bfd',extremes,Snow&Ice,#d60d2b,wmo,Frost Maries,2026-10-18T07:23:00+00:00,United States,0.6880199179888998,0,1,en,CNA,North-America
