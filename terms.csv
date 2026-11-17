@@ -42,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-10-11T09:12:00+00:00,United States,0.7462280849496296,0,1,en,CNA,North-America
 '7d3c57318d',extremes,Flood,#030ba1,wmo,Flashflood Lake FL Volusia FL,2026-10-15T07:40:00+00:00,United States,0.742906890797513,0,1,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-10-11T09:12:00+00:00,Australia,0.7425166098020791,0,1,en,CAU,Oceania
+'0315cb46c4',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Escambia Coastal,2026-10-08T09:21:00+00:00,United States,0.7409748756997129,0,1,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-10-23T07:50:00+00:00,Canada,0.7370442447440418,1,3,en,NEN,North-America
 '255621cc4c',extremes,Earthquake,#870007,usgs,Earthquake Panguna,2026-10-07T09:05:00+00:00,Papua New Guinea,0.7362728917117423,0,1,en,EPO,Pacific Ocean
@@ -271,6 +272,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adad7ac35a',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Mobile Inland,2026-10-09T09:28:00+00:00,United States,0.6834299476320075,0,1,en,CNA,North-America
 'c4d4dcfce5',extremes,Snow&Ice,#d60d2b,wmo,Ice Upper Hood River Valley,2026-10-09T09:28:00+00:00,United States,0.6831575221581633,0,1,en,CNA,North-America
 'aa6e09c2bd',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lebanon Lancaster,2026-10-19T08:01:00+00:00,United States,0.6829143901331648,0,1,en,CNA,North-America
+'57fe46b5dd',extremes,Snow&Ice,#d60d2b,wmo,Frost Christian,2026-10-17T07:08:00+00:00,United States,0.6821380604032308,0,1,en,CNA,North-America
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,Storm Vanuatu,2026-10-09T09:28:00+00:00,Vanuatu,0.6815236896467257,0,1,en,SPO,Oceania
+'9d68a674b6',extremes,Storm,#b3b2b1,wmo,Storm Surge Miller,2026-10-09T09:28:00+00:00,United States,0.6814760581379956,0,1,en,CNA,North-America
+'8558cf5de9',extremes,Flood,#030ba1,wmo,Flooding Cleveland NC Cherokee SC,2026-10-12T09:36:00+00:00,United States,0.6813573469161348,0,1,en,CNA,North-America
+'117b73c023',extremes,Flood,#030ba1,wmo,Flood Attala,2026-10-09T09:28:00+00:00,United States,0.6810721892485854,0,1,en,CNA,North-America
 '9978c51a63',extremes,Heat Wave,#c40202,acwe,mild winter Victoria,2026-10-23T07:51:00+00:00,Australia,0.6801956666658466,1,1,en,SAU,Oceania
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,Rain Canada,2026-10-09T09:28:00+00:00,Canada,0.6796458099156897,1,2,en,NEN,North-America
 '8c2b565540',extremes,Drought,#edc291,edo,Dry Spell Uganda,2026-09-29T08:53:00+00:00,Uganda,0.6788735464180335,1,2,en,SEAF,Africa
