@@ -17,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72e330c6fb',extremes,Storm,#b3b2b1,wmo,Storm Wicklow,2026-10-02T08:51:00+00:00,Ireland,0.7720785447716667,1,2,en,NEU,Europe
 '9ede3b1c93',extremes,Heat Wave,#c40202,wmo,Heat Wave Orange County Coastal,2026-10-01T09:18:00+00:00,United States,0.7718206300199142,1,2,en,CNA,North-America
 '63d67b0640',extremes,Heat Wave,#c40202,wmo,Heat Wave San Diego County Coastal Areas,2026-10-03T08:28:00+00:00,United States,0.7707237481306354,1,2,en,CNA,North-America
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,thunderstorm Australia,2026-10-11T09:12:00+00:00,Australia,0.7705137603412046,0,1,en,EAU,Oceania
 '6e46e209c2',extremes,Flood,#030ba1,wmo,Flooding Northeast Coastal St. Johns,2026-10-23T07:50:00+00:00,United States,0.7704232979524034,1,2,en,CNA,North-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-10-08T09:21:00+00:00,United States,0.7700243066230088,1,3,en,CNA,North-America
 'd1a294ec0a',extremes,Drought,#edc291,edo,Drought Guyana,2026-10-20T07:51:00+00:00,Guyana,0.7699026955034924,0,1,en,NSA,South-America
@@ -30,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c7749f12f',extremes,Storm,#b3b2b1,wmo,Storm Seychelles,2026-10-22T07:51:00+00:00,Seychelles,0.7562160360804947,0,1,en,EIO,Africa
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-10-11T09:12:00+00:00,Solomon Islands,0.7550920794715,0,1,en,EPO,Oceania
 'c7ddfb217e',extremes,Precipitation,#d60d2b,acwe,heavy rain Victoria,2026-10-25T07:46:00+00:00,Australia,0.7510162054933751,1,3,en,SAU,Oceania
+'d3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-10-07T09:06:00+00:00,Jamaica,0.7505782326355491,0,1,en,CAR,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-10-24T07:32:00+00:00,New Zealand,0.7499661210644344,0,1,en,NZ,Oceania
 '40148d763a',extremes,Storm,#b3b2b1,wmo,Storm Paulatuk,2026-10-10T08:49:00+00:00,Canada,0.7492590705568695,0,1,en,NEN,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-10-18T07:23:00+00:00,Australia,0.7489812479427607,0,1,en,CAU,Oceania
@@ -42,11 +44,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d3c57318d',extremes,Flood,#030ba1,wmo,Flashflood Lake FL Volusia FL,2026-10-15T07:40:00+00:00,United States,0.742906890797513,0,1,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-10-11T09:12:00+00:00,Australia,0.7425166098020791,0,1,en,CAU,Oceania
 '0315cb46c4',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Escambia Coastal,2026-10-08T09:21:00+00:00,United States,0.7409748756997129,0,1,en,CNA,North-America
+'29478bc19b',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Kiska to Attu Pacific Side,2026-10-07T09:06:00+00:00,United States,0.7397915742482207,0,1,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 '9693b51bd6',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Escambia Inland,2026-10-09T09:28:00+00:00,United States,0.7384488720974206,0,1,en,CNA,North-America
 '854af57bd3',extremes,Fog,#d60d2b,wmo,Fog Canada,2026-10-23T07:50:00+00:00,Canada,0.7370442447440418,1,3,en,NEN,North-America
 '255621cc4c',extremes,Earthquake,#870007,usgs,Earthquake Panguna,2026-10-07T09:05:00+00:00,Papua New Guinea,0.7362728917117423,0,1,en,EPO,Pacific Ocean
 '08579e390c',extremes,Earthquake,#870007,usgs,Earthquake Yigo Village,2026-10-10T08:49:00+00:00,Guam,0.7360087334062131,0,1,en,NPO,Pacific Ocean
+'ebe3f8a23f',extremes,Drought,#edc291,edo,Lack of Rain Kiribati,2026-10-12T09:36:00+00:00,Kiribati,0.7355928494115692,0,1,en,EAO,Atlantic Ocean
+'7a0a69e938',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Conecuh,2026-10-08T09:21:00+00:00,United States,0.7350456439109394,0,1,en,CNA,North-America
+'8be24bcd06',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Coastal Levy,2026-10-08T09:21:00+00:00,United States,0.7339448197552961,0,1,en,CNA,North-America
 'e0bb0d7e8a',extremes,Flood,#030ba1,wmo,Flood Lake FL Volusia FL,2026-10-27T08:14:00+00:00,United States,0.7335494666986241,0,1,en,CNA,North-America
 '9287c99e36',extremes,Flood,#030ba1,wmo,Flood Trout River,2026-10-09T09:28:00+00:00,United States,0.7330625788980462,0,1,en,CNA,North-America
 '62423e6c71',extremes,Flood,#030ba1,wmo,Flashflood Cibola NM Valencia NM,2026-10-26T08:02:00+00:00,United States,0.7329346372153667,0,1,en,CNA,North-America
