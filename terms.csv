@@ -143,6 +143,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab1b8b2754',extremes,Thunderstorm,#53785a,wmo,Severe Weather Belize,2026-10-11T09:12:00+00:00,Belize,0.7129324271193077,0,1,en,SCA,North-America
 '702d038df2',extremes,Flood,#030ba1,emdat,Flooding Thailand,2026-10-20T07:51:00+00:00,Thailand,0.7128168116634354,0,1,en,SEA,Asia
 'fecd6af2cd',extremes,Flood,#030ba1,wmo,Flashflood Holmes FL Washington FL,2026-10-11T09:12:00+00:00,United States,0.7123189174472663,0,1,en,CNA,North-America
+'560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-09-30T08:53:00+00:00,Canada,0.7122288061004337,3,3,en,NEN,North-America
 '277ccc7058',extremes,Flood,#030ba1,wmo,Flashflood Ocracoke Island,2026-10-18T07:23:00+00:00,United States,0.7121052226470377,0,1,en,CNA,North-America
 'cb43d7050e',extremes,Flood,#030ba1,wmo,Flashflood Harper KS Kingman KS,2026-10-14T07:55:00+00:00,United States,0.7120518042181977,0,1,en,CNA,North-America
 '44893a357a',extremes,Flood,#030ba1,wmo,Flooding Cotton OK,2026-10-16T07:27:00+00:00,United States,0.711817180706155,0,1,en,CNA,North-America
@@ -236,7 +237,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ec669aebe',extremes,Flood,#030ba1,wmo,Flooding Guam Rota Tinian Saipan,2026-10-16T07:27:00+00:00,United States,0.688230083422769,0,1,en,CNA,North-America
 '3dcef39465',extremes,Wildfire,#d60d2b,effis,Wildfire Greece,2026-10-20T07:51:00+00:00,Greece,0.6880920154971799,0,1,en,MED,Europe
 'c80b434bfd',extremes,Snow&Ice,#d60d2b,wmo,Frost Maries,2026-10-18T07:23:00+00:00,United States,0.6880199179888998,0,1,en,CNA,North-America
-'560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-09-30T08:53:00+00:00,Canada,0.6877022157331305,2,3,en,NEN,North-America
 '04ace15051',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lackawanna Luzerne,2026-10-17T07:08:00+00:00,United States,0.6876538164928836,0,1,en,CNA,North-America
 '57d6005361',extremes,Storm,#b3b2b1,wmo,Storm Surge Houston,2026-10-10T08:49:00+00:00,United States,0.6873632158229009,0,1,en,CNA,North-America
 '0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,Storm Barren Islands East,2026-10-09T09:28:00+00:00,United States,0.6872355449067146,0,1,en,CNA,North-America
