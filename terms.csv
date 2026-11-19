@@ -22,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon United States,2026-10-08T09:21:00+00:00,United States,0.7700243066230088,1,3,en,CNA,North-America
 'd1a294ec0a',extremes,Drought,#edc291,edo,Drought Guyana,2026-10-20T07:51:00+00:00,Guyana,0.7699026955034924,0,1,en,NSA,South-America
 'acd0e1409b',extremes,Flood,#030ba1,acwe,flooding New South Wales,2026-09-29T08:53:00+00:00,Australia,0.7669738285340103,1,3,en,EAU,Oceania
-'b9e5a5873a',extremes,Flood,#030ba1,wmo,Flooding Canada,2026-09-24T07:46:00+00:00,Canada,0.7667767719470857,1,3,en,NEN,North-America
 '354110e18f',extremes,Wildfire,#d60d2b,effis,Bushfire United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.7666638483616731,0,1,en,NEU,Europe
 '6af3e7612f',extremes,Storm,#b3b2b1,wmo,Storm Christchurch,2026-10-25T07:45:00+00:00,New Zealand,0.76584233575326,1,2,en,NZ,Oceania
 '03d5c98bdb',extremes,Wildfire,#d60d2b,effis,Wildfire United Kingdom,2026-10-20T07:51:00+00:00,United Kingdom,0.7657971897104524,0,1,en,NEU,Europe
@@ -73,6 +72,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac14a679df',extremes,Flood,#030ba1,wmo,Flood Arlington Falls Church Alexandria,2026-10-22T07:51:00+00:00,United States,0.7287864187514673,0,1,en,CNA,North-America
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,wet spell Tasmania,2026-10-26T08:02:00+00:00,Australia,0.7285929366609624,0,1,en,SAU,Oceania
 '3c5b48cfca',extremes,Fog,#d60d2b,wmo,Fog Hardin Mercer Auglaize,2026-10-24T07:32:00+00:00,United States,0.7284179866805254,0,1,en,CNA,North-America
+'9978c51a63',extremes,Heat Wave,#c40202,acwe,mild winter Victoria,2026-10-23T07:51:00+00:00,Australia,0.7283163316659697,2,2,en,SAU,Oceania
 '9285bb1a52',extremes,Flood,#030ba1,wmo,Flood San Juan NM,2026-10-23T07:50:00+00:00,United States,0.7281619779899315,0,1,en,CNA,North-America
 '62010d07c5',extremes,Flood,#030ba1,wmo,Flooding Imperial CA,2026-10-11T09:12:00+00:00,United States,0.7270941321307567,0,1,en,CNA,North-America
 'bb125c9aa5',extremes,Earthquake,#870007,usgs,Earthquake Tezpur,2026-10-06T09:14:00+00:00,India,0.7265824383552711,0,1,en,SAS,Asia
@@ -93,7 +93,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b6bffc329',extremes,Flood,#030ba1,wmo,Flooding Bosham and West Itchenor,2026-10-26T08:02:00+00:00,United Kingdom,0.7236454522852586,0,1,en,NEU,Europe
 '5116a2b958',extremes,Fog,#d60d2b,wmo,Fog Ingham Jackson,2026-10-25T07:45:00+00:00,United States,0.723601563385231,0,1,en,CNA,North-America
 '504f75df4a',extremes,Flood,#030ba1,wmo,Flashflood Cleveland OK McClain OK,2026-10-16T07:27:00+00:00,United States,0.723084802308303,0,1,en,CNA,North-America
-'bc6a2eebfd',extremes,Snow&Ice,#d60d2b,wmo,Snow Dempster,2026-10-04T08:41:00+00:00,Canada,0.7225765198365613,0,1,en,NEN,North-America
 'cad9fdaacd',extremes,Flood,#030ba1,wmo,Flooding Henderson NC Transylvania NC,2026-10-12T09:36:00+00:00,United States,0.7219456192680341,0,1,en,CNA,North-America
 '7ac0bd950b',extremes,Fog,#d60d2b,wmo,Fog Two Rivers to Sheboygan WI,2026-10-13T09:41:00+00:00,United States,0.7219024296610478,0,1,en,CNA,North-America
 'c78132321f',extremes,Snow&Ice,#d60d2b,wmo,Freezing Ashland Iron,2026-10-05T09:29:00+00:00,United States,0.7218777227385864,0,1,en,CNA,North-America
@@ -112,7 +111,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-10-08T09:21:00+00:00,Papua New Guinea,0.7190603561573986,0,1,en,EPO,Oceania
 'de73f97ff0',extremes,Wildfire,#d60d2b,acwe,wildfire Western Australia,2026-10-21T07:55:00+00:00,Australia,0.7188829329752251,1,1,en,CAU,Oceania
 '6171ca62b4',extremes,Storm,#b3b2b1,wmo,Storm Surge Ireland,2026-10-14T07:55:00+00:00,Ireland,0.7188341777492854,0,1,en,NEU,Europe
-'5a31b9fd40',extremes,Flood,#030ba1,wmo,Flood Buchanan MO,2026-10-04T08:41:00+00:00,United States,0.7187339665348259,0,1,en,CNA,North-America
 '58191e80b7',extremes,Storm,#b3b2b1,wmo,Storm Surge Victoria Central Coast,2026-10-14T07:55:00+00:00,Australia,0.7186458681109773,0,1,en,CAU,Oceania
 'b0903e574b',extremes,Storm,#b3b2b1,meteo,Storm Ireland,2026-10-13T09:40:00+00:00,Ireland,0.7185632868992906,0,1,en,NEU,Europe
 'b090044b11',extremes,Storm,#b3b2b1,wmo,Storm Surge Tasmania South West Coast,2026-10-10T08:49:00+00:00,Australia,0.7185340952073316,0,1,en,CAU,Oceania
@@ -129,8 +127,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c39ebe40a1',extremes,Flood,#030ba1,wmo,Flashflood Monroe Middle Keys,2026-10-21T07:55:00+00:00,United States,0.716314303804702,0,1,en,CNA,North-America
 'f4e15912b7',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Seychelles,2026-10-24T07:32:00+00:00,Seychelles,0.716064992618922,0,1,en,EIO,Africa
 'ac883452de',extremes,Flood,#030ba1,wmo,Flashflood Washington UT,2026-10-12T09:36:00+00:00,United States,0.7159674807105642,0,1,en,CNA,North-America
-'ad55d4376d',extremes,Flood,#030ba1,wmo,Flood Jasper IA Marion IA Polk IA,2026-10-04T08:41:00+00:00,United States,0.7158393444671339,0,1,en,CNA,North-America
-'2918568fbe',extremes,Flood,#030ba1,wmo,Flood Black Hawk IA,2026-10-04T08:41:00+00:00,United States,0.7158221107845338,0,1,en,CNA,North-America
 'c22d69cf37',extremes,Flood,#030ba1,wmo,Flooding Ocracoke Island,2026-10-19T08:01:00+00:00,United States,0.7158209291517217,0,1,en,CNA,North-America
 'aa1a2b2faf',extremes,Flood,#030ba1,wmo,Flashflood Benton IA Iowa IA,2026-10-08T09:21:00+00:00,United States,0.715498915353749,0,1,en,CNA,North-America
 'b709798bf8',extremes,Flood,#030ba1,wmo,Flooding Coastal Horry,2026-10-27T08:14:00+00:00,United States,0.7151949143059166,0,1,en,CNA,North-America
@@ -144,7 +140,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab1b8b2754',extremes,Thunderstorm,#53785a,wmo,Severe Weather Belize,2026-10-11T09:12:00+00:00,Belize,0.7129324271193077,0,1,en,SCA,North-America
 '702d038df2',extremes,Flood,#030ba1,emdat,Flooding Thailand,2026-10-20T07:51:00+00:00,Thailand,0.7128168116634354,0,1,en,SEA,Asia
 'fecd6af2cd',extremes,Flood,#030ba1,wmo,Flashflood Holmes FL Washington FL,2026-10-11T09:12:00+00:00,United States,0.7123189174472663,0,1,en,CNA,North-America
-'560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-09-30T08:53:00+00:00,Canada,0.7122288061004337,3,3,en,NEN,North-America
 '277ccc7058',extremes,Flood,#030ba1,wmo,Flashflood Ocracoke Island,2026-10-18T07:23:00+00:00,United States,0.7121052226470377,0,1,en,CNA,North-America
 'cb43d7050e',extremes,Flood,#030ba1,wmo,Flashflood Harper KS Kingman KS,2026-10-14T07:55:00+00:00,United States,0.7120518042181977,0,1,en,CNA,North-America
 '44893a357a',extremes,Flood,#030ba1,wmo,Flooding Cotton OK,2026-10-16T07:27:00+00:00,United States,0.711817180706155,0,1,en,CNA,North-America
@@ -236,7 +231,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ec669aebe',extremes,Flood,#030ba1,wmo,Flooding Guam Rota Tinian Saipan,2026-10-16T07:27:00+00:00,United States,0.688230083422769,0,1,en,CNA,North-America
 '3dcef39465',extremes,Wildfire,#d60d2b,effis,Wildfire Greece,2026-10-20T07:51:00+00:00,Greece,0.6880920154971799,0,1,en,MED,Europe
 'c80b434bfd',extremes,Snow&Ice,#d60d2b,wmo,Frost Maries,2026-10-18T07:23:00+00:00,United States,0.6880199179888998,0,1,en,CNA,North-America
-'04ace15051',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lackawanna Luzerne,2026-10-17T07:08:00+00:00,United States,0.6876538164928836,0,1,en,CNA,North-America
 '57d6005361',extremes,Storm,#b3b2b1,wmo,Storm Surge Houston,2026-10-10T08:49:00+00:00,United States,0.6873632158229009,0,1,en,CNA,North-America
 '0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,Storm Barren Islands East,2026-10-09T09:28:00+00:00,United States,0.6872355449067146,0,1,en,CNA,North-America
 '460c2ad2ba',extremes,Storm,#b3b2b1,aidr,Storm extreme weather event South Australia September 2016,2026-10-18T07:23:00+00:00,Australia,0.6863536122544174,2,1,en,SAU,Oceania
@@ -268,7 +262,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09b4246f6d',extremes,Flood,#030ba1,wmo,Flooding Inland Flagler,2026-10-11T09:12:00+00:00,United States,0.6808842027438093,0,1,en,CNA,North-America
 '1e798c96bd',extremes,Storm,#b3b2b1,wmo,Storm Surge Taylor,2026-10-10T08:49:00+00:00,United States,0.6807589565074535,0,1,en,CNA,North-America
 '09f7aa3614',extremes,Snow&Ice,#d60d2b,wmo,Ice Door,2026-10-16T07:27:00+00:00,United States,0.6804594575626203,0,1,en,CNA,North-America
-'9978c51a63',extremes,Heat Wave,#c40202,acwe,mild winter Victoria,2026-10-23T07:51:00+00:00,Australia,0.6801956666658466,1,1,en,SAU,Oceania
 '597e9836c2',extremes,Flood,#030ba1,wmo,Flood Southern Nassau,2026-10-12T09:36:00+00:00,United States,0.6798931690924735,0,1,en,CNA,North-America
 '8cb8e6003e',extremes,Drought,#edc291,edo,Lack of Rain Saint Helena,2026-10-16T07:27:00+00:00,Saint Helena,0.6798491813227725,0,1,en,SAO,Atlantic Ocean
 'd4466d691c',extremes,Flood,#030ba1,wmo,Flood Buncombe NC Henderson NC,2026-10-10T08:49:00+00:00,United States,0.6797634800996587,0,1,en,CNA,North-America
@@ -279,11 +272,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b364d51e4e',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Rota,2026-10-16T07:27:00+00:00,United States,0.679113411530656,0,1,en,CNA,North-America
 'a67a1c3ce8',extremes,Storm,#b3b2b1,wmo,Storm From Haa Alifu Atoll to Vaavu Atoll,2026-10-23T07:50:00+00:00,Maldives,0.6789980804336883,0,1,en,EIO,Indian Ocean
 '852b7a07ac',extremes,Storm,#b3b2b1,wmo,Storm Surge Seminole,2026-10-09T09:28:00+00:00,United States,0.6789156425980267,0,1,en,CNA,North-America
-'edcb89e9c3',extremes,Earthquake,#870007,usgs,Earthquake Papua New Guinea,2026-10-07T09:05:00+00:00,Papua New Guinea,0.6784501163116967,1,1,en,EPO,Oceania
 'f0f611b883',extremes,Storm,#b3b2b1,wmo,Storm Churchill,2026-10-24T07:32:00+00:00,Canada,0.67736703687789,2,2,en,NEN,North-America
 '155b6f14cd',extremes,Storm,#b3b2b1,wmo,Storm Central and Eastern Regions,2026-10-14T07:55:00+00:00,Solomon Islands,0.6755740367353736,1,2,en,EPO,Oceania
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-10-11T09:12:00+00:00,Jamaica,0.6713075047404617,2,1,en,CAR,North-America
-'829105287e',extremes,Storm,#b3b2b1,wmo,Storm Jamaica,2026-10-02T08:51:00+00:00,Jamaica,0.6705334167276835,1,2,en,CAR,North-America
 '5b6e7863c8',extremes,Flood,#030ba1,acwe,high water level Victoria,2026-10-03T08:28:00+00:00,Australia,0.6703702838714933,1,2,en,SAU,Oceania
 '88eb4187d9',extremes,Flood,#030ba1,wmo,Flooding Northwest Plateau,2026-10-21T07:55:00+00:00,United States,0.6692281028043607,2,2,en,CNA,North-America
 '06c23417e1',extremes,Flood,#030ba1,wmo,Flooding Los Angeles CA,2026-10-22T07:51:00+00:00,United States,0.6685757347977184,1,1,en,CNA,North-America
@@ -369,17 +360,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0cb7e027f5',extremes,Flood,#030ba1,wmo,Flood Queensland Langlo and Ward Rivers,2026-10-23T07:50:00+00:00,Australia,0.6298602034269087,1,1,en,CAU,Oceania
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,Storm Vanuatu,2026-10-09T09:28:00+00:00,Vanuatu,0.6297451811997168,1,1,en,SPO,Oceania
 'ce38219493',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Conecuh,2026-10-09T09:28:00+00:00,United States,0.6296564901780601,1,1,en,CNA,North-America
-'d0871957bb',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Baldwin Central,2026-10-08T09:21:00+00:00,United States,0.6294971539037612,1,1,en,CNA,North-America
 'cc236a4cfe',extremes,Flood,#030ba1,wmo,Flooding Rio Arriba NM,2026-10-25T07:45:00+00:00,United States,0.6294600158169334,1,1,en,CNA,North-America
 '601e15e2e6',extremes,Flood,#030ba1,wmo,Flashflood Rio Arriba NM,2026-10-23T07:50:00+00:00,United States,0.6293306402748418,1,1,en,CNA,North-America
 '419185f62e',extremes,Flood,#030ba1,wmo,Flood Santa Barbara CA,2026-10-22T07:51:00+00:00,United States,0.629132706506637,1,1,en,CNA,North-America
 'cbb83acd93',extremes,Flood,#030ba1,wmo,Flashflood Northwest Plateau,2026-10-24T07:32:00+00:00,United States,0.6283198056535992,1,1,en,CNA,North-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,Flashflood United States,2026-10-14T07:55:00+00:00,United States,0.62814636731079,1,1,en,CNA,North-America
-'584f6bc0c3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Baldwin Inland,2026-10-08T09:21:00+00:00,United States,0.6281357750762433,1,1,en,CNA,North-America
 '375d80268a',extremes,Storm,#b3b2b1,wmo,Storm Surge Teslin Atlin,2026-10-20T07:51:00+00:00,Canada,0.6280649024509126,1,1,en,NEN,North-America
 'd5a68fc886',extremes,Flood,#030ba1,wmo,Flooding Montezuma CO San Juan UT,2026-10-23T07:50:00+00:00,United States,0.6280356026221167,1,1,en,CNA,North-America
 '19c5cbf5c4',extremes,Flood,#030ba1,wmo,Flashflood San Juan UT,2026-10-23T07:50:00+00:00,United States,0.6277885864289388,1,1,en,CNA,North-America
-'beae210554',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Mobile Inland,2026-10-08T09:21:00+00:00,United States,0.6275651187526414,1,1,en,CNA,North-America
 '8d45c460d3',extremes,Heat Wave,#c40202,wmo,Heat Wave Most Districts.,2026-10-13T09:41:00+00:00,Botswana,0.6274287075837582,1,1,en,WSAF,Africa
 'f04bdcd4a3',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Tinian Saipan,2026-10-17T07:08:00+00:00,United States,0.6273818354256236,1,1,en,CNA,North-America
 '08c4e422cd',extremes,Flood,#030ba1,wmo,Flooding Rio Grande CO,2026-10-25T07:45:00+00:00,United States,0.6273258647557007,1,1,en,CNA,North-America
@@ -387,12 +375,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7854de7144',extremes,Flood,#030ba1,wmo,Flood Queensland Maroochy River,2026-10-22T07:51:00+00:00,Australia,0.6272358869654759,1,1,en,CAU,Oceania
 'ed9de68927',extremes,Flood,#030ba1,wmo,Flood Queensland Six Mile Creek,2026-10-27T08:14:00+00:00,Australia,0.6272164650437528,1,1,en,CAU,Oceania
 '0686dda28c',extremes,Flood,#030ba1,wmo,Flood Monroe Upper Keys,2026-10-25T07:45:00+00:00,United States,0.6272107381832384,1,1,en,CNA,North-America
-'d1e506dfbd',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Santa Rosa Inland,2026-10-08T09:21:00+00:00,United States,0.6270379776513567,1,1,en,CNA,North-America
 '1273061cdc',extremes,Storm,#b3b2b1,wmo,Storm Kangiqsujuaq Raglan Lake Quaqtaq,2026-10-15T07:40:00+00:00,Canada,0.6269316917550012,1,1,en,NEN,North-America
 '59f812aa81',extremes,Earthquake,#870007,usgs,Earthquake Khorixas,2026-10-23T07:50:00+00:00,Namibia,0.6268875359116021,1,1,en,WSAF,Africa
 '721b7d6185',extremes,Drought,#edc291,edo,Drought United States,2026-10-11T09:12:00+00:00,United States,0.6264907830512101,1,2,en,WCE,Europe
 'b6b9c97c91',extremes,Flood,#030ba1,wmo,Flashflood Kane UT San Juan UT,2026-10-25T07:45:00+00:00,United States,0.6264843039050113,1,1,en,CNA,North-America
-'8bd07d6f17',extremes,Earthquake,#870007,usgs,Earthquake Bāgeshwar,2026-10-08T09:21:00+00:00,India,0.626231349433841,1,1,en,TIB,Asia
 'db6b657396',extremes,Wildfire,#d60d2b,effis,Wildfire Bridgend and Neath Port Talbot United Kingdom,2026-10-21T07:55:00+00:00,United Kingdom,0.6262123310889203,1,1,en,NEU,Europe
 'a0a00630e5',extremes,Flood,#030ba1,wmo,Flooding Calcasieu LA,2026-10-13T09:41:00+00:00,United States,0.6259742176732616,1,1,en,CNA,North-America
 '7295789cce',extremes,Flood,#030ba1,wmo,Flashflood Socorro NM,2026-10-27T08:14:00+00:00,United States,0.6257256757419847,1,1,en,CNA,North-America
@@ -430,11 +416,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85e8674fbe',extremes,Snow&Ice,#d60d2b,wmo,Frost Fleming Montgomery Bath Rowan,2026-10-17T07:08:00+00:00,United States,0.6095155916489586,1,1,en,CNA,North-America
 'fc11c85adb',extremes,Snow&Ice,#d60d2b,wmo,Snow Western US Arctic Offshore,2026-10-12T09:36:00+00:00,United States,0.6079226724070582,1,1,en,CNA,North-America
 '127267c6be',extremes,Flood,#030ba1,wmo,Flashflood Val Verde,2026-10-16T07:27:00+00:00,United States,0.5972994699516843,1,1,en,CNA,North-America
-'3b65176ec5',extremes,Storm,#b3b2b1,wmo,Storm Saint Matthew Island Waters,2026-10-09T09:28:00+00:00,United States,0.5968065564907256,1,1,en,CNA,North-America
 '0cf92c7bad',extremes,Flood,#030ba1,wmo,Flashflood Newport News,2026-10-19T08:01:00+00:00,United States,0.5911058208258927,1,1,en,CNA,North-America
 '3adb2fdbbf',extremes,Storm,#b3b2b1,wmo,Storm Kiska to Attu Pacific Side,2026-10-25T07:45:00+00:00,United States,0.59018926233597,1,1,en,CNA,North-America
 'aa99df21d8',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Canada,2026-10-22T07:51:00+00:00,Canada,0.5897372174262686,2,2,en,NEN,North-America
 '9c69472ddf',extremes,Flood,#030ba1,wmo,Flashflood Cherokee SC,2026-10-11T09:12:00+00:00,United States,0.587712428697132,1,1,en,CNA,North-America
+'04ace15051',extremes,Snow&Ice,#d60d2b,wmo,Freezing Lackawanna Luzerne,2026-10-17T07:08:00+00:00,United States,0.5845057440189511,1,1,en,CNA,North-America
 'ee76108475',extremes,Wildfire,#d60d2b,effis,Bushfire Greece,2026-10-13T09:40:00+00:00,Greece,0.5843472566873272,1,1,en,MED,Europe
 '750163879f',extremes,Flood,#030ba1,wmo,Flashflood Lexington SC Richland SC,2026-10-12T09:36:00+00:00,United States,0.5831139583260408,1,1,en,CNA,North-America
 '515277a569',extremes,Flood,#030ba1,wmo,Flooding United Kingdom,2026-10-24T07:32:00+00:00,United Kingdom,0.5762881006273397,2,2,en,NEU,Europe
