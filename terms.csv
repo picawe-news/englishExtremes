@@ -45,6 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d3c57318d',extremes,Flood,#030ba1,wmo,Flashflood Lake FL Volusia FL,2026-10-15T07:40:00+00:00,United States,0.742906890797513,0,1,en,CNA,North-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,Frost Australia,2026-10-11T09:12:00+00:00,Australia,0.7425166098020791,0,1,en,CAU,Oceania
 '0315cb46c4',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Escambia Coastal,2026-10-08T09:21:00+00:00,United States,0.7409748756997129,0,1,en,CNA,North-America
+'690da12f9f',extremes,Flood,#030ba1,wmo,Flooding Coastal Palm Beach County,2026-10-21T07:55:00+00:00,United States,0.7406808914653826,1,2,en,CNA,North-America
 '29478bc19b',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Kiska to Attu Pacific Side,2026-10-07T09:06:00+00:00,United States,0.7397915742482207,0,1,en,CNA,North-America
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,heatwave South Australia,2026-10-01T09:18:00+00:00,Australia,0.7389547522153836,1,2,en,SAU,Oceania
 '9693b51bd6',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Escambia Inland,2026-10-09T09:28:00+00:00,United States,0.7384488720974206,0,1,en,CNA,North-America
@@ -209,7 +210,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bea95b690d',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane St. Andrews Bay Waterways,2026-10-08T09:21:00+00:00,United States,0.6940067184435069,0,1,en,CNA,North-America
 'ffbfe200a6',extremes,Flood,#030ba1,wmo,Flooding Okaloosa Coastal,2026-10-08T09:21:00+00:00,United States,0.6938810725493836,0,1,en,CNA,North-America
 '30dd1a71a3',extremes,Storm,#b3b2b1,wmo,Storm Surge Saint Matthew Island Waters,2026-10-23T07:50:00+00:00,United States,0.6936763784785983,0,1,en,CNA,North-America
-'690da12f9f',extremes,Flood,#030ba1,wmo,Flooding Coastal Palm Beach County,2026-10-21T07:55:00+00:00,United States,0.6933303017239796,0,1,en,CNA,North-America
 '474905c6c6',extremes,Drought,#edc291,edo,Lack of Rain Namibia,2026-10-12T09:36:00+00:00,Namibia,0.6925299828078693,0,1,en,WSAF,Africa
 '772de7830b',extremes,Storm,#b3b2b1,wmo,Storm Surge Baldwin Central,2026-10-08T09:21:00+00:00,United States,0.6924954790338435,0,1,en,CNA,North-America
 'd285c74ff7',extremes,Flood,#030ba1,wmo,Flooding Lake FL Volusia FL,2026-10-22T07:51:00+00:00,United States,0.6924282835547209,0,1,en,CNA,North-America
