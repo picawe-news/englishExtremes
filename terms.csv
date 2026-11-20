@@ -42,6 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-10-22T07:51:00+00:00,Australia,0.7474335648711166,0,1,en,CAU,Oceania
 '02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-10-07T09:06:00+00:00,Australia,0.7467726114700673,0,1,en,CAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-10-11T09:12:00+00:00,United States,0.7462280849496296,0,1,en,CNA,North-America
+'ab76ab1b42',extremes,Snow&Ice,#d60d2b,wmo,Ice Northern Susitna Valley,2026-10-25T07:45:00+00:00,United States,0.7432802783995968,1,2,en,CNA,North-America
 '132af41fc7',extremes,Snow&Ice,#d60d2b,wmo,Frost Qikiqtarjuaq,2026-10-11T09:12:00+00:00,Canada,0.7431512743938684,0,1,en,NEN,North-America
 '7d3c57318d',extremes,Flood,#030ba1,wmo,Flashflood Lake FL Volusia FL,2026-10-15T07:40:00+00:00,United States,0.742906890797513,0,1,en,CNA,North-America
 'e4368ca7b9',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone North Walton,2026-10-09T09:28:00+00:00,United States,0.7428197841820836,0,1,en,CNA,North-America
@@ -202,7 +203,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7888db63e1',extremes,Storm,#b3b2b1,wmo,Storm Surge Lower St. Bernard,2026-10-09T09:28:00+00:00,United States,0.6984276509387656,0,1,en,CNA,North-America
 'a7fe98a481',extremes,Snow&Ice,#d60d2b,wmo,Ice Southern Seward Peninsula Coast,2026-10-22T07:51:00+00:00,United States,0.6980299245258432,0,1,en,CNA,North-America
 'dd60fd52a4',extremes,Snow&Ice,#d60d2b,wmo,Ice Middle Chehalis River Valley,2026-10-11T09:12:00+00:00,United States,0.6978387597963976,0,1,en,CNA,North-America
-'ab76ab1b42',extremes,Snow&Ice,#d60d2b,wmo,Ice Northern Susitna Valley,2026-10-25T07:45:00+00:00,United States,0.6978003098818786,0,1,en,CNA,North-America
 'ac1eccdde2',extremes,Storm,#b3b2b1,wmo,Storm Surge Bullock,2026-10-09T09:28:00+00:00,United States,0.6969774081272158,0,1,en,CNA,North-America
 'b6456e96d4',extremes,Snow&Ice,#d60d2b,wmo,Frost Grande Ronde Valley,2026-10-12T09:36:00+00:00,United States,0.6969017951377391,0,1,en,CNA,North-America
 'bed5fb97f8',extremes,Precipitation,#d60d2b,acwe,precipitation Victoria,2026-10-24T07:32:00+00:00,Australia,0.6966227131582865,0,1,en,SAU,Oceania
