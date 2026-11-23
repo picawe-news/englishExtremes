@@ -130,27 +130,27 @@ next month,next month,DATE,,,en,2.6000000000000005
 Q1 2026,Q1 2026,DATE,,,en,2.6000000000000005
 the Week,the Week,DATE,,,en,2.6
 Mexican,Mexican,NORP,,,en,2.6
-Gather Round,Gather Round,FAC,,,en,2.5999999999999996
-22,22,CARDINAL,,,en,2.5999999999999996
-40 degrees Celsius,40 degrees Celsius,QUANTITY,,,en,2.5999999999999996
 French,French,NORP,,,en,2.5999999999999996
+22,22,CARDINAL,,,en,2.5999999999999996
+Gather Round,Gather Round,FAC,,,en,2.5999999999999996
 1st,1st,ORDINAL,,,en,2.5999999999999996
+40 degrees Celsius,40 degrees Celsius,QUANTITY,,,en,2.5999999999999996
 January,January,DATE,,,en,2.5000000000000004
-Hurricane Lala,Hurricane Lala,EVENT,,,en,2.5
 31,31,CARDINAL,,,en,2.5
+Hurricane Lala,Hurricane Lala,EVENT,,,en,2.5
 2019,2019,DATE,,,en,2.5
 14,14,CARDINAL,,,en,2.4999999999999996
 2011,2011,DATE,,,en,2.4999999999999996
-2027,2027,DATE,,,en,2.4000000000000004
 Hundreds,Hundreds,CARDINAL,,,en,2.4000000000000004
-another six days,another six days,DATE,,,en,2.4
-60,60,CARDINAL,,,en,2.4
-Danish,Danish,NORP,,,en,2.4
+2027,2027,DATE,,,en,2.4000000000000004
 last year's,last year's,DATE,,,en,2.4
+Danish,Danish,NORP,,,en,2.4
 40 degrees,40 degrees,QUANTITY,,,en,2.4
 2007,2007,DATE,,,en,2.4
 30,30,CARDINAL,,,en,2.4
+60,60,CARDINAL,,,en,2.4
 42,42,CARDINAL,,,en,2.4
+another six days,another six days,DATE,,,en,2.4
 33C,33C,CARDINAL,,,en,2.4
 2020,2020,DATE,,,en,2.4
 15,15,CARDINAL,,,en,2.4
@@ -161,9 +161,9 @@ Read Full Article,Read Full Article,LAW,,,en,2.4
 Marauder,Marauder,PRODUCT,,,en,2.3000000000000003
 this season,this season,DATE,,,en,2.3000000000000003
 a year,a year,DATE,,,en,2.3
+This week,This week,DATE,,,en,2.3
 earlier this year,earlier this year,DATE,,,en,2.3
 seven,seven,CARDINAL,,,en,2.3
-This week,This week,DATE,,,en,2.3
 1998,1998,DATE,,,en,2.3
 Irish,Irish,NORP,,,en,2.2
 2023,2023,DATE,,,en,2.2
@@ -223,25 +223,25 @@ next year,next year,DATE,,,en,1.8
 Islanders,Islanders,NORP,,,en,1.8
 28,28,CARDINAL,,,en,1.8
 24 Hours,24 Hours,TIME,,,en,1.8
-a matter of days,a matter of days,DATE,,,en,1.8
-Israeli,Israeli,NORP,,,en,1.8
-4m,4m,QUANTITY,,,en,1.8
-Tasmanian,Tasmanian,NORP,,,en,1.8
-08,08,CARDINAL,,,en,1.8
 April 23,April 23,DATE,,,en,1.8
 weekend,weekend,DATE,,,en,1.8
+Israeli,Israeli,NORP,,,en,1.8
+08,08,CARDINAL,,,en,1.8
+4m,4m,QUANTITY,,,en,1.8
+a matter of days,a matter of days,DATE,,,en,1.8
+Tasmanian,Tasmanian,NORP,,,en,1.8
 fifth,fifth,ORDINAL,,,en,1.7999999999999998
-Heatwaves,Heatwaves,PRODUCT,,,en,1.7
-1936,1936,DATE,,,en,1.7
-the 2026 FIFA World Cup,the 2026 FIFA World Cup,EVENT,,,en,1.7
-earlier in the week,earlier in the week,DATE,,,en,1.7
+Years,Years,DATE,,,en,1.7
 June 4,June 4,DATE,,,en,1.7
 5 years,5 years,DATE,,,en,1.7
+1936,1936,DATE,,,en,1.7
+earlier in the week,earlier in the week,DATE,,,en,1.7
+the 2026 FIFA World Cup,the 2026 FIFA World Cup,EVENT,,,en,1.7
+Heatwaves,Heatwaves,PRODUCT,,,en,1.7
 February 16,February 16,DATE,,,en,1.7
-World Cup's,World Cup's,EVENT,,,en,1.7
 4th of July,4th of July,DATE,,,en,1.7
-Years,Years,DATE,,,en,1.7
 Dharamshala,Dharamshala,NORP,,,en,1.7
+World Cup's,World Cup's,EVENT,,,en,1.7
 the first half,the first half,DATE,,,en,1.7
 $45M,$45M,MONEY,,,en,1.7
 1972,1972,DATE,,,en,1.7
@@ -286,35 +286,35 @@ Olympics,Olympics,EVENT,,,en,1.6
 2014,2014,DATE,,,en,1.6
 English,English,LANGUAGE,,,en,1.6
 100km/h,100km/h,QUANTITY,,,en,1.6
-South Australian,South Australian,NORP,,,en,1.6
-September,September,DATE,,,en,1.6
 1989,1989,DATE,,,en,1.6
-Super Bowl,Super Bowl,EVENT,,,en,1.5999999999999999
-DDoS,DDoS,PRODUCT,,,en,1.5999999999999999
-Biden,Biden,LANGUAGE,,,en,1.5999999999999999
+September,September,DATE,,,en,1.6
+South Australian,South Australian,NORP,,,en,1.6
 1994,1994,DATE,,,en,1.5999999999999999
-Republicans,Republicans,NORP,,,en,1.5999999999999999
-15 years,15 years,DATE,,,en,1.5999999999999999
 "20,000","20,000",CARDINAL,,,en,1.5999999999999999
-1977,1977,DATE,,,en,1.5999999999999999
+Republicans,Republicans,NORP,,,en,1.5999999999999999
 Nazi,Nazi,NORP,,,en,1.5999999999999999
-$1 billion,$1 billion,MONEY,,,en,1.5999999999999999
+1977,1977,DATE,,,en,1.5999999999999999
+Super Bowl,Super Bowl,EVENT,,,en,1.5999999999999999
 29,29,CARDINAL,,,en,1.5999999999999999
+$1 billion,$1 billion,MONEY,,,en,1.5999999999999999
+15 years,15 years,DATE,,,en,1.5999999999999999
 1996,1996,DATE,,,en,1.5999999999999999
 "April 17, 2026 (GLOBE NEWSWIRE","April 17, 2026 (GLOBE NEWSWIRE",DATE,,,en,1.5999999999999999
-Aussie,Aussie,NORP,,,en,1.5
-Palestinian,Palestinian,NORP,,,en,1.5
-African,African,NORP,,,en,1.5
-220,220,CARDINAL,,,en,1.5
+Biden,Biden,LANGUAGE,,,en,1.5999999999999999
+DDoS,DDoS,PRODUCT,,,en,1.5999999999999999
+spring,spring,DATE,,,en,1.5
+This year,This year,DATE,,,en,1.5
 24,24,MONEY,,,en,1.5
+Anzac Day,Anzac Day,DATE,,,en,1.5
+220,220,CARDINAL,,,en,1.5
+African,African,NORP,,,en,1.5
+Aussie,Aussie,NORP,,,en,1.5
 eighth,eighth,ORDINAL,,,en,1.5
 several days,several days,DATE,,,en,1.5
 Philippine,Philippine,NORP,,,en,1.5
-spring,spring,DATE,,,en,1.5
 5%,5%,PERCENT,,,en,1.5
-This year,This year,DATE,,,en,1.5
 the past year,the past year,DATE,,,en,1.5
-Anzac Day,Anzac Day,DATE,,,en,1.5
+Palestinian,Palestinian,NORP,,,en,1.5
 600,600,MONEY,,,en,1.5
 50th,50th,ORDINAL,,,en,1.5
 Bronx Zoo,Bronx Zoo,FAC,,,en,1.4
@@ -364,7 +364,7 @@ Storm Stress Rankings,Storm Stress Rankings,PRODUCT,,,en,1.3
 Viper,Viper,PRODUCT,,,en,1.3
 recent months,recent months,DATE,,,en,1.3
 50 million,50 million,CARDINAL,,,en,1.3
-Crypto,Crypto,NORP,,,en,1.3
+world series,world series,EVENT,,,en,1.3
 Hindu,Hindu,NORP,,,en,1.3
 a stormy January,a stormy January,DATE,,,en,1.3
 Ten,Ten,CARDINAL,,,en,1.3
@@ -396,7 +396,7 @@ Pochettino,Pochettino,NORP,,,en,1.3
 Apr 28,Apr 28,DATE,,,en,1.3
 360,360,CARDINAL,,,en,1.3
 Veterans,Veterans,NORP,,,en,1.3
-V8,V8,PRODUCT,,,en,1.3
+May 6,May 6,DATE,,,en,1.3
 92,92,CARDINAL,,,en,1.3
 Iran War,Iran War,EVENT,,,en,1.3
 2050,2050,DATE,,,en,1.3
@@ -412,18 +412,18 @@ Claude Mythos,Claude Mythos,WORK_OF_ART,,,en,1.3
 LS430,LS430,PRODUCT,,,en,1.3
 Pixel 10a,Pixel 10a,PRODUCT,,,en,1.3
 Ayodhya,Ayodhya,NORP,,,en,1.3
-world series,world series,EVENT,,,en,1.3
+Power Ballad,Power Ballad,WORK_OF_ART,,,en,1.3
 "4,800 miles","4,800 miles",QUANTITY,,,en,1.3
 rookie year,rookie year,DATE,,,en,1.3
 Exit From Rock The Country Festival,Exit From Rock The Country Festival,WORK_OF_ART,,,en,1.3
 Supra,Supra,PRODUCT,,,en,1.3
+Ready or Not 2,Ready or Not 2,WORK_OF_ART,,,en,1.3
 944 S2,944 S2,PRODUCT,,,en,1.3
-May 6,May 6,DATE,,,en,1.3
 89th,89th,ORDINAL,,,en,1.3
 850i,850i,PRODUCT,,,en,1.3
 Months,Months,DATE,,,en,1.3
-Ready or Not 2,Ready or Not 2,WORK_OF_ART,,,en,1.3
-Power Ballad,Power Ballad,WORK_OF_ART,,,en,1.3
+V8,V8,PRODUCT,,,en,1.3
+Crypto,Crypto,NORP,,,en,1.3
 USD 1 Million,USD 1 Million,MONEY,,,en,1.3
 the Hockey Hall of Fame,the Hockey Hall of Fame,FAC,,,en,1.3
 October,October,DATE,,,en,1.3
@@ -439,22 +439,22 @@ ES350,ES350,PRODUCT,,,en,1.3
 Eurovision 2026,Eurovision 2026,EVENT,,,en,1.3
 200,200,CARDINAL,,,en,1.3
 23k,23k,CARDINAL,,,en,1.3
+April 5,April 5,DATE,,,en,1.3
 2034,2034,DATE,,,en,1.3
 winters,winters,DATE,,,en,1.3
-April 5,April 5,DATE,,,en,1.3
 the Breathtaking Astrophotography,the Breathtaking Astrophotography,FAC,,,en,1.3
 1979,1979,DATE,,,en,1.3
 next few days,next few days,DATE,,,en,1.3
 Weekend,Weekend,DATE,,,en,1.3
 SoFi Stadium,SoFi Stadium,FAC,,,en,1.2
 two days,two days,DATE,,,en,1.2
-at least eight,at least eight,CARDINAL,,,en,1.2
+1845,1845,CARDINAL,,,en,1.2
 February 2026,February 2026,DATE,,,en,1.2
 recent weeks,recent weeks,DATE,,,en,1.2
 Iranians,Iranians,NORP,,,en,1.2
 Taseko,Taseko,WORK_OF_ART,,,en,1.2
 nearly 59 years,nearly 59 years,DATE,,,en,1.2
-1845,1845,CARDINAL,,,en,1.2
+at least eight,at least eight,CARDINAL,,,en,1.2
 Camaro,Camaro,PRODUCT,,,en,1.2
 57 years,57 years,DATE,,,en,1.2
 690,690,MONEY,,,en,1.2
@@ -481,8 +481,8 @@ June 19,June 19,DATE,,,en,1.2
 Night,Night,TIME,,,en,1.2
 5.5,5.5,CARDINAL,,,en,1.2
 Thanksgiving,Thanksgiving,DATE,,,en,1.2
-GW,GW,WORK_OF_ART,,,en,1.2
 the model year,the model year,DATE,,,en,1.2
+GW,GW,WORK_OF_ART,,,en,1.2
 140km/h,140km/h,QUANTITY,,,en,1.2
 recent years,recent years,DATE,,,en,1.2
 the Walter Cup,the Walter Cup,EVENT,,,en,1.2
@@ -548,83 +548,84 @@ Easter weekend,Easter weekend,DATE,,,en,1.2
 6.1,6.1,CARDINAL,,,en,1.2
 Week 159,Week 159,DATE,,,en,1.2
 first quarter 2026,first quarter 2026,DATE,,,en,1.2
-38,38,DATE,,,en,1.2
-the past decade,the past decade,DATE,,,en,1.2
-the Year,the Year,DATE,,,en,1.2
-five days,five days,DATE,,,en,1.2
 Tomahawk,Tomahawk,PRODUCT,,,en,1.2
-This Weekend,This Weekend,DATE,,,en,1.2
-Showcase Asia,Showcase Asia,FAC,,,en,1.2
-"more than 10,000","more than 10,000",CARDINAL,,,en,1.2
-the New Year,the New Year,DATE,,,en,1.2
-earlier this month,earlier this month,DATE,,,en,1.2
-March 2026,March 2026,DATE,,,en,1.2
-up to,up to,QUANTITY,,,en,1.2
-Storm,Storm,PRODUCT,0.4927272727272727,0.9090909090909092,en,1.2
+five days,five days,DATE,,,en,1.2
+Wednesday night,Wednesday night,TIME,,,en,1.2
+more than 200,more than 200,CARDINAL,,,en,1.2
+summertime,summertime,DATE,,,en,1.2
 the 2026 Winter Olympics,the 2026 Winter Olympics,EVENT,,,en,1.2
 55,55,CARDINAL,,,en,1.2
-more than 200,more than 200,CARDINAL,,,en,1.2
+Storm,Storm,PRODUCT,0.4927272727272727,0.9090909090909092,en,1.2
+October 2024,October 2024,DATE,,,en,1.2
+the Year,the Year,DATE,,,en,1.2
+Daily,Daily,DATE,,,en,1.2
+the past decade,the past decade,DATE,,,en,1.2
+This Weekend,This Weekend,DATE,,,en,1.2
+earlier this month,earlier this month,DATE,,,en,1.2
+up to,up to,QUANTITY,,,en,1.2
+Showcase Asia,Showcase Asia,FAC,,,en,1.2
+March 2026,March 2026,DATE,,,en,1.2
+"more than 10,000","more than 10,000",CARDINAL,,,en,1.2
 This Week,This Week,DATE,,,en,1.2
-Christmas Eve,Christmas Eve,DATE,,,en,1.2
-three-day,three-day,DATE,,,en,1.2
-120,120,CARDINAL,,,en,1.2
-Nepal,Nepal,NORP,-0.09448818897637797,0.09645669291338585,en,1.2
+last week,last week,DATE,,,en,1.2
+the New Year,the New Year,DATE,,,en,1.2
 10th,10th,ORDINAL,,,en,1.2
 12th,12th,DATE,,,en,1.2
-2029,2029,CARDINAL,,,en,1.2
-October 2024,October 2024,DATE,,,en,1.2
-Absolute Healing,Absolute Healing,WORK_OF_ART,,,en,1.2
-summertime,summertime,DATE,,,en,1.2
-Wednesday night,Wednesday night,TIME,,,en,1.2
 last-minute,last-minute,TIME,,,en,1.2
-1%,1%,PERCENT,,,en,1.2
-the Great Barrier Reef,the Great Barrier Reef,EVENT,,,en,1.2
+120,120,CARDINAL,,,en,1.2
 last night,last night,TIME,,,en,1.2
-billion,billion,CARDINAL,,,en,1.2
-Daily,Daily,DATE,,,en,1.2
+1%,1%,PERCENT,,,en,1.2
+2029,2029,CARDINAL,,,en,1.2
+Christmas Eve,Christmas Eve,DATE,,,en,1.2
+Nepal,Nepal,NORP,-0.09448818897637797,0.09645669291338585,en,1.2
+Absolute Healing,Absolute Healing,WORK_OF_ART,,,en,1.2
+three-day,three-day,DATE,,,en,1.2
 "More than 200,000","More than 200,000",CARDINAL,,,en,1.2
-last week,last week,DATE,,,en,1.2
+the Great Barrier Reef,the Great Barrier Reef,EVENT,,,en,1.2
+38,38,DATE,,,en,1.2
+billion,billion,CARDINAL,,,en,1.2
 692,692,MONEY,,,en,1.1
-Getting Around,Getting Around,WORK_OF_ART,,,en,1.0
-dually,dually,PRODUCT,,,en,1.0
-Crew Cab,Crew Cab,PRODUCT,,,en,1.0
-140,140,CARDINAL,,,en,1.0
-more than three decades,more than three decades,DATE,,,en,1.0
-1984,1984,DATE,,,en,1.0
-Yankee Stadium,Yankee Stadium,FAC,,,en,1.0
-three seasons,three seasons,DATE,,,en,1.0
-the White House,the White House,FAC,,,en,1.0
-57k,57k,CARDINAL,,,en,1.0
-Power Stroke turbodiesel,Power Stroke turbodiesel,PRODUCT,,,en,1.0
-one-year,one-year,DATE,,,en,1.0
 Crown Heights,Crown Heights,FAC,,,en,1.0
-the Jackie Robinson Parkway,the Jackie Robinson Parkway,FAC,,,en,1.0
-Asia-Pacific,Asia-Pacific,NORP,,,en,1.0
-the second quarter,the second quarter,DATE,,,en,1.0
-"5,300km","5,300km",QUANTITY,,,en,1.0
-4.3B,4.3B,MONEY,,,en,1.0
-100x,100x,CARDINAL,,,en,1.0
-"Thursday, July 30, 2026","Thursday, July 30, 2026",DATE,,,en,1.0
-$16-billion dam,$16-billion dam,MONEY,,,en,1.0
-82,82,DATE,,,en,1.0
-The Making of Boston,The Making of Boston,WORK_OF_ART,,,en,1.0
-next Wednesday,next Wednesday,DATE,,,en,1.0
-July 14,July 14,DATE,,,en,1.0
-200m,200m,QUANTITY,,,en,1.0
-2026-27 season,2026-27 season,DATE,,,en,1.0
-Dell XPS 14,Dell XPS 14,PRODUCT,,,en,1.0
-A year,A year,DATE,,,en,1.0
-Extremist,Extremist,NORP,,,en,1.0
-Generating Station,Generating Station,FAC,,,en,1.0
-between June 1 and November 30,between June 1 and November 30,DATE,,,en,1.0
-early-year hurricane season,early-year hurricane season,DATE,,,en,1.0
-Fort St. John,Fort St. John,FAC,,,en,1.0
+more than three decades,more than three decades,DATE,,,en,1.0
 up to 100,up to 100,CARDINAL,,,en,1.0
 2026-2033,2026-2033,DATE,,,en,1.0
+the White House,the White House,FAC,,,en,1.0
+4.3B,4.3B,MONEY,,,en,1.0
+140,140,CARDINAL,,,en,1.0
+Extremist,Extremist,NORP,,,en,1.0
+100x,100x,CARDINAL,,,en,1.0
+Bright White over Dark,Bright White over Dark,WORK_OF_ART,,,en,1.0
+A year,A year,DATE,,,en,1.0
+Dell XPS 14,Dell XPS 14,PRODUCT,,,en,1.0
+the second quarter,the second quarter,DATE,,,en,1.0
+Asia-Pacific,Asia-Pacific,NORP,,,en,1.0
+the Jackie Robinson Parkway,the Jackie Robinson Parkway,FAC,,,en,1.0
+one-year,one-year,DATE,,,en,1.0
+Power Stroke turbodiesel,Power Stroke turbodiesel,PRODUCT,,,en,1.0
+dually,dually,PRODUCT,,,en,1.0
+Yankee Stadium,Yankee Stadium,FAC,,,en,1.0
+Crew Cab,Crew Cab,PRODUCT,,,en,1.0
+57k,57k,CARDINAL,,,en,1.0
+$16-billion dam,$16-billion dam,MONEY,,,en,1.0
+2026-27 season,2026-27 season,DATE,,,en,1.0
+July 14,July 14,DATE,,,en,1.0
+"Thursday, July 30, 2026","Thursday, July 30, 2026",DATE,,,en,1.0
+Generating Station,Generating Station,FAC,,,en,1.0
+Fort St. John,Fort St. John,FAC,,,en,1.0
+three seasons,three seasons,DATE,,,en,1.0
+1984,1984,DATE,,,en,1.0
+early-year hurricane season,early-year hurricane season,DATE,,,en,1.0
+between June 1 and November 30,between June 1 and November 30,DATE,,,en,1.0
+Getting Around,Getting Around,WORK_OF_ART,,,en,1.0
+82,82,DATE,,,en,1.0
 The Lay of the Land,The Lay of the Land,WORK_OF_ART,,,en,1.0
+The Making of Boston,The Making of Boston,WORK_OF_ART,,,en,1.0
+next Wednesday,next Wednesday,DATE,,,en,1.0
+200m,200m,QUANTITY,,,en,1.0
+"5,300km","5,300km",QUANTITY,,,en,1.0
 Dark Blue Pearl,Dark Blue Pearl,WORK_OF_ART,,,en,1.0
 the 1880s,the 1880s,DATE,,,en,1.0
-Filipino Communist,Filipino Communist,NORP,,,en,1.0
+9.8%,9.8%,PERCENT,,,en,1.0
 Independence Day 2026 weekend,Independence Day 2026 weekend,EVENT,,,en,1.0
 the last decade,the last decade,DATE,,,en,1.0
 The Sydney Super Cup,The Sydney Super Cup,EVENT,,,en,1.0
@@ -636,8 +637,8 @@ Global Top 50,Global Top 50,PRODUCT,,,en,1.0
 the second full week of May,the second full week of May,DATE,,,en,1.0
 USD 2.93 Billion,USD 2.93 Billion,MONEY,,,en,1.0
 Operation Economic Fury,Operation Economic Fury,WORK_OF_ART,,,en,1.0
-9.8%,9.8%,PERCENT,,,en,1.0
 Nixon Moment,Nixon Moment,WORK_OF_ART,,,en,1.0
+19th-century,19th-century,DATE,,,en,1.0
 Good News,Good News,WORK_OF_ART,,,en,1.0
 C5,C5,PRODUCT,,,en,1.0
 This weekend,This weekend,DATE,,,en,1.0
@@ -649,10 +650,9 @@ Contractor Fraud Awareness Week,Contractor Fraud Awareness Week,LAW,,,en,1.0
 Healthy Homes Standards,Healthy Homes Standards,LAW,,,en,1.0
 $240 million,$240 million,MONEY,,,en,1.0
 Thirty-five,Thirty-five,CARDINAL,,,en,1.0
-West Asian,West Asian,NORP,,,en,1.0
 Disneyland,Disneyland,FAC,,,en,1.0
-19th-century,19th-century,DATE,,,en,1.0
 over 257,over 257,CARDINAL,,,en,1.0
+Filipino Communist,Filipino Communist,NORP,,,en,1.0
 the UIA 2030 Award,the UIA 2030 Award,EVENT,,,en,1.0
 U.S. Open of Surfing,U.S. Open of Surfing,FAC,,,en,1.0
 the U.S. Open of Surfing,the U.S. Open of Surfing,EVENT,,,en,1.0
@@ -679,7 +679,7 @@ a quarter,a quarter,DATE,,,en,1.0
 Tracker,Tracker,PRODUCT,,,en,1.0
 1542 hrs,1542 hrs,TIME,,,en,1.0
 "July 29, 2026 /PRNewswire/","July 29, 2026 /PRNewswire/",DATE,,,en,1.0
-Bright White over Dark,Bright White over Dark,WORK_OF_ART,,,en,1.0
+109 million,109 million,CARDINAL,,,en,1.0
 Around $12M,Around $12M,MONEY,,,en,1.0
 Libyans,Libyans,NORP,,,en,1.0
 the very end of 2028,the very end of 2028,DATE,,,en,1.0
@@ -791,11 +791,11 @@ March 1956,March 1956,DATE,,,en,1.0
 a year ago,a year ago,DATE,,,en,1.0
 felt over 150 miles,felt over 150 miles,QUANTITY,,,en,1.0
 MX,MX,PRODUCT,,,en,1.0
-109 million,109 million,CARDINAL,,,en,1.0
+West Asian,West Asian,NORP,,,en,1.0
 Pikes Peak,Pikes Peak,FAC,,,en,1.0
 23°C to,23°C to,PERCENT,,,en,1.0
 "59,000","59,000",CARDINAL,,,en,1.0
-189,189,CARDINAL,,,en,1.0
+At least 98,At least 98,CARDINAL,,,en,1.0
 787-9 Dreamliner,787-9 Dreamliner,PRODUCT,,,en,1.0
 OnePlus 15R,OnePlus 15R,PRODUCT,,,en,1.0
 "1,300","1,300",CARDINAL,,,en,1.0
@@ -819,7 +819,7 @@ Almost 300,Almost 300,CARDINAL,,,en,1.0
 168,168,CARDINAL,,,en,1.0
 the academic year earlier,the academic year earlier,DATE,,,en,1.0
 Centennial Olympic Park,Centennial Olympic Park,FAC,,,en,1.0
-At least 98,At least 98,CARDINAL,,,en,1.0
+189,189,CARDINAL,,,en,1.0
 Ninja Slishi Twist,Ninja Slishi Twist,PRODUCT,,,en,1.0
 only four months,only four months,DATE,,,en,1.0
 iPhone 18,iPhone 18,PRODUCT,,,en,1.0
@@ -875,9 +875,9 @@ Game 1,Game 1,EVENT,,,en,1.0
 this Labor Day,this Labor Day,DATE,,,en,1.0
 5 years later,5 years later,DATE,,,en,1.0
 65,65,CARDINAL,,,en,1.0
+Crossfire,Crossfire,PRODUCT,,,en,1.0
 95,95,CARDINAL,,,en,1.0
 01,01,DATE,,,en,1.0
-Crossfire,Crossfire,PRODUCT,,,en,1.0
 Two years ago,Two years ago,DATE,,,en,1.0
 just 90 miles,just 90 miles,QUANTITY,,,en,1.0
 A Sustainability Plan That Could Make The Federal Government Growl,A Sustainability Plan That Could Make The Federal Government Growl,LAW,,,en,1.0
@@ -959,7 +959,7 @@ the PGA Championship,the PGA Championship,EVENT,,,en,1.0
 59,59,CARDINAL,,,en,1.0
 Arabs,Arabs,NORP,,,en,1.0
 a strong first quarter,a strong first quarter,DATE,,,en,1.0
-Preview,Preview,WORK_OF_ART,,,en,1.0
+Summer Reading Guide,Summer Reading Guide,EVENT,,,en,1.0
 52,52,CARDINAL,,,en,1.0
 100 kmph,100 kmph,QUANTITY,,,en,1.0
 Aug 16,Aug 16,DATE,,,en,1.0
@@ -984,9 +984,9 @@ $1M,$1M,MONEY,,,en,1.0
 $1 million,$1 million,MONEY,,,en,1.0
 two weeks,two weeks,DATE,,,en,1.0
 At least seven,At least seven,CARDINAL,,,en,1.0
-the annual festival,the annual festival,EVENT,,,en,1.0
+Preview,Preview,WORK_OF_ART,,,en,1.0
 an entire night,an entire night,TIME,,,en,1.0
-NRL Magic Round 2026,NRL Magic Round 2026,WORK_OF_ART,,,en,1.0
+the annual festival,the annual festival,EVENT,,,en,1.0
 Summer 2000: The X-Cetra Story,Summer 2000: The X-Cetra Story,WORK_OF_ART,,,en,1.0
 Take Me Home,Take Me Home,WORK_OF_ART,,,en,1.0
 Maddie,Maddie,WORK_OF_ART,,,en,1.0
@@ -1009,7 +1009,7 @@ International Centre for Integrated Mountain Development,International Centre fo
 New Movies and Series,New Movies and Series,EVENT,,,en,1.0
 the next few months,the next few months,DATE,,,en,1.0
 two-year-old,two-year-old,DATE,,,en,1.0
-Summer Reading Guide,Summer Reading Guide,EVENT,,,en,1.0
+NRL Magic Round 2026,NRL Magic Round 2026,WORK_OF_ART,,,en,1.0
 Amber Pearl,Amber Pearl,FAC,,,en,1.0
 41,41,MONEY,,,en,1.0
 USD 65.29 Billion,USD 65.29 Billion,MONEY,,,en,1.0
@@ -1237,7 +1237,7 @@ Territory Day awards,Territory Day awards,EVENT,,,en,1.0
 over 29 inches,over 29 inches,QUANTITY,,,en,1.0
 June 22-23,June 22-23,DATE,,,en,1.0
 Pixel 11,Pixel 11,PRODUCT,,,en,1.0
-24 2026,24 2026,DATE,,,en,1.0
+Pixel,Pixel,PRODUCT,,,en,1.0
 "105,106","105,106",MONEY,,,en,1.0
 hundreds of tons,hundreds of tons,QUANTITY,,,en,1.0
 BMW M5,BMW M5,PRODUCT,,,en,1.0
@@ -1349,7 +1349,7 @@ Babylonian,Babylonian,NORP,,,en,1.0
 The Long Road,The Long Road,FAC,,,en,1.0
 68mm,68mm,QUANTITY,,,en,1.0
 August 1958,August 1958,DATE,,,en,1.0
-45º C.,45º C.,DATE,,,en,1.0
+24 2026,24 2026,DATE,,,en,1.0
 "200,000","200,000",MONEY,,,en,1.0
 "over 32,000","over 32,000",CARDINAL,,,en,1.0
 At least 37,At least 37,CARDINAL,,,en,1.0
@@ -1389,7 +1389,7 @@ a century,a century,DATE,,,en,1.0
 "May 25, 2026","May 25, 2026",DATE,,,en,1.0
 202,202,CARDINAL,,,en,1.0
 128,128,CARDINAL,,,en,1.0
-Pixel,Pixel,PRODUCT,,,en,1.0
+45º C.,45º C.,DATE,,,en,1.0
 World Cup 2026,World Cup 2026,EVENT,,,en,1.0
 60 years,60 years,DATE,,,en,1.0
 Two dozen,Two dozen,CARDINAL,,,en,1.0
@@ -1397,8 +1397,8 @@ Two dozen,Two dozen,CARDINAL,,,en,1.0
 about 8.7 inches,about 8.7 inches,QUANTITY,,,en,1.0
 FIFA World Cup 2026,FIFA World Cup 2026,EVENT,,,en,1.0
 lineup this year,lineup this year,DATE,,,en,1.0
-6/10/2026,6/10/2026,CARDINAL,,,en,1.0
 256GB,256GB,QUANTITY,,,en,1.0
+6/10/2026,6/10/2026,CARDINAL,,,en,1.0
 $21 Flashlight,$21 Flashlight,MONEY,,,en,1.0
 20.93°C,20.93°C,PERCENT,,,en,1.0
 June 9th 2026,June 9th 2026,DATE,,,en,1.0
@@ -1629,17 +1629,17 @@ the World Cup:,the World Cup:,EVENT,,,en,1.0
 nearly five hours,nearly five hours,TIME,,,en,1.0
 more than 100 millimetres,more than 100 millimetres,QUANTITY,,,en,1.0
 30 minutes,30 minutes,TIME,,,en,1.0
-Spring 2026,Spring 2026,DATE,,,en,1.0
 the following year,the following year,DATE,,,en,1.0
 2 months of that year,2 months of that year,DATE,,,en,1.0
 Three decades,Three decades,DATE,,,en,1.0
+Spring 2026,Spring 2026,DATE,,,en,1.0
+Butterfly Gathering,Butterfly Gathering,WORK_OF_ART,,,en,1.0
+Fallas Festival,Fallas Festival,EVENT,,,en,1.0
 1701-1714,1701-1714,DATE,,,en,1.0
 the War of the Spanish Succession,the War of the Spanish Succession,EVENT,,,en,1.0
 Article 9,Article 9,WORK_OF_ART,,,en,1.0
 Colonial American History,Colonial American History,EVENT,,,en,1.0
 1702-1713,1702-1713,DATE,,,en,1.0
-Butterfly Gathering,Butterfly Gathering,WORK_OF_ART,,,en,1.0
-Fallas Festival,Fallas Festival,EVENT,,,en,1.0
 18 years,18 years,DATE,,,en,1.0
 28 years,28 years,DATE,,,en,1.0
 million-dollar,million-dollar,MONEY,,,en,1.0
@@ -1769,14 +1769,14 @@ up to 300,up to 300,CARDINAL,,,en,1.0
 Great Ocean Road,Great Ocean Road,FAC,,,en,1.0
 Weeks,Weeks,DATE,,,en,1.0
 101,101,CARDINAL,,,en,1.0
+SXSW 2026 Film,SXSW 2026 Film,EVENT,,,en,1.0
+March 12-18,March 12-18,DATE,,,en,1.0
+33rd,33rd,ORDINAL,,,en,1.0
 I Love Boosters,I Love Boosters,WORK_OF_ART,,,en,1.0
 Margo's Got Money Troubles,Margo's Got Money Troubles,WORK_OF_ART,,,en,1.0
 Got Money Troubles,Got Money Troubles,WORK_OF_ART,,,en,1.0
 Boots Riley,Boots Riley,WORK_OF_ART,,,en,1.0
 Ready or Not 2: Here I Come,Ready or Not 2: Here I Come,WORK_OF_ART,,,en,1.0
-SXSW 2026 Film,SXSW 2026 Film,EVENT,,,en,1.0
-March 12-18,March 12-18,DATE,,,en,1.0
-33rd,33rd,ORDINAL,,,en,1.0
 short days,short days,DATE,,,en,1.0
 10 to 15 centimetres,10 to 15 centimetres,QUANTITY,,,en,1.0
 Black Saturday,Black Saturday,EVENT,,,en,1.0
