@@ -29,6 +29,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,Storm Surge Solomon Islands,2026-10-11T09:12:00+00:00,Solomon Islands,0.7550920794715,0,1,en,EPO,Oceania
 '560d242cd5',extremes,Storm,#b3b2b1,wmo,Storm Canada,2026-10-23T07:50:00+00:00,Canada,0.7546673986447393,0,1,en,NEN,North-America
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,Storm Surge Jamaica,2026-10-11T09:12:00+00:00,Jamaica,0.7524982588103277,0,1,en,CAR,North-America
+'d3631dea16',extremes,Thunderstorm,#53785a,wmo,Hail Jamaica,2026-10-07T09:06:00+00:00,Jamaica,0.7505782326355491,0,1,en,CAR,North-America
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,Precipitation New Zealand,2026-10-12T09:36:00+00:00,New Zealand,0.7500128781082885,0,1,en,NZ,Oceania
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,Storm New Zealand,2026-10-24T07:32:00+00:00,New Zealand,0.7499661210644344,0,1,en,NZ,Oceania
 '40148d763a',extremes,Storm,#b3b2b1,wmo,Storm Paulatuk,2026-10-10T08:49:00+00:00,Canada,0.7492590705568695,0,1,en,NEN,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,Heat Wave Australia,2026-10-18T07:23:00+00:00,Australia,0.7489812479427607,0,1,en,CAU,Oceania
@@ -37,6 +39,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c090d7cee',extremes,Heat Wave,#c40202,wmo,Heat Wave Botswana,2026-10-15T07:40:00+00:00,Botswana,0.7478433586428747,0,1,en,WSAF,Africa
 '8db658717e',extremes,Flood,#030ba1,wmo,Flashflood Australia,2026-10-22T07:51:00+00:00,Australia,0.7474335648711166,0,1,en,CAU,Oceania
 'b9da3355a3',extremes,Storm,#b3b2b1,wmo,Storm Port Saunders and the Straits,2026-10-19T08:01:00+00:00,Canada,0.7471402923837265,0,1,en,NEN,North-America
+'02f56319a7',extremes,Flood,#030ba1,wmo,Flood Australia,2026-10-07T09:06:00+00:00,Australia,0.7467726114700673,0,1,en,CAU,Oceania
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,Flooding United States,2026-10-11T09:12:00+00:00,United States,0.7462280849496296,0,1,en,CNA,North-America
 'cec4746a23',extremes,Fog,#d60d2b,wmo,Fog Bulkley Valley,2026-10-11T09:12:00+00:00,Canada,0.7455113514614583,0,1,en,NEN,North-America
 'ab76ab1b42',extremes,Snow&Ice,#d60d2b,wmo,Ice Northern Susitna Valley,2026-10-25T07:45:00+00:00,United States,0.7432802783995968,1,2,en,CNA,North-America
@@ -49,8 +52,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd7bff5546',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Central Walton,2026-10-09T09:28:00+00:00,United States,0.7419316127451706,0,1,en,CNA,North-America
 '9fd129170f',extremes,Snow&Ice,#d60d2b,wmo,Ice B.C. South Peace River,2026-10-10T08:49:00+00:00,Canada,0.7417702981642903,0,1,en,NEN,North-America
 '0eb94d49c4',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Southern Jackson,2026-10-09T09:28:00+00:00,United States,0.7412739203898051,0,1,en,CNA,North-America
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,Earthquake Kokopo,2026-10-08T09:21:00+00:00,Papua New Guinea,0.7409959120202511,0,1,en,EPO,Oceania
+'0315cb46c4',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Escambia Coastal,2026-10-08T09:21:00+00:00,United States,0.7409748756997129,0,1,en,CNA,North-America
 'ce38219493',extremes,Tropical Cyclone,#4f4f4f,wmo,Typhoon Conecuh,2026-10-09T09:28:00+00:00,United States,0.7407723413859532,0,1,en,CNA,North-America
 '690da12f9f',extremes,Flood,#030ba1,wmo,Flooding Coastal Palm Beach County,2026-10-21T07:55:00+00:00,United States,0.7406808914653826,1,2,en,CNA,North-America
+'d0871957bb',extremes,Tropical Cyclone,#4f4f4f,wmo,Tropical Cyclone Baldwin Central,2026-10-08T09:21:00+00:00,United States,0.7404083987103073,0,1,en,CNA,North-America
 '3e53d70366',extremes,Flood,#030ba1,wmo,Flooding Trout River,2026-10-10T08:49:00+00:00,United States,0.740380003575911,0,1,en,CNA,North-America
 '9693b51bd6',extremes,Tropical Cyclone,#4f4f4f,wmo,Hurricane Escambia Inland,2026-10-09T09:28:00+00:00,United States,0.7384488720974206,0,1,en,CNA,North-America
 '0a0ca0835a',extremes,Storm,#b3b2b1,wmo,Storm Surge Gjoa Haven,2026-10-15T07:40:00+00:00,Canada,0.7376833872311016,0,1,en,NEN,North-America
